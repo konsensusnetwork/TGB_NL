@@ -324,7 +324,7 @@ In plaats daarvan gaven ze hem een baan.
 
 Dit weerspiegelde de tamelijk anarchistische cultuur in het AI Lab. De leiders van het onderzoekscentrum hadden niet veel interesse in ervaring of kwalificaties; wat zij echt waardeerden waren vaardigheid en potentieel. Het was duidelijk dat deze wonderkind van Harvard, die het lab bezocht om hun computerdocumentatie te bestuderen, goed bij hen zou passen.[^30]
 
-## "De cultuur van hackers[^31]"
+### "De cultuur van hackers[^31]"
 
 Deze anarchistische cultuur in het AI Lab was ongeveer een decennium eerder voor het eerst ontstaan.
 
@@ -354,7 +354,7 @@ De hackers zouden uiteindelijk een speciaal besturingssysteem ontwikkelen om dat
 
 Dit was de vrije en gezamenlijke cultuur die Stallman ontdekte in het AI Lab van MIT.
 
-## Anarchisme
+### Anarchisme
 
 Inderdaad, de computer van het AI Lab was vrij om te gebruiken, door iedereen, zonder beperkingen. Niet alleen werknemers, maar ook bezoekers van het lab konden de machine op elk gewenst moment gebruiken, en toegang krijgen of zelfs elk programma of bestand dat zich op de machine bevond bewerken. De machine fungeerde als een gedeelde bron, beschikbaar voor iedereen.
 
@@ -374,7 +374,7 @@ Hoewel Stallman niet exact een anarchist was in de meest complete betekenis van 
 
 En Stallman geloofde dat de hacker-cultuur ook buiten het academisch domein levensvatbaar zou zijn. Met het AI Lab als een geslaagd voorbeeld, zou de vrije en samenwerkende ethos wellicht een model kunnen worden voor de opkomende computerrevolutie.
 
-## Problemen in het Paradijs
+### Problemen in het Paradijs
 
 Maar het bleek dat de verspreiding van de hacker cultuur niet zo eenvoudig was.
 
@@ -406,7 +406,7 @@ Stallman had ooit gedroomd van een toekomst die geïnspireerd was door de vrije 
 
 "Ik ben de laatste overlevende van een dode cultuur," klaagde Stallman met een gevoel van drama. "En ik hoor echt niet meer thuis in de wereld. En op sommige manieren voel ik dat ik eigenlijk dood zou moeten zijn."[^36]
 
-## Vrije Software
+### Vrije Software
 
 Vertaling: Toch was Stallman nog niet helemaal klaar om op te geven.
 
@@ -436,7 +436,7 @@ De vrijheid om kopieën van je aangepaste versies aan anderen te verspreiden (vr
 
 In het kort, gebruikers hadden over het algemeen "de vrijheid om software te runnen, kopiëren, verspreiden, bestuderen, veranderen en te verbeteren."[^45] Dit vereist dat de menselijk-leesbare broncode van een programma gepubliceerd is, en dat deze niet onderhevig is aan beperkende auteursrechtenlicenties. Stallman zou software, die alle vier essentiële vrijheden bood, classificeren als vrije software. (Vrij in de betekenis van "vrijheid", benadrukte de hacker graag, en niet zoals in "gratis bier.")
 
-## De te vertalen tekst "GNU" wordt in het Nederlands hetzelfde geschreven en uitgesproken als "GNU". Er is dus geen vertaling nodig.
+### GNU
 
 Om echt de belofte van vrije software waar te maken, begreep Stallman dat elk programma op een computer de vereiste vrijheden moest bieden. Dit omvatte - in de eerste plaats -- het besturingssysteem. Een tekstverwerker die zich houdt aan de vier vrijheden kan zijn gebruiker niet stiekem bespioneren, maar als het besturingssysteem waarop de tekstverwerker draait ook niet vrije software is, kan niet worden uitgesloten dat het besturingssysteem bespioneert.
 
@@ -454,7 +454,7 @@ Dit omvatte, het meest opmerkelijk, de GNU General Public License: een licentie 
 
 Met het GNU-project in volle gang en de nieuwe licenties geïmplementeerd, stond de vrije software op het punt om een kracht te worden waarmee rekening moet worden gehouden.
 
-## De Kathedraal en de Bazaar
+### De Kathedraal en de Bazaar
 
 Vrije softwareprojecten werden traditioneel uitgevoerd door kleine groepjes ontwikkelaars vanuit speciale technologie-hubs, zoals het AI Lab van MIT. Maar toen hij aan GNU begon te werken, nodigde Stallman andere ontwikkelaars uit om ook aan zijn project mee te werken. Door te profiteren van het ontluikende internet, konden hackers zelfs vanuit de hele wereld code bijdragen.
 
@@ -484,7 +484,7 @@ Stallman was zelf echter niet akkoord met de herbenoeming. Voor hem was vrijheid
 
 Vandaag de dag verwijzen de termen "vrije software" en "open source software" in vrijwel alle gevallen naar hetzelfde praktische concept, maar het verschil in terminologie blijft de filosofische kloof vertegenwoordigen. De term "vrije en open source software" (FOSS) wordt gebruikt om beide zijden van het schisma expliciet te omvatten.[^50]
 
-## De tekst is al in het Nederlands. Er is geen vertaling nodig.
+### Algemeen Begrip
 
 Het bazaar-model kan hoogwaardige code opleveren. Maar die kwaliteit is geen vanzelfsprekendheid. Volgens de Wet van Linus, vereist hoogwaardige code voldoende "ogen", oftewel bijdragers.
 
@@ -522,7 +522,7 @@ Maar dit laat uiteraard nog steeds een belangrijk deel van de tegenstrijdigheid 
 
 Mises loste deze vraag op door de theorie van Carl Menger te accepteren, die stelde dat geld oorspronkelijk uit ruilhandel ontstond.
 
-## Van Ruilhandel naar Geld
+### Van Ruilhandel naar Geld
 
 In een ruileconomie - een economie zonder geld - ruilen mensen direct goederen en diensten. Als de schoenmaker een paar schoenen heeft, maar liever een brood wil, en de bakker een brood heeft maar liever een paar schoenen wil, dan ruilen ze hun producten met elkaar. Na deze transactie zijn ze beiden (subjectief gezien) beter af dan daarvoor.
 
@@ -554,7 +554,7 @@ Zout is in het verleden inderdaad als vorm van betaling gebruikt. Enkele duizend
 
 Desalniettemin, gedurende duizenden jaren, ontdekten diverse leerde beschavingen van over de wereld dat er een beter ruilmiddel bestond dan zout. Tegen de tijd dat Mises zijn regressietheorema publiceerde, was het grootste deel van de wereld overgegaan op het gebruik van goud.[^56]
 
-## Het lijkt erop dat er een fout is opgetreden, aangezien er geen tekst werd gegeven om te vertalen. De gegeven tekst is slechts één woord, "Gold", dat zich in het Nederlands vertaalt als "Goud". Het zou echter handig zijn om de volledige tekst te hebben om de volledige en juiste vertaling te kunnen bieden.
+### Goud
 
 De eigenschappen van goud maken het bijzonder geschikt als geld. Goud is ongelooflijk duurzaam: het rot niet, roest niet en bederft ook niet. Het is redelijk draagbaar; gouden munten kunnen makkelijk worden meegenomen. Het is deelbaar; met de juiste gereedschappen kan goud worden gesmolten tot kleinere stukjes, en deze kleinere porties kunnen weer worden samengesmolten tot grotere baren. De eigenschappen van goud maken het ook relatief makkelijk te herkennen, terwijl het ook perfect inwisselbaar is. En wellicht het belangrijkste, het winnen van goud uit de aardkorst is een moeilijk en duur proces, en wordt steeds lastiger naarmate de makkelijkst toegankelijke goudmijnen uitgeput raken, wat enige mate van schaarste garandeert. En als bonus, het geel glanzende metaal wordt door velen als mooi beschouwd.
 
@@ -576,7 +576,7 @@ Deze flexibiliteit bood de mogelijkheid voor een nieuw soort monetair beleid: ce
 
 Het was dit beleid waar Hayek zo fel kritiek op had.
 
-## De Stabilisatoren
+### De Stabilisatoren
 
 De eerste pleitbezorger voor dit nieuwe type van monetair beleid was Irving Fisher, een toonaangevende econoom in het begin van de twintigste eeuw. Fisher was een van de eerste economen die zich zorgen maakten over deflatie, of specifieker, de deflatoire schuldenspiraal. Hij geloofde dat alleen stabiele prijzen "de kwalen van monetaire instabiliteit" konden voorkomen.[^58]
 
@@ -596,7 +596,7 @@ Hoewel dit inderdaad gedeeltelijk verzacht kon worden als de centrale banken een
 
 Als geld daarentegen volledig bevrijd zou worden van de beperkingen van goud, kon het monetaire beleid zo flexibel zijn als de monetaire autoriteiten nodig achtten.
 
-## Verwerping van Stabiel Geld
+### Verwerping van Stabiel Geld
 
 Hayek verwierp het gebruik van rentetarieven door centrale banken als middel, omdat hij geloofde dat dit alleen diende om de bedrijfscyclus te versterken. Maar hij verwierp ook het doel om prijzen te stabiliseren. Hayek keurde deze stabilisatoren af.
 
@@ -634,7 +634,7 @@ Hayek benadrukte dat als de daling van de prijzen niet veroorzaakt werd door een
 
 "Een daling van het prijspeil als gevolg van continue verbeteringen in alle productietakken heeft niet dezelfde problematische gevolgen als een deflatie. Theorie is tot nu toe nauwelijks verder gekomen dan dit onderscheid tussen de effecten van prijswijzigingen die enerzijds afkomstig zijn van de 'goederenkant' en anderzijds van de 'geldkant'. "[^63]
 
-## De Gouden Wisselstandaard
+### De Gouden Wisselstandaard
 
 De Vereniging voor Stabiel Geld had zich in de periode kort na de Eerste Wereldoorlog snel laten gelden. Slechts een jaar na de oprichting wist de groep hun standpunt met succes te verdedigen op de Economische en Financiële Conferentie van Genua in 1922. Daar kwamen vertegenwoordigers van 34 grote geïndustrialiseerde landen bijeen om de grote economische en politieke problemen van het naoorlogse Europa op te lossen.
 
@@ -652,7 +652,7 @@ Het verhoogde prijspeil in landen met een handelsoverschot zou de producten van 
 
 Ook Hayek erkende dat een dergelijk handelsevenwicht behouden kon worden onder de goudwisselstandaard, net zoals onder de fiatgeldnorm. Maar hij was het er niet mee eens dat dit een goede zaak was.
 
-## Monetair Nationalisme
+### Monetair Nationalisme
 
 In 1937 nam Hayek zowel de goudwisselstandaard als het zwevende fiatgeldsysteem onder de loep in een reeks lezingen getiteld 'Monetaire Nationalisme en Internationale Stabiliteit'. De lezingen boden een brede afwijzing van internationale valuta-afspraken zoals bepleit door de stabilisatoren, regelingen die Hayek had bestempeld als monetair nationalisme.
 
@@ -674,7 +674,7 @@ Hoewel in dit voorbeeld de initiële verschuiving in vraag enkel plaatsvindt tus
 
 Monetair nationalisme verstoorde in beide vormen de spontane orde over grenzen heen, concludeerde Hayek.
 
-## Neutraal Geld
+### Neutraal Geld
 
 Hayek verwierp stabilisatiebeleiden en hij verwierp ook monetair nationalisme. In plaats daarvan pleitte hij voor een homogeen, grensoverschrijdend soort geld met een vaste hoeveelheid. Of wat hij neutraal geld noemde.
 
@@ -700,7 +700,7 @@ Maar nog belangrijker, Hayek was van mening dat een homogeen valuta met een vast
 
 Neutraal geld was onmogelijk omdat, op een zeer fundamenteel niveau, naties elkaar niet konden vertrouwen. ...mmary... 1937 hield Friedrich Hayek een reeks lezingen genaamd "Monetary Nationalism and International Stability". Hij bekritiseerde de goudstandaard en stelde dat wisselingen in internationale handel niet altijd gunstig zijn. Veranderingen in de vraag tussen verschillende sectoren kunnen valutakoersen beïnvloeden. Hayek vond dat aankopen van consumenten meer veroorzaakt werden door de flexibiliteit van het monetaire stelsel dan door de intrinsieke waarde van producten. Hij was tegen stabiliserend beleid en monetair nationalisme en pleitte voor neutraal, internationaal geld met een vaste hoeveelheid. Hoewel Hayek geloofde dat deflatie de normale uitkomst was van een gezonde economie, zag hij een groot probleem in het implementeren van een universele en vaste geldhoeveelheid. In het bijzonder, zelfs als zo'n munteenheid zou kunnen bestaan, zouden mensen nog steeds kunnen kiezen voor het gebruik van krediet en andere substituten in plaats van echt geld, wat zou leiden tot een feitelijke toename van de geldhoeveelheid. Hayek waarschuwde dat zolang er soevereine staten bestaan, het gevaar voor oorlog of het instorten van internationale financiële systemen altijd aanwezig zal zijn. Het idee van Hayek van neutraal geld bleek onmogelijk in de praktijk omdat naties elkaar fundamenteel gezien niet konden vertrouwen.
 
-## Valuta-oorlogen
+### Valuta-oorlogen
 
 Inderdaad, dit gebrek aan vertrouwen had tegen het einde van de jaren dertig ook bijgedragen aan de ineenstorting van de goudwisselstandaard.
 
@@ -744,7 +744,7 @@ Het delen van een sleutel over een onbeveiligd communicatiekanaal was echter gee
 
 Dit was natuurlijk niet altijd gemakkelijk, of zelfs mogelijk. Grote afstanden of extreme situaties zoals oorlog konden het proces aanzienlijk bemoeilijken. Toch geloofden cryptografen, zoals Diffie in zijn beginjaren leerde, dat er geen andere manier was; sleutels persoonlijk uitwisselen moest gewoon zo gedaan worden.
 
-## Uw vraag lijkt een fout te bevatten; er is geen tekst gegeven om te vertalen. Kunt u de passage die u wilt laten vertalen geven?
+### MIT
 
 Ongeveer tien jaar nadat hij voor het eerst kennismaakte met de methode van de vervangingscode, begon Whitfield Diffie wiskunde te studeren aan de Massachusetts Institute of Technology. Dit samenviel ook met de komst van de allereerste computers op de universiteitscampus. Hoewel hij zichzelf toen, in zijn vroege twintiger jaren en als een naar eigen zeggen vredelievend persoon, meer als een pure wiskundige zag dan als een informaticus, besloot Diffie toch om programmeervaardigheden aan te leren. Op deze manier wilde hij zijn vaardigheden uitbreiden met praktischere kennis.
 
@@ -762,7 +762,7 @@ Maar Diffie leerde nu ook dat de werkelijke voorhoede van cryptografie waarschij
 
 Het idee dat de NSA belangrijke informatie voor het publiek zou kunnen achterhouden, zat Diffie helemaal niet lekker.
 
-## Stanford
+### Stanford
 
 Toen de hacker-cultuur voor het eerst begon te verspreiden buiten de campus van MIT, vond het een vroeg thuis in de San Francisco Bay Area, op de Stanford University. En zo zou ook Diffie zijn weg daarheen vinden. Toen hij in 1969 de leeftijdsgrens van vierentwintig naderde voor de dienstplicht, verliet de afgestudeerde van MIT Mitre om in plaats daarvan te werken voor het AI Lab van Stanford. Hier vond hij nieuwe uitdagingen die pasten bij zijn hernieuwde interesse in cryptografie.
 
@@ -780,7 +780,7 @@ Terwijl hij oplossingen probeerde te vinden voor deze uitdagingen, groeide Diffi
 
 Dit was echter niet de enige reden waarom de hacker van het AI Lab uiteindelijk besloot om alles op het spel te zetten.
 
-## Rondreis door Amerika
+### Rondreis door Amerika
 
 Toen Diffie in de zomer van 1973 een oude vriendin, de dierentrainer Mary Fischer uit Brooklyn, bezocht, had hij niet verwacht verliefd te worden. Maar toen dat gebeurde, veranderden zijn plannen drastisch. In plaats van terug te keren naar de Westkust, besloot hij om zijn baan in het AI Lab van Stanford op te zeggen en tijd met zijn nieuwe vriendin op de weg door te brengen. De twee begonnen aan een rondreis door het land in een oude Datsun 510.
 
@@ -802,7 +802,7 @@ Toen Diffie en Hellman elkaar voor het eerst ontmoetten in 1974 en het idee besp
 
 Toen Diffie na meer dan een jaar reizen besloot zich te vestigen in de Bay Area, werden hij en Hellman goede vrienden en al snel collega's: Hellman nam Diffie aan als deeltijdonderzoeker aan de universiteit.
 
-## Openbare Sleutel Cryptografie
+### Publieke-Sleutel-Cryptograpfie
 
 Het was tijdens een gewone middag, toen Diffie oppaste op het huis van zijn voormalige werkgever John McCarthy, dat het kwartje eindelijk viel.
 
@@ -828,7 +828,7 @@ Dit resulteerde in het eerste gezamenlijk geschreven artikel van Diffie en Hellm
 
 Echter, zij kondigden aan dat ze bezig waren met iets groots; ze brachten het idee van cryptografie met openbare sleutels naar voren.
 
-## Ralph Merkle
+### Ralph Merkle
 
 Het artikel was nauwelijks gepubliceerd toen Hellman een brief ontving van een afgestudeerde student aan de Universiteit van Californië, Berkeley.
 
@@ -870,7 +870,7 @@ Hellman besloot om Merkle een zomerstage aan te bieden, waarbij hij de student u
 
 Nu waren er drie geesten bezig met het probleem.
 
-## De Doorbraak
+### De Doorbraak
 
 Het was Hellman die uiteindelijk de puzzelstukjes op hun plek liet vallen.
 
@@ -894,7 +894,7 @@ Het hele patroon van kennis tartend, was de Diffie-Hellman sleuteluitwisseling i
 
 Het werd al snel duidelijk dat Diffie en Hellman een stroomversnelling hadden veroorzaakt. Een nieuwe generatie cryptografen stond op het punt om een waterval aan innovatie in de wereld van de cryptografie te introduceren.
 
-## RSA
+### RSA
 
 Onder de eersten die geïnspireerd raakten door het paper van Diffie en Hellman waren drie jonge wiskundigen van het MIT. Niet alleen hielden ze allen van getallen, ze hadden ook een gedreven behoefte om lastige problemen op te lossen. Ron Rivest, een assistent-professor aan de universiteit, Adi Shamir, een gastprofessor, en Leonard Adleman, een computerspecialist aan hetzelfde instituut, begonnen samen aan het ontwerpen van een eenrichtingsfunctie specifiek voor openbaarsleutelcryptografie.
 
@@ -916,7 +916,7 @@ En tot slot, de beveiliging van RSA schaalde (ongeveer) exponentieel. Gewoon een
 
 Met RSA was Diffie's visie voor publieke sleutelcryptografie echt werkelijkheid geworden.
 
-## David Chaum
+### David Chaum
 
 Een andere jonge cryptograaf die geïnspireerd werd door de doorbraak van Diffie en Hellman was David Chaum.
 
@@ -944,7 +944,7 @@ Daarnaast richtte Chaum de International Association for Cryptologic Research op
 
 Maar, de grootste bijdragen van Chaum aan het veld van de cryptografie waren niet de evenementen die hij organiseerde of de organisatie die hij oprichtte, maar de tools die hij ontwierp.
 
-## Herzenders
+### Remailers
 
 Publieke-sleutelcryptografie maakte het mogelijk voor twee mensen die elkaar nog nooit hadden ontmoet om berichten uit te wisselen die alleen zij konden lezen. Dit bood privacy in communicatie - een baanbrekende vooruitgang.
 
@@ -996,7 +996,7 @@ Keynes was er echter niet om de effecten van het Bretton Woods-systeem en de ins
 
 Hoewel Hayek zijn rivaal had overleefd, erkende hij dat de ideeën van Keynes de voorkeur genoten boven de zijne. Hij had niet het gevoel dat de nieuwe generatie Keynesiaanse economen echt geïnteresseerd was in een eerlijk en zinvol debat. De Oostenrijker besloot de London School of Economics te verlaten en zich aan te sluiten bij de Universiteit van Chicago. Daar trok hij zich grotendeels terug uit het vakgebied van de economie en verschoof zijn focus naar de wereld van politiek en filosofie.
 
-## Het Tijdperk van Keynes
+### Het Tijdperk van Keynes
 
 Halverwege de twintigste eeuw was de "periode van Keynes" onmiskenbaar aangebroken in het kapitalistische Westen. Overheden, centrale banken en andere instellingen bepaalden het economisch beleid en economen trachtten het theoretische raamwerk achter fiscale planning, stabilisatiebeleid en monetaire stimuli verder uit te werken. Zo introduceerde bijvoorbeeld Professor William Phillips van de London School of Economics de Phillips-curve, die aangaf dat er een omgekeerd verband was tussen inflatie en werkloosheid. Dit was precies zoals de Keynesiaanse theorie suggereerde: meer overheidsuitgaven resulteerden in meer banen.
 
@@ -1022,7 +1022,7 @@ De Keynesiaanse leer stelde eigenlijk zowel overheidsuitgaven als bezuinigingen 
 
 Dit probleem was natuurlijk voorzien. Hayek heeft altijd beweerd dat de grootste nalatigheid van Keynes wellicht niet op economisch gebied lag, maar op politiek gebied: het was over het algemeen niet zo dat je van gekozen vertegenwoordigers kon verwachten dat ze de discipline zouden tonen die een anticyclische aanpak vereist.
 
-## De Nixon Schok
+### De Nixon Schok
 
 De overdadige uitgavendrift van Nixon en een aantal van zijn voorgangers kon in zekere zin worden verklaard als een uitvoering van de Keynesiaanse doctrine. Maar tegen de jaren '70 begon het enige van de grootste dollarhouders ongemakkelijk te maken. Het werd steeds duidelijker dat de Verenigde Staten boven hun stand leefden en veel meer geld uitgaven en uitgaven dan ze in goud konden verantwoorden.
 
@@ -1038,7 +1038,7 @@ Ondertussen had Nixon het voornemen om in tijd voor de verkiezingen van 1972 de 
 
 Nixon kreeg zijn zin. Hij won de herverkiezing. En tegen 1973 waren de officiële, op de CPI gebaseerde, inflatiecijfers gestegen naar 9,6 procent, om vervolgens in de volgende jaren te stijgen naar dubbele cijfers.[^85]
 
-## Het lijkt erop dat er een fout is opgetreden, aangezien er geen tekst is gegeven om te vertalen. De enige gegeven tekst is het woord "Inflation", wat in het Nederlands "Inflatie" betekent. Graag ontvang ik een volledige tekst om te kunnen vertalen.
+### Inflatie
 
 Hayek beweerde dat kunstmatig lage rentes zouden leiden tot een economische groei die niet vol te houden was, gevolgd door een pijnlijke correctie, waarbij de markt het best met rust kon worden gelaten om een natuurlijker evenwicht te vinden. Keynesianen daarentegen adviseerden dat de overheid zou moeten ingrijpen met uitgaven om de economie weer op het juiste spoor te krijgen na zo'n recessie.
 
@@ -1064,7 +1064,7 @@ Ik begrijp niet wat ik moet vertalen, aangezien er geen tekst is aangegeven na "
 
 In economische termen wordt dit resultaat - een economie met zowel inflatie van de munteenheid als economische stagnatie - stagflatie genoemd.
 
-## Het Cantillon Effect
+### Het Cantillon Effect
 
 Hayek maakte zich om diverse redenen zeer veel zorgen over inflatie (en het uiteindelijke vooruitzicht van stagflatie).
 
@@ -1096,7 +1096,7 @@ Een rampzalige uitkomst, volgens Hayek:
 
 "Open inflatie is al erg genoeg, maar inflatie die onderdrukt wordt door controles is nog erger: het is het echte einde van de vrije markteconomie."[^89]
 
-## Het lijkt erop dat er een vergissing is gemaakt in deze opdracht, omdat er geen tekst wordt gegeven die vertaald moet worden van het Engels naar het Nederlands.
+### De Overheid Verwijderen
 
 Keynesianen - die tegen die tijd bijna alle mainstream economen vertegenwoordigden - deelden Hayek's zorg over inflatie en in het bijzonder stagflatie niet. Ze geloofden in feite dat stagflatie onmogelijk was. Zoals de Phillips-curve had aangetoond, waren inflatie en werkloosheid omgekeerd gecorreleerd; een hogere inflatie zou betekenen dat er minder werkloosheid was.
 
@@ -1126,7 +1126,7 @@ Maar nu, in de nadagen van zijn carrière, viel het kwartje eindelijk voor hem.
 
 Het idee was dat geld aan de vrije markt overgelaten moest worden.
 
-## "Denationaliseren van Geld"
+### Denationaliseren van Geld
 
 Hayek heeft als eerste deze bewering gedaan in zijn toespraak tot de Gouden en Monetaire Conferentie in Genève in 1975[^93]. In 1976 presenteerde Hayek dit onconventionele voorstel uitvoerig in zijn boek 'Denationalisation of Money'. In essentie betoogde de econoom dat banken volledig gedereguleerd zouden moeten worden, zodat ze elk geld dat ze geschikt achten konden uitgeven: ondersteund of niet ondersteund, inflatoir of deflatoir, al dan niet in bestaan gebracht door leningen, en tegen elk renteniveau dat ze wilden berekenen.
 
@@ -1150,7 +1150,7 @@ Op het eerste gezicht zou dit als een toegeving aan het gebruik van een consumen
 
 Dit zou inderdaad een valuta met een vaste voorraad kunnen omvatten, of wat Hayek eerder in zijn carrière had omschreven als neutraal geld.
 
-## Ongedekt Geld
+### Ongedekt Geld
 
 Het voorstel van Hayek kreeg niet meteen de steun van al zijn collega's binnen de Oostenrijkse school van economie. Veel Oostenrijkers waren van mening dat de markt al een lange tijd geleden de beste vorm van geld had gekozen; in een strijd die duizenden jaren heeft geduurd, had goud gewonnen. Zij hielden vol dat goud nog steeds de beste vorm van geld was, en dat nieuwe valuta's op z'n minst gesteund zouden moeten worden door het kostbare metaal.
 
@@ -1170,7 +1170,7 @@ In een wereld waar banken en andere financiële instellingen in de loop der tijd
 
 Hayek zag geld als een spontane orde.
 
-## Het realiseren van Vrij Bankieren.
+### Het realiseren van Vrij Bankieren
 
 Hoewel de meeste landen technisch gezien alternatieve valuta's toestaan - er zijn doorgaans geen wetten die ze expliciet illegaal maken - wordt dit vaak niet weerspiegeld in de praktijk. Bankregulaties, vergunningen voor geldtransfers, antiwitwasregels, wetten tegen vervalsing evenals belastingen (zoals vermogenswinstbelasting op alternatieve valuta's) bieden wetshandhavingsinstanties meer dan voldoende middelen om bedrijven die valuta uitgeven compleet te sluiten, en hun operators veroordeeld te krijgen - of op zijn minst maken ze het runnen van dergelijke bedrijven praktisch onmogelijk.
 
@@ -1224,7 +1224,7 @@ Volgens Chaum zou een maatschappij waarin anonieme transacties wel of niet mogel
 
 De wereld had behoefte aan elektronisch geld.
 
-## Het Probleem van Dubbele Uitgaven
+### Het Probleem van Dubbele Uitgaven
 
 Toen Chaum begon na te denken over ontwerpen voor een elektronisch geldsysteem, kwam hij al snel de eerste uitdaging tegen die iedereen die een digitale vorm van geld wil creëren, tegenkomt: het probleem van dubbele uitgaven.[^103]
 
@@ -1240,7 +1240,7 @@ Dit lost het probleem van dubbele uitgaven op... maar het illustreert ook het pr
 
 Daarom begon Chaum aan een zoektocht naar een manier waarop zo'n derde partij (de bank) dubbele uitgaven kon detecteren, zonder de mogelijkheid om te traceren hoe elke "digitale dollar" zich door de economie beweegt.
 
-## Blinde Handtekeningen
+### Blinde Handtekeningen
 
 De bekwaamde cryptoloog loste het probleem op in 1983. Nauwelijks nadat hij zijn doctoraat in informatica aan de Berkeley-universiteit had verdiend, werd Chaum aangesteld als professor aan diezelfde universiteit. Hij publiceerde zijn ontwerp voor een elektronisch geldsysteem in zijn paper getiteld "Blinde handtekeningen voor ontraceerbare betalingen."
 
@@ -1260,7 +1260,7 @@ Met andere woorden, iedereen die het originele bericht heeft, kan op dat moment 
 
 Als een realistische analogie die Chaum in zijn paper gebruikte, zou het zijn alsof Bob een brief in een envelop met carbonpapier stopt en deze envelop aan Alice overhandigt, die de buitenkant van de envelop zou ondertekenen en deze terug zou geven aan Bob. Als Bob dan de envelop verwijdert en Alice de brief toont met een carbonkopie van haar handtekening, zou ze weten dat de brief inderdaad in de envelop zat die ze had ondertekend.
 
-## Anonieme Betalingen
+### Anonieme Betalingen
 
 Om het blindtekeningenschema te gebruiken voor een elektronisch geldsysteem, zou Alice uit het bovenstaande voorbeeld eigenlijk een bank zijn: laten we deze bank Alice Bank noemen. Alice Bank is een reguliere bank, waar klanten bankrekeningen hebben met dollardeposito's. En laten we zeggen dat Alice Bank vier klanten heeft: Bob, Carol, Dan en Erin.
 
@@ -1284,7 +1284,7 @@ In de jaren na de publicatie van zijn eerste werk over ontraceerbare betalingen,
 
 "De grootschalige geautomatiseerde transactiesystemen van de nabije toekomst kunnen zo worden ontworpen dat de privacy en de veiligheid van zowel individuen als organisaties beschermd blijven," zo verklaarde de introductie van slechts één zin triomfantelijk.
 
-## DigiCash
+### DigiCash
 
 Een paar jaar later, tegen 1989, had Chaum zijn intrek genomen in Amsterdam. Tijdens een van zijn eerdere bezoeken aan Nederland hadden lokale academici hem een baan aangeboden als hoofdcryptograaf bij het Centrum voor Wiskunde en Informatica (CWI), welke hij dankbaar had geaccepteerd. Het stelde hem in staat dicht bij zijn Nederlandse vriendin te wonen.
 
@@ -1304,7 +1304,7 @@ Het was begin jaren 90 steeds duidelijker geworden dat het internet mainstream z
 
 Het vlaggenschipproject van DigiCash was een digitaal betalingssysteem dat mensen in staat zou stellen om dergelijke betalingen privé te maken, met behulp van elektronische cash - eCash.
 
-## CyberBucks
+### CyberBucks
 
 DigiCash begon snel internationaal onder de aandacht te komen. In een tijd waar bedrijven als Netscape en Yahoo! bevestigden dat het grote geld zich verplaatste naar beginnende internetstartups, werd Chaum's startup door veel techondernemers in de vroege jaren 90 gezien als een rijzende ster in deze snelgroeiende industrie.
 
@@ -1322,7 +1322,7 @@ Dit vereiste wel veel vertrouwen in DigiCash. Hoewel het bedrijf beloofde de Cyb
 
 Bovendien was het valutasysteem volledig afhankelijk van de voortdurende steun van DigiCash: de bedrijfsserver voorkwam dubbele uitgaven. Hoewel CyberBucks een leuk en interessant experiment was, was de uiteindelijke topprioriteit van DigiCash om hun belangrijkste elektronische geldproduct klaar te stomen voor het grote publiek...
 
-## De tekst om te vertalen is "eCash". Vertaling: "eCash"
+### eCash
 
 Na vier jaar ontwikkeling bereikte eCash een standaard van beveiliging gelijk aan die van banken. In 1994 begonnen de proeven met echt geld, waarna financiële instellingen een licentie konden aanvragen bij de start-up van Chaum om de nieuwe technologie te gebruiken.
 
@@ -1344,7 +1344,7 @@ Chaum zelf verwerpt deze beweringen echter krachtig als kwaadwillige laster. Hij
 
 Het maakt niet uit welke versie van het verhaal de waarheid dichter benadert, het is duidelijk dat eind 1996 het geduld in het DigiCash kantoor op was. De medewerkers van Chaum eisten een verandering in het bedrijfsbeleid.
 
-## Faillissement
+### Faillissement
 
 Uiteindelijk kwam de verandering vanuit Chaum's thuisland.
 
@@ -1372,7 +1372,7 @@ Hieruit hebben alle betrokkenen bij het nicheproject voor digitaal geld een waar
 
 Rond deze tijd probeerde iemand anders, toevallig en om een heel andere reden, een zeer vergelijkbaar soort fout te herstellen...
 
-## Scott Stornetta
+### Scott Stornetta
 
 Vers van de Stanford Universiteit met een PhD in natuurkunde, was Scott Stornetta enthousiast om zijn nieuwe baan te beginnen bij wat in 1989 het epicentrum van computerwetenschappelijke innovatie was: het in New Jersey-gevestigde telecom onderzoekscentrum Bellcore.
 
@@ -1394,7 +1394,7 @@ Stornetta had nog niet precies uitgevogeld hoe zo'n tijdregistratiesysteem zou w
 
 In de daaropvolgende weken brainstormden Stornetta en Haber over ideeën, speculerend over mogelijke strategieën om de uitdaging waarvoor zij stonden op te lossen.
 
-## Hasjketens
+### Hash-ketens
 
 Eén van hun meest belovende ideeën maakte gebruik van een hash-functie,[^118] een soort eenrichtingsfunctie die data omzet in een unieke en ogenschijnlijk willekeurige reeks cijfers van een vaste lengte. Elke digitale data kan worden gehasht, of het nu een enkele letter is, een heel boek, een muziekbestand of de broncode van een programma. Het is van belang dat dezelfde data altijd hetzelfde gehashte resultaat oplevert, maar als de oorspronkelijke data ook maar een beetje wordt veranderd, zou de resulterende hash onherkenbaar anders zijn. Als een enkele komma uit een boek wordt verwijderd, zou de resulterende hash totaal niet meer lijken op de hash van het originele boek.
 
@@ -1414,7 +1414,7 @@ Stornetta en Haber leken tegen een fundamenteel probleem te zijn aangelopen dat 
 
 Als een soort van troost, besloten ze hun bevindingen te publiceren. Ook al hadden Stornetta en Haber het vertrouwensprobleem niet opgelost, ze konden nu tenminste aantonen dat dit probleem onoplosbaar was...
 
-## Het verdelen van vertrouwen
+### Het verdelen van vertrouwen
 
 Het was pas toen Stornetta in het proces van het beargumenteren dat het probleem onoplosbaar was, dat hij besefte dat ze daadwerkelijk fout zaten--- althans technisch gezien.
 
@@ -1444,7 +1444,7 @@ En aangezien deze gebruikers steeds meer data moesten opslaan om deel te kunnen 
 
 Het was wiskundige Dave Bayer die dit raadsel hielp oplossen, met behulp van Merkle Trees.
 
-## Merkle Bomen
+### MerkleTrees
 
 In de jaren na het afronden van zijn stage bij Martin Hellman, had Ralph Merkle een naam voor zichzelf gemaakt als een van de vooraanstaande cryptografen van zijn generatie. Onder zijn vele innovaties had hij een nieuwe eenrichtingsfunctie ontworpen, een sneller versleutelingsprotocol geïntroduceerd en zijn eigen handtekeningsalgoritme voorgesteld. Hoewel hij technisch gezien niet medeauteur was van het onderzoek, zagen veel cryptografen Merkle als de derde uitvinder van de Diffie-Hellman sleuteluitwisseling.
 
@@ -1458,7 +1458,7 @@ Ondertussen is het strikt onmogelijk om iets in een boom te bewerken of te verwi
 
 Het zou een kostbaar middel blijken te zijn in de strijd tegen digitale fraude.
 
-## Een Keten van Wortels
+### Een Keten van Wortels
 
 Goed bekend met de vele cryptografische voorstellen die in de anderhalf decennium vóór de publicatie van Stornetta en Haber's eerste paper zijn geïntroduceerd, stelde Bayer aan de onderzoekers van Bellcore voor dat ze Merkle's hash-structuur konden gebruiken voor tijdstempels - een suggestie die het duo met plezier accepteerde. Hun tweede paper, "Het verbeteren van de efficiëntie en betrouwbaarheid van digitale tijdstempels", werd gepubliceerd in 1993, en Bayer werd opgenomen als de derde auteur. [^122]
 
@@ -1504,7 +1504,7 @@ Om de nieuwe start te markeren, besloot hij zelfs zijn naam te veranderen; vanaf
 
 "Het leek echt de essentie van wat mijn doel is te vatten: altijd verbeteren, nooit stilstaan," legde hij later uit. "Ik zou beter worden in alles, slimmer, fitter en gezonder worden. Het zou een constante herinnering zijn om vooruit te blijven gaan."[124]
 
-## De te vertalen tekst is: "FM-2030" De vertaalde tekst: "FM-2030" Er is geen herformulering nodig omdat het een eigennaam is en deze niet verandert bij vertaling.
+### FM-2030
 
 Het uitbreiden van menselijk potentieel en specifiek levensverlenging waren nooit echt populaire onderwerpen in Engeland. Maar in Californië ontdekte Max More dat hij niet de enige was met interesse in deze thema's.
 
@@ -1522,7 +1522,7 @@ Omdat traditionele beperkingen op het menselijk potentieel, zoals eindige levens
 
 "Het is slechts een kwestie van tijd voordat we onze lichamen herschikken tot iets totaal anders, iets dat beter is aangepast aan de ruimte, iets dat levensvatbaar zal zijn in ons zonnestelsel en zelfs daarbuiten."[^125]
 
-## De vertaling in het Nederlands is "Transhumanisme".
+### Transhumanisme
 
 FM-2030 was overtuigd dat vooruitgang op het gebied van technologie uiteindelijk de menselijke conditie zou veranderen: de mensheid zou zichzelf upgraden om een nieuwe, verbeterde versie van de soort te creëren. Technologie zou een post-menselijke toestand tot stand brengen.
 
@@ -1542,7 +1542,7 @@ Het algemene idee en de term "transhumanisme" werden al in de jaren '50 gebruikt
 
 "Transhumanisme," vatte More kort samen, "verschilt van humanisme doordat het de radicale veranderingen erkent en voorziet in de aard en mogelijkheden van ons leven als gevolg van diverse wetenschappen en technologieën zoals neurowetenschap en neurofarmacologie, levensverlenging, nanotechnologie, kunstmatige ultra-intelligentie, en ruimtebewoning, gecombineerd met een rationele filosofie en waardesysteem."[^127]
 
-## Extropianisme
+### Extropianisme
 
 Alle transhumanisten willen het menselijk potentieel verbeteren. Echter, ondanks dat ze hetzelfde doel hebben, realiseerde Max More zich dat verschillende transhumanisten zeer uiteenlopende benaderingen kunnen voorstaan om dit doel te bereiken.
 
@@ -1572,7 +1572,7 @@ Anders gezien, geloven Extropians dat staten en hun regeringen voornamelijk een 
 
 "Centraal bevel over gedrag belemmert ontdekking, diversiteit en afwijkende meningen," concludeerde More.[^130]
 
-## Het lijkt erop dat er een fout is gemaakt in het deel van de tekst dat moet worden vertaald naar het Nederlands. Het aan mij gegeven stuk, 'The Subculture[^131]', biedt niet genoeg inhoud om een zinvolle vertaling of samenvatting te kunnen maken. Zou je de juiste passage kunnen verstrekken die moet worden vertaald?
+### De Subcultuur[^131]
 
 In de herfst van 1988 publiceerden Max More en Tom Morrow de eerste editie van een nieuw tijdschrift genaamd Extropy. Dit markeerde de officiële start van de Extropian beweging.
 
@@ -1594,7 +1594,7 @@ Toen de Extropische gemeenschap uitgroeide van enkele tientallen tot honderden m
 
 Sommigen van hen werkten zelfs aan een bijzonder ambitieus internetnavigatieproject...
 
-## De High-Tech Hayekianen
+### De High-Tech Hayekianen
 
 K. Eric Drexler, wiens werk een belangrijke inspiratiebron was voor Max More, werd niet lang na de oprichting lid van de Extropiaanse gemeenschap, net als verschillende van zijn vrienden. Deze vrienden waren technologie-enthousiastelingen die graag werkten aan enkele van de meest innovatieve en uitdagende projecten van die tijd.
 
@@ -1608,7 +1608,7 @@ Drexler en Miller hadden het werk van Hayek bestudeerd op advies van een andere 
 
 De drie van hen - Drexler, Miller en Salin - werden door het economisch tijdschrift Market Process uitgeroepen tot de 'high-tech Hayekianen', een bijnaam die het trio met trots aanvaardde.[^133]
 
-## Dit is al in het Nederlands! De vertaalopdracht is onnodig. Er wordt van mij gevraagd de tekst te herformuleren in mijn eigen woorden, maar de passage bevat al duidelijke en beknopte informatie. Elke poging om het te herformuleren zou waarschijnlijk resulteren in het verlies van belangrijke informatie en de helderheid van de boodschap verminderen. Dus het is beter om het ongewijzigd te laten. AMIX.
+### AMIX
 
 Ondanks het succesvol lanceren van een raket in de ruimte, eindigde Starstruck als een commerciële mislukking: Salin ontdekte dat de Amerikaanse overheid het praktisch onmogelijk maakte om een ruimtevaartbedrijf te runnen omdat de door de belastingbetaler gesubsidieerde Space Shuttle de markt continu ondermijnde.
 
@@ -1624,7 +1624,7 @@ Salin was van mening dat de maatschappij enorm zou profiteren van zo'n efficiën
 
 Kortom, meer handel betekent een betere verdeling van hulpbronnen over de economie - spontane orde.
 
-## Cryogenica
+### Cryogenica
 
 AMIX was een vooruitstrevend concept. Maar het was ook zijn tijd ver vooruit.
 
@@ -1648,7 +1648,7 @@ Zelfs als men inschat dat de kans op succes (zeer) klein is, zou je redelijkerwi
 
 De overgebleven - levende - Extropians zullen in de tussentijd gewoon de vlam van het transhumanisme brandend moeten houden.
 
-## Digitale Valuta
+### Digitale Valuta
 
 De Extropian beweging was, net zoals Max More zelf, van nature thuis in Californië. Silicon Valley werd begin jaren '90 steeds meer erkend als de wereldwijde hotspot voor innovatie. Dit trok enkele van de meest ambitieuze technologen, wetenschappers en ondernemers naar de Amerikaanse westkust.
 
@@ -1678,7 +1678,7 @@ Lawrence White, de naaste ideologische bondgenoot van Selgin in de vrije bankbew
 
 Maar misschien wel het meest opmerkelijke van alles, Max More nam het op zich om Hayek's baanbrekende boek over concurrerende valuta's samen te vatten en te presenteren.
 
-## Meer geld denationaliseren
+### Geld verder denationaliseren
 
 Het werk van Hayek had het Extropianisme gevormd. Het inzicht van de Oostenrijker in gedistribueerde kennis, vrije markten en spontane orde was een centrale inspiratiebron voor Max More toen hij de organisatorische principes van de beweging formuleerde. Nu vroeg More zijn mede-Extropians om ook een van Hayek's veel recentere voorstellen te overwegen; een radicaal idee dat tot dan toe beperkte aandacht had gekregen.
 
@@ -1736,7 +1736,7 @@ Dit alles maakte dat de aspirant-schrijver zich als vanzelfsprekend thuis voelde
 
 In deze context raakte Tim May bevriend met Phil Salin, de "high-tech Hayekiaan" die tevergeefs had geprobeerd om een privé ruimtetransportindustrie op te zetten met zijn startup Starstruck. May en Salin deelden een passie voor zowel de Oostenrijkse economie als technologie. Beiden geloofden dat de voormalige verder kon worden ontwikkeld door de laatste te benutten.
 
-## ZwartNet
+### BlackNet
 
 May had ongeveer een jaar op het strand doorgebracht met lezen toen Salin hem vertelde over AMIX, het ambitieuze internetproject waar hij aan werkte.
 
@@ -1762,7 +1762,7 @@ En May realiseerde zich uiteindelijk dat deze dynamiek niet alleen grote bedrijv
 
 Dus zou ook een andere lokale vriend van hem...
 
-## Eric Hughes
+### Eric Hughes
 
 Toen Eric Hughes in de late jaren 80 - toen hij halfweg de twintig was - wiskunde studeerde aan Berkeley, had de cryptografische revolutie zijn weg al in het curriculum gevonden. Tegen de tijd dat hij afstudeerde, was hij goed op de hoogte van de recente innovaties van mensen zoals Whitfield Diffie, Martin Hellman, Ralph Merkle en David Chaum. En net zoals zij, begreep Hughes intuïtief het veelbelovende potentieel van hun doorbraken in de context van een steeds meer gedigitaliseerde samenleving.
 
@@ -1794,7 +1794,7 @@ Toegegeven, er waren wel een paar van zulke projecten in ontwikkeling. In feite 
 
 Toch leken dit erg magere resultaten, als je bedenkt hoe groot de doorbraken waren die May en Hughes zo enthousiast maakten voor de toekomst. Hoewel de nieuwe golf van crypto zich ongeveer vijftien jaar door het academia had verspreid, en een serie succesvolle Crypto-conferenties een reeks baanbrekende concepten hadden getoond, bleef de daadwerkelijke softwareontwikkeling ver achter.
 
-## De Vergadering
+### De Vergadering
 
 Eric Hughes verhuisde uiteindelijk niet naar Santa Cruz. Maar de reis was zeker niet verspild. Gedurende zijn bezoek aan het stadje aan het strand kwamen Hughes en May overeen dat het tijd was om het gat tussen de academische wereld en de echte wereld te dichten, en zij concludeerden dat zij zelf het initiatief moesten nemen om dit te laten gebeuren. May en Hughes zette zich in voor het bijeenbrengen van een groep van enkele van de slimste en meest bekwame cryptografen en hackers uit de Bay Area, en gingen aan het werk.
 
@@ -1812,7 +1812,7 @@ Op dit moment concludeerde de groep ook dat ze een pakkende naam nodig hadden om
 
 Met de slimme woordspeling van "cipher" en "cyberpunk," had de groep hun naam gevonden. Met de slimme samentrekking van "cipher" en "cyberpunk," had de groep hun naam te pakken.
 
-## De Cypherpunks
+### De Cypherpunks
 
 De bijeenkomsten die volgden, werden op wisselende locaties gehouden - vaak bij iemand thuis of in iemands werkruimte - en vormden een centraal punt voor het delen van informatie, discussie en projectcoördinatie. Natuurlijk bood het iedereen ook de kans om elkaar wat beter te leren kennen, terwijl nieuwe mensen welkom waren om zich aan te sluiten en meer te leren over het initiatief en hoe ze konden deelnemen.
 
@@ -1832,7 +1832,7 @@ Ze hadden plannen om deze elektronische technologieën te ontwikkelen en deze al
 
 "Cypherpunks schrijven code". Dit werd de informele strijdkreet van de groep.
 
-## De Mailinglijst
+### De Mailinglijst
 
 De maandelijkse bijeenkomsten van de Cypherpunks waren vrij en open van aard. Naast de vaste kern van reguliere deelnemers, kwamen er ook nieuwsgierige nieuwkomers om een indruk te krijgen van wat er gaande was. Om de coördinatie hiervan te vergemakkelijken, richtte Hughes een e-maillijst op, gehost op de computer van Gilmore, waar hij aankomende evenementen aankondigde. Elke abonnee ontving handig een bericht in hun inbox met daarin de datum en locatie.
 
@@ -1862,7 +1862,7 @@ Toch werd actie aangemoedigd. Als iemand vond dat de Cypherpunks een specifieke 
 
 In feite werkte de Cypherpunk-beweging niet alleen aan een ander type toekomst. Voor May vertegenwoordigde het al die toekomst. Hij zag de open, toestemmingloze en niet-hiërarchische manier waarop de Cypherpunks en hun e-maillijst opereerden als een model voor een opkomende crypto-anarchistische samenleving.
 
-## Crypto-Anarchie
+### Crypto-Anarchie
 
 De Extropians speculeerden soms over het creëren van vrije gebieden om te ondermijnen, zich te verbergen, of te ontsnappen aan staatscontrole over hun levens. Sommigen van hen stelden voor om steden te bouwen op grote drijvende eilanden in de zee - het zogenaamde seasteading - als de weg voorwaarts. Anderen geloofden dat het misschien mogelijk zou zijn om een klein eiland op te kopen om er een libertaire samenleving te stichten. Weer anderen suggereerden dat ze allemaal naar een specifieke jurisdictie zouden moeten verhuizen en proberen de lokale politieke structuren te beïnvloeden om zoveel mogelijk wetten en regulaties aan de kant te zetten.
 
@@ -1896,7 +1896,7 @@ May voorzag dat Cypherpunk-tools mensen zouden helpen om hun economische activit
 
 "In feite heeft Hayek héél véél met de Cypherpunks te maken!" schreef May op de Cypherpunk mailinglijst. "Van 'The Road to Serfdom' tot 'Law, Legislation, and Liberty', zijn werken hebben diepgaande invloed op mij gehad en op vele anderen. [...] Ik zou zelfs zeggen dat Hayek een kandidaat zou zijn geweest om op de cover van 'Wired' te staan... natuurlijk ervan uitgaande dat hij 60 jaar jonger was, sommige van zijn lichaamsdelen had gepiercet, en beter nog, een Netchick was."[152]
 
-Er lijkt een misverstand te zijn. De tekst die vertaald moet worden is niet gegeven. Kunt u de te vertalen tekst verstrekken?
+### Code
 
 Tim May was er zich goed van bewust dat de crypto-anarchistische ideeën die hij verspreidde niet precies aantrekkelijk waren voor een breed publiek; niet iedereen verwacht een ineenstorting van regeringen. Waarschijnlijk zou het nog erger worden als men erachter zou komen dat onkraakbare encryptie en anonieme mixnetwerken grootschalige verspreiding van kinderpornografie mogelijk maakten en veilige communicatie voor terroristische cellen faciliteerden. Veel mensen zouden deze nieuwe instrumenten waarschijnlijk met angst en woede bekijken.
 
@@ -1924,7 +1924,7 @@ Met de gloednieuwe remailer-software van Hughes en de verbeterde encryptietool v
 
 Maar het zou niet lang duren voordat ze gedwongen werden om defensief te handelen...
 
-## De Crypto Oorlogen
+### De Crypto Oorlogen
 
 Toen Bill Clinton in januari 1993 het ambt van de 42e President van de Verenigde Staten op zich nam, waren er door zijn nieuwe administratie snel zorgen geuit omtrent het mogelijk onheilspellende gebruik van persoonlijke computers en het internet. Ze kondigden aan dat wetshandhavingsinstanties nieuwe tools nodig zouden hebben om mee te kunnen gaan met het recente tempo van technologische vernieuwing.
 
@@ -1956,7 +1956,7 @@ Ik geloof dat je bij het beschrijven van het verzoek om een tekst te vertalen, v
 
 "Ons onmiddellijke doel moet zijn om ervoor te zorgen dat de 'geest uit de fles is', dat er voldoende crypto gereedschappen en kennis wijdverspreid zijn zodat zo'n overheidsverbod zinloos wordt."[^156]
 
-## De tekst die u heeft gegeven om te vertalen bevat geen inhoud. Kunt u alstublieft de juiste tekst geven die ik moet vertalen?
+### Sucessen
 
 De Cypherpunks waren gemotiveerd en gedreven, maar stonden tegenover de volle kracht van de Amerikaanse overheid. Weinigen zouden hebben verwacht dat ze als overwinnaars uit de Crypto Oorlogen zouden komen.
 
@@ -2018,7 +2018,7 @@ In het bijzonder zagen sommige van de Cypherpunks, zoals Tim May - die ook deel 
 
 In totaal, het stelde elektronisch geld voor als iets dat vergelijkbaar is met de heilige graal van de Cypherpunks.
 
-## Het compromis van Chaum.
+### Het compromis van Chaum
 
 Toen de Cypherpunks in de vroege jaren '90 net op het toneel verschenen, was David Chaum's eCash het enige elektronische geldproject dat een sterke privacy garandeerde. In hun discussies over digitaal geld tijdens bijeenkomsten of op de Cypherpunks mailinglijst, maakten Tim May en de andere Cypherpunks vaak expliciet of impliciet verwijzingen naar Chaum's ontwerp. Hij had met zijn methode van blinde handtekeningen een cruciaal onderdeel van de privacy puzzel opgelost.
 
@@ -2034,7 +2034,7 @@ De hoop van de Cypherpunks dat Chaum zijn belofte van digitaal geld zou waarmake
 
 Tot de verbazing van veel Cypherpunks, beschouwde Chaum dit als een aantrekkelijke functie. Chaum, de CEO van DigiCash, redeneerde dat door de optie om ontvangers te deanoniemiseren, eCash minder snel gebruikt zou kunnen worden voor afpersing, ontvoering of andere verontrustende criminele activiteiten. Dit zou daarnaast waarschijnlijk het digitale geldsysteem aantrekkelijker maken voor banken en andere financiële instellingen, en met name voor de toezichthouders die toezicht houden op deze instellingen.
 
-## Deze instructie is onduidelijk. Er is geen tekst gegeven die vertaald moet worden.
+### Privacy zonder compromissen
 
 Voor de meeste Cypherpunks was het compromis over de anonimiteit van de verkoper in eCash een grote teleurstelling.
 
@@ -2056,7 +2056,7 @@ Teleurgesteld schreef May naar de Cypherpunks mailinglijst:
 
 "Als het gaat om volledig ontraceerbaar digitaal geld - het echte e-geld - dan zijn wij misschien wel de vaandeldragers hiervan."[^166]
 
-## Octrooien
+### Octrooien
 
 Sommige van de Cypherpunks kwamen met oplossingen om een eCash-achtig systeem te creëren met volledige privacy voor zowel kopers als verkopers.
 
@@ -2078,7 +2078,7 @@ Hierdoor verwachtte May dat de ontwikkeling van digitaal geld tot stilstand zou 
 
 Hoewel David Chaum ongetwijfeld een pionier was op dit gebied, begonnen de Cypherpunks de cryptograaf steeds meer te zien als iemand die de toekomst van het elektronisch geld eerder hinderde dan bevorderde.
 
-## Het lijkt erop dat er geen tekst is gegeven om te vertalen. Zou je de te vertalen tekst alsnog kunnen opgeven?
+### Alternatieven
 
 Als de Cypherpunks het eCash protocol wilden verbeteren, moesten ze daarvoor nog een decennium wachten tot de patenten van Chaum verlopen waren - en dat leek een eeuwigheid. Tim May, Eric Hughes en John Gilmore hadden de Cypherpunk beweging juist opgezet omdat ze al gefrustreerd waren door de gebrek aan voortgang in de cryptografie, en dat al ruim tien jaar na de publicatie van Chaum's eerste digitale geld papers.
 
@@ -2094,7 +2094,7 @@ Andere ideeën waren op een fundamenteler niveau gebrekkig - zoals Nash's 'Digit
 
 "Ik moet echter wel zeggen," schreef Finney, "dat ondanks het feit dat ik niet echt denk dat het voorstel voor digitaal goud technisch haalbaar is, het idee om eigenaar te zijn van getallen enorm brutaal is en behoorlijk creatief."[^172]
 
-## De Experimenten
+### De Experimenten
 
 Omdat er niet veel veelbelovende alternatieven leken te zijn, was een populaire methode om Chaum's patenten te omzeilen dus om onder de radar te blijven.
 
@@ -2122,7 +2122,7 @@ Pr0duct Cypher concludeerde:
 
 "Jouw digigeld zou schaars moeten zijn."[^174]
 
-## Ondersteuning voor Digitaal Geld
+### Gedekt Digitaal Geld
 
 Gedurende de volgende paar jaar, - de midden jaren negentig - kwamen onderwerpen als de aard van geld, waarde en valuta backing regelmatig ter sprake op de mailinglijst van de Cypherpunks. Het was logisch dat de Cypherpunks deze kwesties bespraken; om elektronisch geld te creëren, moesten ze begrijpen wat het eigenlijk waarde zou geven. Waarom zou iemand echte producten of diensten opgeven in ruil voor een nummer op een scherm?
 
@@ -2150,7 +2150,7 @@ Echter, May zag elektronische valuta niet echt als geld op zich. Hij beschouwde 
 
 En toen was er een Britse Cypherpunk die dacht dat elektronisch geld helemaal niet gedekt hoefde te zijn...
 
-## Adam Back
+### Adam Back
 
 Adam Back, een postdoc in de informatica aan de Universiteit van Exeter en midden in de twintig, had nog nooit een face-to-face cypherpunk bijeenkomst bijgewoond. Echter, hij had de mailinglijst online gevonden. Hij raakte bijzonder geïnteresseerd in elektronisch geld en werd snel een van de meest actieve deelnemers in de discussies over dit onderwerp.
 
@@ -2188,7 +2188,7 @@ Desalniettemin, in echte Cypherpunk-stijl, praatte Adam Back niet alleen over el
 
 Het lijkt erop dat de tekst die je wilt laten vertalen ontbreekt. Zou je de Engelse tekst die je wilt laten vertalen kunnen toevoegen? Ik help je graag verder.
 
-# Hoofdstuk 10: Hashcash
+## Hoofdstuk 10: Hashcash
 
 Opgegroeid in de East Midlands van Engeland had Adam Back op dertienjarige leeftijd genoeg gespaard om de populaire Sinclair ZX81 thuiscomputer te kopen. Dit apparaat, dat voor het eerst uitkwam in januari 1981, was ongeveer de omvang van een faxmachine, had een ingebouwd toetsenbord en kon worden aangesloten op de televisie van het gezin. Hierdoor kon de jongen de 8-bit wonderen van dit apparaat ontdekken, gewoon in het comfort van zijn eigen woonkamer.
 
@@ -2212,7 +2212,7 @@ De uitdaging was dus om een protocol te ontwerpen dat elke eerlijke deelnemer on
 
 Dit waren precies het soort uitdagingen waar Adam Back graag zijn hersens over kraakte.
 
-# De vertaling van "The Cypherpunk" naar het Nederlands is "De Cypherpunk".
+### "De Cypherpunk"
 
 Als PhD-kandidaat kwam Back in contact met een masterstudent aan dezelfde universiteit die probeerde het RSA-encryptieprotocol te optimaliseren voor parallelle rekenen. Dit leek Back een interessant project, en het lag dicht bij zijn eigen onderzoeksgebied, dus hij besloot om te helpen. Dit betekende dat hij zich moest verdiepen in het RSA-algoritme, wat hem op zijn beurt ook leidde naar het bestuderen van Phil Zimmermann's nieuwe PGP-project.
 
@@ -2240,7 +2240,7 @@ Dit inspiratie leidde de Britse Cypherpunk ertoe om op een unieke manier zijn pu
 
 Passend genoeg, want mogelijk meer dan wat dan ook, was Adam Back bijzonder geïnteresseerd in elektronisch geld.
 
-# In Actie Komen
+### In Actie Komen
 
 Toen Adam Back zich aansloot bij de mailinglijst van de Cypherpunks, was DigiCash werkelijk het enige spel in de stad als het gaat om anonieme digitale valuta. Maar de voortgang op eCash verliep minder snel dan hij en vele anderen hadden gewenst.
 
@@ -2270,7 +2270,7 @@ Door de bank op te splitsen in meerdere onderling afhankelijke partijen, zou er 
 
 Hij kreeg geen antwoord op zijn e-mail.
 
-# De tekst die is gegeven om te vertalen ("Spam") is al in het Nederlands. Het woord 'spam' wordt zowel in het Engels als in het Nederlands gebruikt om ongevraagde of ongewenste berichten te beschrijven, meestal in de context van e-mailverkeer. Er is daarom geen vertaling of herformulering nodig.
+### Spam
 
 In de tweede helft van de jaren '90 moest elke e-mailservice op het internet omgaan met ogenschijnlijk steeds toenemende hoeveelheden junkmail, of spam: ongevraagde berichten die in bulk werden verzonden, doorgaans door adverteerders. De Cypherpunks werden hierbij niet gespaard; promoties voor afslankpillen, producten voor penisvergroting en snelle geldverdienende schema's veroorzaakten alsmaar meer vervuiling in de mailinglijst.
 
@@ -2298,7 +2298,7 @@ Helaas bleek het in de praktijk ingewikkelder te zijn. Ten eerste waren de vroeg
 
 Het maakte DigiCash's eCash grotendeels ongeschikt voor postzegels, na alles.
 
-# De Eerste Elektronische Postzegel
+### De Eerste Elektronische Postzegel
 
 Wat Adam Back niet wist was dat het postprobleem al een paar jaar eerder was opgelost, en op een heel andere manier dan de Cypherpunks hadden overwogen.
 
@@ -2320,7 +2320,7 @@ Het was een handige oplossing. Maar of het nu kwam omdat het idee iets te voorui
 
 Gelukkig genoeg zou het concept spoedig opnieuw worden uitgevonden.
 
-# Hashcash
+### Hashcash
 
 [ANNOUNCE] implementatie van hash cash porto
 
@@ -2356,7 +2356,7 @@ Het lijkt erop dat er geen tekst is gegeven om te vertalen. Kun je alsjeblieft d
 
 "Hashcash kan ons een alternatieve methode bieden voor het beheersen van spam als digicash misgaat (verboden wordt of vereist dat gebruikersidentiteiten in escrow worden gehouden)."
 
-# Digitale Schaarste
+### Digitale Schaarste
 
 Hashcash werd in de jaren na de aankondiging van Adam Back enigszins geadopteerd. De oplossing werd geïmplementeerd in Apache's open source SpamAssassin platform, terwijl Microsoft het idee in zijn incompatibele Postmark systeem uitprobeerde. Adam Back, samen met enkele andere academici, kwamen ondertussen op alternatieve toepassingen voor het proof-of-work systeem, waaronder oplossingen tegen DDoS-aanvallen.
 
@@ -2412,7 +2412,7 @@ De techno-utopische futuristische beweging kreeg tijdens zijn eerste jaren in de
 
 Het was ook via de Extropian gemeenschap dat Szabo kennis maakte met Tim May.
 
-## Het lijkt erop dat de tekst die moet worden vertaald, 'The Crypto-Anarchist', niet is opgenomen in de prompt. Kan je alsjeblieft de volledige tekst die vertaald moet worden opnieuw verstrekken?
+### De Crypto-Anarchist
 
 Op een dag nodigde May Szabo uit om deel te nemen aan een bijeenkomst van de Cypherpunks. Szabo ging graag op de uitnodiging in; hij was zelf ook ongerust over de schijnbare terugloop van privacy in het opkomende digitale tijdperk.
 
@@ -2428,7 +2428,7 @@ Het voorstel van hem was:
 
 "Er is geen utopie in zicht waar dergelijke bedreigingen volledig kunnen worden geëlimineerd, maar we kunnen erkennen dat ze bestaan en zorgvuldig werken aan het verminderen van onze afhankelijkheid ervan."[200]
 
-## Slimme Contracten
+### Slimme Contracten
 
 Misschien wel meer dan wie dan ook, was Szabo zich er zeer van bewust dat het realiseren van May's visie op crypto-anarchie, private communicatie slechts een eerste stap was.
 
@@ -2464,7 +2464,7 @@ Dat gezegd hebbende, zouden de meeste slimme contracten vermoedelijk ook een vor
 
 Voor slimme contracten is elektronisch geld noodzakelijk.
 
-## Dit lijkt op een fout in de vraag, omdat er geen gegeven tekst is om te vertalen. Gelieve de tekst te verstrekken die moet worden vertaald.
+### Vertrouwde Derde Partijen
 
 Als digitale equivalenten van eigendomsrechten en contractwetgeving twee van de fundamentele bouwstenen waren die nodig zijn om een "Galt's Gulch in cyberspace" te realiseren, was een digitaal equivalent voor geld de derde.
 
@@ -2490,7 +2490,7 @@ Szabo stelde nogmaals dat mogelijke oplossingen misschien wel te vinden zijn in 
 
 "De beste 'TTP' van allemaal is er een die niet bestaat, maar waarvan de noodzaak is geëlimineerd door het protocolontwerp, of die geautomatiseerd en verdeeld is over de deelnemers aan een protocol", concludeert hij in zijn paper.
 
-## Vrij Bankieren
+### Vrij Bankieren
 
 Net als Chaum waren de meeste Cypherpunks vooral geïnteresseerd in elektronisch geld vanwege de mogelijkheden tot privacy die het kon bieden. Maar Szabo, May, en enkele andere Cypherpunks die zich bij de beweging hadden aangesloten vanuit de Extropian community, waren ook gedreven door monetaire hervorming. Ze waren voornamelijk geïnteresseerd in de ideeën van Hayek over vrij bankieren, zoals ook beschreven door Max More in de digitale geldeditie van Extropy.
 
@@ -2512,7 +2512,7 @@ Als en wanneer deze nieuwe vertrouwde derde partijen -- de banken -- het vertrou
 
 Voordat vrij bankieren een haalbaar alternatief kon zijn, concludeerde Szabo, moest er vanaf de basis een vorm van elektronisch geld worden ontworpen dat het vertrouwen minimaliseerde. Net zoals eigendomsrechten en contractrecht voor cyberspace vanaf nul opnieuw moesten worden uitgevonden, zou ook een digitale munteenheid moeten worden gecreëerd door te starten vanuit de eerste principes.
 
-## De Oorsprong van Geld
+### De Oorsprong van Geld
 
 Om geld te kunnen creëren, moest Szabo het eerst begrijpen.
 
@@ -2544,7 +2544,7 @@ Szabo ontdekte bijvoorbeeld dat halskettingen en andere verzamelobjecten verhand
 
 Het stelde stammen in staat een mate van samenwerking en specialisatie tussen hen te bevorderen. Verschillende stammen jaagden bijvoorbeeld op verschillende soorten dieren in verschillende delen van het jaar, wat uiteindelijk aan hen allemaal ten goede kwam.
 
-## Het lijkt erop dat er een fout is opgetreden, want de zin "Proto-Money" is niet volledig en mist context. Als u wilt dat ik een enkel woord vertaal, dan zou "Proto-Money" in het Nederlands "Proto-Geld" zijn. Zonder meer context of details, kan ik geen gedetailleerder antwoord of samenvatting bieden.
+### Proto-Money
 
 Niet zomaar elk sieraad voldeed echter.
 
@@ -2578,7 +2578,7 @@ De Cypherpunk wilde de wenselijke monetaire eigenschappen van goud reproduceren 
 
 Toen Adam Back in 1997 hashcash aankondigde, leek dit eindelijk mogelijk te zijn.
 
-## Bit Goud
+### Bit Goud
 
 Minder dan een jaar later, in 1998, had Szabo zijn eigen voorstel voor een digitale munteenheid ontworpen: Bit Gold. Hoewel hij Bit Gold nog niet in code had geïmplementeerd - het was tot dan toe slechts een idee - deelde hij een beschrijving ervan op de Libtech lijst.
 
@@ -2600,7 +2600,7 @@ Het bewijs van werk zou ervoor zorgen dat Szabo's elektronische geld aantoonbaar
 
 Dat is natuurlijk onder de voorwaarde dat het register zelf veilig is.
 
-## Het Register
+### Het Register
 
 Dus wie zou het register onderhouden?
 
@@ -2620,7 +2620,7 @@ Szabo was zich ervan bewust dat het niet de meest elegante oplossing was en er b
 
 Desondanks zag Szabo dit in zijn ogen als een betere oplossing dan vertrouwen op een derde partij.
 
-## Het Beheersen van Inflatie
+### Het Beheersen van Inflatie
 
 Het laatste probleem dat Szabo moest oplossen was inflatie.
 
@@ -2682,7 +2682,7 @@ Het spijt me, maar er is geen tekst die vertaald moet worden. De zin "To conclud
 
 ...mmary...t is november 1998. Wei Dai, een recent afgestudeerde, brengt onopvallend zijn eigen voorstel voor elektronisch geld naar voren, haast als een voetnoot in de bijgewerkte versie van zijn anonieme communicatieprotocol, PipeNet. Hij kondigde dit aan in dezelfde e-mail waarin hij 'b-geld' had ontworpen, slechts enkele weken nadat Szabo zijn digitale muntsysteem had beschreven op de Libtech-mailinglijst, waar Dai ook actief was. Het protocol dat in dit artikel wordt voorgesteld, maakt het mogelijk voor ontraceerbare pseudonieme entiteiten om efficiënter samen te werken, door hen te voorzien van een ruilmiddel en een manier om contracten af te dwingen. [. . .] Ik hoop dat dit een stap is in de richting van het praktisch mogelijk maken van crypto-anarchie, naast de theoretische mogelijkheid."[^224]
 
-## B-geld
+### B-geld
 
 B-geld leek in belangrijke opzichten op Bit Gold - hoewel het op andere punten verschilde.
 
@@ -2716,7 +2716,7 @@ Wei Dai stelde daarom een manier voor om de servers eerlijk te houden.
 
 Echter, het voorstel van b-geld ging niet in detail in op een van deze oplossingen. Wellicht het meest problematisch was dat Dai niet uitlegde wie zou bepalen of er wangedrag plaatsvond, als dit niet werd bepaald door de (samenzwerende) servers zelf, of hoe de boetes konden worden afgedwongen. Net zoals Bit Gold geen oplossing had geboden om conflicten tussen servers te beslechten, had b-geld dat ook niet gedaan.
 
-## B-geld's Monetaire Beleid
+### B-geld's Monetaire Beleid
 
 Net als Bit Gold zou b-geld een zuiver digitale munteenheid zijn. Er zou geen bank of bedrijf zijn die de digitale eenheden ondersteunt met dollars of goud, en uiteindelijk geen garantie dat iemand de munteenheid zou accepteren voor betaling.
 
@@ -2744,7 +2744,7 @@ Het was een innovatieve aanpak, maar opnieuw bleef er veel ongespecificeerd. Zow
 
 Dai zelf besloot echter dat hij niet degene zou zijn die deze problemen zou oplossen.
 
-## Ontgoocheling
+### Ontgoocheling
 
 In zijn voorstel voor b-geld leek Wei Dai nog altijd optimistisch over de mogelijkheden en potentie van Tim May's crypto-anarchistische visie. Maar in werkelijkheid was de ongrijpbare informaticus al begonnen met het opgeven van de droom van de Cypherpunk.
 
@@ -2766,7 +2766,7 @@ Het optimisme en de assertiviteit die de beweging in de begindagen kenmerkten, w
 
 In plaats daarvan kwamen sommige van de meer hoopvolle impulsen voor de Cypherpunk-missie in de late jaren '90 van relatieve buitenstaanders van de gemeenschap.
 
-## Mijn excuses, maar de geleverde tekst "Zero-Knowledge Systems" is al in het Nederlands en er is geen relevante informatie gegeven om dit te vertalen of te contextualiseren. Kunt u meer details of context geven? Zo kan ik u beter helpen.
+### Zero-Knowledge Systems
 
 De Canadese broers Austin en Hamnett Hill waren nog maar halverwege de twintig toen ze TotalNet, de internetprovider die ze hadden opgericht en die de derde grootste van hun land werd, verkochten. Met wat geld in hun handen en tijd om te besteden, zochten de twee naar hun volgende project toen ze op de Cypherpunks mailinglijst stuitten, en raakten ze volledig in de ban van het techno-libertarische ethos van de beweging.
 
@@ -2798,7 +2798,7 @@ Hiermee liet de startup grotendeels het Cypherpunk ethos achter zich, en persone
 
 Ondanks een hoopvol begin, was dit een nieuwe tegenslag voor het doel van de Cypherpunks.
 
-## Mojo Nation
+### Mojo Nation
 
 Nog een positieve impuls kwamen van twee tot dusver onbekende tieners die een compleet ander deel van de cyberspace ontregelden: in 1999 gooide Shawn Fanning en Sean Parker - achttien en negentien jaar oud respectievelijk - de digitale variant van een handgranaat recht in het hart van de muziekindustrie toen ze Napster lanceerden.
 
@@ -2818,7 +2818,7 @@ Daarnaast werden sommige taken die Napster nog steeds als een centrale coördina
 
 Wat dit alles liet draaien was wellicht de meest interessante functie van Mojo Nation: een digitale valuta genaamd Mojo.
 
-## Het lijkt erop dat je bent vergeten om de tekst mee te sturen die je wilt laten vertalen. Probeer het opnieuw en voeg de Engelse tekst toe die je naar het Nederlands wilt laten vertalen.
+### Mojo
 
 Mojo is ontworpen als een niet-ondersteunde digitale valuta die eigenlijk alleen nuttig was binnen de context van het bestandsuitwisselingsnetwerk.
 
@@ -2842,7 +2842,7 @@ Dat gezegd hebbende, was het vertrouwen op een gecentraliseerd digitaal valutasy
 
 In 2002 zag McCoy zich gedwongen om de meeste werknemers te ontslaan.
 
-## BitTorrent
+### BitTorrent
 
 Hoewel Mojo Nation ten onder ging, waren er enkele ontwikkelaars bij de startup die hun vooruitstrevende technologieën niet wilden laten vergaan. Zo besloot Wilcox bijvoorbeeld de code van Mojo Nation te kopiëren (forken) om een versie van het protocol genaamd Mnet uit te brengen. Daarnaast bracht ook een andere medewerker van Autonomous Zone Industries, de 28-jarige softwareontwikkelaar en Cypherpunk Bram Cohen, zijn eigen op Mojo Nation geïnspireerde bestandsdelingsoplossing uit.
 
@@ -2892,7 +2892,7 @@ In plaats van het investeren in nieuwe crypto-initiatieven, richtten traditionel
 
 Toch was niet iedereen bereid de hoop op te geven...
 
-## Hal Finney
+### Hal Finney
 
 Geboren in het voorjaar van 1956 in het kleine Californische dorpje Coalinga, toonde Hal Finney al vroeg een interesse in codes nog als een jong kind: op de basisschool, vond hij het leuk om codes met letters en cijfers te maken voor willekeurige teksten die hij tegenkwam.
 
@@ -2908,7 +2908,7 @@ Als algemeen optimistisch mens, was Finney ervan overtuigd dat de wereld van mor
 
 Zoals Fran het later zei: "Hij geloofde niet in God. Hij geloofde in de toekomst."[^245]
 
-## Cypherpunk Realisme
+### Cypherpunk Realisme
 
 Toen het internet begin jaren '90 voor het eerst publiek toegankelijk werd, was Finney een van de allereerste gebruikers die zich een verbinding wist te bemachtigen.
 
@@ -2944,7 +2944,7 @@ In plaats van een anarchistisch utopia om naar te migreren, zag Finney het inter
 
 "In de kern geloof ik dat we de soort samenleving zullen hebben die de meeste mensen wensen. Als we vrijheid en privacy willen, moeten we anderen overtuigen dat deze waardevol zijn. Er zijn geen snelkoppelingen. Terugtrekken in technologie is als het over je hoofd trekken van de dekens. Het voelt even goed, totdat de realiteit je inhaalt."[^249]
 
-## Elektronisch Geld
+### Elektronisch Geld
 
 Ondanks zijn nuchtere en misschien wel meer realistische kijk op de mogelijkheden van cryptografie, was Finney altijd gedreven om elektronisch geld te realiseren. Hij voerde uitvoerige gesprekken over de mogelijkheden hiervan met zowel de Extropians als de Cypherpunks op hun respectievelijke mailinglijsten, en ook op de Libtech mailinglijst van Nick Szabo.
 
@@ -2964,7 +2964,7 @@ Ook hier was het niet zo dat Finney de meer radicale beloftes van Tim May onaant
 
 "Het lijkt mij dat de zwakte in deze plannen om de overheid te omzeilen met digitaal geld zit in de omzetting van fysiek geld naar digitaal geld. Dat lijkt het knelpunt te zijn waar de overheid nog steeds controle kan houden," concludeert Finney. [^251]
 
-## Herbruikbare Bewijzen van Werkzaamheid
+### Herbruikbare Bewijzen van Werkzaamheid
 
 In de jaren 2000, ongeveer tien jaar nadat Finney in Extropian kringen begon te pleiten voor elektronisch geld, was er nog steeds geen succesvol elektronisch geldsysteem. Hoewel een reeks ideeën was besproken op de mailinglijst van de Cypherpunks, en Finney veel van de voorstellen persoonlijk had beoordeeld, was geen van hen van de grond gekomen. In sommige gevallen, zoals bij de startups van Chaum of Hettinga, was dit omdat het product uiteindelijk commercieel niet haalbaar bleek te zijn - of althans zo leek het. Maar in andere gevallen, zoals bij het Bit Gold van Nick Szabo of de b-money voorstellen van Wei Dai, waren de systemen in de eerste plaats nooit geïmplementeerd.
 
@@ -2990,7 +2990,7 @@ Stel je voor dat Bob zijn nieuwe RPOW-token wil gebruiken om toegang te krijgen 
 
 Op deze manier kon het bewijs van werk, vertegenwoordigd door een enkele geldige hash (gemaakt door Alice), effectief oneindig blijven circuleren. Het was inderdaad herbruikbaar bewijs van werk.
 
-## Betrouwbaar Computergebruik
+### Betrouwbaar Computergebruik
 
 In het Nederlands: Het systeem zoals tot dusver beschreven zou vrij goed werken - behalve dat het vertrouwen vereist in de beheerder van de RPOW-server om geen dubbele uitgaven te doen of RPOW-tokens voor zichzelf te maken zonder een bewijs van werk te leveren. Finney wilde echter niet dat de gebruikers de beheerder van de RPOW-server moesten vertrouwen, zelfs als die beheerder hijzelf was. Daarom voegde Finney nog een speciale eigenschap toe aan het ontwerp.
 
@@ -3004,7 +3004,7 @@ Zolang men IBM vertrouwde om niet mee te werken met Finney om een valse handteke
 
 "[...] Het RPOW-systeem is ontworpen met één overkoepelend doel: het onmogelijk maken dat iemand, zelfs de eigenaar van de RPOW-server of zelfs de ontwikkelaar van de RPOW-software, in staat zou zijn om de regels van het systeem te overtreden en RPOW-tokens te vervalsen," legde Finney uit op de RPOW-website. "Zonder zo'n garantie tegen vervalsbaarheid, zouden RPOW-tokens het werk dat is gedaan om ze te creëren niet geloofwaardig kunnen vertegenwoordigen. Vervalsbare tokens zouden meer lijken op papiergeld dan op bit-goud."[^253]
 
-## Het lot van RPOW
+### Het lot van RPOW
 
 De eerste RPOW-release was weliswaar nog erg basaal, maar Hal Finney had het voornemen het project in de loop van de tijd te verbeteren. Wellicht het belangrijkst, hij plande om het systeem te upgraden zodat het op meerdere, onafhankelijk van elkaar opererende, servers zou draaien. Zo zou het volledige RPOW-systeem niet onderuit gaan als zijn server om welke reden dan ook offline ging.
 
@@ -3026,7 +3026,7 @@ Maar waarschijnlijk slaagde het elektronische geldsysteem er ook niet in om van 
 
 Net als eCash en hashcash voorheen, leed ook RPOW aan een kip-en-ei probleem.
 
-## e-goud
+### e-goud
 
 Ondanks de beste bedoelingen van Hal Finney is RPOW halverwege de jaren 2000 geëindigd als nog een mislukte poging om elektronisch geld te creëren.
 
@@ -3064,7 +3064,7 @@ Het petrodollarsysteem was een geweldige deal voor de Amerikanen - maar niet zo 
 
 Het petrodollarsysteem implementeerde in feite het Cantillon-effect op wereldwijde schaal, met de Amerikaanse regering en Amerikaanse financiële instellingen in het hart van dit monetaire paradigma.[258]
 
-## De Hayekiaanse Heropleving
+### De Hayekiaanse Heropleving
 
 Intussen had stagflatie de economische wereld in verwarring gebracht, aangezien de Keynesiaanse aanname dat inflatie werkloosheid zou tegengaan, onjuist was gebleken. Als het gebruik van inflatie om de economie te stimuleren verslavend was, zoals Hayek had betoogd, waren de positieve effecten van dit 'middel' nu uitgewerkt en ondervond de samenleving de pijnlijke ontwenningsverschijnselen. Na een regering van veertig jaar bevond het Keynesianisme zich in een existentiële crisis.
 
@@ -3090,7 +3090,7 @@ Eén fundamenteel verschil was de methodologie van de Chicago school. Waar Carl 
 
 De tweede grote verschil was bijna net zo fundamenteel als de eerste: de Chicago school was het niet eens met de Oostenrijkers over het thema geld.
 
-## Monetarisme
+### Monetarisme
 
 Hoewel Friedman een effectieve voorvechter was van Hayek's ideeën over markt en prijzen, omvatte dit niet Hayek's perspectief op de stadia van productie, of hoe rentetarieven en het intertemporele prijssysteem de allocatie van middelen in de tijd konden sturen. Friedman was zeker geen voorstander van Hayeks voorstel om geld te denationaliseren. In plaats daarvan pleitte Friedman voor sterke overheidsregulatie van geld.
 
@@ -3112,7 +3112,7 @@ De theorie overtuigde Hayek echter niet, om veel van dezelfde redenen dat de sta
 
 Hoewel Hayeks ideeën over markten en het prijssysteem in de jaren tachtig een opleving beleefden, bleven zijn ideeën over geld grotendeels onopgemerkt. De munteenheid bleef onder staatscontrole en zelfs de nieuwe lichting vrije markt-economen in Chicago geloofde niet dat hier verandering in moest komen.
 
-## Spaar- en leenstelsel
+### Spaar- en leenstelsel
 
 In 1987 benoemde president Reagan Alan Greenspan, een ander lid van zijn Economische Beleidsadviesraad, tot de nieuwe voorzitter van de Federal Reserve. Net zoals Friedman was ook Greenspan een fervent monetarist. Toen de Amerikaanse Senaat kort daarna de nominatie bevestigde, stond de monetaire theorie van de Chicago school op het punt om voor het eerst in de praktijk te worden gebracht.
 
@@ -3126,7 +3126,7 @@ Inderdaad, de bailouts beperkten de omvang van de spaar- en leencrisis en voorkw
 
 Aan het begin van zijn carrière had Hayek al zijn zorgen uitgesproken over het morele risico dat centrale banken in de economie introduceerden. Dit werd met de FDIC en FSLIC alleen maar explicieter. Tijdens de spaar- en leningencrisis werd het duidelijk dat financiële instellingen grote risico's konden nemen; de Amerikaanse overheid zou de rekening betalen als het fout liep.
 
-## Dot-Com
+### Dot-Com
 
 Ongeveer tien jaar na de crisis van de spaar- en kredietverenigingen, tegen het einde van de jaren '90, waren de aandelenmarkten in een razernij.
 
@@ -3146,7 +3146,7 @@ Op het eerste gezicht leek het te werken. In de daaropvolgende jaren begon de aa
 
 Één sector in het bijzonder beleefde in de mid-jaren 2000 niets minder dan een volledige economische opleving: de huizenmarkt.
 
-## "Te groot om te falen"
+### "Te groot om te falen"
 
 Deze boom in de huizenmarkt baarde Greenspan, met het oog op monetaire stabiliteit, nauwelijks zorgen. Hoewel sommige afgeleide prijzen, zoals de kosten van woninghuur en onderhoud, in acht werden genomen, waren de werkelijke huizenprijzen zelf niet opgenomen in de CPI (Consumentenprijsindex); ze waren in 1983 uit de index gehaald. Vastgoed wordt sindsdien grotendeels beschouwd als een vorm van investering, hetgeen bijzonder handig was omdat politici in die tijd de inflatiecijfers wilden verlagen.[^263]
 
@@ -3168,7 +3168,7 @@ Dit luidde een nieuw beleids tijdperk in, zowel in de VS als daarbuiten, omdat d
 
 Een onmiddellijke financiële instorting werd afgewend, maar alleen omdat grote delen van de financiële sector werden gered door openbare instellingen en de creatie van enorme hoeveelheden nieuw geld uit het niets; het morele risico stond nu volop in de schijnwerpers.
 
-## Een Nieuwe Wereld
+### Een Nieuwe Wereld
 
 De overheidsinterventies zouden zich niet alleen tot reddingsoperaties beperken.
 
@@ -3192,7 +3192,7 @@ Het monetaire systeem was in de vroege eenentwintigste eeuw zo ver verwijderd va
 
 Nee, tenzij je toevallig geabonneerd was op een technologie mailinglijst in een bijna vergeten hoekje van het internet...
 
-## Hoofdstuk 15: Het Witboek
+## Hoofdstuk 15: De Ontwerptekst
 
 De financiële markten waren al aan het rommelen toen Adam Back in de zomer van 2008 een e-mail ontving van iemand die zichzelf "Satoshi Nakamoto" noemde. Nakamoto legde uit dat hij een digitaal geldsysteem had ontworpen dat gebaseerd was op het proof-of-work systeem dat Back meer dan tien jaar eerder had geïntroduceerd met hashcash. De e-mail bevatte een link naar een conceptversie van een white paper, getiteld "Elektronisch Geld Zonder een Vertrouwde Derde Partij." Nakamoto was geïnteresseerd in feedback.
 
@@ -3228,7 +3228,7 @@ Het bewijs-van-werk voor het genereren van nieuwe munten drijft ook het netwerk 
 
 De bijgevoegde was een link naar de bijgewerkte versie van het whitepaper.[^270] "Bitcoin: Een Peer-to-Peer Elektronisch Geldsysteem", luidde nu de titel. In amper negen pagina's (inclusief een bladzijde voor externe referenties), schetste Nakamoto de kernmechanismen van zijn voorgestelde digitale valutaregeling. Het maakte een compacte, maar zeer effectieve beschrijving van - zoals de inleiding van het paper het omschreef - "een elektronisch betalingssysteem gebaseerd op cryptografisch bewijs in plaats van vertrouwen."
 
-## De Blokketen
+### De Blokketen
 
 Het systeem dat Satoshi Nakamoto in zijn whitepaper beschreef leek daadwerkelijk op b-geld - dat nu als de eerste van acht verwijzingen wordt genoemd - op meerdere manieren.
 
@@ -3258,7 +3258,7 @@ Inderdaad, de inhoud van Bitcoin-blokken, hun chronologische volgorde en daarmee
 
 Nakamoto noemde deze keten van blokken: de blockchain.
 
-## Mijnbouw
+### Mijnbouw
 
 Omdat een Bitcoin-blok alleen als geldig zou worden beschouwd als het geen conflicterende transacties bevat, bood de blokketen het begin van een oplossing voor het probleem van dubbele uitgaven. Zelfs als verschillende gebruikers de transacties in een andere volgorde zouden zien, zouden hun eigendomsregistraties nog steeds overeenkomen zolang ze alle blokken in dezelfde volgorde ontvingen. In geval van een poging tot dubbele uitgave zou alleen de transactie die in een blok was opgenomen worden gebruikt om alle grootboeken bij te werken.
 
@@ -3286,7 +3286,7 @@ Om het Byzantijnse Generaals Probleem te overkomen, bedacht Satoshi Nakamoto slu
 
 "Het netwerk is robuust in zijn ongestructureerde eenvoud," concludeerde Nakamoto in zijn whitepaper. "De nodes werken allemaal tegelijk met weinig coördinatie."
 
-## Muntuitgifte
+### Muntuitgifte
 
 Als Bitcoin-gebruikers bewijs van werk zouden produceren - blokken mijnen - hadden ze een stimulans nodig.
 
@@ -3302,7 +3302,7 @@ Door de hoeveelheid 'proof of work' te ontkoppelen van het tempo van valuta-crea
 
 "De constante toevoeging van een vastgesteld aantal nieuwe munten is te vergelijken met goudmijners die resources verbruiken om goud in omloop te brengen," zo legt de Bitcoin white paper uit. "In ons geval gaat het om CPU-tijd en elektriciteit dat verbruikt wordt."
 
-## Positieve prikkels
+### Positieve prikkels
 
 Nakamoto was bovendien van mening dat het uitgiftemodel van Bitcoin potentiële aanvallers zou afschrikken.
 
@@ -3324,7 +3324,7 @@ Als uitbereiding hierop veronderstelde Nakamoto dat de blokbeloningen die door h
 
 Zelfs in het ergste geval, zijn de prikkels van Bitcoin waarschijnlijk zodanig afgestemd dat iedereen eerlijk handelt.
 
-## Peer-To-Peer wordt naar het Nederlands vertaald als 'Peer-To-Peer'. Het heeft geen betekenis die in het Nederlands een andere nuance heeft, dus dient letterlijk te worden vertaald.
+### Peer-To-Peer
 
 Bitcoin was, zoals Nakamoto in zijn e-mailaankondiging had beloofd, ontworpen om een echt peer-to-peer systeem te zijn.
 
@@ -3336,7 +3336,7 @@ Daarbij kwam dat zijn timing uitzonderlijk goed was. Juist toen centrale banken 
 
 Toch hebben de meeste eerste reacties op de publieke aankondiging van Bitcoin de betekenis van deze doorbraak niet erkend of gewaardeerd...
 
-## Opschaalbaarheid
+### Opschaalbaarheid
 
 De eerste reactie op Nakamoto's aankondiging kwam ongeveer een dag later, van James A. Donald, een Cypherpunk die toevallig in de laatste stadia verkeerde van het ontwerpen van zijn eigen digitaal geldsysteem.
 
@@ -3364,7 +3364,7 @@ Nakamoto heeft niet specifiek gereageerd op Donald's suggestie over de betalings
 
 "Ja, maar we kunnen een grote slag winnen in de wapenwedloop en enkele jaren een nieuw territorium van vrijheid verwerven", schreef hij. "Overheden zijn goed in het elimineren van de leiders van [...] centraal gecontroleerde netwerken zoals Napster, maar pure P2P-netwerken zoals Gnutella en Tor lijken zich goed staande te houden."[^274]
 
-## Zorgen en Verwarring
+### Zorgen en Verwarring
 
 De eerste reactie die Nakamoto kreeg---de bezorgdheid van James A. Donald over schaalbaarheid---had zeker enige verdienste; het opschalen van Bitcoin om miljoenen, of zelfs miljarden gebruikers te bedienen, zou inderdaad een grote uitdaging worden. Maar veel van de feedback die volgde op deze reactie was meer een gemengde tas, waarbij commentatoren in sommige gevallen duidelijk in de war waren over het ontwerp van Bitcoin.
 
@@ -3388,7 +3388,7 @@ John Levine, een andere computerwetenschapper die eerder de Cypherpunks mailingl
 
 Echter, niet iedereen op de Cryptografie mailinglijst was bereid Bitcoin af te doen als een foutief ontwerp.
 
-## Optimisme
+### Optimisme
 
 Op 7 november, ongeveer een week nadat Nakamoto zijn white paper openbaar had gemaakt, kwam er ook een opvallend optimistischere reactie naar voren op de lijst.
 
@@ -3410,7 +3410,7 @@ Nakamoto was het eens.
 
 "Het is erg aantrekkelijk vanuit het libertarische standpunt als we het goed kunnen uitleggen," antwoordde de uitvinder van Bitcoin. "Ik ben echter beter met code dan met woorden."[^284]
 
-## Het Pseudoniem
+### Het Pseudoniem
 
 De overwegend sceptische reacties op het Bitcoin-witboek in de Cryptography-mailinglijst kunnen waarschijnlijk deels worden verklaard doordat de naam van de auteur van het witboek, Satoshi Nakamoto, geen enkel reputatiegewicht had.
 
@@ -3448,7 +3448,7 @@ Toen Satoshi Nakamoto bijna vijfentwintig jaar later, op 8 januari 2009, terugke
 
 Satoshi Nakamoto introduceerde iets dat regeringen niet kunnen stoppen. ...mmary...en Satoshi Nakamoto bijna vijfentwintig jaar later, op 8 januari 2009, opnieuw opdook op de Cryptography mailinglijst om een volledig vertrouwensloos en volledig p2p-elektronisch betaalsysteem te lanceren, deed hij iets onweerstaanbaars voor regeringen. Hij gebruikte decennia van onderzoek in privacytechnologie, gedecentraliseerde netwerkarchitectuur en digitale valutasystemen.
 
-## De Codebasis
+### De Codebasis
 
 Bitcoin v.0.1 is uitgebracht, luidde de titel van Nakamoto's email deze keer.[^289]
 
@@ -3486,7 +3486,7 @@ Als extra detail leek de specifieke kop voor dit doel ook niet willekeurig gekoz
 
 De wereld van geld en financiën was een puinhoop geworden. Met Bitcoin stelde Satoshi Nakamoto een alternatief voor.
 
-## Eenentwintig Miljoen
+### Eenentwintig Miljoen
 
 Het meest interessante nieuw onthulde kenmerk van allemaal was echter het "monetaire beleid" van Bitcoin.
 
@@ -3544,7 +3544,7 @@ Op een zekere manier had Finney Ludwig von Mises' regressietheorema onderstebove
 
 "Het zou logisch kunnen zijn om er gewoon wat te bemachtigen in het geval dat het aanslaat," stemde Satoshi Nakamoto toe. "Als genoeg mensen op dezelfde manier denken, wordt dat een self-fulfilling prophecy."[^295]
 
-## Hayek's Ideale
+### Hayek's Ideale
 
 Het oplossen van het kip-en-ei-probleem was niet de enige potentiële voordeel van de limiet van eenentwintig miljoen. Het was mogelijk zelfs niet het grootste voordeel, zeker niet op een grotere tijdschaal. Als de analyse van Friedrich Hayek over de monetaire economie aan het begin van zijn carrière correct was, zou Bitcoin de economie kunnen helpen herstellen.
 
@@ -3572,7 +3572,7 @@ In ongeveer 32.000 regels code heeft Satoshi Nakamoto de potentie ingebed om de 
 
 Deze zin lijkt onderdeel te zijn van een bredere context die niet is meegegeven. Losstaand, zou dit vertaald worden als: "...als het breed geadopteerd zou worden." Zonder verdere context kan ik geen geparafraseerde versie of.summary bieden.
 
-## Het laatste punt van centralisatie
+### Het laatste punt van centralisatie
 
 Op 8 januari 2009, begon Bitcoin zijn reis met slechts één gebruiker: de ontwerper van het digitale valutasysteem zelf. Hoewel het waarschijnlijk is dat minimaal een paar honderd mensen over het project hadden gehoord, na de aankondiging van Nakamoto in de Cryptography-mailinglijst, wijzen de gebrekkige betrokkenheid bij zijn e-mail en de eerder sceptische reacties erop, dat in de begindagen slechts een handjevol mensen de software daadwerkelijk hadden geprobeerd (met Hal Finney die op 12 januari berucht de allereerste transactie ooit ontving, direct van Nakamoto).
 
@@ -3594,7 +3594,7 @@ In de begindagen was dit type leiderschap waarschijnlijk noodzakelijk. Bitcoin w
 
 Met Nakamoto weg, had niemand een vergelijkbaar natuurlijk gezag over het project. Aan het eind van 2010 werd Bitcoin echt gedecentraliseerd.
 
-## Het Bitcoin Project
+### Het Bitcoin Project
 
 Vandaag de dag wordt de code van Bitcoin onderhouden en ontwikkeld door een open gemeenschap van vrijwillige programmeurs van over de hele wereld. Of ze nu bewogen zijn door ideologische redenen, geïnteresseerd zijn in de technologie, worden gesponsord door een bedrijf dat een belang heeft in het project, of om een andere reden, ze nemen het op zich om Bitcoin up-to-date te houden en te verbeteren waar ze maar kunnen.
 

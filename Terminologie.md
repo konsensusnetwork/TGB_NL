@@ -29,3 +29,5 @@ lender of last resort = kredietverstrekker in uiterste nood
 incentives = prikkels
 deposit claims = deposito-eisen
 bank runs = toeloop op de bank
+aggregate demand = totale vraag
+animal spirits = dierlijke instincten

@@ -31,3 +31,7 @@ deposit claims = deposito-eisen
 bank runs = toeloop op de bank
 aggregate demand = totale vraag
 animal spirits = dierlijke instincten
+empowerment = zelfbeschikking
+hacker community = hacker-gemeenschap
+hacker culture = hacker-cultuur
+copyright licenses = auteursrechtelijke licenties

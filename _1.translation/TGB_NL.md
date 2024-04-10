@@ -504,53 +504,53 @@ Net zoals vrije markten, kunnen vrije en open softwareprojecten een spontane ord
 
 ## Hoofdstuk 3: Neutraal Geld
 
-Friedrich Hayek legde het idee van de vrije markt uit in termen van spontane orde in de jaren dertig. Hij voerde aan dat individuen, door in hun eigen belang te handelen, in staat waren middelen over de samenleving te verdelen op een efficiënte manier met behulp van het prijssysteem: een verbazingwekkend concept.
+Friedrich Hayek legde het idee van de vrije markt uit in termen van spontane orde in de jaren dertig. Hij voerde aan dat individuen, door in hun eigen belang te handelen, in staat waren middelen op een efficiënte manier over de samenleving te verdelen met behulp van het prijssysteem: een verbazingwekkend concept.
 
-Het was dus volkomen logisch dat Hayek bijzonder geïnteresseerd was in het materieel waarin goederen en diensten worden geschat - geld.
+Het was dus volkomen logisch dat Hayek bijzonder geïnteresseerd was in het goed waarin goederen en diensten worden uitgedrukt --- geld.
 
-Interessant genoeg lijkt geld een hoeksteen van de Oostenrijkse economie te tegenspreken. De gedachtenschool is gebouwd op de aanname dat waarde subjectief is: mensen waarderen producten en diensten subjectief als deze producten en diensten aan een persoonlijke wens of behoefte voldoen. Mensen waarderen schoenen omdat ze die kunnen dragen, ze waarderen appels omdat ze die kunnen eten, en ze waarderen auto's omdat ze die kunnen rijden. Maar voor de meeste mensen lijkt geld geen enkele wens of behoefte te vervullen. Ze dragen geen geld, ze eten het niet en ze rijden er niet in. De oorspronkelijke Engelse tekst, vertaald naar het Nederlands en dan hertaald in mijn eigen woorden, zou als volgt kunnen klinken: Vreemd genoeg, lijkt geld een fundamenteel principe van de Oostenrijkse economie tegen te spreken. Deze stroming is opgebouwd op het idee dat waarde subjectief is: mensen kennen waarde toe aan producten en diensten als ze een persoonlijke behoefte vervullen. Schoenen worden gewaardeerd omdat je ze kunt dragen, appels worden gewaardeerd omdat je ze kunt eten en auto's worden gewaardeerd omdat je erin kunt rijden. Maar geld lijkt op het eerste gezicht geen directe behoefte te vervullen. Je draagt het niet, je eet het niet, je rijdt er niet in.
+Vreemd genoeg, lijkt geld een fundamenteel principe van de Oostenrijkse economie tegen te spreken. Deze stroming is opgebouwd op het idee dat waarde subjectief is: mensen kennen waarde toe aan producten en diensten als ze een persoonlijke behoefte vervullen. Schoenen worden gewaardeerd omdat je ze kunt dragen, appels worden gewaardeerd omdat je ze kunt eten en auto's worden gewaardeerd omdat je erin kunt rijden. Maar geld lijkt op het eerste gezicht geen directe behoefte te vervullen. Je draagt het niet, je eet het niet, je rijdt er niet in.
 
-Geld, in deze zin, lijkt vrij waardeloos. Desondanks wordt geld algemeen geaccepteerd als betalingsmiddel in de handel.
+Geld lijkt dus vrij waardeloos. Desondanks wordt geld algemeen geaccepteerd als betalingsmiddel in handel.
 
 Deze schijnbare tegenstrijdigheid was in het begin van de twintigste eeuw al aangepakt door Hayeks mentor aan de Universiteit van Wenen, Ludwig von Mises.[^54] De uitleg van Mises, het regressie-theorema genoemd, accepteert dat mensen daadwerkelijk geen geld willen. Ze willen wat geld kan kopen. Ze verlangen naar koopkracht.
 
-Mises redeneerde dat de verwachte koopkracht van geld afgeleid is van eerdere prestaties. Als € 10 je gisteren in een restaurant een lunch kon bezorgen, zullen mensen aannemen dat ze er morgen ook een lunch voor kunnen kopen. En de reden dat € 10 hen gisteren een lunch kon bieden, is dat de restauranteigenaar wist dat hij daarmee de dag daarvoor tien broden kon kopen bij de bakkerij, en waarschijnlijk dus ook de dag erna. De bakker accepteerde op zijn beurt € 10 in ruil voor zijn brood, want daarmee kon hij de dag ervoor een pond meel kopen bij de lokale molenaar ... en zo verder.
+Mises redeneerde dat de verwachte koopkracht van geld afgeleid is van eerdere prestaties. Als € 10 je gisteren in een restaurant een lunch kon kopen, zullen mensen aannemen dat ze er morgen ook een lunch voor kunnen kopen. En de reden dat € 10 hen gisteren een lunch kon bieden, is dat de restauranteigenaar wist dat hij daarmee de dag daarvoor tien broden kon kopen bij de bakkerij, en waarschijnlijk dus ook de dag erna. De bakker accepteerde op zijn beurt € 10 in ruil voor zijn brood, want daarmee kon hij de dag ervoor een pond meel kopen bij de lokale molenaar ... en zo verder.
 
-Maar dit laat uiteraard nog steeds een belangrijk deel van de tegenstrijdigheid onopgelost: wanneer begonnen mensen voor het eerst geld te accepteren en, vooral, waarom? Als we ver genoeg terug in de tijd gaan - regressie - moet er ooit iemand de eerste zijn geweest die geld begon te accepteren, zonder enige vorige ervaring om op te vertrouwen bij het inschatten van toekomstige koopkrachtverwachtingen.
+Maar dit laat uiteraard nog steeds een belangrijk deel van de tegenstrijdigheid onopgelost: wanneer begonnen mensen *voor het eerst* geld te accepteren en, vooral, waarom? Als we ver genoeg terug in de tijd gaan -- regressie --, moet er ooit iemand de eerste zijn geweest die geld begon te accepteren, zonder enige vorige ervaring om op te vertrouwen bij het inschatten van toekomstige koopkrachtverwachtingen.
 
 Mises loste deze vraag op door de theorie van Carl Menger te accepteren, die stelde dat geld oorspronkelijk uit ruilhandel ontstond.
 
 ### Van Ruilhandel naar Geld
 
-In een ruileconomie - een economie zonder geld - ruilen mensen direct goederen en diensten. Als de schoenmaker een paar schoenen heeft, maar liever een brood wil, en de bakker een brood heeft maar liever een paar schoenen wil, dan ruilen ze hun producten met elkaar. Na deze transactie zijn ze beiden (subjectief gezien) beter af dan daarvoor.
+In een ruileconomie -- een economie zonder geld -- ruilen mensen direct goederen en diensten. Als de schoenmaker een paar schoenen heeft, maar liever een brood wil, en de bakker een brood heeft maar liever een paar schoenen wil, dan ruilen ze hun producten met elkaar. Na deze transactie zijn ze beiden (subjectief gezien) beter af dan daarvoor.
 
-Zo'n ruilhandel economie lijdt echter onder een probleem wat bekend staat als de "dubbele toevalligheid van behoeften." Een ruil kan alleen plaatsvinden als twee personen precies het product willen dat de ander aan te bieden heeft. De schoenmaker kan alleen schoenen ruilen voor een brood als de bakker toevallig een nieuw paar nodig heeft... maar dit gebeurt waarschijnlijk niet heel vaak.
+Zo'n ruilhandel economie lijdt echter onder een probleem wat bekend staat als de "dubbele toevalligheid van behoeften." Een ruil kan alleen plaatsvinden als twee personen precies het product willen dat de ander te bieden heeft. De schoenmaker kan alleen schoenen ruilen voor een brood als de bakker toevallig een nieuw paar nodig heeft... maar dit gebeurt waarschijnlijk niet heel vaak.
 
-Meer gespecialiseerde vaklieden hebben het nog moeilijker om te krijgen wat ze willen in een ruileconomie, omdat minder mensen hun product nodig hebben. Een horlogemaker kan bijna nooit een horloge ruilen voor een brood of een paar schoenen, omdat bakkers en schoenmakers niet vaak een nieuw horloge nodig hebben.
+Meer gespecialiseerde vaklieden hebben het nog moeilijker om in een ruileconomie te bemachtigen wat ze willen, omdat minder mensen hun product nodig hebben. Een horlogemaker kan bijna nooit een horloge ruilen voor een brood of een paar schoenen, omdat bakkers en schoenmakers niet vaak een nieuw horloge nodig hebben.
 
-Maar het tegenovergestelde is ook waar: sommige producten zouden relatief gemakkelijk te verhandelen moeten zijn. Neem bijvoorbeeld zout als voorbeeld, en laten we aannemen dat veel mensen in deze economie vrij regelmatig zout nodig hebben - om misschien een maaltijd op smaak te brengen, of om voedsel te conserveren. In de woordenschat van Menger en de Oostenrijkse school, is zout verkoopbaarder (of "verhandelbaarder") dan een horloge.
+Maar het tegenovergestelde is ook waar: sommige producten zouden relatief gemakkelijk te verhandelen moeten zijn. Neem bijvoorbeeld zout, en laten we aannemen dat veel mensen in deze economie vrij regelmatig zout nodig hebben om een maaltijd op smaak te brengen, of om voedsel te conserveren. In de woordenschat van Menger en de Oostenrijkse school, is zout *verkoopbaarder* (of "verhandelbaarder") dan een horloge.
 
-En zout heeft ook andere voordelen. Het is behoorlijk duurzaam; zout bederft niet. Het is redelijk draagbaar; zout kan makkelijk in een tas worden meegenomen. Het is deelbaar; zout kan moeiteloos in kleinere porties worden verdeeld, en die kleinere porties kunnen net zo gemakkelijk weer worden samengevoegd tot een grotere hoeveelheid. Bovendien, zout is gemakkelijk te herkennen, en het is redelijk fungibel, wat betekent dat verschillende porties onderling uitwisselbaar zijn; zout is zout. En last but not least, afhankelijk van waar (en wanneer) je bent, kan zout ook schaars zijn; het kan moeilijk zijn om er meer van te krijgen.
+En zout heeft ook andere voordelen. Het is behoorlijk duurzaam want zout bederft niet. Het is redelijk draagbaar; zout kan makkelijk in een tas worden meegenomen. Het is deelbaar; zout kan moeiteloos in kleinere porties worden verdeeld, en die kleinere porties kunnen net zo gemakkelijk weer worden samengevoegd tot een grotere hoeveelheid. Bovendien is zout ook gemakkelijk te herkennen, en het is redelijk fungibel, wat betekent dat verschillende porties onderling uitwisselbaar zijn; zout is zout. En tot slot, afhankelijk van waar (en wanneer) je bent, kan zout ook schaars zijn; het kan moeilijk zijn om er meer van te verkrijgen.
 
-Menger bedacht daarom dat wanneer gegeven de optie, de horlogemaker het verstandig zou vinden om een lading zout te accepteren in ruil voor een horloge. Zelfs als hij zelf geen behoefte aan zout zou hebben, dan zou de bakker dit zeker wel hebben. De horlogemaker kan vervolgens het zout ruilen met de bakker en zo eindelijk aan dat brood komen dat hij nodig heeft.
+Menger bedacht daarom dat het voor de horlogemaker verstandig zou zijn om een lading zout te accepteren, wanneer dit hem wordt aangeboden in ruil voor een horloge. Zelfs als hij zelf geen behoefte aan zout zou hebben, dan zou de bakker dit zeker wel hebben. De horlogemaker kan vervolgens het zout met de bakker ruilen en zo eindelijk aan dat brood komen dat hij nodig heeft.
 
-En het zou niet alleen verstandig zijn voor de horlogemaker om zout in ruil aan te nemen, het zou ook raadzaam zijn voor de schoenmaker. De bakker zou waarschijnlijk vaker zout dan een paar schoenen accepteren in ruilhandel. Dit zou op zijn beurt de horlogemaker nog meer mogelijkheden geven met het zout dat hij in ruil krijgt; hij kan het uitgeven bij zowel de bakker als de schoenmaker.
+En het zou niet alleen voor de horlogemaker verstandig zijn om zout in ruil aan te nemen, maar ook voor de schoenmaker. De bakker zou waarschijnlijk vaker zout dan een paar schoenen accepteren in ruilhandel. Dit zou op zijn beurt de horlogemaker nog meer mogelijkheden geven met het zout dat hij in ruil krijgt; hij kan het uitgeven bij zowel de bakker als de schoenmaker.
 
-Naarmate meer mensen in deze ruileconomie zout zouden gaan accepteren in de verwachting dat anderen dat ook zullen doen, zou dit een zelfversterkende cyclus in gang zetten. Voor elke extra persoon die zout accepteert in ruilhandel, wordt zout aantrekkelijker voor iedereen om als ruilmiddel te accepteren. Zout zou zich op deze manier als een gangbaar ruilmiddel kunnen ontwikkelen.
+Naarmate meer mensen in deze ruileconomie zout zouden gaan accepteren in de verwachting dat anderen dat ook zullen doen, zou dit een zelfversterkende cyclus in gang zetten. Voor elke extra persoon die zout accepteert in ruilhandel, wordt zout aantrekkelijker voor iedereen om als ruilmiddel te accepteren. Zout zou zich op deze manier als een gangbaar *ruilmiddel* kunnen ontwikkelen.
 
-Hoewel sommige mensen in deze economie zelf geen zout nodig zouden hebben, noch direct iets hadden om het aan uit te geven, zouden ze leren vertrouwen dat het uiteindelijk nuttig zou zijn. Ze zouden daarom beginnen met het opslaan van zout voor toekomstig gebruik. Zo wordt zout ook een opslag van waarde.
+Hoewel sommige mensen in deze economie zelf geen zout nodig zouden hebben, noch direct iets hadden om het aan uit te geven, zouden ze leren vertrouwen dat het uiteindelijk nuttig voor hen zal zijn. Daarom beginnen ze met het opslaan van zout voor toekomstig gebruik. Zo wordt zout ook een *opslag van waarde*.
 
-En uiteindelijk zouden mensen in deze economie beginnen de waarde van producten en diensten in zout te meten. Een horloge zou misschien een kilo zout kosten, een paar schoenen een pond, en een brood een ons. Zout zou gebruikt worden om prijzen vast te stellen, waardoor het een rekeneenheid zou worden.
+En uiteindelijk zouden mensen in deze economie beginnen de waarde van producten en diensten in zout te meten. Een horloge kost misschien een kilo zout, een paar schoenen een pond, en een brood een ons. Zout wordt gebruikt om prijzen vast te stellen, waardoor het een *rekeneenheid* wordt.
 
-Zodra het deze drie eigenschappen zou verwerven - medium van uitwisseling, opslag van waarde en rekeneenheid - zou zout geld worden.
+Zodra het deze drie eigenschappen verwerft - ruilmiddel, opslag van waarde en rekeneenheid - is zout geld geworden.
 
-Dit zou op zijn beurt de vraag naar zout ook vergroten. In deze economie werd zout oorspronkelijk alleen gewaardeerd om zijn inherente eigenschappen - het vermogen om een maaltijd te kruiden of voedsel te conserveren.[^55] Maar zodra het als geld wordt aangenomen, zouden veel mensen erop gebrand zijn meer zout te vergaren, omdat dit hen in staat zou stellen elk ander product te kopen. Het proces van monitarisatie zou een geldelijke premie toevoegen aan de waarde van zout.
+Dit zou op zijn beurt de vraag naar zout ook vergroten. In deze economie werd zout oorspronkelijk alleen gewaardeerd om zijn inherente eigenschappen - het vermogen om een maaltijd te kruiden of voedsel te conserveren.[^55] Maar zodra het als geld wordt aangenomen, zouden veel mensen erop gebrand zijn meer zout te vergaren, omdat dit hen in staat zou stellen elk ander product te kopen. Het proces van *monetarisatie* zou een *monetaire* premie toevoegen aan de waarde van zout.
 
-Deze geldelijke premie verklaart waarom mensen bereid zijn geld - in dit voorbeeld, zout - aan te nemen in ruil voor goederen en diensten die op zichzelf meer verlangens of behoeften vervullen, waardoor de schijnbare tegenstrijdigheid wordt overwonnen die is geïntroduceerd door de subjectieve waarde theorie.
+Deze premie verklaart waarom mensen bereid zijn geld - in dit voorbeeld, zout - aan te nemen in ruil voor goederen en diensten die op zichzelf meer verlangens of behoeften vervullen, waardoor de schijnbare tegenstrijdigheid wordt overwonnen die werd geïntroduceerd door de subjectieve waarde theorie.
 
-Zout is in het verleden inderdaad als vorm van betaling gebruikt. Enkele duizenden jaren geleden werden de soldaten van het Romeinse Rijk in zout uitbetaald; het hedendaagse woord "salaris" is afgeleid van het Latijnse woord salarium, dat "zoutgeld" betekent. Toen de Italiaanse ontdekkingsreiziger Marco Polo in de dertiende eeuw naar China reisde, ontdekte hij dat de plaatselijke bevolking elkaar betaalde met een soort pannenkoeken gemaakt van zout. En er waren zelfs bepaalde Ethiopische stammen die zout als geld gebruikten, en dat zo recent als de twintigste eeuw.
+Zout is in het verleden inderdaad als vorm van betaling gebruikt. Enkele duizenden jaren geleden werden de soldaten van het Romeinse Rijk in zout uitbetaald; het hedendaagse woord "salaris" is afgeleid van het Latijnse woord *salarium*, dat "zoutgeld" betekent. Toen de Italiaanse ontdekkingsreiziger Marco Polo in de dertiende eeuw naar China reisde, ontdekte hij dat de plaatselijke bevolking elkaar betaalde met een soort pannenkoeken gemaakt van zout. En er waren zelfs bepaalde Ethiopische stammen die zout als geld gebruikten, en dat zo recent als de twintigste eeuw.
 
-Desalniettemin, gedurende duizenden jaren, ontdekten diverse leerde beschavingen van over de wereld dat er een beter ruilmiddel bestond dan zout. Tegen de tijd dat Mises zijn regressietheorema publiceerde, was het grootste deel van de wereld overgegaan op het gebruik van goud.[^56]
+Desalniettemin, gedurende duizenden jaren, ontdekten diverse beschavingen van over de wereld dat er een beter ruilmiddel bestond dan zout. Tegen de tijd dat Mises zijn regressietheorema publiceerde, was het grootste deel van de wereld overgegaan op het gebruik van goud.[^56]
 
 ### Goud
 
@@ -3214,13 +3214,13 @@ Inderdaad, het elektronische geldproject van Nakamoto had nu een naam: Bitcoin.
 
 "Ik heb gewerkt aan een nieuw elektronisch geldsysteem dat volledig peer-to-peer is en geen betrouwbaar derde partij vereist," luidde Nakamoto's e-mail, alvorens de hoofdeigenschappen samen te vatten.
 
--  Dubbele uitgaven worden voorkomen met een peer-to-peer netwerk.
+- Dubbele uitgaven worden voorkomen met een peer-to-peer netwerk.
 
--  Geen munt of andere betrouwbare partijen.
+- Geen munt of andere betrouwbare partijen.
 
--  Deelnemers kunnen anoniem zijn.
+- Deelnemers kunnen anoniem zijn.
 
--  Nieuwe munten worden gecreëerd door het gebruik van Hashcash-stijl proof-of-work (bewijs van werk).
+- Nieuwe munten worden gecreëerd door het gebruik van Hashcash-stijl proof-of-work (bewijs van werk).
 
 Het bewijs-van-werk voor het genereren van nieuwe munten drijft ook het netwerk aan om dubbele uitgaven te voorkomen.
 

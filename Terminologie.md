@@ -35,3 +35,4 @@ empowerment = zelfbeschikking
 hacker community = hacker-gemeenschap
 hacker culture = hacker-cultuur
 copyright licenses = auteursrechtelijke licenties
+security = beveiliging

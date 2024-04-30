@@ -598,31 +598,31 @@ Als geld daarentegen volledig bevrijd zou worden van de beperkingen van goud, ko
 
 Hayek verwierp het gebruik van rentetarieven door centrale banken als middel, omdat hij geloofde dat dit alleen diende om de conjunctuurcyclus te versterken. Maar hij verwierp ook het doel om prijzen te stabiliseren. Hayek keurde deze stabilisatoren af.
 
-Prijzen, legde Hayek uit, bevatten een breed scala aan informatie. Daardoor is het mogelijk dat de prijzen van verder identieke goederen verschillen op verschillende locaties. Een krat bananen zou bijvoorbeeld goedkoper kunnen zijn in Colombia, waar bananen groeien, vergeleken met IJsland, waar de bananen eerst naartoe vervoerd moeten worden. De kosten van het transport (en daarmee de kosten van brandstof en meer) zouden verwerkt zijn in de prijs van bananen in IJsland.
+Prijzen, legde Hayek uit, bevatten een breed scala aan informatie. Daardoor is het mogelijk dat de prijzen van identieke goederen verschillen op verschillende locaties. Een krat bananen zou bijvoorbeeld goedkoper kunnen zijn in Colombia, waar bananen groeien, vergeleken met Ijsland, waar de bananen eerst naartoe vervoerd moeten worden. De kosten van het transport (en daarmee de kosten van brandstof en meer) zouden verwerkt zijn in de prijs van bananen in Ijsland.
 
-Hayek redeneerde daarom dat, technisch gezien, een krat bananen in Colombia en een krat bananen in IJsland als twee verschillende producten zouden moeten worden beschouwd in economische zin. Het prijssysteem tussen verschillende locaties---verschillende prijzen op verschillende locaties---maakte een efficiënte toewijzing van bronnen over de ruimte mogelijk.
+Hayek redeneerde daarom dat, technisch gezien, een krat bananen in Colombia en een krat bananen in Ijsland als twee verschillende producten zouden moeten worden beschouwd in economische zin. Het prijssysteem tussen verschillende locaties --- verschillende prijzen op verschillende locaties --- maakte een efficiënte toewijzing van middelen over de ruimte mogelijk.
 
-En de econoom betoogde dat iets vergelijkbaars gold voor anderszins identieke producten op verschillende tijdstippen; op dezelfde manier als het interregionale prijssysteem zorgt voor een efficiënte verdeling van middelen over ruimte, zorgt het intertemporele prijssysteem voor een efficiënte verdeling van middelen over tijd.
+En de econoom betoogde dat iets vergelijkbaars gold voor anderszins identieke producten op verschillende tijdstippen; op dezelfde manier als het inter-spatiale prijssysteem zorgt voor een efficiënte verdeling van middelen over ruimte, zorgt het intertemporele prijssysteem voor een efficiënte verdeling van middelen over tijd.
 
-Het lijkt erop dat je geen tekst hebt gegeven om te vertalen naar het Nederlands. Kun je alsjeblieft de te vertalen tekst verstrekken?
+Hayek:
 
 "Strikt genomen zouden goederen die technisch gelijk zijn maar alleen op verschillende tijdstippen beschikbaar zijn, beschouwd moeten worden als verschillende goederen in economische zin, net zoals dat kan worden gezegd van goederen die technisch hetzelfde zijn maar zich op verschillende plaatsen bevinden."[^60]
 
-Vrije markten bevorderen innovatie, en de meeste producten worden door deze innovatie goedkoper om te produceren. Het produceren van een krat bananen, om bij dat voorbeeld te blijven, wordt na verloop van tijd betaalbaarder doordat bananenkwekers profiteren van verbeterde technologie voor het beheer van hun plantages. Het is dan logisch dat een krat bananen over tien jaar goedkoper zal zijn dan een krat bananen nu; de verschillen in productiekosten zullen tot uiting komen in de respectievelijke prijzen.
+Vrije markten bevorderen innovatie, en de meeste producten worden door deze innovatie goedkoper om te produceren. Het produceren van een krat bananen, om bij dat voorbeeld te blijven, wordt na verloop van tijd betaalbaarder doordat bananenkwekers profiteren van verbeterde technologie voor het beheer van hun plantages. Het is dan logisch dat een krat bananen over tien jaar goedkoper zal zijn dan een krat bananen nu. De verschillen in productiekosten zullen tot uiting komen in de respectievelijke prijzen.
 
-Hayek geloofde dus niet dat het stabiliseren van prijzen op basis van indices überhaupt wenselijk was. Als prijzen kunstmatig stabiel worden gehouden, zou het het intertemporele prijssysteem verstoren, en uiteindelijk ook de toewijzing van middelen over tijd verstoren.
+Hayek geloofde dus niet dat het stabiliseren van prijzen op basis van indices überhaupt wenselijk was. Als prijzen kunstmatig stabiel worden gehouden, zou dit het intertemporele prijssysteem verstoren, en uiteindelijk ook de toewijzing van middelen over tijd verstoren.
 
 Laten we zeggen dat een bananenboer verwacht dat de prijs van bananen (net zoals alle andere consumentenproducten gemiddeld) stabiel zal blijven in de toekomst, terwijl hij ook weet dat zijn productiekosten zullen dalen. Dit zou hem stimuleren om te investeren in toekomstige productie ten koste van de productie vandaag: hij zal later dezelfde hoeveelheid bananen kunnen verbouwen voor minder totale kosten, terwijl hij elke krat bananen zal kunnen verkopen voor dezelfde prijs als vandaag, en zo zijn totale winst kan verhogen.
 
 Als alle producenten in de economie op dezelfde manier denken, als ze allemaal dezelfde prikkels volgen en investeren in productie voor de toekomst ten koste van productie vandaag, zou dit op korte termijn leiden tot een tekort aan totale economische productie en op lange termijn tot een overschot.
 
-Het lijkt erop dat er een fout is gemaakt, er is geen tekst gegeven om te vertalen.
+Hayek schreef:
 
 "Als, tijdens een algemene uitbreiding van de productie, de verwachting met zekerheid wordt gehouden dat de prijzen van producten niet zullen dalen, maar stabiel zullen blijven of zelfs zullen stijgen, zodat op een later tijdstip dezelfde of zelfs een hogere prijs kan worden verkregen voor het product dat tegen een lagere prijs is geproduceerd, moet het resultaat zijn dat de productie voor de latere periode, waarin de voorraad al op een relatief adequaat niveau is, nog verder wordt uitgebreid ten koste van die voor de eerdere periode, waarin de voorraad relatief minder adequaat is."[^61]
 
-Voor een spontane orde die zich ontwikkelt in de tijd, moeten prijzen de mogelijkheid krijgen om te dalen.
+Voor een spontane orde die zich ontwikkelt door de tijd, moeten prijzen de mogelijkheid krijgen om te dalen.
 
-De instructie lijkt te missen of te verwarren. Er wordt gevraagd om een tekst te vertalen naar het Nederlands, maar de gegeven tekst is al in het Nederlands. Bovendien mist het gedeelte van de tekst dat vertaald moet worden ("Hayek therefore concluded:"). Om u verder te kunnen helpen, gelieve de volledige tekst te verschaffen die vertaald moet worden.
+Hayek concludeerde:
 
 "De acceptatie van de noodzaak voor een intertemporeel prijssysteem is niet alleen onverenigbaar met, het staat lijnrecht tegenover de heersende opvatting dat constante prijzen in de loop van de tijd een voorwaarde zijn voor een ongestoorde economie."[^62]
 

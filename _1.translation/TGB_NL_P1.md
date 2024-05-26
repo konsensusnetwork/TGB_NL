@@ -14,7 +14,7 @@ De Amerikaanse geheime dienst, bijgestaan door de IRS en de FBI, was van mening 
 
 Jackson werd aangeklaagd en beschuldigd van het witwassen van geld en het runnen van een niet-gelicentieerde betaaldienst.[^1]
 
-## Digitaal Goud
+## Digitaal goud
 
 Jackson had nooit beoogd dat e-goud misbruikt zou worden voor illegale doeleinden. Hij geloofde ook niet dat dit op een serieuze schaal gebeurde. Sterker nog, hij beweerde dat e-goud een beter fraude-detectiesysteem had dan elke andere betaalverwerker die er bestond. Daarnaast was hij altijd meer dan bereid om met politie samen te werken. E-goud was ook een van de oprichtende leden van het `National Center for Missing & Exploited Children's Financial Coalition Against Child Pornography'. De gegevens die deze coalitie verzamelde, zo stelde Jackson, gaven aan dat e-goud vrijwel niet werd gebruikt voor dergelijke doeleinden.
 
@@ -48,7 +48,7 @@ Op de lange termijn had e-goud zelfs het potentieel om de ruggengraat te worden 
 
 Toe te voegen: ``Een systeem en munteenheid zoals e-goud, vooral na opkomst en integratie in de financiële mainstream als een reserve-activum dat als betaalmiddel wordt gebruikt, kunnen dit probleem zeker en vast oplossen.''[^3]
 
-## Juridische Kwesties
+## Juridische kwesties
 
 Vroeg in de jaren 2000 was e-goud snel aan het groeien, en Jackson werkte onvermoeid om zijn dienst te verbeteren. Hij stelde meer soorten edelmetalen beschikbaar, en voegde tevens nieuwe betalingsfuncties toe, zoals geautomatiseerde, maandelijkse betalingen. Bovendien maakte hij toegang tot het systeem mogelijk via mobiele telefoons via het toen nieuwe WAP-protocol.[^4]
 
@@ -100,7 +100,7 @@ Samen vormen zij het verhaal van de monetaire hervormers, computerwetenschappers
 
 # DEEL I GRONDSLAGEN
 
-## Hoofdstuk 1: Spontane Orde
+## Hoofdstuk 1: Spontane orde
 
 Friedrich August von Hayek wilde net als zijn vader hoogleraar in de biologie worden, maar de Eerste Wereldoorlog zorgde voor een volledige verandering van zijn levenspad.[^8] Hij werd geboren in 1899 en groeide op tijdens de laatste jaren van het Oostenrijks-Hongaarse Rijk. Nadat hij achttien was geworden, werd hij opgeroepen om te vechten aan het Italiaanse front. Het laatste deel van de oorlog bracht hij door als waarnemer in vliegtuigen.
 
@@ -116,7 +116,7 @@ Hij schreef zich niet meteen in voor alle economielessen. Voor de socialistisch-
 
 De naam van de professor was Ludwig von Mises. Hayek kwam al snel te weten dat Mises een vooraanstaande econoom was binnen een relatief nieuwe school van economisch denken.[^11]
 
-### Oostenrijkse Economie
+### Oostenrijkse economie
 
 De Eerste Wereldoorlog was het gewelddadige hoogtepunt van een tijdperk dat sterk doordrenkt was van nationalisme, de ideologie die stelt dat collectieven van mensen met een gemeenschappelijke herkomst, geschiedenis, cultuur of taal --- *naties* --- zichzelf als staten zouden moeten organiseren en handelen in het belang van deze staten.
 
@@ -144,7 +144,7 @@ Tijdens deze soms vijandige *Methodenstreit* (``strijd der methodes''), begonnen
 
 De vijandige sfeer tijdens de Methodenstreit in de late negentiende eeuw bereikte zijn hoogtepunt met de *de facto* verbanning van de Oostenrijkse economie uit Duitse universiteiten. De boycott zou decennia van kracht blijven, en verhinderdde in grote mate dat Menger's ideeën zich door de nieuwe, verenigde natiestaat verspreidden. In plaats daarvan bleef het nationalisme domineren, terwijl een andere collectivistische ideologie zich zonder veel wezenlijk tegengas ook begon te verspreiden doorheen de Duitse universiteiten: het socialisme was in opkomst.
 
-### Economische Berekening
+### Economische berekening
 
 Oorspronkelijk gepopulariseerd door de Duitse auteur en sociale commentator Karl Marx, geloofden socialisten dat de economische geschiedenis van de wereld het best te begrijpen was als een klassenstrijd tussen degenen die kapitaal bezitten (goederen die kunnen worden gebruikt als productiemiddel, zoals fabrieken en hun machines) en de arbeidersklasse, die alleen hun arbeid te verkopen hebben. Marx voorspelde dat deze strijd in het voordeel van de kapitaalbezittende klasse (de *kapitalisten*) zou uitdraaien, omdat ze steeds meer kapitaal en eindeloos groeiende winsten zouden genieten, totdat de arbeidersklasse (het proletariaat) onvermijdelijk in opstand zou komen.
 
@@ -260,7 +260,7 @@ Dit soort verkeerde afstemming van economische prikkels, waar bepaalde economisc
 
 En Hayek geloofde dat dit niet eens de belangrijkste manier was waarop de Federal Reserve onhoudbare, door krediet geïnduceerde, economische bubbels stimuleerde.
 
-### De Oostenrijkse Conjunctuurcyclus
+### De Oostenrijkse conjunctuurcyclus
 
 Het lezen van het jaarverslag 1923 van de Federal Reserve bepaalde de koers van Hayek's carrière als econoom voor de komende decennia.
 
@@ -284,7 +284,7 @@ Alhoewel het pijnlijk was, geloofde Hayek dat de beste aanpak destijds was om de
 
 Middenin de scherpe economische crisis die later bekend zou worden als de Grote Depressie, was de voorgestelde oplossing van Hayek echter niet erg geliefd. De meeste mensen waren van mening dat er *iets moest gedaan worden*.
 
-### De Rivaliteit
+### De rivaliteit
 
 En er kon iets gedaan worden, zo stelde academicus uit Cambridge genaamd John Maynard Keynes. De Britse econoom zou tijdens de Grote Depressie snel naam maken door een onconventionele, maar dringend gewenste oplossing aan te dragen om de economie weer op de been te krijgen. In schril contrast met de pijnlijke oplossing die Hayek voorstelde, verspreidde Keynes een boodschap waar veel mensen reikhalzend naar uitkeken.[^27]
 
@@ -406,7 +406,7 @@ Stallman had ooit gedroomd van een toekomst geïnspireerd door de vrije en colla
 
 "Ik ben de laatste overlevende van een dode cultuur," klaagde Stallman met een gevoel van drama. "En ik hoor echt niet meer thuis in de wereld. En op sommige manieren voel ik dat ik eigenlijk dood zou moeten zijn."[^36]
 
-### Vrije Software
+### Vrije software
 
 Toch was Stallman nog niet helemaal bereid om op te geven.
 
@@ -454,7 +454,7 @@ Dit omvatte, het meest opmerkelijk, de GNU General Public License: een licentie 
 
 Met het GNU-project in volle gang en de nieuwe licenties geïmplementeerd, stond vrije software op het punt om een kracht te worden waar je maar best rekening mee hield.
 
-### De Kathedraal en de Bazaar
+### De kathedraal en de bazaar
 
 Traditioneel werden vrije softwareprojecten uitgevoerd door kleine groepjes ontwikkelaars vanuit speciale technologie-hubs, zoals het AI Lab van MIT. Maar toen hij aan GNU begon te werken, nodigde Stallman andere ontwikkelaars uit om ook aan zijn project mee te werken. Door gebruik te maken van het ontluikende internet, konden hackers zelfs vanuit de hele wereld code bijdragen.
 
@@ -484,7 +484,7 @@ Stallman was zelf echter niet akkoord met de herbenoeming. Voor hem was vrijheid
 
 Vandaag de dag verwijzen de termen "vrije software" en "open source software" in vrijwel alle gevallen naar hetzelfde concept, maar het verschil in terminologie blijft de filosofische kloof vertegenwoordigen. De term "vrije en open source software" (FOSS) wordt gebruikt om beide zijden van het schisma expliciet te omvatten.[^50]
 
-### Gemeenschappelijk Begrip
+### Gemeenschappelijk begrip
 
 Het bazaar-model kan hoogwaardige code opleveren. Maar die kwaliteit is geen vanzelfsprekendheid. Volgens de Wet van Linus, vereist hoogwaardige code voldoende "ogen", oftewel bijdragers.
 
@@ -502,7 +502,7 @@ Net zoals vrije markten, kunnen vrije en open softwareprojecten een spontane ord
 
 "In veel opzichten gedraagt de Linux-wereld zich als een vrije markt of een ecologie, een verzameling van individuen die hun eigenbelang nastreven. Tijdens dit proces ontstaat een zichzelf corrigerende spontane orde die veel complexer en efficiënter is dan wat elke vorm van centrale planning ooit zou kunnen bereiken."[^53]
 
-## Hoofdstuk 3: Neutraal Geld
+## Hoofdstuk 3: Neutraal geld
 
 Friedrich Hayek legde het idee van de vrije markt uit in termen van spontane orde in de jaren dertig. Hij voerde aan dat individuen, door in hun eigen belang te handelen, in staat waren middelen op een efficiënte manier over de samenleving te verdelen met behulp van het prijssysteem: een verbazingwekkend concept.
 
@@ -520,7 +520,7 @@ Maar dit laat uiteraard nog steeds een belangrijk deel van de tegenstrijdigheid 
 
 Mises loste deze vraag op door de theorie van Carl Menger te accepteren, die stelde dat geld oorspronkelijk uit ruilhandel ontstond.
 
-### Van Ruilhandel naar Geld
+### Van ruilhandel naar geld
 
 In een ruileconomie -- een economie zonder geld -- ruilen mensen direct goederen en diensten. Als de schoenmaker een paar schoenen heeft, maar liever een brood wil, en de bakker een brood heeft maar liever een paar schoenen wil, dan ruilen ze hun producten met elkaar. Na deze transactie zijn ze beiden (subjectief gezien) beter af dan daarvoor.
 
@@ -574,7 +574,7 @@ Deze flexibiliteit bood de mogelijkheid voor een nieuw soort monetair beleid: ce
 
 Het was dit beleid waar Hayek zo fel kritiek op had.
 
-### De Stabilisators
+### De stabilisators
 
 De eerste pleitbezorger voor dit nieuwe type van monetair beleid was Irving Fisher, een toonaangevende econoom in het begin van de twintigste eeuw. Fisher was een van de eerste economen die zich zorgen maakten over deflatie, of specifieker, de deflatoire schuldenspiraal. Hij geloofde dat alleen stabiele prijzen "de kwalen van monetaire instabiliteit" konden voorkomen.[^58]
 
@@ -594,7 +594,7 @@ Hoewel dit inderdaad gedeeltelijk verzacht kon worden als de centrale banken een
 
 Als geld daarentegen volledig bevrijd zou worden van de beperkingen van goud, kon het monetaire beleid zo flexibel zijn als de monetaire autoriteiten nodig achtten.
 
-### De Verwerping van Stabiel Geld
+### De verwerping van stabiel geld
 
 Hayek verwierp het gebruik van rentetarieven door centrale banken als middel, omdat hij geloofde dat dit alleen diende om de conjunctuurcyclus te versterken. Maar hij verwierp ook het doel om prijzen te stabiliseren. Hayek keurde deze stabilisatoren af.
 

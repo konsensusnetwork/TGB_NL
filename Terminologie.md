@@ -1,4 +1,4 @@
-# Terminologie
+    # Terminologie
 foundations = grondslagen
 money Transmitter = betaaldienst
 electronic cash = elektronisch geld
@@ -37,3 +37,15 @@ hacker culture = hacker-cultuur
 copyright licenses = auteursrechtelijke licenties
 security = beveiliging
 barbarous relic = barbaars overblijfsel
+interspatial = interspatiaal
+intertemporal = intertemporaal
+gold exchange standard = goudwisselstandaard
+Stable Money Association = Vereniging voor Stabiel Geld
+fiat currency standard = fiatgeldstandaard
+fiat currency = fiat-valuta
+floating fiat currency system = zwevende fiatgeldsysteem
+cross-border trader = grensoverschrijdende handel
+interspatial = interspatiële
+gold convertiblity = goud-omwisselbaarheid / goudconvertibiliteit
+gold coverage ratio = gouddekkingsgraad
+Executive Order = Uitvoeringsbevel

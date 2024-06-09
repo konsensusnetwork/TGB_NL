@@ -49,3 +49,7 @@ interspatial = interspatiële
 gold convertiblity = goud-omwisselbaarheid / goudconvertibiliteit
 gold coverage ratio = gouddekkingsgraad
 Executive Order = Uitvoeringsbevel
+encryption key = versleutelingssleutel
+encryption keys = encryptiesleutels
+decryption key = ontsleutelingssleutel
+substitution cipher = substitutiecipher

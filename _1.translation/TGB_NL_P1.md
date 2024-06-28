@@ -800,43 +800,43 @@ Toen Diffie en Hellman elkaar voor het eerst ontmoetten in 1974 en het idee besp
 
 Toen Diffie na meer dan een jaar reizen besloot om zich te vestigen in de Bay Area, werden hij en Hellman goede vrienden en al snel collega's: Hellman nam Diffie aan als deeltijdse onderzoeker aan de universiteit.
 
-### Publieke-sleutel-cryptograpfie
+### Publieke-sleutel cryptograpfie
 
-Het was tijdens een gewone middag, toen Diffie oppaste op het huis van zijn voormalige werkgever John McCarthy, dat het kwartje eindelijk viel.
+Op een doodgewone middag, toen Diffie op het huis van zijn voormalige werkgever John McCarthy pastte, viel het kwartje eindelijk.
 
-Twee sleutels.
+*Twee* sleutels.
 
-De oplossing was om twee sleutels te gebruiken.
+De oplossing was om *twee* sleutels te gebruiken.
 
-Cryptografen hadden altijd als vanzelfsprekend beschouwd dat encryptiesleutels geheim moesten blijven, omdat ze ook dienden als decryptiesleutels. Maar Diffie negeerde deze "vanzelfsprekende waarheid" en kwam met het idee van sleutelparen. In plaats van slechts één geheime sleutel, zou iedereen twee sleutels hebben: een privésleutel die inderdaad geheim moest blijven, en een publieke sleutel die vrijuit gedeeld kon worden.
+Cryptografen hadden altijd als vanzelfsprekend beschouwd dat encryptiesleutels geheim moesten blijven, omdat ze ook dienden als decryptiesleutels. Maar Diffie negeerde deze 'vanzelfsprekende waarheid` en kwam met het idee van *sleutelparen*. In plaats van slechts één geheime sleutel, zou iedereen twee sleutels hebben, namelijk een privésleutel die inderdaad geheim moest blijven, en een publieke sleutel die vrijuit gedeeld kon worden.
 
-Diffie was van mening dat de sleutels wiskundig met elkaar verbonden zouden moeten zijn, waarbij de publieke sleutel in essentie zou worden afgeleid van de private sleutel door middel van een soort eenrichtingsfunctie. Zijn visie was erop gericht dat een verzender - laten we haar "Alice" noemen, zoals cryptografen graag doen - een bericht zou versleutelen met haar private sleutel, waarna de beoogde ontvanger, "Bob", het zou kunnen ontsleutelen met behulp van haar publieke sleutel.
+Diffie was van mening dat de sleutels wiskundig met elkaar verbonden moesten zijn, waarbij de publieke sleutel in essentie zou worden afgeleid van de privésleutel door middel van een soort eenrichtingsfunctie. Zijn visie was erop gericht dat een verzender -- laten we haar 'Alice' noemen, zoals cryptografen graag doen -- een bericht zou versleutelen met haar privésleutel, waarna de beoogde ontvanger, 'Bob', het zou kunnen ontcijferen met behulp van haar publieke sleutel.
 
-Als Bob inderdaad het bericht kon ontcijferen met Alice's publieke sleutel, zou dit bewijzen dat het bericht specifiek was versleuteld met Alice's privésleutel. Dit zou in feite een vorm van authenticatie mogelijk maken: de versleutelde versie van een bericht zou dienen als Alice's digitale handtekening.
+Als Bob het bericht inderdaad kon ontcijferen met Alice's publieke sleutel, zou dit bewijzen dat het bericht specifiek was versleuteld met Alice's privésleutel. Dit zou in feite een vorm van authenticatie mogelijk maken, aangezien de versleutelde versie van een bericht zou dienen als Alice's digitale handtekening.
 
 Deze digitale handtekeningen zouden zelfs krachtiger zijn dan geschreven handtekeningen, aangezien een cryptografische handtekening alleen geldig zou zijn in combinatie met het precieze stuk data dat was ondertekend. Als een digitaal contract na ondertekening wordt gewijzigd, zou de cryptografische handtekening niet meer overeenkomen. Op een bepaalde manier zouden zowel de handtekening als de data zelf onmogelijk na te maken zijn.
 
-Bovendien zag Diffie in dat het omgekeerde ook kon werken. Alice zou een bericht naar Bob kunnen versleutelen met Bob's publieke sleutel, waarna Bob - en alleen Bob - het zou kunnen ontcijferen met zijn privésleutel. Publieke-sleutelcryptografie beloofde zowel digitale authenticatie als veilige communicatie te bieden!
+Bovendien zag Diffie in dat het omgekeerde ook kon werken. Alice zou een bericht naar Bob kunnen versleutelen met *Bob*'s publieke sleutel, waarna Bob, en alleen Bob, het zou kunnen ontcijferen met zijn privésleutel. *Publieke-sleutel cryptografie* beloofde zowel digitale authenticatie als veilige communicatie te bieden!
 
-Toen het concept op een avond aan Hellman werd uitgelegd, was hij het ermee eens dat Diffie potentieel iets belangrijks had bedacht, ook al bestond het idee alleen nog maar in ontwerpfase en moest de exacte wiskunde nog worden uitgewerkt. In de weken die volgden, legde het duo enige vroege wiskundige basis om het idee tastbaarder te maken.
+Toen het concept die avond aan Hellman werd uitgelegd, was hij het ermee eens dat Diffie potentieel iets belangrijks had bedacht, ook al bestond het idee alleen nog maar in ontwerpfase en moest de exacte wiskunde nog worden uitgewerkt. In de weken die volgden, legde het duo de vroege wiskundige basis om het idee tastbaarder te maken.
 
-Dit resulteerde in het eerste gezamenlijk geschreven artikel van Diffie en Hellman. "Multiuser Cryptographic Techniques", dat in het voorjaar van 1976 werd gepubliceerd en kort daarna werd gepresenteerd op de National Computer Conference in New York. In dit artikel gaven de twee onderzoekers toe dat er in die tijd nog grote vragen onbeantwoord waren; ze wisten nog niet precies hoe encryptie of decryptie zou werken - noch hoe een openbare sleutel zou worden afgeleid van een privésleutel.
+Dit resulteerde in het eerste gezamenlijk geschreven artikel van Diffie en Hellman. "Multiuser Cryptographic Techniques", dat in het voorjaar van 1976 werd gepubliceerd en kort daarna werd gepresenteerd op de National Computer Conference in New York. In het artikel gaven de twee onderzoekers toe dat er nog grote vragen onbeantwoord waren. Ze wisten nog niet precies hoe encryptie of decryptie zou werken, noch hoe een publieke sleutel zou worden afgeleid van een privésleutel.
 
 "Op dit moment hebben we noch een bewijs dat er publieke sleutelsystemen bestaan," gaven Diffie en Hellman toe in hun paper, "noch een demonstratiesysteem."[^74]
 
-Echter, zij kondigden aan dat ze bezig waren met iets groots; ze brachten het idee van cryptografie met openbare sleutels naar voren.
+Maar ze kondigden aan dat ze bezig waren met iets groots: ze brachten het idee van cryptografie met publieke sleutels naar voren.
 
 ### Ralph Merkle
 
-Het artikel was nauwelijks gepubliceerd toen Hellman een brief ontving van een afgestudeerde student aan de Universiteit van Californië, Berkeley.
+Het artikel was nauwelijks gepubliceerd toen Hellman een brief van een afgestudeerde student aan de Universiteit van Californië, Berkeley ontving.
 
-De student had zelf ook een werkstuk geschreven, zo legde hij uit in zijn brief. Maar, "De mensen met wie ik probeer te praten, begrijpen volledig niet wat er aan de hand is, of zien elke poging tot oplossing als onmogelijk," schreef hij, zijn frustratie druipend van de pagina. Concluderend: "Er ontstaat de mogelijkheid om samen te werken en ik zou geïnteresseerd zijn in die mogelijkheid."[^75]
+De student had zelf ook een werkstuk geschreven, zo legde hij uit in zijn brief. Maar, "De mensen met wie ik probeer te praten, begrijpen totaal niet wat er aan de hand is, of zien elke poging tot oplossing als onmogelijk," schreef hij. Zijn frustratie druipte van de pagina. Hij concludeerde: "Ik zie de mogelijkheid om samen te werken ontstaan, en ik zou geïnteresseerd zijn in die mogelijkheid."[^75]
 
 Ondertekend: Ralph C. Merkle.
 
-Hoewel Merkle zo'n zeven of acht jaar jonger was dan Diffie en Hellman, leek zijn verhaal niet zo verschillend van dat van hen. Hij was altijd goed geweest met cijfers, stond consequent aan de top van elk wiskunde klas, en had sinds aanvang van de universiteit een bijzondere interesse ontwikkeld voor computers.
+Hoewel Merkle zo'n zeven of acht jaar jonger was dan Diffie en Hellman, leek zijn verhaal niet zo verschillend van dat van hen. Hij was altijd goed geweest met cijfers, stond consequent aan de top van elk wiskunde klas, en had sinds de aanvang van zijn universiteitsloopbaan een bijzondere interesse ontwikkeld voor computers.
 
-Hij maakte kennis met het veld van cryptografie tijdens een cursus over computerbeveiliging in zijn laatste semester als student. Maar toen de docent de Caesar-codering en andere vormen van symmetrische versleuteling besprak, realiseerde hij zich meteen dat de noodzakelijke sleuteluitwisseling in persoon de toepasbaarheid ervan ernstig beperkte. Merkle geloofde dat in een wereld waarin steeds meer communicatie digitaal zou gaan verlopen, er dringend behoefte was aan een betere oplossing.
+In zijn laatste semester als student maakte hij tijdens een cursus over computerbeveiliging kennis met het veld van cryptografie. Maar toen de docent de cipher van Caeser en andere vormen van symmetrische versleuteling besprak, realiseerde hij zich meteen dat de noodzakelijke sleuteluitwisseling in persoon de toepasbaarheid ervan ernstig beperkte. Merkle geloofde dat in een wereld waarin steeds meer communicatie digitaal zou gaan verlopen, er dringend behoefte was aan een betere oplossing.
 
 In plaats van het hele land door te reizen op zoek naar antwoorden, beperkte Merkle zijn zoektocht naar een oplossing tot zijn eigen creatieve geest. En uiteindelijk bedacht hij een plan dat, althans tot op zekere hoogte, het probleem zou kunnen oplossen.
 
@@ -848,19 +848,19 @@ Alice zou vervolgens alle puzzels naar Bob sturen. Bob zou op zijn beurt willeke
 
 Op basis van het unieke nummer dat Bob terugstuurt, weet Alice onmiddellijk welke geheime sleutel Bob daarbij heeft gevonden. Deze geheime sleutel zou dan de versleutelingsleutel zijn die ze met elkaar delen. Net als elke andere symmetrische versleutelingsleutel, zou deze worden gebruikt om berichten tussen hen te coderen en te decoderen.
 
-Ondertussen, een meeluisteraar zou alle puzzels die Alice naar Bob had gestuurd kunnen hebben gezien, en hij zou ook hebben kunnen zien welk uniek nummer Bob terug naar Alice stuurde, maar hij zou nog steeds de bijbehorende geheime sleutel niet weten.
+Een meeluisteraar die alle puzzels die Alice naar Bob had gestuurd zag, en ook welk uniek nummer Bob terug naar Alice stuurde, zou nog steeds de bijbehorende geheime sleutel niet weten.
 
-Om erachter te komen welke sleutel Alice en Bob hebben gekozen, zou een meekijker beginnen met het willekeurig oplossen van alle puzzels (brute kracht) om dat ene unieke nummer te vinden dat Bob terugstuurde, wat tevens de geheime sleutel zou onthullen. Dit zou echter een rekenkundig intensief proces zijn. Afhankelijk van de hoeveelheid puzzels die aanvankelijk werden gemaakt (en de moeilijkheidsgraad om elke puzzel op te lossen), zou het veel rekenkracht kunnen vergen en veel tijd in beslag kunnen nemen.
+Om erachter te komen welke sleutel Alice en Bob hebben gekozen, zou een meeluisteraar beginnen met het willekeurig oplossen van alle puzzels (via *brute kracht*) om dat ene unieke nummer te vinden dat Bob terugstuurde, wat tevens de geheime sleutel zou onthullen. Dit zou echter een rekenkundig intensief proces zijn. Afhankelijk van de hoeveelheid puzzels die aanvankelijk werden gemaakt (en de moeilijkheidsgraad om elke puzzel op te lossen), zou het veel rekenkracht kunnen vergen en veel tijd in beslag kunnen nemen.
 
-Alice en Bob zouden daarom een asymmetrisch voordeel hebben ten opzichte van de afluisteraar. Ze hoefden nauwelijks enige berekeningen uit te voeren om het eens te worden over een geheime sleutel, terwijl de afluisteraar heel veel berekeningen zou moeten uitvoeren voordat hij hun gesprek zou kunnen beluisteren.
+Alice en Bob zouden daarom een asymmetrisch voordeel hebben ten opzichte van de afluisteraar. Ze hoefden nauwelijks berekeningen uit te voeren om het eens te worden over een geheime sleutel, terwijl de afluisteraar heel veel berekeningen zou moeten uitvoeren voordat hij hun gesprek zou kunnen ontcijferen.
 
 Deze oplossing vereiste echter wel dat Alice en Bob veel data met elkaar deelden in de vorm van puzzels. En de veiligheid van de oplossing zou lineair toenemen met het totale aantal puzzels. Om het systeem tien keer moeilijker te kraken, zouden ze tien keer zoveel puzzels moeten delen; om het systeem honderd keer moeilijker te kraken, zouden ze honderd keer zoveel puzzels moeten delen, en zo voorts. In de praktijk suggereren data bronbeperkingen van normale gebruikers dat een goed gefinancierde aanvaller met een supercomputer in veel gevallen berichten binnen enkele dagen zou kunnen ontcijferen.
 
 Desondanks had Merkle een oplossing bedacht die twee mensen de mogelijkheid bood om tamelijk privé te communiceren zonder dat ze elkaar vooraf persoonlijk hoefden te ontmoeten. Hoewel het niet perfect was, was hij van mening dat deze techniek voor sleuteluitwisseling zeker innovatief en potentieel nuttig was.
 
-Merkle was echter niet in staat om iemand anders te overtuigen. Zijn idee ontving weinig lof aan de Universiteit van Berkeley, terwijl zijn artikel werd afgewezen door Communications van de ACM, het prestigieuze blad van de Association for Computing Machinery (ACM). Het verzenden van geheime sleutels via een onveilig netwerk werd door de recensenten als onacceptabel beschouwd. Bovendien merkten zij op, er was geen eerdere literatuur die sleuteluitwisseling had vastgesteld als een belangrijk probleem.
+Merkle was echter niet in staat om iemand anders te overtuigen. Zijn idee ontving weinig lof aan de Universiteit van Berkeley, en zijn artikel werd afgewezen door '*Communications of the ACM*', het prestigieuze blad van de Association for Computing Machinery (ACM). Het verzenden van geheime sleutels via een onveilig netwerk werd door de recensenten als onacceptabel beschouwd. Bovendien merkten zij op, was er geen eerdere literatuur die sleuteluitwisseling had vastgesteld als een belangrijk probleem.
 
-Omdat hij het potentieel ervan aan niemand om hem heen kon uitleggen, stond de teleurgestelde student op het punt om zijn idee helemaal los te laten - tot hij een voorloper van Diffie en Hellman's paper in handen kreeg. Merkle was snel om te herkennen dat het duo een soortgelijk probleem probeerde op te lossen. Het bood een vorm van bevestiging die hij wanhopig nodig had en hij besloot om contact op te nemen.
+Omdat hij het potentieel ervan aan niemand om hem heen kon uitleggen, stond de teleurgestelde student op het punt om zijn idee helemaal los te laten, totdat hij een proefdruk van Diffie en Hellman's paper in handen kreeg. Merkle zag meteen dat het duo een soortgelijk probleem probeerde op te lossen. Het bood een vorm van bevestiging die hij wanhopig nodig had en hij besloot om contact op te nemen.
 
 In tegenstelling tot Merkle's professor in Berkeley en de recensenten van het tijdschrift, bewonderden Diffie en Hellman de vindingrijkheid van het voorstel. Waar het idee van Diffie draaide om sleutelparen, zorgde Merkle's aanpak er op een slimme manier voor dat Alice en Bob overeen konden komen over een gedeelde sleutel op zo'n manier dat alleen zij (gemakkelijk) konden berekenen wat deze sleutel is. Hoewel Diffie en Hellman uiteindelijk concludeerden dat het schema niet robuust genoeg was voor wat ze probeerden te bereiken, nodigde het puzzelschema hen uit om het probleem vanuit een nieuw oogpunt te bekijken.
 

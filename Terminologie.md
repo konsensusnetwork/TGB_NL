@@ -53,3 +53,6 @@ encryption key = versleutelingssleutel
 encryption keys = encryptiesleutels
 decryption key = ontsleutelingssleutel
 substitution cipher = substitutiecipher
+private key = privésleutel
+public key = publieke sleutel
+decrypt = ontcijferen

@@ -864,55 +864,55 @@ Omdat hij het potentieel ervan aan niemand om hem heen kon uitleggen, stond de t
 
 In tegenstelling tot Merkle's professor in Berkeley en de recensenten van het tijdschrift, bewonderden Diffie en Hellman de vindingrijkheid van het voorstel. Waar het idee van Diffie draaide om sleutelparen, zorgde Merkle's aanpak er op een slimme manier voor dat Alice en Bob overeen konden komen over een gedeelde sleutel op zo'n manier dat alleen zij (gemakkelijk) konden berekenen wat deze sleutel is. Hoewel Diffie en Hellman uiteindelijk concludeerden dat het schema niet robuust genoeg was voor wat ze probeerden te bereiken, nodigde het puzzelschema hen uit om het probleem vanuit een nieuw oogpunt te bekijken.
 
-Hellman besloot om Merkle een zomerstage aan te bieden, waarbij hij de student uit Berkeley bijstond in het herschrijven van zijn paper tot een versie die uiteindelijk geaccepteerd werd door het ACM-journaal. Bovendien, door te bewijzen dat hij een creatieve en scherpzinnige denker was, werd Merkle eveneens betrokken bij verdere discussies rondom publieke sleutelcryptografie.
+Hellman besloot om Merkle een zomerstage aan te bieden, waarbij hij de student uit Berkeley bijstond in het herschrijven van zijn paper tot een versie die uiteindelijk geaccepteerd werd door het ACM-journaal. En door te bewijzen dat hij een creatieve en scherpzinnige denker was, werd Merkle bovendien ook betrokken bij verdere discussies rondom publieke sleutelcryptografie.
 
-Nu waren er drie geesten bezig met het probleem.
+Nu waren ze met drie bezig met het probleem.
 
-### De Doorbraak
+### De doorbraak
 
-Het was Hellman die uiteindelijk de puzzelstukjes op hun plek liet vallen.
+Uiteindelijk was het Hellman die de puzzelstukjes op hun plek liet vallen.
 
-Hoewel zijn oplossing niet alle vakken aankruiste waar hij en Diffie op mikten - er was geen digitale authenticatie - bedacht Hellman een schema dat twee partijen liet privé communiceren, zonder de noodzaak om persoonlijk op voorhand een encryptiesleutel te delen. Vergelijkbaar met het puzzelschema van Merkle is het idee achter de Diffie-Hellman sleuteluitwisseling (zoals deze oplossing bekend zou worden) dat Alice en Bob een gezamenlijk geheim kunnen afspreken: in essentie, een symmetrische encryptiesleutel die alleen zij kennen.
+Hoewel zijn oplossing niet aan alle vereisten voldeed waar hij en Diffie op mikten (want er was geen digitale authenticatie), bedacht Hellman wel een schema dat twee partijen privé liet communiceren, zonder de noodzaak om persoonlijk op voorhand een encryptiesleutel te delen. Vergelijkbaar met het puzzelschema van Merkle is het idee achter de Diffie-Hellman sleuteluitwisseling (zoals deze oplossing bekend zou worden) dat Alice en Bob een gezamenlijk geheim kunnen afspreken: in essentie, een symmetrische encryptiesleutel die alleen zij kennen.
 
-Om dit gedeelde geheim te genereren, zouden Alice en Bob sleutelparen gebruiken, het idee dat oorspronkelijk door Diffie werd geopperd. Hun privésleutels zouden in wezen gewoon zeer grote willekeurige getallen zijn---zo groot dat zelfs de snelste supercomputers ze niet binnen een miljoen jaar zouden kunnen raden. Elke openbare sleutel kan vervolgens afgeleid worden van een privésleutel door middel van een eenrichtingsfunctie. Het berekenen van de openbare sleutel uit de privésleutel zou gemakkelijk zijn, terwijl het berekenen van de privésleutel uit de openbare sleutel in principe onmogelijk zou zijn.
+Om dit gedeelde geheim te genereren, zouden Alice en Bob sleutelparen gebruiken, zoals oorspronkelijk door Diffie werd geopperd. Hun privésleutels zouden in wezen gewoon zeer grote willekeurige getallen zijn, die zelfs de snelste supercomputers niet binnen een miljoen jaar zouden kunnen raden. Elke publieke sleutel kan vervolgens afgeleid worden van een privésleutel door middel van een eenrichtingsfunctie. Het berekenen van de publieke sleutel uit de privésleutel zou gemakkelijk zijn, terwijl het berekenen van de privésleutel uit de publieke sleutel in principe onmogelijk zou zijn.
 
-Om het gedeelde geheim te produceren, zouden Alice en Bob elk hun eigen privésleutel vermenigvuldigen met de openbare sleutel van de ander. Dit zou hen beiden hetzelfde resultaat moeten geven: het gedeelde geheim.
+Om het gedeelde geheim te produceren, zouden Alice en Bob elk hun eigen *privésleutel* vermenigvuldigen met de *publieke* sleutel van de ander. Dit zou hen beiden hetzelfde resultaat moeten geven: het gedeelde geheim.
 
-Dit werkt omdat in beide gevallen het gedeelde geheim in essentie een combinatie is van beide privésleutels eenmaal door een eenrichtingsfunctie verwerkt. Wanneer Alice haar privésleutel vermenigvuldigt met de openbare sleutel van Bob, is de eenrichtingsfunctie al "ingebed" in de openbare sleutel van Bob, en hetzelfde klopt als Bob zijn privésleutel vermenigvuldigt met de openbare sleutel van Alice. Hoewel Alice en Bob de wiskunde in een andere "volgorde" uitvoeren, moet de uitkomst hetzelfde zijn.
+Dit werkt omdat in beide gevallen het gedeelde geheim in essentie een combinatie is van beide privésleutels die telkens *eenmaal* door een eenrichtingsfunctie zijn gehaald. Wanneer Alice haar privésleutel vermenigvuldigt met de publieke sleutel van Bob, is de eenrichtingsfunctie al 'ingebed' in de publieke sleutel van Bob, en hetzelfde klopt als Bob zijn privésleutel vermenigvuldigt met de publieke sleutel van Alice. Hoewel Alice en Bob de wiskunde in een andere 'volgorde' uitvoeren, moet de uitkomst hetzelfde zijn.
 
-(Als een vereenvoudigde analogie, dit is vergelijkbaar met hoe de uitkomst van 2 x (3 x 5) en 3 x (2 x 5) beide 30 zijn. In deze analogie is de 2 de privésleutel van Alice, de 3 is de privésleutel van Bob, x 5 is de eenrichtingsfunctie, en 30 is het gedeelde geheim.)
+(Dit is, weliswaar enigzins vereenvoudigd, vergelijkbaar met hoe de uitkomst van 2 x (3 x 5) en 3 x (2 x 5) beide 30 zijn. In deze analogie is de 2 de privésleutel van Alice, de 3 is de privésleutel van Bob, x 5 is de eenrichtingsfunctie, en 30 is het gedeelde geheim.)
 
-Ondertussen zou niemand anders het gedeelde geheim van Alice en Bob kunnen maken. Immers, als de twee openbare sleutels worden vermenigvuldigd, is het resultaat in wezen een combinatie van beide privésleutels, maar dan door een eenrichtingsfunctie heen gegaan, twee keer - een keer te veel. (Als we de analogie voortzetten, is dit te vergelijken met (2 x 5) x (3 x 5), wat 150 zou zijn in plaats van 30.)
+Tegelijk kan niemand anders het gedeelde geheim van Alice en Bob vinden. Immers, als de twee *publieke* sleutels worden vermenigvuldigd, is het resultaat in wezen een combinatie van beide privésleutels, maar dan *twee keer* door een eenrichtingsfunctie heen gegaan, en dus een keer te veel. (Als we de analogie voortzetten, is dit te vergelijken met (2 x 5) x (3 x 5), wat 150 zou zijn in plaats van 30.)
 
 Het genereren van het gedeelde geheim vereist dus toegang tot ofwel de privésleutel van Alice of van Bob. Zolang zij deze geheim houden, kunnen ze genieten van wiskundig gegarandeerde privécommunicatie.
 
-Het hele patroon van kennis tartend, was de Diffie-Hellman sleuteluitwisseling in staat om iets te realiseren dat lang onmogelijk werd geacht. Hierdoor had de techniek het potentieel om het volledige veld van cryptografie dramatisch te transformeren. De twee onconventionele cryptografen waren zich hier maar al te goed van bewust toen ze hun tweede paper, "Nieuwe richtingen in Cryptografie," indienden bij IEEE Transactions on Information Theory - een prestigieus wetenschappelijk tijdschrift uitgegeven door een professionele vereniging voor elektronische techniek.
+De Diffie-Hellman sleuteluitwisseling doorbrak het status-quo in het veld van de cryptografie en was in staat om iets te realiseren dat lang onmogelijk werd geacht. Hun techniek had het potentieel om het volledige veld van cryptografie dramatisch te transformeren. De twee onconventionele cryptografen waren zich hier maar al te goed van bewust toen ze hun tweede paper, "Nieuwe richtingen in Cryptografie", indienden bij *IEEE Transactions on Information Theory*, een prestigieus wetenschappelijk tijdschrift uitgegeven door een professionele vereniging voor elektronische techniek.
 
-"Vandaag staan we aan de rand van een revolutie in cryptografie," kondigden Diffie en Hellmann aan in hun paper, gepubliceerd in de editie van november 1976 van het tijdschrift. Vooruitziend dat hun doorbraak het begin van een grote omwenteling zou markeren, vervolgden ze: "theoretische ontwikkelingen in informatietheorie en informatica beloven aantoonbaar veilige cryptosystemen te bieden, waardoor deze eeuwenoude kunst verandert in een wetenschap."[^76]
+"Vandaag staan we aan de vooravond van een revolutie in cryptografie", kondigden Diffie en Hellmann aan in hun paper, gepubliceerd in de editie van november 1976 van het tijdschrift. Vooruitziend dat hun doorbraak het begin van een grote omwenteling zou markeren, vervolgden ze: "theoretische ontwikkelingen in informatietheorie en informatica beloven aantoonbaar veilige cryptosystemen mogelijk te maken, waardoor deze eeuwenoude kunst verandert in een wetenschap."[^76]
 
 Het werd al snel duidelijk dat Diffie en Hellman een stroomversnelling hadden veroorzaakt. Een nieuwe generatie cryptografen stond op het punt om een waterval aan innovatie in de wereld van de cryptografie te introduceren.
 
 ### RSA
 
-Onder de eersten die geïnspireerd raakten door het paper van Diffie en Hellman waren drie jonge wiskundigen van het MIT. Niet alleen hielden ze allen van getallen, ze hadden ook een gedreven behoefte om lastige problemen op te lossen. Ron Rivest, een assistent-professor aan de universiteit, Adi Shamir, een gastprofessor, en Leonard Adleman, een computerspecialist aan hetzelfde instituut, begonnen samen aan het ontwerpen van een eenrichtingsfunctie specifiek voor openbaarsleutelcryptografie.
+Onder de eersten die geïnspireerd raakten door het paper van Diffie en Hellman waren drie jonge wiskundigen van het MIT. Niet alleen hielden ze allen van getallen, ze waren ook gedreven om lastige problemen op te lossen. Ron Rivest, een assistent-professor aan de universiteit, Adi Shamir, een gastprofessor, en Leonard Adleman, een computerspecialist aan hetzelfde instituut, begonnen samen aan het ontwerpen van een eenrichtingsfunctie specifiek voor publieke sleutel-cryptografie.
 
-Enkele maanden later, in 1977, vonden zij succes.
+Enkele maanden later, in 1977, waren ze succesvol.
 
-RSA, zoals hun algoritme werd genoemd (elke letter vertegenwoordigt een van de uitvinders), benutte eeuwenoude wiskundige inzichten in priemfactoren - de vermenigvuldiging van priemgetallen - om een eenrichtingsfunctie met een ingebouwde valdeur te creëren. Door berekeningen te doen met een maximaal getal, zouden twee opeenvolgende, maar verschillende vermenigvuldigingen altijd het originele invoergetal teruggeven. In feite zou de eerste vermenigvuldiging de data versleutelen, terwijl de tweede het zou ontsleutelen.
+RSA, zoals hun algoritme werd genoemd (elke letter vertegenwoordigt een van de uitvinders), benutte eeuwenoude wiskundige inzichten in priemfactoren (de vermenigvuldiging van priemgetallen) om een eenrichtingsfunctie met een ingebouwde valdeur te creëren. Door berekeningen te doen met een maximaal getal, zouden twee opeenvolgende, maar verschillende vermenigvuldigingen altijd het originele invoergetal teruggeven. In feite zou de eerste vermenigvuldiging de data versleutelen, terwijl de tweede het zou ontsleutelen.
 
-Als een vereenvoudigde analogie, het is alsof je wiskunde toepast op een klok. Aangezien een klok maar tot twaalf telt, is het resultaat van tien plus vijf drie. Drie plus zeven, brengt ons vervolgens weer terug naar tien. In deze analogie is tien de oorspronkelijke data, het optellen van vijf staat voor het versleutelen, het aanvankelijke resultaat van drie is de versleutelde data, en wanneer er weer zeven wordt opgeteld vertegenwoordigt dit de functie van de achterdeur (de valstrik), wat neerkomt op het ontgrendelen (decrypten).
+Als een vereenvoudigde analogie, het is alsof je wiskunde toepast op een klok. Aangezien een klok maar tot twaalf telt, is het resultaat van tien plus vijf drie. Drie plus zeven, brengt ons vervolgens weer terug naar tien. In deze analogie is tien de oorspronkelijke data, het optellen van vijf staat voor het versleutelen, het aanvankelijke resultaat van drie is de versleutelde data, en wanneer er weer zeven wordt opgeteld vertegenwoordigt dit de functie van de valdeur, wat neerkomt op het ontcijferen (decrypten).
 
-RSA maakte het versleutelen en ontsleutelen van berichten in lijn met het oorspronkelijke idee van Diffie. Als Alice Bob een gecodeerd bericht wilde sturen, dan kon ze simpelweg het bericht versleutelen met Bob's publieke sleutel. Bob kon het bericht vervolgens ontcijferen met alleen zijn private sleutel. Bob had de publieke sleutel van Alice niet meer nodig, en beiden hadden geen gedeeld geheim meer nodig.
+RSA maakte het versleutelen en ontsleutelen van berichten compatibel met het oorspronkelijke idee van Diffie. Als Alice naar Bob een versleuteld bericht wilde sturen, kon ze simpelweg het bericht versleutelen met Bob's publieke sleutel. Bob kon het bericht vervolgens ontcijferen met alleen zijn privésleutel. Bob had de publieke sleutel van Alice niet meer nodig, en beiden hadden geen gedeeld geheim meer nodig.
 
-Misschien nog wel belangrijker, het algoritme werkte net zo goed in omgekeerde volgorde. Twee daaropvolgende vermenigvuldigingen leverden altijd het oorspronkelijke getal terug, ongeacht welke van de twee vermenigvuldigingen eerst werd uitgevoerd. Voortbordurend op de klok-analogie, waarbij tien plus vijf plus zeven ons terugbracht naar tien, brengt de omgekeerde volgorde - tien plus zeven plus vijf - ons precies hetzelfde terug naar tien.
+Misschien nog belangrijker, werkte het algoritme net zo goed in omgekeerde volgorde. Twee opeenvolgende vermenigvuldigingen leverden altijd het oorspronkelijke getal terug, ongeacht welke van de twee vermenigvuldigingen eerst werd uitgevoerd. Voortbordurend op de klok-analogie, waarbij tien plus vijf plus zeven ons terugbracht naar tien, brengt de omgekeerde volgorde (tien plus zeven plus vijf) ons ook terug naar tien.
 
-In de praktijk betekende dit dat een privésleutel kon worden gebruikt om data te versleutelen, die vervolgens kon worden ontsleuteld met de bijpassende openbare sleutel. Hierdoor maakte RSA een cryptografisch handtekeningenschema mogelijk: Alice kan een bericht versleutelen, dat Bob (of iemand anders) kan ontsleutelen met haar openbare sleutel, wat bewijst dat het bericht daadwerkelijk is versleuteld met Alice's privésleutel.
+In de praktijk betekende dit dat een privésleutel kon worden gebruikt om data te versleutelen, die vervolgens kon worden ontcijferd met de bijpassende publieke sleutel. Hierdoor maakte RSA een cryptografisch handtekeningenschema mogelijk: Alice kan een bericht versleutelen, dat Bob (of iemand anders) kan ontcijferen met haar publieke sleutel, wat bewijst dat het bericht daadwerkelijk is versleuteld met Alice's privésleutel.
 
-Waar de Diffie-Hellman sleuteluitwisseling privécommunicatie mogelijk maakte, faciliteerde RSA voor het eerst ook een vorm van digitale authenticatie.
+Terwijl de Diffie-Hellman sleuteluitwisseling privécommunicatie mogelijk maakte, faciliteerde RSA voor het eerst ook een vorm van digitale authenticatie.
 
-En tot slot, de beveiliging van RSA schaalde (ongeveer) exponentieel. Gewoon een paar cijfers toevoegen aan de originele priemgetallen die in dit schema werden gebruikt, zou het veel moeilijker maken om later te ontdekken welke priemgetallen werden gebruikt - en daarmee, veel moeilijker om de encryptie te breken. Met publieke sleutels zo klein dat zelfs informele computergebruikers ze gemakkelijk konden delen, was beveiliging wiskundig gegarandeerd voor miljoenen jaren.
+En tot slot, RSA-encryptie schaalde (ongeveer) exponentieel. Gewoon een paar cijfers toevoegen aan de originele priemgetallen die in dit schema werden gebruikt, zou het veel moeilijker maken om later te ontdekken welke priemgetallen werden gebruikt, en daarmee ook veel moeilijker om de encryptie te breken. Met publieke sleutels zo klein dat zelfs informele computergebruikers ze gemakkelijk konden delen, was beveiliging voor miljoenen jaren wiskundig gegarandeerd.
 
-Met RSA was Diffie's visie voor publieke sleutelcryptografie echt werkelijkheid geworden.
+Met RSA was Diffie's visie voor publieke-sleutelcryptografie echt werkelijkheid geworden.
 
 ### David Chaum
 
@@ -920,35 +920,35 @@ Een andere jonge cryptograaf die geïnspireerd werd door de doorbraak van Diffie
 
 Chaum groeide op in de buitenwijken van Los Angeles in de jaren 60 en begin jaren 70, waar hij al op jonge leeftijd een natuurlijke interesse voor beveiligingstechnologie ontwikkelde. Aanvankelijk ging zijn belangstelling uit naar hardware, zoals deursloten, inbraakalarmen en fysieke kluizen. Aan het einde van zijn jeugdjaren resulteerde dit in het ontwerpen van een nieuw type slot. Chaum kwam zelfs dichtbij het verkopen van zijn ontwerp aan een grote fabrikant.
 
-Maar tegen die tijd begon zijn interesse tevens te groeien op het relatief nieuwe gebied van informatietechnologie. Hij wisselde regelmatig van universiteit - hij bezocht de University of California, Los Angeles nog voordat hij de middelbare school had afgerond, schakelde over naar de University of Sonora in Mexico om dicht bij zijn vriendin van dat moment te zijn, en studeerde uiteindelijk af aan de University of California, San Diego. Chaum studeerde informatica en wiskunde, en tegen de late jaren '70 leerde hij over cryptografie en de recente doorbraken in dat veld.
+Maar tegen die tijd begon zijn interesse tevens te groeien op het relatief nieuwe gebied van informatietechnologie. Hij wisselde regelmatig van universiteit, beginnend aan de University of California, Los Angeles nog voordat hij de middelbare school had afgerond, schakelde over naar de University of Sonora in Mexico om dicht bij zijn vriendin van dat moment te zijn, en studeerde uiteindelijk af aan de University of California, San Diego. Chaum studeerde informatica en wiskunde, en tegen de late jaren '70 leerde hij over cryptografie en de recente doorbraken in dat veld.
 
-Chaum zag het potentieel van de openbare sleutelcryptografie natuurlijk ook, omdat hij eveneens glimpsen van de toekomst had opgevangen. Hij voorzag dat computers steeds gewoner zouden worden, tot het punt waarop elk huishouden er een in huis zou hebben. En net zoals ARPAnet langzaam begon te transformeren naar het (meer algemeen toegankelijke) vroege internet, verwachtte hij dat elektronische communicatie de wereld zou transformeren.
+Chaum zag het potentieel van de publieke sleutelcryptografie natuurlijk ook, omdat hij eveneens glimpsen van de toekomst had opgevangen. Hij voorzag dat computers steeds gebruikelijker zouden worden, tot het punt waarop elk huishouden er een in huis zou hebben. En terwijl ARPAnet langzaam begon te transformeren naar het (meer algemeen toegankelijke) vroege internet, verwachtte hij dat elektronische communicatie de wereld zou transformeren.
 
-Net zoals Diffie dat voor hem deed, erkende Chaum ook dat deze transformatie naar een tamelijk dystopische toekomst kon leiden. Hij begreep dat als berichten, documenten of bestanden over het internet werden verzonden, al deze data het risico liepen om op een nooit eerder geziene schaal gemonitord, onderschept en geëxploiteerd te worden door tirannen. Chaum maakte zich zorgen dat mensen zich anders gaan gedragen als ze geloven dat ze mogelijk bekeken worden. Massasurveillance zou een gevangenis voor de geest creëren, conformiteit bevorderen, en uiteindelijk fundamentele vrijheden vernietigen, aldus Chaum.
+Net zoals Diffie dat voor hem deed, herkende Chaum ook dat deze transformatie naar een tamelijk dystopische toekomst kon leiden. Hij begreep dat als berichten, documenten of bestanden over het internet werden verzonden, al deze data het risico liep om op een nooit eerder geziene schaal gemonitord, onderschept en geëxploiteerd te worden door tirannen. Chaum maakte zich zorgen dat mensen zich anders gaan gedragen als ze geloven dat ze mogelijk bekeken worden. Massasurveillance zou een gevangenis voor de geest creëren, conformiteit bevorderen, en uiteindelijk fundamentele vrijheden vernietigen, aldus Chaum.
 
-"De cyberruimte kent niet dezelfde fysieke beperkingen," legde Chaum later uit aan een journalist van het technologiemagazine Wired. "Er zijn geen muren ... het is een andere, angstaanjagende, vreemde plek en met identificatie wordt het een nachtmerrie van panoptisch toezicht. Juist? Alles wat je doet kan door iedereen gekend worden, kan voor altijd worden opgenomen. Het is volkomen tegenstrijdig met het basisprincipe dat ten grondslag ligt aan de mechanismen van de democratie."[77]
+"De cyberruimte kent niet dezelfde fysieke beperkingen," legde Chaum later uit aan een journalist van het technologiemagazine *Wired*. "Er zijn geen muren ... het is een andere, angstaanjagende, vreemde plek en met identificatie wordt het een nachtmerrie van panoptisch toezicht. Juist? Alles wat je doet kan door iedereen gekend zijn, kan voor altijd worden opgenomen. Het is volkomen tegenstrijdig met het basisprincipe dat ten grondslag ligt aan de mechanismen van de democratie."[77]
 
-Maar hij zag dat er nu een alternatief was; een andere mogelijke toekomst. Chaum besefte dat de gloednieuwe ontwikkelingen in de cryptografie konden worden ingezet als beschermingsmiddelen. De maatschappij stond op een kruispunt, en innovaties zoals openbare sleutelcryptografie boden hoop voor een wereld waarin mensen de macht hadden over hun eigen data.
+Maar hij zag dat er nu een alternatief was: een andere mogelijke toekomst. Chaum besefte dat de gloednieuwe ontwikkelingen in de cryptografie konden worden ingezet als verdediging. De maatschappij stond op een kruispunt, en innovaties zoals publieke sleutelcryptografie boden hoop voor een wereld waarin mensen de macht hadden over hun eigen data.
 
-Gedeeltelijk omdat hij wist dat Ralph Merkle naar Berkeley was gegaan (maar niet op de hoogte was dat Merkle's initiële puzzelschema daar niet speciaal goed was ontvangen), koos Chaum voor de universiteit in de Bay Area om zijn doctoraat te behalen. Hier, van dichtbij, werd hij getuige van hoe het veld van cryptografie tegen het einde van dat decennium evolueerde van een niche interesse, exclusief voor kleine universiteitsafdelingen en academische tijdschriften, naar een kleine revolutie in het veld van de informatica, aangedreven door een toegewijde en groeiende gemeenschap van gelijkgestemde wiskundigen.
+Gedeeltelijk omdat hij wist dat Ralph Merkle naar Berkeley was gegaan (maar niet op de hoogte was dat Merkle's initiële puzzelschema daar niet bepaald goed was ontvangen), koos Chaum voor de universiteit in de Bay Area om zijn doctoraat te behalen. Hier was hij van dichtbij getuige van hoe het veld van cryptografie tegen het einde van dat decennium evolueerde van een niche interesse, exclusief voor kleine universiteitsafdelingen en academische tijdschriften, naar een kleine revolutie in het veld van de informatica, aangedreven door een toegewijde en groeiende gemeenschap van gelijkgestemde wiskundigen.
 
-Dit resulteerde in de allereerste Crypto-conferentie in 1981, georganiseerd aan de Universiteit van Californië, Santa Barbara. De grootste vernieuwers in het veld -- Diffie, Hellman, Merkle, Rivest, Shamir, Adelman -- en ongeveer vijftig andere cryptografen waren aanwezig, met velen van hen die elkaar voor het eerst in persoon ontmoetten. Ze presenteerden hun nieuwste documenten, bespraken mogelijke verbeteringen aan bestaande schema's, of leerden elkaar gewoon wat beter kennen terwijl ze een avond doorbrachten met barbecuen op het strand.
+Het resulteerde in de allereerste *Crypto*-conferentie in 1981, georganiseerd aan de Universiteit van Californië, Santa Barbara. De grootste vernieuwers in het veld -- Diffie, Hellman, Merkle, Rivest, Shamir, Adelman -- en ongeveer vijftig andere cryptografen waren aanwezig, met velen die elkaar voor het eerst in persoon ontmoetten. Ze presenteerden hun nieuwste documenten, bespraken mogelijke verbeteringen aan bestaande schema's, of leerden elkaar gewoon wat beter kennen terwijl ze een avond doorbrachten met barbecuen op het strand.
 
-Echter, tot grote ontsteltenis van de NSA, gebeurde dit allemaal. Net als de nieuwe lichting cryptografen die samengekomen waren bij Crypto 1981, herkende ook de overheidsorganisatie het potentieel van public key cryptografie. Maar in tegenstelling tot het optimisme en de vreugde op de conferentie, waren mensen binnen de inlichtingengemeenschap bezorgd dat sterke encryptie hun hele werkwijze in gevaar kon brengen. Ze wilden deze cryptografische revolutie stoppen voordat het te ver ging, en in de nasleep van de conferentie begon de NSA waarschuwingen uit te geven aan wetenschappelijke organisaties om geen presentaties te faciliteren, zoals die tijdens Crypto 1981 zo openlijk tentoongesteld werden.
+Echter, dit gebeurde allemaal tot grote ontsteltenis van de NSA. Net als de nieuwe lichting cryptografen die samengekomen waren bij Crypto 1981, herkende ook de overheidsorganisatie het potentieel van publieke sleutelcryptografie. Maar in tegenstelling tot het optimisme en de vreugde op de conferentie, waren mensen binnen de inlichtingengemeenschap bezorgd dat sterke encryptie hun hele werkwijze in gevaar kon brengen. Ze wilden deze cryptografische revolutie stoppen voordat het te ver ging, en in de nasleep van de conferentie begon de NSA waarschuwingen te geven aan wetenschappelijke organisaties om geen presentaties te faciliteren, zoals die tijdens Crypto 1981 zo openlijk tentoongesteld werden.
 
-Toen hij hiervan hoorde, besloot Chaum terug te vechten. Hij ondernam zelf de taak om ervoor te zorgen dat de conferentie geen eenmalig evenement zou blijven. Uitgerust met een lijst van namen en contactinformatie die door Adleman was verstrekt, begon de promovendus contact op te nemen met alle grote namen in het veld van crypto. Zorgvuldig om geen aandacht te trekken van de NSA, stuurde hij fysieke brieven of ontmoette de mensen persoonlijk, maar vermeden telefoongesprekken over het onderwerp. Uiteindelijk wist Chaum iedereen terug te krijgen naar Santa Barbara voor Crypto 1982, terwijl hij ook een Europese conventie (Eurocrypt) in Duitsland organiseerde in datzelfde jaar.
+Toen hij hiervan hoorde, besloot Chaum terug te vechten. Hij ondernam actie om ervoor te zorgen dat de conferentie geen eenmalig evenement zou blijven. Uitgerust met een lijst van namen en contactinformatie die door Adleman was verstrekt, begon de promovendus contact op te nemen met alle grote namen in het veld van crypto. Om geen aandacht te trekken van de NSA, stuurde hij fysieke brieven of ontmoette de mensen persoonlijk, maar vermeden telefoongesprekken over het onderwerp. Uiteindelijk wist Chaum iedereen terug samen te brengen in Santa Barbara op Crypto 1982, terwijl hij ook een Europese conventie (*Eurocrypt*) in Duitsland organiseerde in datzelfde jaar.
 
-Daarnaast richtte Chaum de International Association for Cryptologic Research op, een non-profit organisatie die belast werd met het bevorderen van onderzoek in de cryptografie. Hij kondigde de oprichting van deze organisatie aan tijdens de Crypto conferentie van 1982, wat opnieuw voor veel irritatie zorgde bij de NSA.
+Daarnaast richtte Chaum de *International Association for Cryptologic Research* op, een non-profit organisatie die belast werd met het bevorderen van onderzoek in de cryptografie. Hij kondigde de oprichting van deze organisatie aan tijdens de Crypto conferentie van 1982, wat opnieuw voor veel irritatie zorgde bij de NSA.
 
-Maar, de grootste bijdragen van Chaum aan het veld van de cryptografie waren niet de evenementen die hij organiseerde of de organisatie die hij oprichtte, maar de tools die hij ontwierp.
+De grootste bijdragen van Chaum aan het veld van de cryptografie waren echter niet de evenementen die hij organiseerde of de organisatie die hij oprichtte, maar de technieken die hij ontwierp.
 
 ### Remailers
 
-Publieke-sleutelcryptografie maakte het mogelijk voor twee mensen die elkaar nog nooit hadden ontmoet om berichten uit te wisselen die alleen zij konden lezen. Dit bood privacy in communicatie - een baanbrekende vooruitgang.
+Publieke-sleutelcryptografie maakte het mogelijk voor twee mensen die elkaar nog nooit hadden ontmoet om berichten uit te wisselen die alleen zij konden lezen. Dit bood privacy in communicatie --- een baanbrekende ontwikkeling.
 
-Maar het was geen wondermiddel, besefte Chaum. Zelfs met de openbare sleutelcryptografie, bleef een aanzienlijke privacyrisico bestaan: verkeersanalyse kon onthullen wie met wie praatte, en wanneer.
+Maar het was geen wondermiddel, besefte Chaum. Zelfs met de publieke sleutelcryptografie, bleef een aanzienlijke privacy-risico bestaan: verkeersanalyse kon onthullen wie met wie praatte, en wanneer.
 
-Dergelijke metadata kunnen meer over iemand onthullen dan iemand prettig zou vinden. Een onderzoeksjournalist wil misschien niet dat zijn bronnen bekend worden, bijvoorbeeld. Of burgers uit landen met autoritaire regimes willen misschien niet dat iemand weet dat ze communiceren met een politieke dissident. Of misschien geeft een werknemer die informeert naar werkgelegenheden bij een concurrerend bedrijf de voorkeur aan het feit dat zijn baas niet ontdekt dat hij contact heeft gehad met dit bedrijf.
+Dergelijke *metadata* kunnen meer over iemand onthullen dan iemand prettig zou vinden. Een onderzoeksjournalist wil misschien niet dat zijn bronnen bekend worden, bijvoorbeeld. Of burgers uit landen met autoritaire regimes willen misschien niet dat iemand weet dat ze communiceren met een politieke dissident. Of misschien geeft een werknemer die informeert naar werkgelegenheden bij een concurrerend bedrijf de voorkeur aan het feit dat zijn baas niet ontdekt dat hij contact heeft gehad met dit bedrijf.
 
 In zijn paper uit 1981 getiteld "Ontraceerbare elektronische post, retouradressen en digitale pseudoniemen", stelde Chaum een oplossing voor dit probleem voor, eveneens gebaseerd op publieke sleutelcryptografie.[^78]
 
@@ -956,19 +956,19 @@ Dit is hoe het werkte.
 
 Als Alice een bericht aan Bob wil sturen, zou ze eerst zijn publieke sleutel moeten nemen en het bericht daarmee versleutelen. Op deze manier zou alleen Bob het bericht moeten kunnen ontcijferen.
 
-Maar ze zou het bericht niet rechtstreeks naar Bob sturen; een speurder die hun verbindingen monitort, zou dan kunnen zien dat de twee communiceren, wat juist is wat Alice probeert te vermijden.
+Maar ze zou het bericht niet rechtstreeks naar Bob sturen: een speurder die hun verbindingen monitort, zou dan kunnen zien dat de twee communiceren, wat Alice juist probeert te vermijden.
 
-In plaats daarvan zou Alice het versleutelde bericht nemen en daaraan het e-mailadres van Bob toevoegen. Vervolgens zou ze dit hele pakket - het versleutelde bericht voor Bob en zijn e-mailadres - nog een keer versleutelen, maar nu met de openbare sleutel die geassocieerd is met een speciale mixserver. Het bericht zou nu twee lagen van codering hebben: één laag voor het originele bericht en een andere laag voor het hele pakket. Alice zou dit dubbel versleutelde pakket dan naar de mixer sturen.
+In plaats daarvan zou Alice het versleutelde bericht nemen en daaraan het e-mailadres van Bob toevoegen. Vervolgens zou ze dit hele pakket (het versleutelde bericht voor Bob en zijn e-mailadres) nog een keer versleutelen, maar nu met de openbare sleutel die geassocieerd is met een speciale mixserver. Het bericht zou nu twee lagen van codering hebben: één laag voor het originele bericht en een andere laag voor het hele pakket. Alice zou dit dubbel versleutelde pakket dan naar de mixer sturen.
 
-De mixing server zou op zijn beurt het pakket ontcijferen met zijn privésleutel, om het originele gecodeerde bericht en Bob's e-mailadres te vinden. De mixer zou dit gebruiken om het gecodeerde bericht naar Bob te sturen, die het vervolgens zou ontcijferen om Alice's originele bericht te lezen. Als tussenpersoon brak de mixer de directe link tussen Alice en Bob, waardoor het moeilijker werd voor de speurneus om te concluderen dat ze communiceerden. Tenzij het duidelijk is uit de inhoud van het bericht, zou Bob zelf ook niet weten dat het van Alice afkomstig was.
+De server van de mixer zou op zijn beurt het pakket ontcijferen met zijn privésleutel, om het originele gecodeerde bericht en Bob's e-mailadres te vinden. De mixer zou dit gebruiken om het gecodeerde bericht naar Bob te sturen, die het vervolgens zou ontcijferen om Alice's originele bericht te lezen. Als tussenpersoon brak de mixer de directe link tussen Alice en Bob, waardoor het moeilijker werd voor de speurneus om te concluderen dat ze communiceerden. Tenzij het duidelijk is uit de inhoud van het bericht, zou Bob zelf ook niet weten dat het van Alice afkomstig was.
 
-Het basisidee werkt zolang de mixer te vertrouwen is en het niet zal verklappen aan de spion (of aan Bob) dat het pakket voor het eerst van Alice heeft ontvangen. Maar Chaum legde uit dat het zelfs niet noodzakelijk is om de mixer te vertrouwen. In mijn eigen woorden: Deze basisopzet functioneert zolang je op de mixer kan rekenen en zolang deze niet aan de gluurder (of aan Bob) onthult dat hij het versleutelde pakket eerst van Alice heeft ontvangen. Maar Chaum maakte duidelijk dat het zelfs niet nodig is om de mixer te vertrouwen.
+Dit basisopzet functioneert zolang je op de mixer kan rekenen en zolang deze niet aan de gluurder (of aan Bob) onthult dat hij het versleutelde pakket eerst van Alice heeft ontvangen. Maar Chaum maakte duidelijk dat het zelfs niet nodig is om de mixer te vertrouwen.
 
 Om het risico van een onbetrouwbare mixer te verminderen, kan Alice meerdere mixers gebruiken. In dat geval zou Alice een gecodeerd pakket naar mixer 1 sturen, dat mixer 1 kan ontcijferen om het e-mailadres van mixer 2 en een ander gecodeerd bericht te vinden. Dit bericht kan mixer 2 vervolgens ontcijferen om het e-mailadres van mixer 3 te vinden en nog een ander gecodeerd bericht. Dit bericht kan mixer 3 dan ontcijferen om inderdaad het e-mailadres van Bob en nog een gecodeerd bericht te vinden. Dit laatste bericht kan Bob ten slotte ontcijferen om het originele bericht te lezen. Door elk één laag van de encryptie te verwijderen en het pakket naar de volgende ontvanger door te sturen, zouden de mixers weten van wie ze het pakket hebben ontvangen en naar wie ze het hebben doorgestuurd, maar geen van hen zou weten waar het pakket oorspronkelijk vandaan kwam en wie de eindontvanger was.
 
-Een indringer die Bob's communicatie probeert te monitoren, zou mogelijk kunnen weten dat mixer 3 uiteindelijk het bericht naar Bob stuurde, maar zelfs als mixer 3 deze informatie met de indringer deelt op verzoek (of gerechtelijk bevel), helpt dit de indringer slechts één stap vooruit. Als er ook maar één van de mixers weigert mee te werken, stopt het spoor. (En als de mixers in verschillende rechtsgebieden verblijven, kunnen zelfs wetshandhavingsautoriteiten uit een bepaald land het moeilijk hebben om de oorsprong van een bericht na te gaan.)
+Een luistervink die Bob's communicatie probeert te monitoren, zou mogelijk kunnen weten dat mixer 3 uiteindelijk het bericht naar Bob stuurde, maar zelfs als mixer 3 deze informatie met de indringer deelt op verzoek (of gerechtelijk bevel), helpt dit de indringer slechts één stap vooruit. Als er ook maar één van de mixers weigert mee te werken, stopt het spoor. (En als de mixers in verschillende rechtsgebieden verblijven, kunnen zelfs wetshandhavingsautoriteiten uit een bepaald land het moeilijk hebben om de oorsprong van een bericht na te gaan.)
 
-Met dat, had Chaum het cruciale conceptuele fundament gelegd voor wat later bekend zou worden als remailers.
+Zo had Chaum het cruciale conceptuele fundament gelegd voor wat later bekend zou worden als *remailers*.
 
 En zijn bijdragen aan het veld van cryptografie zouden daar niet ophouden...
 
@@ -1124,7 +1124,7 @@ Maar nu, in de nadagen van zijn carrière, viel het kwartje eindelijk voor hem.
 
 Het idee was dat geld aan de vrije markt overgelaten moest worden.
 
-### Denationaliseren van Geld
+### Denationaliseren van geld
 
 Hayek heeft als eerste deze bewering gedaan in zijn toespraak tot de Gouden en Monetaire Conferentie in Genève in 1975[^93]. In 1976 presenteerde Hayek dit onconventionele voorstel uitvoerig in zijn boek 'Denationalisation of Money'. In essentie betoogde de econoom dat banken volledig gedereguleerd zouden moeten worden, zodat ze elk geld dat ze geschikt achten konden uitgeven: ondersteund of niet ondersteund, inflatoir of deflatoir, al dan niet in bestaan gebracht door leningen, en tegen elk renteniveau dat ze wilden berekenen.
 
@@ -1148,7 +1148,7 @@ Op het eerste gezicht zou dit als een toegeving aan het gebruik van een consumen
 
 Dit zou inderdaad een valuta met een vaste voorraad kunnen omvatten, of wat Hayek eerder in zijn carrière had omschreven als neutraal geld.
 
-### Ongedekt Geld
+### Ongedekt geld
 
 Het voorstel van Hayek kreeg niet meteen de steun van al zijn collega's binnen de Oostenrijkse school van economie. Veel Oostenrijkers waren van mening dat de markt al een lange tijd geleden de beste vorm van geld had gekozen; in een strijd die duizenden jaren heeft geduurd, had goud gewonnen. Zij hielden vol dat goud nog steeds de beste vorm van geld was, en dat nieuwe valuta's op z'n minst gesteund zouden moeten worden door het kostbare metaal.
 
@@ -1168,7 +1168,7 @@ In een wereld waar banken en andere financiële instellingen in de loop der tijd
 
 Hayek zag geld als een spontane orde.
 
-### Het realiseren van Vrij Bankieren
+### Het realiseren van vrij bankieren
 
 Hoewel de meeste landen technisch gezien alternatieve valuta's toestaan - er zijn doorgaans geen wetten die ze expliciet illegaal maken - wordt dit vaak niet weerspiegeld in de praktijk. Bankregulaties, vergunningen voor geldtransfers, antiwitwasregels, wetten tegen vervalsing evenals belastingen (zoals vermogenswinstbelasting op alternatieve valuta's) bieden wetshandhavingsinstanties meer dan voldoende middelen om bedrijven die valuta uitgeven compleet te sluiten, en hun operators veroordeeld te krijgen - of op zijn minst maken ze het runnen van dergelijke bedrijven praktisch onmogelijk.
 
@@ -1200,7 +1200,7 @@ Het werk van Hayek op het gebied van geld diende kort na zijn overlijden als ins
 
 Ze gingen een toekomst bouwen zonder hen...
 
-## Hoofdstuk 6: eCash (en Vertrouwensloze Tijdstempels)
+## Hoofdstuk 6: eCash (en vertrouwensloze tijdstempels)
 
 Sinds Whitfield Diffie en Martin Hellman de Diffie-Hellman sleuteluitwisseling introduceerden in 1976, begrepen cryptografen hoe twee mensen die elkaar nooit eerder ontmoet hadden de inhoud van hun onderlinge berichten konden versleutelen voor iedereen behalve voor zichzelf. Ondertussen hadden de mixnetwerken van David Chaum al in de vroege jaren '80 de basis gelegd voor remailers: een digitale infrastructuur ontworpen om metadata te verbergen. Gecombineerd konden deze instrumenten een lange weg afleggen naar het bieden van privacy voor de meeste soorten van elektronische communicatie.
 
@@ -1222,7 +1222,7 @@ Volgens Chaum zou een maatschappij waarin anonieme transacties wel of niet mogel
 
 De wereld had behoefte aan elektronisch geld.
 
-### Het Probleem van Dubbele Uitgaven
+### Het dubbele-uitgavenprobleem
 
 Toen Chaum begon na te denken over ontwerpen voor een elektronisch geldsysteem, kwam hij al snel de eerste uitdaging tegen die iedereen die een digitale vorm van geld wil creëren, tegenkomt: het probleem van dubbele uitgaven.[^103]
 
@@ -1238,7 +1238,7 @@ Dit lost het probleem van dubbele uitgaven op... maar het illustreert ook het pr
 
 Daarom begon Chaum aan een zoektocht naar een manier waarop zo'n derde partij (de bank) dubbele uitgaven kon detecteren, zonder de mogelijkheid om te traceren hoe elke "digitale dollar" zich door de economie beweegt.
 
-### Blinde Handtekeningen
+### Blinde handtekeningen
 
 De bekwaamde cryptoloog loste het probleem op in 1983. Nauwelijks nadat hij zijn doctoraat in informatica aan de Berkeley-universiteit had verdiend, werd Chaum aangesteld als professor aan diezelfde universiteit. Hij publiceerde zijn ontwerp voor een elektronisch geldsysteem in zijn paper getiteld "Blinde handtekeningen voor ontraceerbare betalingen."
 
@@ -1258,7 +1258,7 @@ Met andere woorden, iedereen die het originele bericht heeft, kan op dat moment 
 
 Als een realistische analogie die Chaum in zijn paper gebruikte, zou het zijn alsof Bob een brief in een envelop met carbonpapier stopt en deze envelop aan Alice overhandigt, die de buitenkant van de envelop zou ondertekenen en deze terug zou geven aan Bob. Als Bob dan de envelop verwijdert en Alice de brief toont met een carbonkopie van haar handtekening, zou ze weten dat de brief inderdaad in de envelop zat die ze had ondertekend.
 
-### Anonieme Betalingen
+### Anonieme betalingen
 
 Om het blindtekeningenschema te gebruiken voor een elektronisch geldsysteem, zou Alice uit het bovenstaande voorbeeld eigenlijk een bank zijn: laten we deze bank Alice Bank noemen. Alice Bank is een reguliere bank, waar klanten bankrekeningen hebben met dollardeposito's. En laten we zeggen dat Alice Bank vier klanten heeft: Bob, Carol, Dan en Erin.
 
@@ -1456,7 +1456,7 @@ Ondertussen is het strikt onmogelijk om iets in een boom te bewerken of te verwi
 
 Het zou een kostbaar middel blijken te zijn in de strijd tegen digitale fraude.
 
-### Een Keten van Wortels
+### Een keten van wortels
 
 Goed bekend met de vele cryptografische voorstellen die in de anderhalf decennium vóór de publicatie van Stornetta en Haber's eerste paper zijn geïntroduceerd, stelde Bayer aan de onderzoekers van Bellcore voor dat ze Merkle's hash-structuur konden gebruiken voor tijdstempels - een suggestie die het duo met plezier accepteerde. Hun tweede paper, "Het verbeteren van de efficiëntie en betrouwbaarheid van digitale tijdstempels", werd gepubliceerd in 1993, en Bayer werd opgenomen als de derde auteur. [^122]
 
@@ -1570,7 +1570,7 @@ Anders gezien, geloven Extropians dat staten en hun regeringen voornamelijk een 
 
 "Centraal bevel over gedrag belemmert ontdekking, diversiteit en afwijkende meningen," concludeerde More.[^130]
 
-### De Subcultuur[^131]
+### De subcultuur[^131]
 
 In de herfst van 1988 publiceerden Max More en Tom Morrow de eerste editie van een nieuw tijdschrift genaamd Extropy. Dit markeerde de officiële start van de Extropian beweging.
 
@@ -1592,7 +1592,7 @@ Toen de Extropische gemeenschap uitgroeide van enkele tientallen tot honderden m
 
 Sommigen van hen werkten zelfs aan een bijzonder ambitieus internetnavigatieproject...
 
-### De High-Tech Hayekianen
+### De high-tech Hayekianen
 
 K. Eric Drexler, wiens werk een belangrijke inspiratiebron was voor Max More, werd niet lang na de oprichting lid van de Extropiaanse gemeenschap, net als verschillende van zijn vrienden. Deze vrienden waren technologie-enthousiastelingen die graag werkten aan enkele van de meest innovatieve en uitdagende projecten van die tijd.
 
@@ -1630,7 +1630,7 @@ Toen AMIX live ging in 1984, hadden Salin en zijn kleine team de marktplaats van
 
 Helaas kreeg Salin de kans niet om AMIX verder te ontwikkelen: kort na de lancering van het project werd bij hem maagkanker vastgesteld. Salin verkocht AMIX uiteindelijk in 1988 aan het softwarebedrijf Autodesk, dat het project in 1992 stopzette - net na de dood van de innovatieve Hayekiaan op een leeftijd van eenenveertig jaar.
 
-Vertaalde tekst: Toch is er voor Extropians altijd hoop... zelfs in de dood.
+Toch is er voor Extropians altijd hoop... zelfs in de dood.
 
 Als oneindige levensduur werkelijk binnen handbereik is voor de mensheid, zoals de Extropians geloven, betekent sterven net voor deze transhumane doorbraak wordt bereikt een bittere toevoeging aan de tragedie. Struikelen terwijl de finishlijn in zicht is - misschien slechts enkele decennia te vroeg - kan het verschil betekenen tussen sterven zoals alle mensen tot nu toe doorheen de geschiedenis hebben gedaan, en eeuwig leven door het ondergaan van de transformatie van de menselijke conditie. Een twintigtal jaren te vroeg sterven, zou zomaar kunnen betekenen dat je de eeuwigheid misloopt.
 
@@ -1646,7 +1646,7 @@ Zelfs als men inschat dat de kans op succes (zeer) klein is, zou je redelijkerwi
 
 De overgebleven - levende - Extropians zullen in de tussentijd gewoon de vlam van het transhumanisme brandend moeten houden.
 
-### Digitale Valuta
+### Digitale valuta
 
 De Extropian beweging was, net zoals Max More zelf, van nature thuis in Californië. Silicon Valley werd begin jaren '90 steeds meer erkend als de wereldwijde hotspot voor innovatie. Dit trok enkele van de meest ambitieuze technologen, wetenschappers en ondernemers naar de Amerikaanse westkust.
 
@@ -1707,8 +1707,6 @@ More dacht dat overheden formeel geen afscheid zouden nemen van het geldmonopoli
 Via zijn artikel in het tijdschrift, riep de grondlegger van de beweging Extropians op om transactieprivacy en concurrentie in valuta gezamenlijk te overwegen.
 
 "Concurrerende valuta's zullen het huidige systeem aftroeven door inflatie te beheersen, de stabiliteit van dynamische markteconomieën te maximaliseren, de omvang van de overheid te beperken en door de absurditeit van de natiestaat te erkennen," schreef More. "Deze hervorming combineren met de introductie van anoniem digitaal geld zou een krachtige een-twee slag zijn tegen de bestaande orde - digitale contanten maken het moeilijker voor overheden om transacties te controleren en te belasten."
-
-Het spijt me, maar uw instructies zijn niet helemaal duidelijk. Het lijkt erop dat er hier geen tekst is om te vertalen. Kunt u alstublieft de tekst verstrekken die u wilt dat ik vertaal?
 
 "Ik betreur het recente overlijden van Hayek ten zeerste. [. . .] Omdat hij niet in biostase is geplaatst, zal Hayek nooit de dagen van elektronisch geld en concurrerende privévaluta's meemaken die zijn denken mogelijk zal helpen realiseren. Als we het voortouw willen blijven nemen in de toekomst, laten we dan kijken wat we kunnen doen om deze cruciale ontwikkelingen te versnellen. Wie weet zien we ooit nog een privévaluta die de naam van Hayek draagt."[^141]
 

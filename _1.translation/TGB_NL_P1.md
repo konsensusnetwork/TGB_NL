@@ -1708,13 +1708,13 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [1]: ​Lawrence H. White, "The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold," Cato Journal, 34, No. 2 : 281--301.
 
-[2]: ​House of Representatives, "Deleting Commercial Pornography Sites From the Internet: The U.S. Financial Industry's Efforts to Combat This Problem," Hearing Before the Subcommittee on Oversight and Investigations of the Committee on Energy and Commerce, One Hundred Ninth Congress, Second Session, September 21, 2006, [https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm.]
+[2]: Huis van Afgevaardigden, "Deleting Commercial Pornography Sites From the Internet: The U.S. Financial Industry's Efforts to Combat This Problem," Hearing Before the Subcommittee on Oversight and Investigations of the Committee on Energy and Commerce, One Hundred Ninth Congress, Second Session, September 21, 2006, [https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm.]
 
 [3]: ​White, "Troubling Suppression," 289.
 
-[4]: ​e-gold, "e-gold News," December 1999, accessed via [https://web.archive.org/web/20001209053900fw...ttp://www.e-gold.com/news.html.]
+[4]: ​e-gold, "e-gold News," December 1999, geraadpleegd via [https://web.archive.org/web/20001209053900fw...ttp://www.e-gold.com/news.html.]
 
-[5]: ​e-gold, "e-gold® Welcomes US Government Review of its Status as a Privately Issued Currency," January 20, 2006, accessed via [https://web.archive.org/web/20060304203618if...ttp://www.e-gold.com:80/letter2.html.]
+[5]: ​e-gold, "e-gold Welcomes US Government Review of its Status as a Privately Issued Currency," 20 januari 2006, geraadpleegd via [https://web.archive.org/web/20060304203618if...ttp://www.e-gold.com:80/letter2.html.]
 
 [6]: ​US Department of Justice, "Digital Currency Business e-gold Pleads Guilty to Money Laundering and Illegal Money Transmitting Charges," July 21, 2008, [https://www.justice.gov/archive/opa/pr/2008/July/08-crm-635.html.]
 
@@ -1740,7 +1740,7 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [17]: ​Ludwig von Mises, Economic Calculation in the Socialist Commonwealth .
 
-[18]: ​Although this argument has indeed been made in the context of consumer goods , a more precise articulation of this argument---as fleshed out over subsequent economic debates---is that this applies especially to capital goods.
+[18]: Hoewel dit argument inderdaad is aangevoerd in de context van consumptiegoederen, is een meer precieze verwoording van dit argument—uitgewerkt in latere economische debatten—dat dit vooral van toepassing is op kapitaalgoederen.
 
 [19]: ​Mises, Economic Calculation, 18.
 
@@ -1748,7 +1748,7 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [21]: Friedrich A. Hayek, "The Use of Knowledge in Society," American Economic Review. XXXV, No. 4 : 526--27.
 
-[22]: ​If person A deposits € 100 into the bank, and the bank loans out € 90 of this € 100 to person B, person A will still think he or she has € 100 while person B will have € 90, for a total of € 190. What's more, if person B deposits the € 90 in the bank again , and the bank loans out € 81 of these € 90 to person C, three people will think they own a combined € 271. This can go on and on, seemingly bringing more and more money into circulation. This concept is referred to as the "money multiplier." And in actuality, the money multiplier can be even more aggressive than this conventional fractional reserve example suggests, because banks don't need to first receive deposits before they can issue loans; they can issue loans simply by creating it as credit in customers' bank accounts.
+[22]: Als persoon A € 100 bij de bank stort en de bank hiervan € 90 uitleent aan persoon B, zal persoon A nog steeds denken dat hij of zij € 100 heeft, terwijl persoon B € 90 zal hebben, voor een totaal van € 190. Bovendien, als persoon B de € 90 opnieuw bij de bank stort en de bank hiervan € 81 uitleent aan persoon C, zullen drie mensen denken dat ze samen € 271 bezitten. Dit kan zo doorgaan, wat lijkt alsof er steeds meer geld in omloop komt. Dit concept staat bekend als de "geldmultiplier." In werkelijkheid kan de geldmultiplier zelfs nog agressiever zijn dan dit conventionele voorbeeld van fractioneel bankieren suggereert, omdat banken geen stortingen hoeven te ontvangen voordat ze leningen kunnen verstrekken; ze kunnen leningen uitgeven door eenvoudigweg krediet te creëren in de bankrekeningen van klanten.
 
 [23]: Gary Richardson and Tim Sablik, "Banking Panics of the Gilded Age: 1863--1913," Federal Reserve History, December 4, 2015, [https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.]
 
@@ -1758,15 +1758,15 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [26]: Stephen Kresge, The Collected Works of F.A. Hayek, Good Money: part I , 13.
 
-[27]: ​Most expansively outlined in John Maynard Keynes, The General Theory of Employment, Interest and Money .
+[27]: Het meest uitgebreid uiteengezet in John Maynard Keynes, The General Theory of Employment, Interest and Money.
 
 [28]: ​George Selgin, "The New Deal and Recovery, Part 15: The Keynesian Myth," Cato Institute, March 16, 2022, [https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth.]
 
 [29]: ​Friedrich A. Hayek, "The Gold Problem," in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge , 184.
 
-[30]: Richard Stallman, "Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius." Interview by Michael Gross, mgross.com, 1999, [https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/.]
+[30]: Richard Stallman, "Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius." Interview door Michael Gross, mgross.com, 1999, [https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/.]
 
-[31]: ​This section is largely based on Steven Levy, Hackers: Heroes of the Computer Revolution .
+[31]: Deze sectie is grotendeels gebaseerd op Steven Levy, Hackers: Heroes of the Computer Revolution.
 
 [32]: ​Richard Stallman, "Talking to the Mailman," Interview by Rob Lucas, New Left Review, Sept--Oct 2018, [https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman.]
 
@@ -1786,13 +1786,13 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [40]: ​Angela Watercutter, "Why Free Software Is More Important Now Than Ever Before," Wired, September 20, 2013, [https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/.]
 
-[41]: ​For the sake of accuracy, it should be noted that this part of the argument technically only came to prominence when Stallman launched the GNU project a year-or-so later; it hadn't yet been part of his original motivation to start the project in the first place. This minor anachronism was left in the text for the purpose of readability.
+[41]: Voor de nauwkeurigheid dient opgemerkt te worden dat dit deel van het argument technisch gezien pas duidelijk naar voren kwam toen Stallman het GNU-project een jaar of zo later lanceerde; het was nog geen deel van zijn oorspronkelijke motivatie om het project überhaupt te starten. Dit kleine anachronisme is in de tekst gebleven ten behoeve van de leesbaarheid.
 
 [42]: ​Richard Stallman, "Free Software Is Even More Important Now," gnu.org, [https://www.gnu.org/philosophy/free-software-even-more-important.en.html.]
 
 [43]: ​GNU Operating System, "What is Free Software?" [https://www.gnu.org/philosophy/free-sw.html.]
 
-[44]: ​Actually, freedom 0 was only explicitly added in the 1990s; before that, Stallman thought that it was an automatic legal consequence of the original three freedoms.
+[44]: Eigenlijk werd vrijheid 0 pas expliciet toegevoegd in de jaren 1990; daarvoor dacht Stallman dat het een automatische juridische consequentie was van de oorspronkelijke drie vrijheden.
 
 [45]: ​GNO Operating System, "What is Free Software?"
 
@@ -1800,11 +1800,11 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [47]: ​GNU Operating System, "The GNU Manifesto," 1985,​[https://www.gnu.org/gnu/manifesto.html.en.]
 
-[48]: ​To emphasize the project's heavy reliance on GNU, some prefer to call it "GNU/Linux."
+[48]: Om de zware afhankelijkheid van het project van GNU te benadrukken, geven sommigen de voorkeur aan de naam "GNU/Linux."
 
 [49]: ​Eric S. Raymond, The Cathedral & The Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary .
 
-[50]: ​Richard Stallman is not a fan of this terminology either. If a term to include both sides of the schism must be used, he prefers "Free/Libre and Open Source Software" because it more clearly conveys that the "free" part is about "freedom."
+[50]: Richard Stallman is ook geen fan van deze terminologie. Als er een term moet worden gebruikt die beide kanten van de kloof omvat, geeft hij de voorkeur aan "Free/Libre and Open Source Software" omdat dit duidelijker overbrengt dat het "vrije" deel over "vrijheid" gaat.
 
 [51]: ​Raymond, The Cathedral & The Bazaar, 52.
 
@@ -1814,9 +1814,9 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [54]: ​Ludwig von Mises, The Theory of Money and Credit, trans. J.E. Batson .
 
-[55]: ​This is sometimes considered "intrinsic value," which is a common expression in economics to signify that a good has economic use value apart from its monetary role. Austrians generally reject the idea that products actually have intrinsic value at all, however: value is always subjective.
+[55]: Dit wordt soms beschouwd als "intrinsieke waarde," een veelgebruikte uitdrukking in de economie om aan te geven dat een goed economische gebruikswaarde heeft los van zijn monetaire rol. Oostenrijkse economen verwerpen echter over het algemeen het idee dat producten überhaupt intrinsieke waarde hebben: waarde is volgens hen altijd subjectief.
 
-[56]: ​More recent archeological research published in David Graeber's Debt: The First 5,000 Years , suggests that there was never a pure barter economy as described in the regression theorem. Instead, the oldest human civilizations used debt as their first currency. However, debt only works as currency in high-trust, reputation-based environments. In low-trust environments, gold was often the currency of choice, and it's entirely feasible that the precious metal garnered this status over time through a process resembling what is described in the regression theorem.
+[56]: Recenter archeologisch onderzoek, gepubliceerd in David Graeber's Debt: The First 5,000 Years, suggereert dat er nooit een pure ruilhandel-economie is geweest zoals beschreven in de regressietheorie. In plaats daarvan gebruikten de oudste menselijke beschavingen schuld als hun eerste vorm van geld. Schuld werkt echter alleen als valuta in omgevingen met een hoge mate van vertrouwen en op reputatie gebaseerde systemen. In omgevingen met weinig vertrouwen was goud vaak de valuta bij uitstek, en het is heel goed mogelijk dat het edelmetaal deze status in de loop van de tijd verwierf via een proces dat lijkt op wat wordt beschreven in de regressietheorie.
 
 [57]: ​Nicholas Dimsdale, "British Monetary Policy and the Exchange Rate 1920-1938," Oxford Economic Papers 33, New Series : 307--49.
 
@@ -1846,11 +1846,11 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [70]: ​Nicholas Wapshott, Keynes Hayek: The Clash That Defined Modern Economics : 159.
 
-[71]: ​Franklin D. Roosevelt, "Relating to the Hoarding, Export, and Earmarking of Gold Coin, Bullion, or Currency and to Transactions in Foreign Exchange," August 28, 1993, available via The American Presidency Project.
+[71]: ​Franklin D. Roosevelt, "Relating to the Hoarding, Export, and Earmarking of Gold Coin, Bullion, or Currency and to Transactions in Foreign Exchange," August 28, 1993, beschikbaar via The American Presidency Project.
 
 [72]: ​Joris Rickards, Currency Wars: The Making of the Next Global Crisis , 56--77.
 
-[73]: ​Much of this chapter is based on Steven Levy's Crypto: How the Code Rebels Beat the Government--Saving Privacy in the Digital Age .
+[73]: Een groot deel van dit hoofdstuk is gebaseerd op Steven Levy's Crypto: How the Code Rebels Beat the Government -- Saving Privacy in the Digital Age.
 
 [74]: Whitfield Diffie and Martin E. Hellman, "Multiuser Cryptographic Techniques," AFIPS ...: Proceedings of the June 7-10, 1976, national computer conference and exposition : 109--112.
 
@@ -1890,7 +1890,7 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [92]: ​Friedrich A. Hayek, Denationalisation of Money: The Argument Refined , 13.
 
-[93]: ​Republished in Friedrich A. Hayek, Choice in Currency: A Way to Stop Inflation .
+[93]: Opnieuw gepubliceerd in Friedrich A. Hayek, Choice in Currency: A Way to Stop Inflation .
 
 [94]: ​Hayek, The Argument Refined, 78.
 
@@ -1912,35 +1912,35 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [103]: David Chaum, "Blind Signatures for Untraceable Payments," Advances in Cryptology: Proceedings of Crypto 82 : 199--203.
 
-[104]: Chaum would later also propose a solution where double-spending could de-anonymize the perpetrator, somewhat limiting the need to immediately check each incoming payment against the bank's records since the perpetrator of a double-spend attack can be identified.
+[104]: Chaum zou later ook een oplossing voorstellen waarbij dubbel uitgeven de anonimiteit van de dader zou kunnen opheffen, waardoor de noodzaak om elke binnenkomende betaling direct te controleren aan de hand van de bankgegevens enigszins wordt beperkt, aangezien de dader van een dubbele-uitgave aanval kan worden geïdentificeerd.
 
-[105]: As a nifty extra detail, the system also embeds a type of fraud prevention check---albeit one that comes at the expense of privacy if and when users would opt to use it. If Carol would falsely claim that she'd never been paid, Bob could choose to reveal the nonce to Alice Bank, proving that he created the digital dollars that Carol deposited, proving that he paid them to her.
+[105]: Als een handig extra detail bevat het systeem ook een soort fraudepreventiecontrole—zij het een die ten koste gaat van privacy als en wanneer gebruikers ervoor zouden kiezen deze te gebruiken. Als Carol ten onrechte zou beweren dat ze nooit betaald is, zou Bob kunnen kiezen om de nonce aan Alice Bank te onthullen. Hiermee kan hij bewijzen dat hij de digitale dollars heeft gemaakt die Carol heeft gestort en dat hij ze aan haar heeft betaald.
 
-[106]: That said, there are some other, perhaps more drastic measures that Alice Bank could have taken. Besides refusing to issue digital dollars to Bob in the first place, she could have also blocked all electronic cash payments. Similarly, she could block particular users from accepting payments; even if payments can't be traced, some users can still be excluded from participation in the system.
+[106]: Dat gezegd hebbende, zijn er nog enkele andere, mogelijk meer drastische maatregelen die Alice Bank had kunnen nemen. Naast het weigeren om digitale dollars aan Bob uit te geven, had ze ook alle elektronische contante betalingen kunnen blokkeren. Evenzo zou ze bepaalde gebruikers kunnen blokkeren van het accepteren van betalingen; zelfs als betalingen niet kunnen worden getraceerd, kunnen sommige gebruikers nog steeds worden uitgesloten van deelname aan het systeem.
 
-[107]: It can been argued that Chaum did use a rather loose definition of "cash," as cash typically has more distinguishing properties. Chaum's form of digital cash for example offered limited person-to-person transferability---a feature that physical cash does have, as it can freely be passed around. Regardless, Chaum invented a form of digital money that at least offered a similar level of privacy as physical cash, which was his main objective.
+[107]: Er kan worden gesteld dat Chaum een tamelijk losse definitie van "contant geld" gebruikte, aangezien contant geld meestal meer onderscheidende eigenschappen heeft. Chaums vorm van digitaal contant geld bood bijvoorbeeld beperkte overdraagbaarheid van persoon tot persoon—een kenmerk dat fysiek contant geld wel heeft, omdat het vrij kan worden doorgegeven. Niettemin heeft Chaum een vorm van digitaal geld uitgevonden die ten minste een vergelijkbaar niveau van privacy bood als fysiek contant geld, wat zijn hoofddoel was.
 
 [108]: David Chaum, "Security Without Identification."
 
-[109]: In the end, the toll project was not adopted: the idea proved to be too controversial in the Netherlands. However, the technology would later be licensed under the name "DyniCash" to a Dallas-based company that specialized in microwave-frequency communication for trains.
+[109]: Uiteindelijk werd het tolproject niet aangenomen: het idee bleek te controversieel in Nederland. De technologie zou echter later worden gelicentieerd onder de naam "DyniCash" aan een in Dallas gevestigde onderneming die gespecialiseerd was in communicatie op microgolf-frequenties voor treinen.
 
 [110]: Peter H. Lewis, "Attention Internet Shoppers: E-Cash Is Here," The New York Times, October 19, 1994, [https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html.]
 
-[111]: DigiCash, "Bank Austria and Den norske Bank to Issue ecash™ the Electronic Cash for the Internet," DigiCash, April 14, 1997, accessed via [https://web.archive.org/web/19970605025912/http://www.digicash.com:80/publish/ec_pres8.html.]
+[111]: DigiCash, "Bank Austria and Den norske Bank to Issue ecash™ the Electronic Cash for the Internet," DigiCash, April 14, 1997, geraadpleegd via [https://web.archive.org/web/19970605025912/http://www.digicash.com:80/publish/ec_pres8.html.]
 
-[112]: DigiCash, "Advance Bank First to Provide DigiCash's ecash™ System in Australia," DigiCash, October, 1996, accessed via [https://web.archive.org/web/19961102121407/https://www.digicash.com/publish/ec_pres6.html.]
+[112]: DigiCash, "Advance Bank First to Provide DigiCash's ecash™ System in Australia," DigiCash, October, 1996, geraadpleegd via [https://web.archive.org/web/19961102121407/https://www.digicash.com/publish/ec_pres6.html.]
 
-[113]: DigiCash, "DigiCash's Ecash™ to be Issued by Deutsche Bank," DigiCash, May 7, 1996, accessed via [https://web.archive.org/web/19961102121355/https://www.digicash.com/publish/ec_pres5.html.]
+[113]: DigiCash, "DigiCash's Ecash™ to be Issued by Deutsche Bank," DigiCash, May 7, 1996, geraadpleegd via [https://web.archive.org/web/19961102121355/https://www.digicash.com/publish/ec_pres5.html.]
 
 [114]: Jeffrey Kutler, "Credit Suisse, Digicash in E-Commerce Test," American Banker, June 16, 1998, [https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test.]
 
-[115]: Next! Magazine "Hoe DigiCash alles verknalde," Next!, January 1999, accessed via [https://web.archive.org/web/19990427142412/https://www.nextmagazine.nl/ecash.htm.]
+[115]: Next! Magazine "Hoe DigiCash alles verknalde," Next!, January 1999, geraadpleegd via [https://web.archive.org/web/19990427142412/https://www.nextmagazine.nl/ecash.htm.]
 
 [116]: American Banker, "Digicash Sends Signal by Hiring Visa Veteran," American Banker, May 6, 1997, [https://www.americanbanker.com/news/digicash-sends-signal-by-hiring-visa-veteran.]
 
 [117]: Julie Pitta, "Requiem for a Bright Idea," Forbes, November 1, 1999, [https://www.forbes.com/forbes/1999/1101/6411390a.html.]
 
-[118]: Hash functions were first proposed by University of Illinois at Urbana--Champaign mathematician George B. Purdy in his paper "A High Security Log-in Procedure," Communications of the ACM 17, no. 8 : 442--445.
+[118]: Hash-functies werden voor het eerst voorgesteld door de wiskundige George B. Purdy van de University of Illinois at Urbana-Champaign in zijn artikel "A High Security Log-in Procedure," Communications of the ACM 17, no. 8: 442--445.
 
 [119]: Scott Stornetta, "The Missing Link between Satoshi & Bitcoin: Cypherpunk Scott Stornetta," interview by Naomi Brockwell, NBTV, with Naomi Brockwell, YouTube, September 6, 2018, [https://youtu.be/fYr-keVOQ18.]
 
@@ -1958,15 +1958,15 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [126]: K. Eric Drexler, Engines of Creation , 146.
 
-[127]: Max More, "Transhumanism: Towards a Futurist Philosophy," maxmore.com, accessed via [https://web.archive.org/web/20051029125153/http://www.maxmore.com/transhum.htm.]
+[127]: Max More, "Transhumanism: Towards a Futurist Philosophy," maxmore.com, geraadpleegd via [https://web.archive.org/web/20051029125153/http://www.maxmore.com/transhum.htm.]
 
-[128]: Max More, "The Extropian Principles: A Transhumanist Declaration," maxmore.com, accessed via [https://web.archive.org/web/20090130143449/https://www.maxmore.com/extprn3.htm.]
+[128]: Max More, "The Extropian Principles: A Transhumanist Declaration," maxmore.com, geraadpleegd via [https://web.archive.org/web/20090130143449/https://www.maxmore.com/extprn3.htm.]
 
-[129]: The American Food and Drug Administration was a particularly restrictive example; the federal agency made tinkering with and trying out new types of drugs and medicine all but impossible.
+[129]: De Amerikaanse Food and Drug Administration was een bijzonder restrictief voorbeeld; de federale instelling maakte het knutselen aan en uitproberen van nieuwe soorten medicijnen en geneeskunde zo goed als onmogelijk.
 
 [130]: More, "Extropian Principles."
 
-[131]: Much of this section is based on Finn Brunton's Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists Who Built Cryptocurrency , 118--134.
+[131]: Een groot deel van deze sectie is gebaseerd op Finn Brunton's Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists Who Built Cryptocurrency, 118--134.
 
 [132]: Max More, "Transhumanism."
 
@@ -1974,7 +1974,7 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [134]: E.g., Phil Salin, "Costs and Computers," Release 1.0 : 5--18; Phil Salin, "The Ecology of Decisions, or 'An Inquiry into the Nature and Causes of the Wealth of Kitchens'," Market Process 8 : 91--114.
 
-[135]: Facilities include Alcor and the Cryonics Institute , Kriorus , Tomorrow Bio , and Yinfeng Biological Group .
+[135]: Faciliteiten omvatten Alcor en het Cryonics Institute, Kriorus, Tomorrow Bio en Yinfeng Biological Group.
 
 [136]: Hal Finney, "Protecting Privacy with Electronic Cash," Extropy 10 : 14.
 

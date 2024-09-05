@@ -1004,7 +1004,7 @@ Iets later in de Verenigde Staten was Truman's opvolger Dwight D. Eisenhower de 
 
 Maar toen Eisenhower tegen het einde van zijn presidentstermijn de uitgaven moest beperken, resulteerde dit vrijwel onmiddellijk in een nieuwe depressie. Het Amerikaanse publiek was hier niet blij mee. Ze waren van mening dat Eisenhower alle middelen voorhanden had om deze trend te keren, maar dat hij deze keer naliet om in te grijpen.
 
-Tegen de tijd dat de verkiezingen voor de opvolger van Eisenhower aankwamen, was de economische neergang een groot thema geworden in de presidentiële campagnes. Terwijl de jonge Democratische kandidaat John F. Kennedy zijn aanhangers mobiliseerde onder het motto 'Laten we dit land weer in beweging krijgen', worstelde de Republikeinse kandidaat en zittend vicepresident Richard Nixon om zich te distantiëren van Eisenhower's conservatieve fiscale benadering aan het einde van zijn tweede termijn. Toen Kennedy uiteindelijk met een ongelooflijk kleine marge de race won , bleef een verslagen Nixon ervan overtuigd dat hij de verkiezingen zou hebben gewonnen als het niet was geweest voor de bezuinigingen van Eisenhower.[^80]
+Tegen de tijd dat de verkiezingen voor de opvolger van Eisenhower aankwamen, was de economische neergang een groot thema geworden in de presidentiële campagnes. Terwijl de jonge Democratische kandidaat John F. Kennedy zijn aanhangers mobiliseerde onder het motto 'Laten we dit land weer in beweging krijgen', worstelde de Republikeinse kandidaat en zittend vicepresident Richard Nixon om zich te distantiëren van Eisenhower's conservatieve fiscale benadering aan het einde van zijn tweede termijn. Toen Kennedy uiteindelijk met een ongelooflijk kleine marge de race won, bleef een verslagen Nixon ervan overtuigd dat hij de verkiezingen zou hebben gewonnen als het niet was geweest voor de bezuinigingen van Eisenhower.[^80]
 
 Gedurende zijn presidentschap bevestigde Kennedy dat hij royaal zou investeren in de economie op basis van Keynesiaanse principes. Hij blies Eisenhower's initiële uitgavendrift snel nieuw leven in, door geld te pompen in het Amerikaanse ruimtevaartprogramma, terwijl hij ook rijkelijk uitgaf aan het leger. Na de moord op de president slechts enkele jaren later, in 1963, zette zijn vicepresident en opvolgers Lyndon B. Johnson dit beleid voort, met de Vietnamoorlog als grote, nieuwe geldverslindende factor.
 
@@ -1720,19 +1720,19 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [7]: ​e-gold 'Transcript of sentence before the honorable Rosemarie M. Collyer United States District Judge', 114, November 20, 2008, <https://legalupdate.e-gold.com/2008/11/transcript-of-sentence-before-the-honorable-rosemarie-m-collyer-united-states-district-judge.html>
 
-[8]: ​Deirdre N. McCloskey, How to be Human......ough an Economist , 33.
+[8]: ​Deirdre N. McCloskey, How to be Human......ough an Economist, 33.
 
 [9]: ​Lawrence H. Officer, 'Exchange Rates Between the United States Dollar and Forty-one Currencies', MeasuringWorth, 2023.
 
 [10]: ​Eamonn Butler, Hayek: His Contribution to the Political and Economic Thought of Our Time.
 
-[11]: ​Bruce Caldwell and Hansjoerg Klausinger, Hayek: A Life, 1899--1950 , Chs. 6--9.
+[11]: ​Bruce Caldwell and Hansjoerg Klausinger, Hayek: A Life, 1899--1950, Chs. 6--9.
 
-[12]: ​Ludwig von Mises, The Historical Setting of the Austrian School of Economics , 12.
+[12]: ​Ludwig von Mises, The Historical Setting of the Austrian School of Economics, 12.
 
 [13]: ​Mises, Historical Setting, 12--13, 19--20.
 
-[14]: ​Ludwig von Mises, Human Action: A Treatise on Economics, The Scholar's Edition , 21, 38--54.
+[14]: ​Ludwig von Mises, Human Action: A Treatise on Economics, The Scholar's Edition, 21, 38--54.
 
 [15]: ​Carl Menger, Untersuchungen über die Methode der Sozialwissenschaften und der Politischen Oekonomie insbesondere.
 
@@ -1752,17 +1752,17 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [23]: Gary Richardson and Tim Sablik, 'Banking Panics of the Gilded Age: 1863--1913', Federal Reserve History, December 4, 2015, [https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.]
 
-[24]: ​Friedrich A. Hayek, 'Monetary Policy in the United States after the Recovery from the Crisis of 1920', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge , 145.
+[24]: ​Friedrich A. Hayek, 'Monetary Policy in the United States after the Recovery from the Crisis of 1920', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge, 145.
 
 [25]: ​Hayek, 'Monetary Policy', 146.
 
-[26]: Stephen Kresge, The Collected Works of F.A. Hayek, Good Money: part I , 13.
+[26]: Stephen Kresge, The Collected Works of F.A. Hayek, Good Money: part I, 13.
 
 [27]: Het meest uitgebreid uiteengezet in John Maynard Keynes, The General Theory of Employment, Interest and Money.
 
 [28]: ​George Selgin, 'The New Deal and Recovery, Part 15: The Keynesian Myth', Cato Institute, March 16, 2022, [https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth.]
 
-[29]: ​Friedrich A. Hayek, 'The Gold Problem', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge , 184.
+[29]: ​Friedrich A. Hayek, 'The Gold Problem', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge, 184.
 
 [30]: Richard Stallman, 'Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius'. Interview door Michael Gross, mgross.com, 1999, [https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/.]
 
@@ -1822,9 +1822,9 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [58]: ​Irving Fisher, The Purchasing Power of Money.
 
-[59]: ​John Maynard Keynes, A Tract on Monetary Reform , 173.
+[59]: ​John Maynard Keynes, A Tract on Monetary Reform, 173.
 
-[60]: ​Friedrich A. Hayek, 'Intertemporal Price Equilibrium and Movements in the Value of Money', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge , 195.
+[60]: ​Friedrich A. Hayek, 'Intertemporal Price Equilibrium and Movements in the Value of Money', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge, 195.
 
 [61]: ​Hayek, 'Intertemporal Price Equilibrium', 207.
 
@@ -1848,9 +1848,9 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [71]: ​Franklin D. Roosevelt, 'Relating to the Hoarding, Export, and Earmarking of Gold Coin, Bullion, or Currency and to Transactions in Foreign Exchange', August 28, 1993, beschikbaar via The American Presidency Project.
 
-[72]: ​Joris Rickards, Currency Wars: The Making of the Next Global Crisis , 56--77.
+[72]: ​Joris Rickards, Currency Wars: The Making of the Next Global Crisis, 56--77.
 
-[73]: Een groot deel van dit hoofdstuk is gebaseerd op Steven Levy's Crypto: How the Code Rebels Beat the Government -- Saving Privacy in the Digital Age.
+[73]: Een groot deel van dit hoofdstuk is gebaseerd op Steven Levy's 'Crypto: How the Code Rebels Beat the Government -- Saving Privacy in the Digital Age'.
 
 [74]: Whitfield Diffie and Martin E. Hellman, 'Multiuser Cryptographic Techniques', AFIPS...: Proceedings of the June 7-10, 1976, national computer conference and exposition: 109--112.
 
@@ -1862,7 +1862,7 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [78]: David Chaum, 'Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms', Communications of the ACM 24, 2: 84--90.
 
-[79]: ​Edward S. Mason and Robert E. Asher, The World Bank Since Bretton Woods: The Origins, Policies, Operations and Impact of the International Bank for Reconstruction , 29.
+[79]: ​Edward S. Mason and Robert E. Asher, The World Bank Since Bretton Woods: The Origins, Policies, Operations and Impact of the International Bank for Reconstruction, 29.
 
 [80]: ​Andrew F. Brimmer, 'Remembering William McChesney Martin Jr.', Federal Reserve Bank of Minneapolis, September 1, 1998, [https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.]
 
@@ -1878,17 +1878,17 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [86]: ​Friedrich A. Hayek, 'Can We Still Avoid Inflation?' in The Austrian Theory of the Trade Cycle and Other Essays, ed. Richard M. Ebeling: 101.
 
-[87]: ​Mark Blaug, Economic Theory in Retrospect, 4th edition , 20--23.
+[87]: ​Mark Blaug, Economic Theory in Retrospect, 4th edition, 20--23.
 
 [88]: ​Hayek, Prices and Production, 203.
 
 [89]: ​Hayek, 'Can We Still Avoid Inflation?' 108.
 
-[90]: Friedrich A. Hayek, Denationalisation of Money , 89.
+[90]: Friedrich A. Hayek, Denationalisation of Money, 89.
 
 [91]: ​Hayek, Denationalisation of Money, 91.
 
-[92]: ​Friedrich A. Hayek, Denationalisation of Money: The Argument Refined , 13.
+[92]: ​Friedrich A. Hayek, Denationalisation of Money: The Argument Refined, 13.
 
 [93]: Opnieuw gepubliceerd in Friedrich A. Hayek, Choice in Currency: A Way to Stop Inflation.
 
@@ -1956,7 +1956,7 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [125]: Douglas Martin, 'Futurist Known as FM-2030 Is Dead at 69', The New York Times, July 11, 2000, [https://www.nytimes.com/2000/07/11/us/futurist-known-as-fm-2030-is-dead-at-69.html.]
 
-[126]: K. Eric Drexler, Engines of Creation , 146.
+[126]: K. Eric Drexler, Engines of Creation, 146.
 
 [127]: Max More, 'Transhumanism: Towards a Futurist Philosophy', maxmore.com, geraadpleegd via [https://web.archive.org/web/20051029125153/http://www.maxmore.com/transhum.htm.]
 

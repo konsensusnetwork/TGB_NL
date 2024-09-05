@@ -1472,33 +1472,33 @@ De sleutel tot hun succes, was de verdeling van vertrouwen.
 
 ## Hoofdstuk 7: De Extropians
 
-Friedrich Hayek wilde geld denationaliseren en David Chaum wilde het privatiseren. Hoewel zowel de econoom als de cryptograaf een revolutionair idee hadden, hadden ze niet helemaal hetzelfde doel voor ogen.
+Friedrich Hayek wilde geld denationaliseren en David Chaum wilde het anoniem maken. Hoewel zowel de econoom als de cryptograaf een revolutionair idee hadden, hadden ze niet helemaal hetzelfde doel voor ogen.
 
 Ze inspireerden echter wel dezelfde man.
 
-Max O'Connor is opgegroeid in het bescheiden Britse stadje Bristol tijdens de jaren '60 en '70. Al op jonge leeftijd werd zijn fantasie geprikkeld door echte gebeurtenissen - zoals de maanlanding die hij op vijfjarige leeftijd op televisie gadesloeg - alsook door de fictieve verhalen uit de stripboeken die hij verslond. Hij droomde van een toekomst waarin de mensheid haar mogelijkheden op sciencefiction-achtige wijze zou uitbreiden. Hij fantaseerde over een wereld waarin mensen over röntgenvisie beschikten, desintegratiepistolen bij zich droegen en in staat waren dwars door muren te lopen.
+Max O'Connor is opgegroeid in het bescheiden Britse stadje Bristol tijdens de jaren '60 en '70. Al op jonge leeftijd werd zijn fantasie geprikkeld door echte gebeurtenissen, zoals de maanlanding die hij op vijfjarige leeftijd op televisie gadesloeg, alsook door de fictieve verhalen uit de stripboeken die hij verslond. Hij droomde van een toekomst waarin de mensheid haar mogelijkheden op sciencefiction-achtige wijze zou uitbreiden. Hij fantaseerde over een wereld waarin mensen over röntgenvisie beschikten, desintegratiepistolen bij zich droegen en in staat waren dwars door muren te lopen.
 
-In zijn tienerjaren had O'Connor een interesse in het occulte ontwikkeld. Hij dacht dat de sleutel om bovenmenselijke potentieel te realiseren misschien te vinden was in hetzelfde veld als astrale projectie, wichelroedelopen en reïncarnatie. Om deze mogelijkheden te onderzoeken, richtte hij de club voor Psychische Ontwikkeling en Onderzoek op bij zijn school, waar hij en zijn mede-junior-occultisten het bovennatuurlijke bestudeerden.
+In zijn tienerjaren had O'Connor een interesse in het occulte ontwikkeld. Hij dacht dat de sleutel om bovenmenselijk potentieel te realiseren misschien te vinden was in hetzelfde veld als astrale projectie, wichelroedelopen en reïncarnatie. Om deze mogelijkheden te onderzoeken, richtte hij de club voor Psychische Ontwikkeling en Onderzoek op bij zijn school, waar hij en zijn mede-junior-occultisten het bovennatuurlijke bestudeerden.
 
 Maar O'Connor, die rond deze tijd bijzonder geïnteresseerd raakte in levensverlenging, vond niet precies wat hij zocht. Hij kwam tot het besef dat er consequent overtuigend bewijs ontbrak dat enige van de mystieke praktijken daadwerkelijk werkten.
 
 De tiener veranderde uiteindelijk volledig van gedachten over het occulte en kwam tot de conclusie dat er geen waarde te behalen was uit deze overtuigingen en praktijken. In plaats van het bovennatuurlijke, besloot hij dat de vooruitgang van de mensheid het beste gediend was door wetenschap en logica.
 
-Zelfs zonder bovennatuurlijke krachten kon O'Connor zijn eigen potentieel ten minste maximaliseren door hard te werken. Op school was hij een gretige leerling en ook ambitieus - ten minste zolang de onderwerpen in de klas boeiend waren. Hij was vooral geïnteresseerd in onderwerpen over sociale organisatie, en hij slaagde uiteindelijk als beste van zijn economieklas op school.
+Zelfs zonder bovennatuurlijke krachten kon O'Connor zijn eigen potentieel ten minste maximaliseren door hard te werken. Op school was hij een gretige leerling en ook ambitieus, ten minste zolang de onderwerpen in de klas boeiend waren. Hij was vooral geïnteresseerd in onderwerpen over sociale organisatie, en hij slaagde uiteindelijk als beste van zijn economieklas op school.
 
-Al dat harde werk wierp vruchten af toen O'Connor in 1984 werd toegelaten tot de Universiteit van Oxford. Zijn drive om te presteren en het beste uit zichzelf te halen, leek alleen maar toe te nemen op deze prestigieuze universiteit. Hij studeerde met grote inzet gedurende drie aaneengesloten jaren, waarbij hij cursussen volgde in politiek, economie en filosofie. Op zijn drieëntwintigste had hij in alle drie de disciplines een graad behaald.
+Al dat harde werk wierp vruchten af toen O'Connor in 1984 werd toegelaten tot de Universiteit van Oxford. Zijn drive om te presteren en het beste uit zichzelf te halen, leek alleen maar toe te nemen op deze prestigieuze universiteit. Hij studeerde gedurende drie aaneengesloten jaren met grote inzet, waarbij hij cursussen volgde in politiek, economie en filosofie. Op zijn drieëntwintigste had hij in alle drie de disciplines een graad behaald.
 
-Op dat moment was het tijd voor een verandering van omgeving. Als jonge volwassene, de verse Oxford-afgestudeerde, wilde hij schrijver worden, maar de oude universiteitsstad met haar vochtige klimaat, donkere winters en traditionele Britse waarden, bood hem niet de energie of inspiratie die hij zocht. Het was tijd om ergens anders heen te gaan, naar een nieuwe plek... een opwindende plek.
+Op dat moment was het tijd voor een verandering van omgeving. Als jong volwassene, wilde de verse Oxford-afgestudeerde schrijver worden, maar de oude universiteitsstad met haar vochtig klimaat, donkere winters en traditionele Britse waarden, bood hem niet de energie of inspiratie die hij zocht. Het was tijd om ergens anders heen te gaan, naar een nieuwe plek... een opwindende plek.
 
 In 1987 vond O'Connor zijn nieuwe bestemming toen hij een beurs ontving om een PhD-programma in filosofie te volgen aan de Universiteit van Zuid-Californië. Hij verhuisde naar Los Angeles.
 
 Bij aankomst in de Gouden Staat voelde O'Connor zich meteen thuis. Het zonnige weer van Los Angeles was een duidelijke verbetering ten opzichte van het sombere Oxford, en in scherp contrast met de conservatieve mentaliteit die heerste in Groot-Brittannië, stimuleerde het culturele klimaat aan de westkust van Amerika ambitie en het streven naar succes: Californiërs vierden prestaties, ze hadden respect voor het nemen van risico's, en ze prezen degenen die verandering teweegbrachten.
 
-Hier, zou O'Connor een nieuw leven beginnen, als een nieuwe man.
+Hier zou O'Connor een nieuw leven beginnen, als een nieuwe man.
 
-Om de nieuwe start te markeren, besloot hij zelfs zijn naam te veranderen; vanaf dat moment zou Max O'Connor door het leven gaan als "Max More."
+Om de nieuwe start te markeren, besloot hij zelfs zijn naam te veranderen: vanaf dat moment zou Max O'Connor door het leven gaan als 'Max More'.
 
-"Het leek echt de essentie van wat mijn doel is te vatten: altijd verbeteren, nooit stilstaan," legde hij later uit. "Ik zou beter worden in alles, slimmer, fitter en gezonder worden. Het zou een constante herinnering zijn om vooruit te blijven gaan."[124]
+'Het leek echt de essentie van wat mijn doel is te vatten: altijd verbeteren, nooit stilstaan', legde hij later uit. 'Ik zou beter worden in alles, slimmer, fitter en gezonder worden. Het zou een constante herinnering zijn om vooruit te blijven gaan'.[124]
 
 ### FM-2030
 

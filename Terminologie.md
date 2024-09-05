@@ -75,3 +75,4 @@ time-stamping system = tijdregistratiesysteem
 trust-free system = systeem zonder vertrouwen
 unbacked = niet-ondersteunde
 withdrawal requests = opnameverzoeken
+payment processors = betalingsverwekers

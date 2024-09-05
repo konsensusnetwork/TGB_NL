@@ -16,21 +16,21 @@ Jackson werd aangeklaagd en beschuldigd van het witwassen van geld en het runnen
 
 ## Digitaal goud
 
-Jackson had nooit beoogd dat e-goud misbruikt zou worden voor illegale doeleinden. Hij geloofde ook niet dat dit op een serieuze schaal gebeurde. Sterker nog, hij beweerde dat e-goud een beter fraude-detectiesysteem had dan elke andere betaalverwerker die er bestond. Daarnaast was hij altijd meer dan bereid om met politie samen te werken. E-goud was ook een van de oprichtende leden van het `National Center for Missing & Exploited Children's Financial Coalition Against Child Pornography'. De gegevens die deze coalitie verzamelde, zo stelde Jackson, gaven aan dat e-goud vrijwel niet werd gebruikt voor dergelijke doeleinden.
+Jackson had nooit beoogd dat e-goud misbruikt zou worden voor illegale doeleinden. Hij geloofde ook niet dat dit op een serieuze schaal gebeurde. Sterker nog, hij beweerde dat e-goud een beter fraude-detectiesysteem had dan elke andere betaalverwerker die er bestond. Daarnaast was hij altijd meer dan bereid om met politie samen te werken. E-goud was ook een van de oprichtende leden van het 'National Center for Missing & Exploited Children's Financial Coalition Against Child Pornography'. De gegevens die deze coalitie verzamelde, zo stelde Jackson, gaven aan dat e-goud vrijwel niet werd gebruikt voor dergelijke doeleinden.
 
 In plaats daarvan was Jackson, als succesvolle en onafhankelijk oncoloog en veteraan van het medisch korps van het Amerikaanse leger, in de jaren negentig al geïnteresseerd geraakt in het monetaire beleid en de invloed daarvan op de economie. Hij ontdekte dat moderne valuta's -- dollars, ponden, yen -- niet langer door iets gedekt werden, waardoor ze in feite, uit het niets, met een druk op de knop gecreëerd konden worden. Toen hij zich verder in dit onderwerp verdiepte, raakte hij ervan overtuigd dat dit de economie op zeer schadelijke manieren beïnvloedde.
 
 Jackson was dus van plan om een alternatief aan te bieden.
 
-Tijdens zijn onderzoek naar valuta's, ontwikkelde Jackson een hernieuwde waardering voor het ``klassieke geld'' -- goud. Hij ontdekte dat mensen ten minste sinds de predynastieke Egyptische tijd waarde hechtten aan dit glanzende, gele metaal, en dat met goede reden: het natuurlijke element werd niet beïnvloed door de willekeur van mensen.
+Tijdens zijn onderzoek naar valuta's, ontwikkelde Jackson een hernieuwde waardering voor het ''klassieke geld'' -- goud. Hij ontdekte dat mensen ten minste sinds de predynastieke Egyptische tijd waarde hechtten aan dit glanzende, gele metaal, en dat met goede reden: het natuurlijke element werd niet beïnvloed door de willekeur van mensen.
 
 Echter, het pre-dynastieke Egypte was allang verdwenen en zelfs Jackson moest toegeven dat het kostbare metaal niet echt praktisch was voor dagelijkse transacties. Met het naderen van het nieuwe millennium realiseerde Jackson zich dat mensen niet zouden terugkeren naar de tijd waarin ze betaalden met gouden munten. Sterker nog, zelfs koperen munten en papiergeld zouden waarschijnlijk binnenkort ouderwets lijken.
 
 Nee, de toekomst van geld moest digitaal zijn.
 
-Met dat toekomstbeeld zag Jackson (heel letterlijk) een gouden kans. Hij bundelde de krachten met advocaat Barry Downey en richtte in 1996 `Gold & Silver Reserve Inc.' op, onder zijn leiderschap. De start-up zou een betalingssysteem voor de eenentwintigste eeuw runnen, maar dan wel gebaseerd op dat klassieke geld. Ze zouden een elektronisch equivalent voor goud leveren: *e-gold*.
+Met dat toekomstbeeld zag Jackson (heel letterlijk) een gouden kans. Hij bundelde de krachten met advocaat Barry Downey en richtte in 1996 'Gold & Silver Reserve Inc'. op, onder zijn leiderschap. De start-up zou een betalingssysteem voor de eenentwintigste eeuw runnen, maar dan wel gebaseerd op dat klassieke geld. Ze zouden een elektronisch equivalent voor goud leveren: *e-gold*.
 
-Het basisidee was simpel. *Gold & Silver Reserve Inc.* huurde kluizen die ze vulden met het fysieke, gouden metaal zelf. Voor elk stuk goud in deze kluizen gaf het bedrijf een digitale ``token'' uit --- in feite een nummer in een database. Deze tokens vertegenwoordigden een claim op het goud. Als iemand tokens had die gelijk stonden aan tien gram goud, was tien gram goud in één van de kluizen wettelijk van hen.
+Het basisidee was simpel. *Gold & Silver Reserve Inc.* huurde kluizen die ze vulden met het fysieke, gouden metaal zelf. Voor elk stuk goud in deze kluizen gaf het bedrijf een digitale ''token'' uit --- in feite een nummer in een database. Deze tokens vertegenwoordigden een claim op het goud. Als iemand tokens had die gelijk stonden aan tien gram goud, was tien gram goud in één van de kluizen wettelijk van hen.
 
 De belangrijkste innovatie was dat *Gold & Silver Reserve Inc.* ook een server in stand hield die een openbaar toegankelijk boekhoudsysteem voor de tokens huisvestte. Mensen van over de hele wereld konden inloggen op de server en een persoonlijke rekening aanmaken, waardoor ze tokens naar en van elke andere rekening konden sturen en ontvangen. Bij elke transactie heeft *Gold & Silver Reserve Inc.* de rekeningsaldi dienovereenkomstig bijgewerkt.
 
@@ -38,15 +38,15 @@ Dankzij de kracht van het internet, konden e-goud gebruikers elkaar dus in wezen
 
 Jackson creëerde e-goud, zo zei hij vaak, als een instelling om het materiële welzijn van de mensheid te bevorderen door toegang te bieden tot wereldwijde markten.
 
-"In tegenstelling tot andere, is e-goud een betalingssysteem die mensen van elke regio of economische achtergrond wereldwijd laat opereren: een migrant kan gemakkelijk waarde naar huis sturen en een handelaar kan betalingen accepteren van iemand in een derdewereldland die misschien geen toegang heeft tot een creditcard of bankrekening."[^2]
+'In tegenstelling tot andere, is e-goud een betalingssysteem die mensen van elke regio of economische achtergrond wereldwijd laat opereren: een migrant kan gemakkelijk waarde naar huis sturen en een handelaar kan betalingen accepteren van iemand in een derdewereldland die misschien geen toegang heeft tot een creditcard of bankrekening'.[^2]
 
 Bovendien beweerde Jackson dat e-goud de mogelijkheid bood om een soort geld te gebruiken dat bestand is tegen inflatie. Omdat het digitaal was, was e-goud eigenlijk voor veel mensen toegankelijker dan echt goud.
 
 Op de lange termijn had e-goud zelfs het potentieel om de ruggengraat te worden van een geheel nieuw, financieel systeem, suggereerde Jackson optimistisch.
 
-"Hoe vinden we een bankensysteem uit dat niet de oorzaak zal zijn van catastrofale verstoringen, dat zelf het minst waarschijnlijk is om schommelingen te introduceren en dat het meest waarschijnlijk de juiste aanpassingen zal maken... is het meest prangende, onopgeloste economische probleem van onze tijd," citeerde hij op een gegeven moment uit het boek `*The Rationale of Central Banking and the Free Banking Alternative*' van econome Vera Smith.
+'Hoe vinden we een bankensysteem uit dat niet de oorzaak zal zijn van catastrofale verstoringen, dat zelf het minst waarschijnlijk is om schommelingen te introduceren en dat het meest waarschijnlijk de juiste aanpassingen zal maken... is het meest prangende, onopgeloste economische probleem van onze tijd', citeerde hij op een gegeven moment uit het boek '*The Rationale of Central Banking and the Free Banking Alternative*' van econome Vera Smith.
 
-Toe te voegen: ``Een systeem en munteenheid zoals e-goud, vooral na opkomst en integratie in de financiële mainstream als een reserve-activum dat als betaalmiddel wordt gebruikt, kunnen dit probleem zeker en vast oplossen.''[^3]
+Toe te voegen: ''Een systeem en munteenheid zoals e-goud, vooral na opkomst en integratie in de financiële mainstream als een reserve-activum dat als betaalmiddel wordt gebruikt, kunnen dit probleem zeker en vast oplossen'.'[^3]
 
 ## Juridische kwesties
 
@@ -68,7 +68,7 @@ Intussen had de Amerikaanse overheid beslagleggingsbevelen uitgevaardigd om acht
 
 Toen er in 2008 eindelijk een voorlopig vonnis kwam, bepaalde de rechter dat e-goud inderdaad een betaaldienst was, en verwierp daarmee Jackson's verzoek om de zaak te seponeren. Aangezien hij nu geconfronteerd werd met de mogelijkheid op een aanzienlijke gevangenisstraf en enorme boetes, besloot Jackson een schikking te treffen.[^6]
 
-In een van de weinige positieve wendingen in het hele verhaal toonde de rechter enige mildheid in haar uiteindelijke vonnis. Ze stelde dat ``de intentie om illegale activiteiten te ondernemen er niet was''.[^7] Toch werd Jackson veroordeeld tot zesendertig maanden voorwaardelijke vrijlating (huisarrest), waarvan zes werden afgedwongen door middel van een enkelband. Hij moest ook 300 uur openbare dienstverlening uitvoeren en een boete van € 200 betalen. Zijn bedrijf kreeg ondertussen een boete van € 600,000. Twee van zijn werknemers -- mede-oprichting Barry Downey and Douglas's broer Reid Jackson -- werden veroordeeld tot zesendertig maanden voorwaardelijke vrijlating, 300 uur dienstverlening aan de gemeenschap en een boete van € 2,500 plus een boete van € 100.
+In een van de weinige positieve wendingen in het hele verhaal toonde de rechter enige mildheid in haar uiteindelijke vonnis. Ze stelde dat ''de intentie om illegale activiteiten te ondernemen er niet was''.[^7] Toch werd Jackson veroordeeld tot zesendertig maanden voorwaardelijke vrijlating (huisarrest), waarvan zes werden afgedwongen door middel van een enkelband. Hij moest ook 300 uur openbare dienstverlening uitvoeren en een boete van € 200 betalen. Zijn bedrijf kreeg ondertussen een boete van € 600,000. Twee van zijn werknemers -- mede-oprichting Barry Downey and Douglas's broer Reid Jackson -- werden veroordeeld tot zesendertig maanden voorwaardelijke vrijlating, 300 uur dienstverlening aan de gemeenschap en een boete van € 2,500 plus een boete van € 100.
 
 En natuurlijk moest e-goud een licentie verkrijgen voor het opereren van een betaaldienst. Het enige probleem? Als veroordeelde misdadiger kwam Jackson niet langer in aanmerking voor zo'n licentie - iets dat hij niet onmiddellijk had gerealiseerd toen hij instemde met de schikking. Net toen hij dacht dat hij eindelijk de juridische strijd voor altijd kon achterlaten en zijn bedrijven op welke manier dan ook kon proberen te redden, ontdekte Jackson dat dit niet onder zijn leiding kon gebeuren.
 
@@ -80,7 +80,7 @@ Jackson had e-goud opgericht om het materiële welzijn van mensen te verbeteren 
 
 Het lot van Douglas Jackson en e-goud diende als een niet-te-miskennen waarschuwing voor iedereen met ambities om een alternatieve vorm van geld aan te bieden. Overheden (en met name de Amerikaanse overheid) konden besluiten hard op te treden, wat ernstige persoonlijke en financiële schade zou kunnen berokkenen. Voor de meesten was dit waarschijnlijk het risico niet waard.
 
-Echter, dit weerhield een onbekend persoon of groep, alleen bekend als "Satoshi Nakamoto," niet. Rond dezelfde tijd dat Jackson zijn dagen thuis doorbracht met een enkelband om, was Nakamoto bezig met het voorbereiden van de lancering van een eigen elektronisch geldsysteem.
+Echter, dit weerhield een onbekend persoon of groep, alleen bekend als 'Satoshi Nakamoto', niet. Rond dezelfde tijd dat Jackson zijn dagen thuis doorbracht met een enkelband om, was Nakamoto bezig met het voorbereiden van de lancering van een eigen elektronisch geldsysteem.
 
 Het ontwerp van Nakamoto's digitale valutasysteem was echter zeer verschillend van e-goud. En hoewel er niet veel bekend is over de achtergrond of beweegredenen van Satoshi Nakamoto, is het duidelijk dat deze mysterieuze entiteit (de naam is vrijwel zeker een pseudoniem) zijn eigen systeem bewust zodanig ontwierp om een soortgelijk lot als e-goud te vermijden.
 
@@ -104,7 +104,7 @@ Samen vormen zij het verhaal van de monetaire hervormers, computerwetenschappers
 
 Friedrich August von Hayek wilde net als zijn vader hoogleraar in de biologie worden, maar de Eerste Wereldoorlog zorgde voor een volledige verandering van zijn levenspad.[^8] Hij werd geboren in 1899 en groeide op tijdens de laatste jaren van het Oostenrijks-Hongaarse Rijk. Nadat hij achttien was geworden, werd hij opgeroepen om te vechten aan het Italiaanse front. Het laatste deel van de oorlog bracht hij door als waarnemer in vliegtuigen.
 
-Toen hij in 1918 na het einde van de oorlog thuis kwam, vond Hayek (het aristocratische voorvoegsel "von" werd na de ineenstorting van de dubbele monarchie weggelaten) zijn woonplaats Wenen terug in totale verwoesting. De oorlog was verloren, de economie vernietigd en het rijk was niet meer. Het moreel in de stad was gebroken.
+Toen hij in 1918 na het einde van de oorlog thuis kwam, vond Hayek (het aristocratische voorvoegsel 'von' werd na de ineenstorting van de dubbele monarchie weggelaten) zijn woonplaats Wenen terug in totale verwoesting. De oorlog was verloren, de economie vernietigd en het rijk was niet meer. Het moreel in de stad was gebroken.
 
 Om de zaken nog erger te maken, spendeerde de nieuwe Oostenrijkse regering zoveel om de naoorlogse kosten te dekken dat de waarde van hun nationale munteenheid enorm kelderde. Hoewel de krone al meer dan 90 procent van zijn koopkracht had verloren tijdens de oorlog, zou dit in de naoorlogse jaren echt uit de hand lopen. Terwijl een Amerikaanse dollar voor ongeveer negen kronen verkocht werd in 1917, kon diezelfde dollar tegen 1923 meer dan 70.000 van de Oostenrijkse munteenheden opbrengen. Het nationale geld was in feite vernietigd.[^9]
 
@@ -122,13 +122,13 @@ De Eerste Wereldoorlog was het gewelddadige hoogtepunt van een tijdperk dat ster
 
 Het nationalisme had in de negentiende eeuw ook invloed op de economische wetenschap. Waar de *klassieke economie*, met zijn sterke nadruk op vrije markten zoals voorgesteld door baanbrekende economen zoals David Hume, Adam Smith, en David Ricardo, dominant was in de late achttiende eeuw, begonnen Europese universiteiten gedurende de jaren 1800 de methoden van de *historische school van economie* te omarmen. De meest invloedrijke experts pleitten voor staatsinterventies in de economie, zoals arbeidswetten, beschermde heffingen, en progressieve belastingen.[^12]
 
-De methodologie van de historische economische school -- de verzameling methoden die gebruikt worden om de economie te bestuderen -- sloot algemene economische theorieën uit en stelde dat de ``regels'' waaraan economieën voldoen verschillen per cultuur en tijd. In tegenstelling tot het opstellen van modellen of theorema's, verzamelden historische economen grote hoeveelheden historische data voor empirische analyse.
+De methodologie van de historische economische school -- de verzameling methoden die gebruikt worden om de economie te bestuderen -- sloot algemene economische theorieën uit en stelde dat de ''regels'' waaraan economieën voldoen verschillen per cultuur en tijd. In tegenstelling tot het opstellen van modellen of theorema's, verzamelden historische economen grote hoeveelheden historische data voor empirische analyse.
 
 Maar professor Carl Menger van de Universiteit van Wenen had deze aanpak in de jaren 1870 al afgewezen. Hij geloofde dat mensen en menselijke interacties te complex waren om enkel op basis van empirische gegevens waardevolle wetenschappelijke inzichten te kunnen afleiden. Een ontelbare hoeveelheid factoren beïnvloedt de gedachten en acties van een typisch persoon, redeneerde hij --- het is onbegonnen werk om het aantal factoren die een hele samenleving beïnvloeden te bestuderen. Geen enkele hoeveelheid empirische data zou groot genoeg kunnen zijn om al deze factoren te omvatten, geloofde Menger. Elke conclusie die uit zo'n dataset wordt getrokken, zou nooit overtuigend zijn.
 
 In plaats daarvan betoogde Menger dat economen zouden moeten proberen om economische verschijnselen te begrijpen en uit te leggen door deductieve redenering. Door te beginnen met basisprincipes, kon logisch redeneren leiden tot onweerlegbare inzichten die het wetenschappelijk begrip van economische processen *a priori* zouden uitbreiden (De Latijnse term *a priori* verwijst naar kennis die onafhankelijk is van ervaring, zoals wiskunde, in tegenstelling tot *a posteriori* kennis die afhankelijk is van empirisch bewijs, zoals meer typisch is in de meeste andere wetenschappelijke vakgebieden.).
 
-Menger bracht deze aanpak in praktijk in zijn boek uit 1871 getiteld *Grundsätze der Volkswirtschaftslehre* ("Grondbeginselen van de Economie"). Hierin schetste hij de theorie van het marginale nut, die stelt dat de prijs van goederen en diensten deels afhangt van hoeveel extra voldoening men krijgt door er meer van te hebben.[^13]
+Menger bracht deze aanpak in praktijk in zijn boek uit 1871 getiteld *Grundsätze der Volkswirtschaftslehre* ('Grondbeginselen van de Economie'). Hierin schetste hij de theorie van het marginale nut, die stelt dat de prijs van goederen en diensten deels afhangt van hoeveel extra voldoening men krijgt door er meer van te hebben.[^13]
 
 Het boek en de methode van Menger betekende een fundamentele verschuiving in denkwijze. Tot dan toe hadden economen, zowel uit de klassieke als uit de historische school, altijd aangenomen dat de waarde van een product werd afgeleid van zijn productiekosten. Zij stelden dat een paar schoenen waardevol is omdat de productie ervan kosten met zich meebrengt --- met name de kosten van arbeid, leer en benodigdheden. De reden dat het leer en de benodigdheden kosten met zich meebrengen, is op hun beurt omdat het produceren van het leer en de benodigdheden eveneens arbeid vereist (en mogelijk ook andere kosten). Dit werd de arbeidswaardetheorie genoemd.
 
@@ -140,7 +140,7 @@ Met deze *subjectieve theorie van waarde*, plaatste Menger het individu terug in
 
 Met zijn benadering die wellicht het best te beschrijven is als een herleving van de klassieke economie gericht op individuele subjectieve ervaring, won Carl Menger de steun van verschillende van zijn collega's aan de Universiteit van Wenen. Door de publicatie van zijn tweede boek in de jaren 1880,[^15] had Menger een filosofisch debat aangewakkerd over de methodologie van de economische wetenschap binnen Duitstalige universiteiten.
 
-Tijdens deze soms vijandige *Methodenstreit* (``strijd der methodes''), begonnen Duitse economen -- die sterk neigden naar de historische school -- ietwat minachtend naar Mengers aanpak te verwijzen als de "Oostenrijkse school van economie". Hoewel oorspronkelijk bedoeld als een sneer (in die tijd associeerden de Duitsers het predicaat "Oostenrijks" met het verlies van Oostenrijk in de Oostenrijks-Pruisische oorlog van 1866), bleef de naam in gebruik. Economen die Mengers methodologie aannamen, werden sindsdien aangeduid als Oostenrijkse economen, zelfs wanneer ze niet uit Oostenrijk afkomstig waren.[^16]
+Tijdens deze soms vijandige *Methodenstreit* (''strijd der methodes''), begonnen Duitse economen -- die sterk neigden naar de historische school -- ietwat minachtend naar Mengers aanpak te verwijzen als de 'Oostenrijkse school van economie'. Hoewel oorspronkelijk bedoeld als een sneer (in die tijd associeerden de Duitsers het predicaat 'Oostenrijks' met het verlies van Oostenrijk in de Oostenrijks-Pruisische oorlog van 1866), bleef de naam in gebruik. Economen die Mengers methodologie aannamen, werden sindsdien aangeduid als Oostenrijkse economen, zelfs wanneer ze niet uit Oostenrijk afkomstig waren.[^16]
 
 De vijandige sfeer tijdens de Methodenstreit in de late negentiende eeuw bereikte zijn hoogtepunt met de *de facto* verbanning van de Oostenrijkse economie uit Duitse universiteiten. De boycott zou decennia van kracht blijven, en verhinderdde in grote mate dat Menger's ideeën zich door de nieuwe, verenigde natiestaat verspreidden. In plaats daarvan bleef het nationalisme domineren, terwijl een andere collectivistische ideologie zich zonder veel wezenlijk tegengas ook begon te verspreiden doorheen de Duitse universiteiten: het socialisme was in opkomst.
 
@@ -152,23 +152,23 @@ Volgens Marx was de uiteindelijke oplossing voor economische ongelijkheid het so
 
 Hoewel de ideeën van Marx pas echt populair leken te worden na zijn dood in 1883, hadden ze ook een behoorlijk aantal critici. Een vaak gehoord bezwaar was dat mensen geen stimulans zouden hebben om te werken in een socialistisch systeem, aangezien ze toch een vast aandeel van alle geproduceerde goederen zouden ontvangen, terwijl de goederen die ze zelf hielpen maken verspreid zouden worden over de rest van de samenleving. Een tweede bezwaar was het risico dat socialistische leiders zich tegen hun eigen bevolking zouden keren en veel van de onder staatsbeheer geproduceerde goederen voor zichzelf zouden opeisen, in plaats van ze eerlijk te verdelen.
 
-Desondanks heeft het de opkomst van de socialistische leer in het Russische Rijk niet gestopt. In 1917, midden in de Eerste Wereldoorlog, wierpen revolutionairen, georganiseerd via arbeidersraden bekend als "Soviets", de zittende regering omver en richtten de Sovjet-Unie op als een communistische staat.
+Desondanks heeft het de opkomst van de socialistische leer in het Russische Rijk niet gestopt. In 1917, midden in de Eerste Wereldoorlog, wierpen revolutionairen, georganiseerd via arbeidersraden bekend als 'Soviets', de zittende regering omver en richtten de Sovjet-Unie op als een communistische staat.
 
 Ongeveer drie jaar na deze gebeurtenissen bracht Mises, de professor die Hayek zijn overheidsbaan had aangeboden, een baanbrekende nieuwe kritiek op het socialisme.[^17] Belangrijk om te vermelden, is dat deze kritiek stand zou houden *zelfs* als mensen gemotiveerd waren om te werken, en *zelfs* als socialistische leiders zich inzetten voor een eerlijke verdeling van de economische winsten. Mises beweerde echter dat het fundamentele probleem van het socialisme het ontbreken van een directe feedbackmechanisme was om producenten te informeren of ze überhaupt waarde toevoegden aan de samenleving.
 
 Laten we een autofabriek nemen om dit argument te illustreren. In een vrije markt voegt een fabriek die auto's produceert en winst maakt duidelijk waarde toe aan de maatschappij: mensen zijn bereid meer te betalen voor auto's dan de fabriek moet betalen voor de benodigde hulpbronnen --- staal, machines, arbeidskrachten --- om ze te produceren. Winst wijst erop dat de productie van de fabriek meer wordt gewaardeerd dan de input.
 
-Een autofrabriek die verlies draait daarentegen, voegt duidelijk geen waarde toe aan de maatschappij, aangezien mensen de gebruikte middelen meer waarderen dan het eindproduct. Uiteindelijk zal zo'n fabriek de deuren moeten sluiten. De middelen die de fabriek gebruikte kunnen nu worden gekocht (of in het geval van arbeid, ingehuurd) door winstgevendere bedrijven om beter ingezet te worden (De Oostenrijkse econoom Joseph Schumpeter zou dit later `creatieve destructie' noemen.).
+Een autofrabriek die verlies draait daarentegen, voegt duidelijk geen waarde toe aan de maatschappij, aangezien mensen de gebruikte middelen meer waarderen dan het eindproduct. Uiteindelijk zal zo'n fabriek de deuren moeten sluiten. De middelen die de fabriek gebruikte kunnen nu worden gekocht (of in het geval van arbeid, ingehuurd) door winstgevendere bedrijven om beter ingezet te worden (De Oostenrijkse econoom Joseph Schumpeter zou dit later 'creatieve destructie' noemen.).
 
 In een socialistische samenleving zou een staatsgeleide autofabriek op bevel van een centrale planner auto's produceren. Wanneer de auto's op bevel geproduceerd worden, is er geen terugkoppeling van de maatschappij in de vorm van winst of verlies. De autofabriek kan mogelijk middelen verspillen aan het maken van auto's die mensen niet waarderen, of niet zo hoog waarderen als andere producten die gemaakt hadden kunnen worden met dezelfde middelen.
 
 Zonder vrije markt is er geen *economische berekening* mogelijk, wat de fundamentele taak van ieder economisch systeem onmogelijk maakt: de efficiënte verdeling van schaarse middelen over de samenleving.[^18]
 
-``Zonder economische berekening kan er geen economie zijn'', concludeerde Mises. "Daarom kan er in een socialistische staat, waarin het nastreven van economische berekening onmogelijk is, in onze betekenis van het woord, geen economie bestaan."[19]
+''Zonder economische berekening kan er geen economie zijn'', concludeerde Mises. 'Daarom kan er in een socialistische staat, waarin het nastreven van economische berekening onmogelijk is, in onze betekenis van het woord, geen economie bestaan'.[19]
 
 ### Prijzen
 
-Mises, en met name zijn concept van economische berekening, zou een grote invloed hebben op Hayek. Aan de Universiteit van Wenen groeide hij uit tot een enthousiaste student van de Oostenrijkse school van economie. Hij bestudeerde de werken van Menger, evenals andere `eerste generatie' Oostenrijkers zoals Eugen von Böhm-Bawerk. Hij werd ook een vaste bezoeker van privé-seminaries die Mises tweemaal per maand organiseerde in zijn overheidskantoor. Daar kwam een kleine groep geleerden samen om economische theorie, filosofie en welke andere onderwerpen Mises en zijn gasten die week ook interessant vonden, te bespreken.
+Mises, en met name zijn concept van economische berekening, zou een grote invloed hebben op Hayek. Aan de Universiteit van Wenen groeide hij uit tot een enthousiaste student van de Oostenrijkse school van economie. Hij bestudeerde de werken van Menger, evenals andere 'eerste generatie' Oostenrijkers zoals Eugen von Böhm-Bawerk. Hij werd ook een vaste bezoeker van privé-seminaries die Mises tweemaal per maand organiseerde in zijn overheidskantoor. Daar kwam een kleine groep geleerden samen om economische theorie, filosofie en welke andere onderwerpen Mises en zijn gasten die week ook interessant vonden, te bespreken.
 
 Mises hielp Hayek persoonlijk bij het opstarten van zijn academische carrière in de economie. In 1927, nadat hij zijn studie aan de Universiteit van Wenen had afgerond, werd Hayek benoemd tot directeur van Mises's pas opgerichte Oostenrijks Instituut voor Conjunctuuronderzoek. Dit bood de jonge econoom een perfecte omgeving om de theorie van zijn voormalige professor over economische berekening verder te ontwikkelen.
 
@@ -192,7 +192,7 @@ Op dezelfde manier, als de consumentenvraag naar keukenapparatuur stijgt, zou de
 
 Hayek legde uit dat relevante informatie in de economie kenbaar wordt gemaakt door middel van het prijssysteem, wat ervoor zorgt dat markten efficiënt middelen kunnen toewijzen over de samenleving daar waar ze het meest gewaardeerd worden.
 
-"In wezen, in een systeem waarin de kennis van de relevante feiten is verspreid over vele mensen, kunnen prijzen fungeren om de afzonderlijke acties van verschillende mensen te coördineren op dezelfde manier als subjectieve waarderingen het individu helpen om de onderdelen van zijn plan te coördineren," schreef de Oostenrijker: "een wonder."[^21]
+'In wezen, in een systeem waarin de kennis van de relevante feiten is verspreid over vele mensen, kunnen prijzen fungeren om de afzonderlijke acties van verschillende mensen te coördineren op dezelfde manier als subjectieve waarderingen het individu helpen om de onderdelen van zijn plan te coördineren', schreef de Oostenrijker: 'een wonder'.[^21]
 
 En belangrijk is dat dit allemaal mogelijk is zonder centrale planning. De vrije markt, zo betoogde Hayek, valt het best te begrijpen als een vorm van zelforganisatie van onderaf: een *spontane orde*.
 
@@ -212,15 +212,15 @@ Maar er is een andere optie. Joris zou Marie € 20.000 kunnen lenen.
 
 Of dit een goede deal is voor hen beiden, kan eenvoudig worden ontdekt door middel van rentetarieven. Laten we zeggen dat Marie, omdat ze een hoge tijdsvoorkeur heeft, vandaag in principe een auto 10 procent meer zou waarderen dan een auto volgend jaar. Dat wil zeggen dat ze zou bereid zijn om € 22.000 voor een auto van € 20.000 te betalen als ze deze vandaag kan hebben in plaats van een jaar vanaf nu. Ze is daarom bereid om 10 procent rente te betalen op een lening van € 20.000. Joris, die een lage tijdsvoorkeur heeft, zou een nieuwe auto vandaag slechts 1 procent meer waarderen dan een auto volgend jaar, een verschil van slechts € 200.
 
-Joris zou dus kunnen besluiten om zijn aankoop uit te stellen en in plaats daarvan € 20.000 te lenen aan Marie. Na een jaar zal hij het geleende bedrag plus een extra € 2.000 aan rente terugkrijgen. Dit zorgt ervoor dat Marie de auto vandaag al kan kopen, terwijl de extra € 2.000 voor Joris de ``kosten'' van het uitstellen van de aankoop van € 200 ruimschoots goedmaken. Beide partijen zouden er voordeel uit halen. Rentetarieven stellen hen in staat onderling hun middelen in de tijd te verdelen, zodat ze het beste overeenkwamen met hun individuele tijdsvoorkeuren.
+Joris zou dus kunnen besluiten om zijn aankoop uit te stellen en in plaats daarvan € 20.000 te lenen aan Marie. Na een jaar zal hij het geleende bedrag plus een extra € 2.000 aan rente terugkrijgen. Dit zorgt ervoor dat Marie de auto vandaag al kan kopen, terwijl de extra € 2.000 voor Joris de ''kosten'' van het uitstellen van de aankoop van € 200 ruimschoots goedmaken. Beide partijen zouden er voordeel uit halen. Rentetarieven stellen hen in staat onderling hun middelen in de tijd te verdelen, zodat ze het beste overeenkwamen met hun individuele tijdsvoorkeuren.
 
 Hoewel dit natuurlijk een zeer vereenvoudigd voorbeeld is, doen kredietmarkten iets vergelijkbaars op grotere schaal. Geldverstrekkers en -ontleners komen een rentetarief overeen waar het aanbod en de vraag naar geld elkaar treffen, gebaseerd op de gezamenlijke tijdsvoorkeuren. Als zodanig zijn rentetarieven in feite ook prijzen. Ze weerspiegelen de prijs van geld.
 
 En net zoals alle prijzen, communiceert de prijs van geld relevante informatie. Hayek was van mening dat de gemiddelde rente iets onthult over de hele economie. Als de rentetarieven hoog zijn, wijst dit erop dat veel mensen een hoge tijdsvoorkeur hebben en niet erg bereid zijn om geld uit te lenen. Ze geven er de voorkeur aan om goederen en diensten eerder dan later aan te schaffen. Omgekeerd, als de rentetarieven laag zijn, suggereert dit dat veel mensen een relatief lage tijdsvoorkeur hebben en bereid zijn hun aankopen uit te stellen als dat betekent dat ze ondertussen wat rente kunnen verdienen.
 
-Hayek was dus van mening dat rentetarieven producenten informeerden over de productiefase waar ze hun middelen aan moesten besteden. Lage rentetarieven signaleerden aan producenten dat ze dit ``goedkope geld'' moesten benutten om productieprocessen op lange termijn te verbeteren door te investeren in goederen van een hogere orde, zoals een nieuwe oven om staal te produceren, die later kan worden gebruikt in de productie van auto's (of keukenapparatuur). Daarentegen maken hoge rentevoeten het lenen van geld duur, wat producenten aanmoedigt om reeds beschikbare middelen te gebruiken en zich te concentreren op het voltooien van de productie in een laat stadium (het laatste deel van het proces waar de uiteindelijke consumptiegoederen zoals auto's worden gemaakt en tentoongesteld in toonzalen voor mensen om te kopen).
+Hayek was dus van mening dat rentetarieven producenten informeerden over de productiefase waar ze hun middelen aan moesten besteden. Lage rentetarieven signaleerden aan producenten dat ze dit ''goedkope geld'' moesten benutten om productieprocessen op lange termijn te verbeteren door te investeren in goederen van een hogere orde, zoals een nieuwe oven om staal te produceren, die later kan worden gebruikt in de productie van auto's (of keukenapparatuur). Daarentegen maken hoge rentevoeten het lenen van geld duur, wat producenten aanmoedigt om reeds beschikbare middelen te gebruiken en zich te concentreren op het voltooien van de productie in een laat stadium (het laatste deel van het proces waar de uiteindelijke consumptiegoederen zoals auto's worden gemaakt en tentoongesteld in toonzalen voor mensen om te kopen).
 
-Het mooie hiervan, zag Hayek in, is dat de tijdsvoorkeuren van mensen netjes overeenkomen met de productiecapaciteit van de economie. Als tijdsvoorkeuren laag zijn, investeren mensen hun geld (of in de meeste gevallen zouden ze het ``sparen'' op een bankrekening en de bank investeert het voor hen), en producenten worden gestimuleerd om te investeren in hun langetermijnproductieprocessen. Dus wanneer tijdsvoorkeuren in de toekomst toenemen, kunnen mensen hun geld en de rente die ze verdienen uitgeven aan de vruchten van al deze verhoogde productiviteit.
+Het mooie hiervan, zag Hayek in, is dat de tijdsvoorkeuren van mensen netjes overeenkomen met de productiecapaciteit van de economie. Als tijdsvoorkeuren laag zijn, investeren mensen hun geld (of in de meeste gevallen zouden ze het ''sparen'' op een bankrekening en de bank investeert het voor hen), en producenten worden gestimuleerd om te investeren in hun langetermijnproductieprocessen. Dus wanneer tijdsvoorkeuren in de toekomst toenemen, kunnen mensen hun geld en de rente die ze verdienen uitgeven aan de vruchten van al deze verhoogde productiviteit.
 
 Rentevoeten, legde Hayek uit, bevorderen spontane orde door de tijd heen!
 
@@ -230,9 +230,9 @@ Dat is natuurlijk zo, *als* rentetarieven in feite de tijdsvoorkeuren nauwkeurig
 
 Een aantal jaren voordat zijn student afstudeerde aan de Universiteit van Wenen, hielp Mises Hayek opnieuw om een tijdelijke functie te verkrijgen als onderzoeksassistent bij de Universiteit van New York.
 
-Toen de jonge Oostenrijker in 1923 in de Verenigde Staten aankwam, waren de `*Roaring Twenties*` in volle gang. De Amerikaanse economie floreerde, en mensen waren maar al te blij om geld te lenen om auto's van Ford te kopen, nieuwe technologische wonderen zoals wasmachines, of vastgoed te kopen in de voorsteden van grote steden. Of ze gebruikten het geld om te investeren in aandelen: de Dow Jones beursindex bereikte jaar na jaar nieuwe hoogtepunten.
+Toen de jonge Oostenrijker in 1923 in de Verenigde Staten aankwam, waren de '*Roaring Twenties*' in volle gang. De Amerikaanse economie floreerde, en mensen waren maar al te blij om geld te lenen om auto's van Ford te kopen, nieuwe technologische wonderen zoals wasmachines, of vastgoed te kopen in de voorsteden van grote steden. Of ze gebruikten het geld om te investeren in aandelen: de Dow Jones beursindex bereikte jaar na jaar nieuwe hoogtepunten.
 
-Hayek's onderzoek zou zich richten op de economische rol van één instituut in het bijzonder: het relatief nieuwe centrale banksysteem van de Verenigde Staten, genaamd de Federal Reserve. De "Fed", zoals dit centraal banksysteem vaak wordt genoemd, was in 1913 opgezet om vertrouwen en stabiliteit te brengen in het Amerikaanse bankensysteem.
+Hayek's onderzoek zou zich richten op de economische rol van één instituut in het bijzonder: het relatief nieuwe centrale banksysteem van de Verenigde Staten, genaamd de Federal Reserve. De 'Fed', zoals dit centraal banksysteem vaak wordt genoemd, was in 1913 opgezet om vertrouwen en stabiliteit te brengen in het Amerikaanse bankensysteem.
 
 Er werd geacht dat een anker voor vertrouwen en stabiliteit noodzakelijk was, omdat commerciële banken werkten op basis van *fractionele reserves*: ze hadden minder echt geld in hun kluizen dan wat spaarders op hun bankrekeningen hadden toegeschreven. Het verschil werd uitgeleend aan kredietnemers en bracht rente op voor zowel banken als hun spaarders. Maar dit kon ook economische instabiliteit veroorzaken, want als te veel spaarders het vertrouwen in een bank verloren en ervoor kozen om tegelijkertijd hun geld op te nemen, zou de bank krap bij kas kunnen komen te zitten, waardoor ze niet alle opnameverzoeken konden honoreren.
 
@@ -240,7 +240,7 @@ In het scenario van zo'n *bankrun*, kon de Federal Reserve nu optreden als *kred
 
 Maar Hayek, die helemaal uit Oostenrijk was gekomen om de rol van de Fed als kredietverstrekker in uiterste nood, en haar invloed op de Amerikaanse economie te onderzoeken, was kritisch.
 
-Hayek was van mening dat de garanties van de nieuwe instelling economische prikkels verstoorden. Hij vreesde dat gunstige economische vooruitzichten de commerciële banken konden aansporen om leningen ruimer te verstrekken dan voorheen, waardoor de geldhoeveelheid in wezen toenam. Meer bankleningen betekent meer geld om in de economie uit te geven.[^22] Dit "nieuwe geld" zou de algemene prijzen omhoog drijven -- *inflatie* -- waardoor bedrijfswinsten over de hele lijn hoger uitvallen en op hun beurt de gunstige economische vooruitzichten bevestigen. De mogelijkheid van commerciële banken om in wezen nieuw geld aan te maken door middel van leningen, zou een feedback-loop van uitbundige kredietcreatie kunnen veroorzaken.
+Hayek was van mening dat de garanties van de nieuwe instelling economische prikkels verstoorden. Hij vreesde dat gunstige economische vooruitzichten de commerciële banken konden aansporen om leningen ruimer te verstrekken dan voorheen, waardoor de geldhoeveelheid in wezen toenam. Meer bankleningen betekent meer geld om in de economie uit te geven.[^22] Dit 'nieuwe geld' zou de algemene prijzen omhoog drijven -- *inflatie* -- waardoor bedrijfswinsten over de hele lijn hoger uitvallen en op hun beurt de gunstige economische vooruitzichten bevestigen. De mogelijkheid van commerciële banken om in wezen nieuw geld aan te maken door middel van leningen, zou een feedback-loop van uitbundige kredietcreatie kunnen veroorzaken.
 
 Echter, wanneer deze kredietcreatie onvermijdelijk vertraagt, zou de muziek stoppen. Als de hoeveelheid nieuw geld dat in de economie wordt geïnjecteerd vermindert, zouden de algehele prijzen dalen -- deflatie -- en bedrijven zouden worden geconfronteerd met hun te optimistische inschatting van economische vooruitzichten. Ze zouden hun producten niet voor zoveel geld kunnen verkopen als ze hadden verwacht. Sommige bedrijven zouden moeten inkrimpen, en de werkloosheid zou toenemen, wat de economie nog meer zou vertragen, omdat mensen minder geld te besteden zouden hebben. Andere bedrijven zouden failliet gaan, waardoor ze hun leningen niet kunnen terugbetalen, wat op zijn beurt commerciële banken in de problemen zou brengen om aan alle deposito-eisen te voldoen. Ze zouden moeten stoppen met het verstrekken van nieuwe leningen, wat de economie alleen maar verder zou vertragen, resulterend in meer ontslagen en leningen die niet terugbetaald worden, en zo verder.
 
@@ -250,11 +250,11 @@ Volgens Hayek was er geen reden om aan te nemen dat het oprichten van een 'kredi
 
 In het oude systeem, merkte hij op, hadden commerciële banken tenminste nog een goede reden om voorzichtig te zijn en niet te veel leningen te verstrekken:
 
-"In afwezigheid van enige centrale bank, is de voornaamste beperking voor individuele banken tegen het uitgeven van buitensporig krediet in een stijgende economische activiteitsfase, de noodzaak om voldoende liquiditeit te behouden om de vraag in een periode van krap geld het hoofd te bieden met hun eigen middelen."[^24]
+'In afwezigheid van enige centrale bank, is de voornaamste beperking voor individuele banken tegen het uitgeven van buitensporig krediet in een stijgende economische activiteitsfase, de noodzaak om voldoende liquiditeit te behouden om de vraag in een periode van krap geld het hoofd te bieden met hun eigen middelen'.[^24]
 
 Het oprichten van een 'kredietverstrekker in uiterste nood' kan inderdaad een toeloop op de bank en paniek voorkomen. Maar Hayek stelde dat dit tegelijkertijd de prikkel voor banken wegneemt om in eerste instantie enige terughoudendheid te tonen bij het verstrekken van leningen.
 
-"Het moet dus onvermijdelijk leiden tot een gestage toename in het gebruik van krediet en daardoor de herhaling van recessies nog onvermijdelijker maken," concludeerde Hayek.[25]
+'Het moet dus onvermijdelijk leiden tot een gestage toename in het gebruik van krediet en daardoor de herhaling van recessies nog onvermijdelijker maken', concludeerde Hayek.[25]
 
 Dit soort verkeerde afstemming van economische prikkels, waar bepaalde economische spelers -- in dit geval, banken -- beloond worden voor het nemen van meer risico's, maar niet de volledige kosten van deze risico's dragen, wordt in de economie *moreel risico* genoemd. Hayek was van mening dat de Federal Reserve dit moreel risico in de economie introduceerde.
 
@@ -294,15 +294,15 @@ In wat de basis zou worden van nog een nieuwe school van economisch denken - het
 
 Door geld te besteden aan openbare infrastructuurwerken, zou de overheid banen creëren. Dat zorgt ervoor dat mensen lonen hebben om uit te geven en geld weer in de economie kan gaan circuleren. Wanneer mensen weer op eigen houtje gaan uitgeven, zou de overheid vervolgens haar uitgaven moeten verminderen. Keynes stelde voor dat beleidsmakers een *anti-cyclische* aanpak van overheidsuitgaven zouden moeten adopteren.
 
-Eén specifieke beleidsmaker was volledig klaar voor deze uitdaging. Franklin D. Roosevelt, die in 1932 de eerste Amerikaanse presidentsverkiezingen sinds de beurskrach won, had zijn campagne gevoerd met de belofte om via zijn presidentieel mandaat actief een einde te maken aan de depressie. Toen hij zijn ambt opnam, vormden Keynes's ideeën het economische kader om zijn beleid te ondersteunen (zij het enigszins *nadat* dit beleid werd aangekondigd[^28]). Via een reeks overheidsprogramma's, die "de New Deal" werden genoemd, begon FDR al snel miljarden dollars uit te geven aan wegen, luchthavens, bruggen, dammen en nog veel meer.
+Eén specifieke beleidsmaker was volledig klaar voor deze uitdaging. Franklin D. Roosevelt, die in 1932 de eerste Amerikaanse presidentsverkiezingen sinds de beurskrach won, had zijn campagne gevoerd met de belofte om via zijn presidentieel mandaat actief een einde te maken aan de depressie. Toen hij zijn ambt opnam, vormden Keynes's ideeën het economische kader om zijn beleid te ondersteunen (zij het enigszins *nadat* dit beleid werd aangekondigd[^28]). Via een reeks overheidsprogramma's, die 'de New Deal' werden genoemd, begon FDR al snel miljarden dollars uit te geven aan wegen, luchthavens, bruggen, dammen en nog veel meer.
 
 Hayek was echter helemaal niet overtuigd door de ideeën van Keynes. Aangezien hij geloofde dat de economische malaise slechts een correctie was van de onhoudbare boom die eraan voorafging, was hij van mening dat overheidsuitgaven de uiteindelijk onhoudbare situatie alleen maar langer lieten voortduren.
 
 Daar bovenop was er een wellicht nog belangrijker bezwaar tegen de Keynesiaanse anti-cyclische benadering, die niet eens echt gerelateerd was aan economie. Dit bezwaar was van politieke aard: Hayek geloofde niet dat politici te vertrouwen waren om te beslissen wanneer een economie in een opwaartse of neerwaartse trend zit. In plaats daarvan zouden ze in de verleiding komen om geld te lenen en in de economie uit te geven wanneer daar vraag naar is... wat evengoed continu het geval kan zijn.
 
-"Er zullen altijd delen van het land of bevolkingsgroepen zijn die van mening zijn dat ze het moeilijk genoeg hebben om hulp te mogen ontvangen," schreef Hayek. "Kan onder deze omstandigheden een rationeel anti-cyclisch beleid ontwikkeld worden als het in handen van politieke organen wordt gegeven?"[^29]
+'Er zullen altijd delen van het land of bevolkingsgroepen zijn die van mening zijn dat ze het moeilijk genoeg hebben om hulp te mogen ontvangen', schreef Hayek. 'Kan onder deze omstandigheden een rationeel anti-cyclisch beleid ontwikkeld worden als het in handen van politieke organen wordt gegeven?'[^29]
 
-Voor Hayek was het antwoord een overduidelijk "nee".
+Voor Hayek was het antwoord een overduidelijk 'nee'.
 
 Dit leidde tot wat vaak beschouwd wordt als een van de grootste intellectuele confrontaties van de twintigste eeuw. Gedurende de jaren '30 stonden Hayek, die op dat moment professor was aan de London School of Economics, en Keynes, nog steeds bij King's College in Cambridge, vaak tegenover elkaar in openbare debatten en ook in privécorrespondentie. Hun respectieve universiteiten in het zuidoosten van Engeland dienden als het strijdtoneel voor de opkomende titanen van de economie en hun twee tegenovergestelde economische visies.
 
@@ -324,7 +324,7 @@ In plaats daarvan gaven ze hem een baan.
 
 Dit weerspiegelde de tamelijk anarchistische cultuur in het AI Lab. De leiders van het onderzoekscentrum hadden niet veel interesse in ervaring of kwalificaties, maar waardeerden vaardigheid en potentieel. Het was duidelijk dat dit wonderkind van Harvard, die het lab bezocht om hun computerdocumentatie te bestuderen, goed bij hen zou passen.[^30]
 
-### "De cultuur van hackers[^31]"
+### 'De cultuur van hackers[^31]'
 
 De anarchistische cultuur in het AI Lab was ongeveer een decennium eerder voor het eerst ontstaan.
 
@@ -334,7 +334,7 @@ De machine, die een hele kamer in beslag nam en een ton woog, had al snel de fas
 
 De jonge mannen (het waren aanvankelijk allemaal mannen) waren vastbesloten om de machtige TX-0 te beheersen vanaf het eerste moment dat deze op de campus arriveerde. En inderdaad, al snel ontdekten ze hoe ze toegang konden krijgen tot en de broncode konden bewerken van de verschillende programma's die in de machine waren ingebouwd. Kort daarna wisten ze te achterhalen hoe ze zelf hele nieuwe programma's konden schrijven.
 
-Het duurde niet lang voordat ze hele nachten rond de TX-0 doorbrachten, op momenten dat ze de machine volledig voor zichzelf hadden. Verenigd door hun gedeelde passie, daagden de jongens elkaar uit om de computer steeds ingewikkeldere taken te laten uitvoeren. Wie pronkte met elegante manieren om code te schrijven, had recht om op te scheppen. Bijzonder slimme oplossingen werden in hun interne jargon "hacks" genoemd; de jongens identificeerden zichzelf dan ook trots als "hackers".
+Het duurde niet lang voordat ze hele nachten rond de TX-0 doorbrachten, op momenten dat ze de machine volledig voor zichzelf hadden. Verenigd door hun gedeelde passie, daagden de jongens elkaar uit om de computer steeds ingewikkeldere taken te laten uitvoeren. Wie pronkte met elegante manieren om code te schrijven, had recht om op te scheppen. Bijzonder slimme oplossingen werden in hun interne jargon 'hacks' genoemd; de jongens identificeerden zichzelf dan ook trots als 'hackers'.
 
 Naarmate de jongens hun programmeervaardigheden verbeterden in een geest van kameraadschap, gingen ze de computer meer en meer zien als een levensstijl. Niets was voor hen belangrijker dan hacken, en niets was leuker. Het benutten van het potentieel van deze krachtige machines gaf hen een geweldig gevoel van zelbeschikking.
 
@@ -348,7 +348,7 @@ Als beperkingen als een uitdaging gezien werden, nou, hackers hielden van uitdag
 
 En misschien wel het allerbelangrijkst, ze deelden.
 
-Hackers waren ervan overtuigd dat vrij toegankelijke code en bestanden iedereen ten goede kwamen, en ze waren trots wanneer mensen de programma's gebruikten die ze hadden geschreven. Ze geloofden dat ze een ethische plicht hadden om hun code te delen, en om toegang tot informatie voor anderen te vergemakkelijken. Er waren geen wachtwoorden, geen beperkingen, en geen "persoonlijke" documenten.
+Hackers waren ervan overtuigd dat vrij toegankelijke code en bestanden iedereen ten goede kwamen, en ze waren trots wanneer mensen de programma's gebruikten die ze hadden geschreven. Ze geloofden dat ze een ethische plicht hadden om hun code te delen, en om toegang tot informatie voor anderen te vergemakkelijken. Er waren geen wachtwoorden, geen beperkingen, en geen 'persoonlijke' documenten.
 
 De hackers zouden uiteindelijk een speciaal besturingssysteem ontwikkelen om dat doel te dienen, het Incompatible Time-sharing System (ITS) (een woordspeling op het Compatible Time-Sharing System dat eraan voorafging), dat hen in staat stelde om samen te coderen. Als iemand inlogde en ontdekte dat een van zijn kameraden een nieuwe teksteditor of strategisch spel had ontwikkeld, konden ze simpelweg het bestand openen en zelf onmiddellijk bijdragen aan het project. Of, als twee hackers tegelijkertijd de computer gebruikten, konden ze de code gelijktijdig debuggen en verbeteren.
 
@@ -362,13 +362,13 @@ Het bracht wel moeilijkheden met zich mee. Iedereen die een ITS-computer gebruik
 
 Maar in de praktijk waren dergelijke incidenten zeldzaam. Het vernietigen van iemand anders zijn werk paste niet in de hacker-cultuur, en hoewel het crashen van de computer hinderlijk was voor andere gebruikers, gaf het hen ook de kans om samen te werken bij het debuggen van de code en het vinden van een oplossing voor wat de crash veroorzaakte.
 
-Dit was heel anders dan de computeromgevingen bij het IBM Wetenschappelijk Centrum en Harvard waaraan Stallman gewend was geraakt. Die machines waren ontworpen met beveiligingsfuncties die vereisten dat sommige mensen meer bevoegdheden hadden dan anderen: bepaalde programma's waren alleen toegankelijk voor bepaalde gebruikers, zoals systeembeheerders of sommige professoren. De "elite", zij die bevoorrechte accounts hadden, kon eenzijdig beslissen wat anderen wel en niet konden doen op de machines, wat betekende dat reguliere gebruikers vaak om hulp of toestemming moesten vragen.
+Dit was heel anders dan de computeromgevingen bij het IBM Wetenschappelijk Centrum en Harvard waaraan Stallman gewend was geraakt. Die machines waren ontworpen met beveiligingsfuncties die vereisten dat sommige mensen meer bevoegdheden hadden dan anderen: bepaalde programma's waren alleen toegankelijk voor bepaalde gebruikers, zoals systeembeheerders of sommige professoren. De 'elite', zij die bevoorrechte accounts hadden, kon eenzijdig beslissen wat anderen wel en niet konden doen op de machines, wat betekende dat reguliere gebruikers vaak om hulp of toestemming moesten vragen.
 
 De nieuwe collega's van Stallman in het AI Lab walgden van dit soort beleidslijnen. Volgens hen hadden de beheerders in feite politiestaten opgezet in hun respectieve computeromgevingen, waarbij ze zichzelf de autoriteit toe-eigenden om andere gebruikers te besturen en controleren.
 
 Nu hij hun vrije alternatief had ervaren, was Stallman het volledig met hen eens. Terwijl het AI Lab bewees dat hun vorm van anarchie een productieve werkomgeving kon bevorderen, raakte hij ervan overtuigd dat de beperkende en gecontroleerde systemen feitelijk een digitale vorm van fascisme vertegenwoordigden.[^32]
 
-"De gebruikers van ons systeem waren vrije mensen, aan wie gevraagd werd om zich verantwoordelijk te gedragen. In plaats van een elite van macht, hadden we een elite van kennis, bestaande uit iedereen die gemotiveerd was om te leren," schreef Stallman later. "Omdat niemand anderen kon domineren op onze machine, functioneerde het lab als een anarchie. Het zichtbare succes hiervan bekeerde mij tot het anarchisme. Voor de meeste mensen betekent 'anarchie' 'verspillende, destructieve wanorde', maar voor een anarchist als ik betekent het vrijwillige organisatie naar behoefte, met de nadruk op doelen, in tegenstelling tot regels en vereisten tot uniformiteit omwille van de uniformiteit".[^33]
+'De gebruikers van ons systeem waren vrije mensen, aan wie gevraagd werd om zich verantwoordelijk te gedragen. In plaats van een elite van macht, hadden we een elite van kennis, bestaande uit iedereen die gemotiveerd was om te leren', schreef Stallman later. 'Omdat niemand anderen kon domineren op onze machine, functioneerde het lab als een anarchie. Het zichtbare succes hiervan bekeerde mij tot het anarchisme. Voor de meeste mensen betekent 'anarchie' 'verspillende, destructieve wanorde', maar voor een anarchist als ik betekent het vrijwillige organisatie naar behoefte, met de nadruk op doelen, in tegenstelling tot regels en vereisten tot uniformiteit omwille van de uniformiteit'.[^33]
 
 Hoewel Stallman geen anarchist was in de meest complete betekenis van het woord -- hij geloofde namelijk nog steeds dat de staat vele belangrijke functies uitvoerde, waaronder het financieren van het AI Lab -- dacht hij dat het anarchistische model ook in andere computeromgevingen kon werken. En inderdaad, rond deze tijd begon de hacker-cultuur zich ook te verspreiden buiten MIT, met name naar Stanford University, die een eigen AI Lab kreeg. Tegen het begin van de jaren '70 had de hacker-gemeenschap een nieuwe basis gevestigd in de San Francisco Bay Area.
 
@@ -400,11 +400,11 @@ Voor Stallman betekende dit het einde van het lab.
 
 De ontgoochelde hacker vatte het kort daarna samen in een brief:
 
-"De personen die nog in het lab waren, waren de professoren, studenten en non-hacker onderzoekers, die niet wisten hoe ze het systeem of de hardware moesten onderhouden, of dit zelfs niet wilden weten. Machines begonnen te breken en werden nooit gefixt; soms werden ze gewoon weggegooid. Noodzakelijke veranderingen in software konden niet worden doorgevoerd. De niet-hackers reageerden hierop door over te schakelen naar commerciële systemen, wat fascisme en licentieovereenkomsten met zich meebracht. Ik slenterde door het lab, door de kamers die 's nachts leeg waar ze vroeger vol waren en dacht: 'Oh mijn arme AI-lab! Je gaat dood en ik kan je niet redden.' Iedereen verwachtte dat als er meer hackers werden opgeleid, Symbolics ze zou wegkapen, dus het leek niet eens de moeite waard om het te proberen... de hele cultuur werd uitgewist..."[^35]
+'De personen die nog in het lab waren, waren de professoren, studenten en non-hacker onderzoekers, die niet wisten hoe ze het systeem of de hardware moesten onderhouden, of dit zelfs niet wilden weten. Machines begonnen te breken en werden nooit gefixt; soms werden ze gewoon weggegooid. Noodzakelijke veranderingen in software konden niet worden doorgevoerd. De niet-hackers reageerden hierop door over te schakelen naar commerciële systemen, wat fascisme en licentieovereenkomsten met zich meebracht. Ik slenterde door het lab, door de kamers die 's nachts leeg waar ze vroeger vol waren en dacht: 'Oh mijn arme AI-lab! Je gaat dood en ik kan je niet redden'. Iedereen verwachtte dat als er meer hackers werden opgeleid, Symbolics ze zou wegkapen, dus het leek niet eens de moeite waard om het te proberen... de hele cultuur werd uitgewist..'.[^35]
 
 Stallman had ooit gedroomd van een toekomst geïnspireerd door de vrije en collaboratieve hacker-cultuur, maar hij geloofde nu dat hij in plaats daarvan de laatste ademtochten ervan aan het aanschouwen was.
 
-"Ik ben de laatste overlevende van een dode cultuur," klaagde Stallman met een gevoel van drama. "En ik hoor echt niet meer thuis in de wereld. En op sommige manieren voel ik dat ik eigenlijk dood zou moeten zijn."[^36]
+'Ik ben de laatste overlevende van een dode cultuur', klaagde Stallman met een gevoel van drama. 'En ik hoor echt niet meer thuis in de wereld. En op sommige manieren voel ik dat ik eigenlijk dood zou moeten zijn'.[^36]
 
 ### Vrije software
 
@@ -412,15 +412,15 @@ Toch was Stallman nog niet helemaal bereid om op te geven.
 
 Stallman wees voornamelijk Noftsker aan als schuldige voor de ondergang van het AI Lab. De hacker zette zich vervolgens in om alle software-upgrades van Symbolics opnieuw te implementeren. Hij hield hun documentatie van nieuwe functies bij en schreef vervolgens code die dezelfde functies bood. In feite deed hij in zijn eentje het werk van zes ontwikkelaars van de startup. Hij deelde zijn code met LMI, waardoor het bedrijf van Greenblatt een kans had om tegen Symbolics te concurreren. Hij hield dit lang genoeg vol zodat Greenblatt nieuwe programmeurs kon aannemen en zijn bedrijf weer op de rails kon krijgen.[^37]
 
-Vervolgens besloot Stallman dat het tijd was voor een nieuwe start. Hij had zichzelf ervan overtuigd dat de hacker-cultuur de wereld nog steeds kon veranderen, maar concludeerde dat er een nieuw plan nodig was: "een ambitieus project dat de fundamenten aanvalt van de manier waarop de commerciële, vijandige manier van leven wordt voortgezet."[^38]
+Vervolgens besloot Stallman dat het tijd was voor een nieuwe start. Hij had zichzelf ervan overtuigd dat de hacker-cultuur de wereld nog steeds kon veranderen, maar concludeerde dat er een nieuw plan nodig was: 'een ambitieus project dat de fundamenten aanvalt van de manier waarop de commerciële, vijandige manier van leven wordt voortgezet'.[^38]
 
-Specifiek wilde Stallman de algemene trend naar *propriëtaire software* omkeren, software die door licenties en auteursrechten beperkt werd, en die in de jaren '80 steeds gebruikelijker werd. In lijn met de hacker-ethiek geloofde Stallman dat een computerprogramma maximaal nut biedt als mensen het kunnen verbeteren. En aangezien computers het quasi kosteloos maakten om informatie te kopiëren, stelde hij dat het verhinderen van het delen van software "de gehele mensheid saboteert", zo betoogde de hacker.[^39]
+Specifiek wilde Stallman de algemene trend naar *propriëtaire software* omkeren, software die door licenties en auteursrechten beperkt werd, en die in de jaren '80 steeds gebruikelijker werd. In lijn met de hacker-ethiek geloofde Stallman dat een computerprogramma maximaal nut biedt als mensen het kunnen verbeteren. En aangezien computers het quasi kosteloos maakten om informatie te kopiëren, stelde hij dat het verhinderen van het delen van software 'de gehele mensheid saboteert', zo betoogde de hacker.[^39]
 
 Erger nog, propriëtaire software kan doorgaans niet geïnspecteerd worden. Als mensen geen toegang hebben tot de in mensentaal leesbare broncode van de software die ze op hun computers draaien, kunnen ze niet zeker weten wat hun eigen machine eigenlijk doet. Een programma kan kwaadaardig zijn en bijvoorbeeld zijn gebruiker beperken, censureren, bespioneren of op een andere manier misbruiken.[^40]
 
 Stallman was van mening dat het gebruik van propriëtaire software in feite betekende dat je de controle overliet aan degene die het had ontwikkeld.[41]
 
-"Als gebruikers het programma niet beheersen, beheerst het programma de gebruikers", redeneerde hij. "Met eigendomsrechtelijk beschermde software is er altijd een entiteit -- de 'eigenaar' van het programma -- die controle heeft over het programma en daarmee macht uitoefent over de gebruikers."[^42]
+'Als gebruikers het programma niet beheersen, beheerst het programma de gebruikers', redeneerde hij. 'Met eigendomsrechtelijk beschermde software is er altijd een entiteit -- de 'eigenaar' van het programma -- die controle heeft over het programma en daarmee macht uitoefent over de gebruikers'.[^42]
 
 In plaats daarvan wilde Stallman dat computers instrumenten van zelfbeschikking en vrijheid waren. Hij geloofde dat gebruikers te allen tijde de controle over hun eigen apparaten moesten hebben.
 
@@ -434,7 +434,7 @@ Om dit te verwezenlijken, ontwikkelde hij een filosofie die vereiste dat elk com
 
 - De vrijheid om kopieën van je aangepaste versies met anderen te delen (vrijheid 3). Door dit te doen kun je de hele gemeenschap de kans geven om te profiteren van je veranderingen. Toegang tot de broncode is een noodzakelijke voorwaarde.
 
-Of samengevat, gebruikers hadden over het algemeen "de vrijheid om software te draaien, kopiëren, verspreiden, bestuderen, veranderen en te verbeteren."[^45] Dit vereist dat de menselijk-leesbare broncode van een programma gepubliceerd is, en dat deze niet onderhevig is aan beperkende auteursrechtenlicenties. Stallman zou software, die deze vier essentiële vrijheden bood, classificeren als vrije software (vrij in de betekenis van "vrijheid", benadrukte de hacker graag, en niet zoals in "gratis bier.").
+Of samengevat, gebruikers hadden over het algemeen 'de vrijheid om software te draaien, kopiëren, verspreiden, bestuderen, veranderen en te verbeteren'.[^45] Dit vereist dat de menselijk-leesbare broncode van een programma gepubliceerd is, en dat deze niet onderhevig is aan beperkende auteursrechtenlicenties. Stallman zou software, die deze vier essentiële vrijheden bood, classificeren als vrije software (vrij in de betekenis van 'vrijheid', benadrukte de hacker graag, en niet zoals in 'gratis bier'.).
 
 ### GNU
 
@@ -444,11 +444,11 @@ Daarom kondigde Stallman in 1983 zijn ongelooflijk ambitieus project aan om een 
 
 GNU belichaamde de hacker-ethiek en wees propriëtaire software volledig af.
 
-"Ik heb veel andere programmeurs gevonden die enthousiast zijn over GNU en willen helpen," schreef Stallman in het GNU Manifesto dat hij uitgaf na de aankondiging, waarin hij het doel en de staat van het project beschreef. "Veel programmeurs zijn ongelukkig over de commercialisering van systeemsoftware. Het stelt hen wellicht in staat om meer geld te verdienen, maar het zorgt ervoor dat ze zich in conflict voelen met andere programmeurs in plaats van als kameraden. [...] GNU dient als voorbeeld om te inspireren en als een vaandel om anderen rond te verzamelen om ons te vergezellen in het delen."[^47]
+'Ik heb veel andere programmeurs gevonden die enthousiast zijn over GNU en willen helpen', schreef Stallman in het GNU Manifesto dat hij uitgaf na de aankondiging, waarin hij het doel en de staat van het project beschreef. 'Veel programmeurs zijn ongelukkig over de commercialisering van systeemsoftware. Het stelt hen wellicht in staat om meer geld te verdienen, maar het zorgt ervoor dat ze zich in conflict voelen met andere programmeurs in plaats van als kameraden. [...] GNU dient als voorbeeld om te inspireren en als een vaandel om anderen rond te verzamelen om ons te vergezellen in het delen'.[^47]
 
 Inderdaad, GNU was meer dan alleen een stukje software, maar vertegenwoordige het onstaan van een nieuwe sociale beweging: de vrije softwarebeweging.
 
-Om de beweging te ondersteunen, richtte Stallman in 1985 ook de non-profitorganisatie Free Software Foundation op. De stichting zou pleiten voor vrije software en geld inzamelen om vrije softwareprojecten te financieren. Daarnaast leidde de Free Software Foundation de introductie van speciale vrije softwarelicenties onder de nieuwe paraplu van "copyleft", ontworpen om vrije software te stimuleren.
+Om de beweging te ondersteunen, richtte Stallman in 1985 ook de non-profitorganisatie Free Software Foundation op. De stichting zou pleiten voor vrije software en geld inzamelen om vrije softwareprojecten te financieren. Daarnaast leidde de Free Software Foundation de introductie van speciale vrije softwarelicenties onder de nieuwe paraplu van 'copyleft', ontworpen om vrije software te stimuleren.
 
 Dit omvatte, het meest opmerkelijk, de GNU General Public License: een licentie die het recht verleent om broncode te verspreiden en te wijzigen zolang dit wordt gedaan onder even vrije voorwaarden. Met andere woorden, andere ontwikkelaars van vrije software konden vrije software die onder deze licentie werd uitgebracht op welke manier dan ook in hun eigen project integreren, maar ontwikkelaars van propriëtaire software konden dit niet.
 
@@ -466,31 +466,31 @@ Rond datzelfde moment maakte de Finse software ingenieur Linus Torvalds graag ge
 
 Maar Torvalds' voornaamste vernieuwing was mogelijk niet het Linux kernel zelf. Het was de manier waarop hij het maakte. De jaren ervoor ontwikkelde de software-ingenieur een proces dat expliciet is ontworpen voor samenwerking via het internet.
 
-Zoals uitvoerig besproken door Linux-bijdrager Eric S. Raymond in zijn essay "The Cathedral & The Bazaar" uit 1997 en het (later) gelijknamige boek, was de grootste aanpassing die Torvalds maakte de benadering van de project omtrent beveiliging.
+Zoals uitvoerig besproken door Linux-bijdrager Eric S. Raymond in zijn essay 'The Cathedral & The Bazaar' uit 1997 en het (later) gelijknamige boek, was de grootste aanpassing die Torvalds maakte de benadering van de project omtrent beveiliging.
 
-Tot die tijd beschouwden vrije softwareontwikkelaars bugs en andere kwetsbaarheden als grote risico's die moesten worden aangepakt door toegewijde experts die hun software zorgvuldig beoordeelden. Dit omvatte ook de code die ze ontvingen van externe bijdragers. Ze zouden de code pas vrijgeven als ze er zeker van waren dat het veilig was om deze te gebruiken. Raymond bestempelde deze top-down benadering als het "kathedraal"-model.
+Tot die tijd beschouwden vrije softwareontwikkelaars bugs en andere kwetsbaarheden als grote risico's die moesten worden aangepakt door toegewijde experts die hun software zorgvuldig beoordeelden. Dit omvatte ook de code die ze ontvingen van externe bijdragers. Ze zouden de code pas vrijgeven als ze er zeker van waren dat het veilig was om deze te gebruiken. Raymond bestempelde deze top-down benadering als het 'kathedraal'-model.
 
 In plaats daarvan gebruikte Torvalds wat Raymond het 'bazaar'-model noemde. Dit model gebruikte een flexibelere methode om bijdragen te integreren, waardoor ontwikkelaars meer direct hun wijzigingen konden uploaden naar verschillende versies van de software. Andere bijdragers konden vervolgens deze software downloaden, testen en mogelijk de wijzigingen in hun eigen versies overnemen.
 
 Zo'n flexibel systeem zou kunnen leiden tot versies van de software met meer fouten dan de software van hun tegenhangers in het kathedraal-model. Maar omdat het ontwikkelproces openlijk plaatsvindt, zijn andere bijdragers meestal sneller in staat om deze fouten te ontdekken en ze te corrigeren. Indien nodig, wordt de oplossing direct opgenomen in een nieuwe versie; onder het bazaar model vinden software-updates sneller en vaker plaats.
 
-"Met een groot genoeg aantal bèta-testers en mede-ontwikkelaars, wordt bijna elk probleem snel vastgesteld en is de oplossing voor iemand duidelijk," schreef Raymond in zijn essay, waarbij hij een van de belangrijkste lessen die hij over de jaren had geleerd, samenvatte. "Of, minder formeel, 'Met genoeg ogen, zijn alle bugs oppervlakkig.'"[^49]
+'Met een groot genoeg aantal bèta-testers en mede-ontwikkelaars, wordt bijna elk probleem snel vastgesteld en is de oplossing voor iemand duidelijk', schreef Raymond in zijn essay, waarbij hij een van de belangrijkste lessen die hij over de jaren had geleerd, samenvatte. 'Of, minder formeel, 'Met genoeg ogen, zijn alle bugs oppervlakkig'.'[^49]
 
 Hij gaf de uitspraak de naam de 'Wet van Linus'.
 
-Opmerkelijk genoeg, geloofde Raymond dat dit ontwikkelingsmodel voordelen kon bieden zelfs aan bedrijven en mensen die Stallmans bezorgdheid over eigendomssoftware niet deelden, maar gewoon kwaliteitscode wilden tegen lage kosten. Hij vermoedde echter dat velen van hen (vooral bedrijven) terughoudend waren om gratis software te gebruiken, juist omdat ze afgeschrikt werden door de ideologische verhalen er omheen. Om minder nadruk te leggen op Stallmans originele motivaties en meer op de pragmatische voordelen, leidde Raymond daarom in de late jaren '90 de poging om vrije software te rebranden als "open source software".
+Opmerkelijk genoeg, geloofde Raymond dat dit ontwikkelingsmodel voordelen kon bieden zelfs aan bedrijven en mensen die Stallmans bezorgdheid over eigendomssoftware niet deelden, maar gewoon kwaliteitscode wilden tegen lage kosten. Hij vermoedde echter dat velen van hen (vooral bedrijven) terughoudend waren om gratis software te gebruiken, juist omdat ze afgeschrikt werden door de ideologische verhalen er omheen. Om minder nadruk te leggen op Stallmans originele motivaties en meer op de pragmatische voordelen, leidde Raymond daarom in de late jaren '90 de poging om vrije software te rebranden als 'open source software'.
 
-Stallman was zelf echter niet akkoord met de herbenoeming. Voor hem was vrijheid het voornaamste, en de term "open source" deed afbreuk aan deze boodschap.
+Stallman was zelf echter niet akkoord met de herbenoeming. Voor hem was vrijheid het voornaamste, en de term 'open source' deed afbreuk aan deze boodschap.
 
-Vandaag de dag verwijzen de termen "vrije software" en "open source software" in vrijwel alle gevallen naar hetzelfde concept, maar het verschil in terminologie blijft de filosofische kloof vertegenwoordigen. De term "vrije en open source software" (FOSS) wordt gebruikt om beide zijden van het schisma expliciet te omvatten.[^50]
+Vandaag de dag verwijzen de termen 'vrije software' en 'open source software' in vrijwel alle gevallen naar hetzelfde concept, maar het verschil in terminologie blijft de filosofische kloof vertegenwoordigen. De term 'vrije en open source software' (FOSS) wordt gebruikt om beide zijden van het schisma expliciet te omvatten.[^50]
 
 ### Gemeenschappelijk begrip
 
-Het bazaar-model kan hoogwaardige code opleveren. Maar die kwaliteit is geen vanzelfsprekendheid. Volgens de Wet van Linus, vereist hoogwaardige code voldoende "ogen", oftewel bijdragers.
+Het bazaar-model kan hoogwaardige code opleveren. Maar die kwaliteit is geen vanzelfsprekendheid. Volgens de Wet van Linus, vereist hoogwaardige code voldoende 'ogen', oftewel bijdragers.
 
-FOSS-projecten hebben meestal niet de middelen om financiële beloningen te geven aan potentiële bijdragers. Daarnaast worden bestaande machtsverhoudingen vaak genegeerd in het kader van vrije en open-source ontwikkeling. Zoals Raymond ook al uitsprak in zijn essay, was dwang natuurlijk volledig buiten de orde in "het anarchistisch paradijs dat we het internet noemen."[^51] Het aantrekken van bijdragers is daarom een cruciale vaardigheid gebleken voor ontwikkelaars van vrije en open software.
+FOSS-projecten hebben meestal niet de middelen om financiële beloningen te geven aan potentiële bijdragers. Daarnaast worden bestaande machtsverhoudingen vaak genegeerd in het kader van vrije en open-source ontwikkeling. Zoals Raymond ook al uitsprak in zijn essay, was dwang natuurlijk volledig buiten de orde in 'het anarchistisch paradijs dat we het internet noemen'.[^51] Het aantrekken van bijdragers is daarom een cruciale vaardigheid gebleken voor ontwikkelaars van vrije en open software.
 
-Geïnspireerd door de negentiende-eeuwse Russische anarchist Pyotr Alexeyevich Kropotkin, legde Raymond uit dat projectleiders moesten leren om effectieve belangengemeenschappen te werven en te motiveren op basis van een gemeenschappelijk begrip. Om ontwikkelaars te overtuigen een bijdrage te leveren, moet de leiding van een project bedenken hoe bij te dragen aan het project hen ten goede zou komen. De prikkels moeten worden afgestemd op een gedeeld doel, stelde Raymond voor, een "ernstige inspanning van vele samenkomende wilskrachten."[^52]
+Geïnspireerd door de negentiende-eeuwse Russische anarchist Pyotr Alexeyevich Kropotkin, legde Raymond uit dat projectleiders moesten leren om effectieve belangengemeenschappen te werven en te motiveren op basis van een gemeenschappelijk begrip. Om ontwikkelaars te overtuigen een bijdrage te leveren, moet de leiding van een project bedenken hoe bij te dragen aan het project hen ten goede zou komen. De prikkels moeten worden afgestemd op een gedeeld doel, stelde Raymond voor, een 'ernstige inspanning van vele samenkomende wilskrachten'.[^52]
 
 Dit betekent in de praktijk dat niemand echt de leiding heeft over FOSS-projecten in de bazaar-stijl. Een projectleider kan het project niet in een richting sturen die niet gedragen wordt door de rest, zonder de ontwikkelaars te verliezen die hij zo hard nodig heeft. In het bazaar-model wordt software beheerd door zijn schare van bijdragers, elk met hun eigen persoonlijke reden om betrokken te zijn.
 
@@ -500,7 +500,7 @@ Op deze manier lijkt de ontwikkeling van vrije en open source software sterk op 
 
 Net zoals vrije markten, kunnen vrije en open softwareprojecten een spontane orde vormen.
 
-"In veel opzichten gedraagt de Linux-wereld zich als een vrije markt of een ecologie, een verzameling van individuen die hun eigenbelang nastreven. Tijdens dit proces ontstaat een zichzelf corrigerende spontane orde die veel complexer en efficiënter is dan wat elke vorm van centrale planning ooit zou kunnen bereiken."[^53]
+'In veel opzichten gedraagt de Linux-wereld zich als een vrije markt of een ecologie, een verzameling van individuen die hun eigenbelang nastreven. Tijdens dit proces ontstaat een zichzelf corrigerende spontane orde die veel complexer en efficiënter is dan wat elke vorm van centrale planning ooit zou kunnen bereiken'.[^53]
 
 ## Hoofdstuk 3: Neutraal geld
 
@@ -524,11 +524,11 @@ Mises loste deze vraag op door de theorie van Carl Menger te accepteren, die ste
 
 In een ruileconomie -- een economie zonder geld -- ruilen mensen direct goederen en diensten. Als de schoenmaker een paar schoenen heeft, maar liever een brood wil, en de bakker een brood heeft maar liever een paar schoenen wil, dan ruilen ze hun producten met elkaar. Na deze transactie zijn ze beiden (subjectief gezien) beter af dan daarvoor.
 
-Zo'n ruilhandel economie lijdt echter onder een probleem wat bekend staat als de "dubbele toevalligheid van behoeften." Een ruil kan alleen plaatsvinden als twee personen precies het product willen dat de ander te bieden heeft. De schoenmaker kan alleen schoenen ruilen voor een brood als de bakker toevallig een nieuw paar nodig heeft... maar dit gebeurt waarschijnlijk niet heel vaak.
+Zo'n ruilhandel economie lijdt echter onder een probleem wat bekend staat als de 'dubbele toevalligheid van behoeften'. Een ruil kan alleen plaatsvinden als twee personen precies het product willen dat de ander te bieden heeft. De schoenmaker kan alleen schoenen ruilen voor een brood als de bakker toevallig een nieuw paar nodig heeft... maar dit gebeurt waarschijnlijk niet heel vaak.
 
 Meer gespecialiseerde vaklieden hebben het nog moeilijker om in een ruileconomie te bemachtigen wat ze willen, omdat minder mensen hun product nodig hebben. Een horlogemaker kan bijna nooit een horloge ruilen voor een brood of een paar schoenen, omdat bakkers en schoenmakers niet vaak een nieuw horloge nodig hebben.
 
-Maar het tegenovergestelde is ook waar: sommige producten zouden relatief gemakkelijk te verhandelen moeten zijn. Neem bijvoorbeeld zout, en laten we aannemen dat veel mensen in deze economie vrij regelmatig zout nodig hebben om een maaltijd op smaak te brengen, of om voedsel te conserveren. In de woordenschat van Menger en de Oostenrijkse school, is zout *verkoopbaarder* (of "verhandelbaarder") dan een horloge.
+Maar het tegenovergestelde is ook waar: sommige producten zouden relatief gemakkelijk te verhandelen moeten zijn. Neem bijvoorbeeld zout, en laten we aannemen dat veel mensen in deze economie vrij regelmatig zout nodig hebben om een maaltijd op smaak te brengen, of om voedsel te conserveren. In de woordenschat van Menger en de Oostenrijkse school, is zout *verkoopbaarder* (of 'verhandelbaarder') dan een horloge.
 
 En zout heeft ook andere voordelen. Het is behoorlijk duurzaam want zout bederft niet. Het is redelijk draagbaar; zout kan makkelijk in een tas worden meegenomen. Het is deelbaar; zout kan moeiteloos in kleinere porties worden verdeeld, en die kleinere porties kunnen net zo gemakkelijk weer worden samengevoegd tot een grotere hoeveelheid. Bovendien is zout ook gemakkelijk te herkennen, en het is redelijk fungibel, wat betekent dat verschillende porties onderling uitwisselbaar zijn; zout is zout. En tot slot, afhankelijk van waar (en wanneer) je bent, kan zout ook schaars zijn; het kan moeilijk zijn om er meer van te verkrijgen.
 
@@ -548,7 +548,7 @@ Dit zou op zijn beurt de vraag naar zout ook vergroten. In deze economie werd zo
 
 Deze premie verklaart waarom mensen bereid zijn geld - in dit voorbeeld, zout - aan te nemen in ruil voor goederen en diensten die op zichzelf meer verlangens of behoeften vervullen, waardoor de schijnbare tegenstrijdigheid wordt overwonnen die werd geïntroduceerd door de subjectieve waarde theorie.
 
-Zout is in het verleden inderdaad als vorm van betaling gebruikt. Enkele duizenden jaren geleden werden de soldaten van het Romeinse Rijk in zout uitbetaald; het hedendaagse woord "salaris" is afgeleid van het Latijnse woord *salarium*, dat "zoutgeld" betekent. Toen de Italiaanse ontdekkingsreiziger Marco Polo in de dertiende eeuw naar China reisde, ontdekte hij dat de plaatselijke bevolking elkaar betaalde met een soort pannenkoeken gemaakt van zout. En er waren zelfs bepaalde Ethiopische stammen die zout als geld gebruikten, en dat zo recent als de twintigste eeuw.
+Zout is in het verleden inderdaad als vorm van betaling gebruikt. Enkele duizenden jaren geleden werden de soldaten van het Romeinse Rijk in zout uitbetaald; het hedendaagse woord 'salaris' is afgeleid van het Latijnse woord *salarium*, dat 'zoutgeld' betekent. Toen de Italiaanse ontdekkingsreiziger Marco Polo in de dertiende eeuw naar China reisde, ontdekte hij dat de plaatselijke bevolking elkaar betaalde met een soort pannenkoeken gemaakt van zout. En er waren zelfs bepaalde Ethiopische stammen die zout als geld gebruikten, en dat zo recent als de twintigste eeuw.
 
 Desalniettemin, gedurende duizenden jaren, ontdekten diverse beschavingen van over de wereld dat er een beter ruilmiddel bestond dan zout. Tegen de tijd dat Mises zijn regressietheorema publiceerde, was het grootste deel van de wereld overgegaan op het gebruik van goud.[^56]
 
@@ -562,7 +562,7 @@ Dit zorgde ervoor dat het merendeel van al het goud dat in de reserves van banke
 
 En uiteindelijk kwam dit allemaal onder toezicht te staan van centrale banken zoals de Federal Reserve. Deze centrale banken waren verantwoordelijk geworden voor het beheren van de goudreserves van hun landen, waar tegen zij nationale valuta's uitgaven --- papieren bankbiljetten die konden worden ingewisseld voor een vastgestelde hoeveelheid goud. Het echte goud werd eigenlijk alleen maar gebruikt voor internationale handel. Aan het begin van de twintigste eeuw was de wereld georiënteerd op de goudstandaard.
 
-Maar de Eerste Wereldoorlog had effectief een einde gemaakt aan *de klassieke goudstandaard*. De meeste regeringen schaften de inwisselbaarheid van hun valuta af, waardoor ze hun oorlogsinspanningen vrijer konden financieren.[^57] In plaats van een vertegenwoordiging van goud, werden de ongedekte nationale valuta's simpelweg door overheidsbesluit als geld beschouwd, een vorm van geld genaamd "fiatgeld". (Het Latijnse woord "fiat" betekent "laat het zo zijn", en wordt meestal geassocieerd met overheidsdecreten.)
+Maar de Eerste Wereldoorlog had effectief een einde gemaakt aan *de klassieke goudstandaard*. De meeste regeringen schaften de inwisselbaarheid van hun valuta af, waardoor ze hun oorlogsinspanningen vrijer konden financieren.[^57] In plaats van een vertegenwoordiging van goud, werden de ongedekte nationale valuta's simpelweg door overheidsbesluit als geld beschouwd, een vorm van geld genaamd 'fiatgeld'. (Het Latijnse woord 'fiat' betekent 'laat het zo zijn', en wordt meestal geassocieerd met overheidsdecreten.)
 
 In de eerste jaren nadat de oorlog was beëindigd, fluctueerden de fiatvaluta's vrij in waarde ten opzichte van elkaar. Dit betekende dat als iemand van bijvoorbeeld de Verenigde Staten een product uit Engeland wilde kopen (importeren), ze eerst een deel van hun dollars moesten inwisselen voor ponden. Als dit op een grote schaal gebeurde, zou de extra vraag naar ponden op zijn beurt de wisselkoers tegenover de dollar verhogen (het zou meer dollars kosten om dezelfde hoeveelheid ponden te kopen).
 
@@ -576,7 +576,7 @@ Het was dit beleid waar Hayek zo fel kritiek op had.
 
 ### De stabilisators
 
-De eerste pleitbezorger voor dit nieuwe type van monetair beleid was Irving Fisher, een toonaangevende econoom in het begin van de twintigste eeuw. Fisher was een van de eerste economen die zich zorgen maakten over deflatie, of specifieker, de deflatoire schuldenspiraal. Hij geloofde dat alleen stabiele prijzen "de kwalen van monetaire instabiliteit" konden voorkomen.[^58]
+De eerste pleitbezorger voor dit nieuwe type van monetair beleid was Irving Fisher, een toonaangevende econoom in het begin van de twintigste eeuw. Fisher was een van de eerste economen die zich zorgen maakten over deflatie, of specifieker, de deflatoire schuldenspiraal. Hij geloofde dat alleen stabiele prijzen 'de kwalen van monetaire instabiliteit' konden voorkomen.[^58]
 
 Fisher wist dat de prijzen van specifieke goederen en diensten natuurlijk soms veranderen, omdat de vraag en aanbod van verschillende producten en diensten om allerlei redenen over tijd fluctueren. Maar hij geloofde dat het algemene, gemiddelde prijsniveau stabiel moest blijven na verloop van tijd. Om de stabiliteit van de koopkracht van een munteenheid te bepalen, had Fisher dus een manier nodig om gemiddelde prijzen vast te stellen. En hij wist precies waar hij moest zoeken.
 
@@ -584,13 +584,13 @@ In eerder onderzoek leverde de econoom empirisch bewijs voor de kwantiteitstheor
 
 Fisher bedacht dat vergelijkbare indices gebruikt konden worden om een stabiele vorm van geld te creëren, waarbij een dollar door de tijd heen hetzelfde aandeel van een index zou moeten kopen. Zo'n index zou een selectie van alle producten bevatten die de gemiddelde consument koopt: een *consumentenprijsindex* (CPI). Het ene jaar zou een dollar misschien meer aardappelen en minder wortelen kunnen kopen, en het volgende jaar meer wortelen en minder aardappelen, maar de gemiddelde koopkracht van een dollar, gemeten volgens de CPI, zou ongeveer hetzelfde moeten blijven.
 
-Fisher beweerde dat de Federal Reserve de stabiliteit van de dollar kon nastreven door de rentetarieven te manipuleren. Hij had in 1920 de Stable Money Association opgericht om deze beleidswijziging te realiseren. Een collectief bestaande uit economen, politici en zakenleiders pleitte voor een stabilisatiebeleid via parlementaire ondervragingen, bekend als de "stabilisatiehoorzittingen", terwijl ze daarnaast ook hun zaak bepleitten op internationale conferenties en andere bijeenkomsten waar monetair beleid een gespreksonderwerp was. Dit hielp om de ideeën van Fisher te verspreiden tot in de hoogste rangen van het Federal Reserve Systeem en daarbuiten.
+Fisher beweerde dat de Federal Reserve de stabiliteit van de dollar kon nastreven door de rentetarieven te manipuleren. Hij had in 1920 de Stable Money Association opgericht om deze beleidswijziging te realiseren. Een collectief bestaande uit economen, politici en zakenleiders pleitte voor een stabilisatiebeleid via parlementaire ondervragingen, bekend als de 'stabilisatiehoorzittingen', terwijl ze daarnaast ook hun zaak bepleitten op internationale conferenties en andere bijeenkomsten waar monetair beleid een gespreksonderwerp was. Dit hielp om de ideeën van Fisher te verspreiden tot in de hoogste rangen van het Federal Reserve Systeem en daarbuiten.
 
 De Stable Money Association vond al gauw een bondgenoot in Hayek's hedendaagse rivaal, John Maynard Keynes. Maar Keynes ging zelfs nog verder dan Fisher en de Stable Money Association. Hij stelde voor om de goudstandaard volledig los te laten. In zijn verhandeling uit 1923, *A Tract on Monetary Reform*, betoogde de econoom van King's College dat het edelmetaal niet geschikt was om stabiele prijzen te garanderen, omdat het zelf onderhevig was aan marktsentimenten.
 
 Hoewel dit inderdaad gedeeltelijk verzacht kon worden als de centrale banken een flexibeler aanpak zouden adopteren om muntstabiliteit te bereiken, betoogde Keynes dat de gouddekkingratio uiteindelijk de speelruimte van de centrale banken fundamenteel zou beperken. En in de praktijk zou deze genegeerd worden wanneer dat als noodzakelijk werd beschouwd.
 
-"In werkelijkheid is de goudstandaard al een barbaars overblijfsel. [...]. We zijn allemaal, van de gouverneur van de Bank van Engeland af, nu vooral geïnteresseerd in het behouden van de stabiliteit van bedrijven, prijzen en werkgelegenheid en het is niet waarschijnlijk dat we, gedwongen om een keuze te maken, bewust deze dingen zullen opofferen voor het achterhaalde dogma."[^59]
+'In werkelijkheid is de goudstandaard al een barbaars overblijfsel. [...]. We zijn allemaal, van de gouverneur van de Bank van Engeland af, nu vooral geïnteresseerd in het behouden van de stabiliteit van bedrijven, prijzen en werkgelegenheid en het is niet waarschijnlijk dat we, gedwongen om een keuze te maken, bewust deze dingen zullen opofferen voor het achterhaalde dogma'.[^59]
 
 Als geld daarentegen volledig bevrijd zou worden van de beperkingen van goud, kon het monetaire beleid zo flexibel zijn als de monetaire autoriteiten nodig achtten.
 
@@ -606,7 +606,7 @@ Daarnaast betoogde de econoom dat iets vergelijkbaars gold voor anderszins ident
 
 Hayek:
 
-"Strikt genomen zouden goederen die technisch gelijk zijn maar alleen op verschillende tijdstippen beschikbaar zijn, in economische zin beschouwd moeten worden als verschillende goederen, net zoals goederen die technisch hetzelfde zijn maar zich op verschillende plaatsen bevinden."[^60]
+'Strikt genomen zouden goederen die technisch gelijk zijn maar alleen op verschillende tijdstippen beschikbaar zijn, in economische zin beschouwd moeten worden als verschillende goederen, net zoals goederen die technisch hetzelfde zijn maar zich op verschillende plaatsen bevinden'.[^60]
 
 Vrije markten bevorderen innovatie, en de meeste producten worden door deze innovatie goedkoper om te produceren. Het produceren van een krat bananen, om bij dat voorbeeld te blijven, wordt na verloop van tijd betaalbaarder doordat bananenkwekers profiteren van verbeterde technologie voor het beheer van hun plantages. Het is dan logisch dat een krat bananen over tien jaar goedkoper zal zijn dan een krat bananen nu: de verschillen in productiekosten zullen tot uiting komen in de respectievelijke prijzen.
 
@@ -618,19 +618,19 @@ Als alle producenten in de economie op dezelfde manier denken, als ze allemaal d
 
 Hayek schreef:
 
-"Als, tijdens een algemene uitbreiding van de productie, de verwachting met zekerheid is dat de prijzen van producten niet zullen dalen, maar stabiel zullen blijven of zelfs zullen stijgen, zodat op een later tijdstip dezelfde of zelfs een hogere prijs kan worden verkregen voor het product dat tegen een lagere prijs is geproduceerd, moet het resultaat zijn dat de productie voor de latere periode, waarin het aanbod al op een relatief adequaat niveau is, nog verder wordt uitgebreid ten koste van die voor de eerdere periode, waarin het aanbod relatief minder adequaat is."[^61]
+'Als, tijdens een algemene uitbreiding van de productie, de verwachting met zekerheid is dat de prijzen van producten niet zullen dalen, maar stabiel zullen blijven of zelfs zullen stijgen, zodat op een later tijdstip dezelfde of zelfs een hogere prijs kan worden verkregen voor het product dat tegen een lagere prijs is geproduceerd, moet het resultaat zijn dat de productie voor de latere periode, waarin het aanbod al op een relatief adequaat niveau is, nog verder wordt uitgebreid ten koste van die voor de eerdere periode, waarin het aanbod relatief minder adequaat is'.[^61]
 
 Om een spontane orde te hebben doorheen de tijd, moeten prijzen de mogelijkheid krijgen om te dalen.
 
 Hayek concludeerde daarom:
 
-"De acceptatie van de noodzaak voor een intertemporeel prijssysteem is niet alleen onverenigbaar met, het staat lijnrecht tegenover de heersende opvatting dat constante prijzen doorheen de tijd een voorwaarde zijn voor een ongestoorde economie."[^62]
+'De acceptatie van de noodzaak voor een intertemporeel prijssysteem is niet alleen onverenigbaar met, het staat lijnrecht tegenover de heersende opvatting dat constante prijzen doorheen de tijd een voorwaarde zijn voor een ongestoorde economie'.[^62]
 
 Natuurlijk erkende de Oostenrijker ook dat een daling van de prijzen in sommige gevallen een negatieve impact kan hebben op de economie: hij waarschuwde tegen de manipulatie van rentetarieven juist omdat het uiteindelijk zou leiden tot deflatie. Echter, Hayek stelde dat deflatie alleen een probleem is als de daling van de prijzen daadwerkelijk wordt veroorzaakt door een afname van de geldhoeveelheid. In dat geval zouden bedrijven inderdaad minder verdienen dan verwacht, wat, zoals ook Fisher had aangegeven, een deflatoire schuldenspiraal in gang zou kunnen zetten.
 
 Hayek benadrukte dat als de daling van de prijzen niet veroorzaakt werd door een krimpende geldhoeveelheid, maar in plaats daarvan het resultaat was van goedkopere productieprocessen, dit probleem niet zou moeten bestaan.
 
-"Een daling van het prijspeil als gevolg van continue verbeteringen in alle productietakken heeft niet dezelfde problematische gevolgen als een deflatie. Theorie is tot nu toe nauwelijks verder gekomen dan dit onderscheid tussen de effecten van prijswijzigingen die enerzijds afkomstig zijn van de 'goederenkant' en anderzijds van de 'geldkant'."[^63]
+'Een daling van het prijspeil als gevolg van continue verbeteringen in alle productietakken heeft niet dezelfde problematische gevolgen als een deflatie. Theorie is tot nu toe nauwelijks verder gekomen dan dit onderscheid tussen de effecten van prijswijzigingen die enerzijds afkomstig zijn van de 'goederenkant' en anderzijds van de 'geldkant''.[^63]
 
 ### De goudwisselstandaard
 
@@ -642,7 +642,7 @@ Deze beleidslijnen voor prijsstabilisatie moesten per land worden beheerd: de st
 
 De stabilisatoren erkenden dit, maar vonden dat de afweging het waard was.
 
-"[...] Wanneer stabiliteit van het interne prijsniveau en stabiliteit van de externe wisselkoersen onverenigbaar zijn, is de eerste doorgaans te verkiezen," schreef Keynes, en "wanneer het dilemma acuut is, is het behoud van het eerste ten koste van het laatste, gelukkig misschien, de weg van de minste weerstand."[^64]
+'[...] Wanneer stabiliteit van het interne prijsniveau en stabiliteit van de externe wisselkoersen onverenigbaar zijn, is de eerste doorgaans te verkiezen', schreef Keynes, en 'wanneer het dilemma acuut is, is het behoud van het eerste ten koste van het laatste, gelukkig misschien, de weg van de minste weerstand'.[^64]
 
 De stabilisatoren geloofden ook dat internationale handel vrij soepel kon doorgaan onder een goudwisselstandaard, als de centrale banken zich zouden houden aan wat Keynes de 'regels van het spel' had genoemd. In een notendop, landen met een handelsoverschot (die dus meer exporteren dan importeren) en daardoor een instroom van goud hebben, zouden volgens deze regels de rentetarieven moeten verlagen. Dit zou meer leningen stimuleren, wat zou resulteren in meer valuta in omloop en uiteindelijk hogere prijzen in het algemeen. Landen met een handelstekort zouden naar verwachting de rentetarieven verhogen om het tegenovergestelde effect te bereiken.
 
@@ -656,13 +656,13 @@ In 1937 nam Hayek zowel de goudwisselstandaard als het zwevende fiatgeldsysteem 
 
 Hayek stelde dat, onder zowel de goudwisselstandaard als ook een zwevend valutasysteem, de bedrijven en individuen die profiteren van een exporttoename (of in tegendeel, die lijden onder een exportdaling) niet noodzakelijkerwijs dezelfde bedrijven of individuen zijn die verantwoordelijk zijn voor de toename (of afname) van grensoverschrijdende handel.
 
-"Als we kijken naar de methoden die beschikbaar zijn voor het bankwezen om een uitbreiding of inkrimping van krediet te realiseren, is er geen reden om aan te nemen dat zij het geld dat vernietigd moet worden exact kunnen halen bij die personen waar het tijdig vrijgegeven zou worden als er geen bankensysteem zou zijn, of dat ze het extra geld zullen plaatsen in handen van diegenen die het geld zouden ontvangen als het direct vanuit het buitenland naar het land kwam," schreef Hayek. [^65]
+'Als we kijken naar de methoden die beschikbaar zijn voor het bankwezen om een uitbreiding of inkrimping van krediet te realiseren, is er geen reden om aan te nemen dat zij het geld dat vernietigd moet worden exact kunnen halen bij die personen waar het tijdig vrijgegeven zou worden als er geen bankensysteem zou zijn, of dat ze het extra geld zullen plaatsen in handen van diegenen die het geld zouden ontvangen als het direct vanuit het buitenland naar het land kwam', schreef Hayek. [^65]
 
 Specifiek zal de verandering in rentetarieven onder de goudwisselstandaard waarschijnlijk niet reflecteren wat het rentetarief in een vrije markt zou zijn. Dit zorgt voor winnaars en verliezers: schuldenaren profiteren van lagere rentetarieven, terwijl schuldeisers eronder lijden. Er is echter geen reden om aan te nemen dat de handelaar die zijn export verhoogt een schuldenaar is. Hij zou net zo goed een schuldeiser kunnen zijn, in welk geval hij indirect schade lijdt door zijn eigen toename in internationale verkopen.
 
 In plaats van alleen de twee handelspartijen te beïnvloeden die zaken doen over grenzen heen, zorgde internationale handel onder de goudwisselstandaard in wezen voor een herverdeling van middelen via de kredietmarkten, zo merkte Hayek op.
 
-"Er zijn daarentegen sterke argumenten om te geloven dat de last van de verandering geheel of tot een mate die op geen enkele manier gerechtvaardigd is door de onderliggende verandering in de werkelijke situatie, zal vallen op de investeringsactiviteit in beide landen."[^66]
+'Er zijn daarentegen sterke argumenten om te geloven dat de last van de verandering geheel of tot een mate die op geen enkele manier gerechtvaardigd is door de onderliggende verandering in de werkelijke situatie, zal vallen op de investeringsactiviteit in beide landen'.[^66]
 
 Op een soortgelijke manier worden onder een systeem van zwevende fiat-valuta hulpbronnen ook verdeeld aan meer partijen dan enkel zij die direct betrokken zijn bij de stijging (of daling) van de export, legde Hayek uit.
 
@@ -682,7 +682,7 @@ Een homogeen geld zou eenvoudig functioneren in de internationale handel: de bet
 
 Geld met een vaste hoeveelheid zou ondertussen het intertemporele prijssysteem het beste faciliteren, omdat dit mensen in staat stelt om prijzen op verschillende tijdstippen nauwkeurig te vergelijken:
 
-"Alleen met een geldsysteem waarin elke verandering in de hoeveelheid geld uitgesloten was, zou het mogelijk zijn om een structuur van geldprijzen op opeenvolgende momenten in de tijd te bedenken die correspondeert met het systeem van intertemporele evenwicht," schreef Hayek. [^67]
+'Alleen met een geldsysteem waarin elke verandering in de hoeveelheid geld uitgesloten was, zou het mogelijk zijn om een structuur van geldprijzen op opeenvolgende momenten in de tijd te bedenken die correspondeert met het systeem van intertemporele evenwicht', schreef Hayek. [^67]
 
 Misschien wel het allerbelangrijkste is, als de geldhoeveelheid vast was, zouden veranderingen in de productiekosten door de tijd heen duidelijk weerspiegeld worden in overeenkomstige veranderingen in prijzen. Als alle andere factoren buiten beschouwing worden gelaten, zouden de prijzen dalen als de kosten voor de productie van goederen dalen. Een geleidelijke daling van de prijzen -- deflatie -- was volgens Hayek de natuurlijke uitkomst van elke gezonde economie.
 
@@ -690,11 +690,11 @@ Echter, Hayek vond wel dat er een heel echt probleem was met een zo homogeen gel
 
 Ten eerste, zelfs als een dergelijke munt gecreëerd zou kunnen worden, zouden mensen nog steeds kunnen kiezen om krediet en andere alternatieven te gebruiken in plaats van daadwerkelijk geld, wat neerkomt op een feitelijke verhoging van de geldhoeveelheid.
 
-"Het is uiteraard onmogelijk om [de hoeveelheid ruilmiddelen voor altijd vast te stellen], gezien de altijd aanwezige mogelijkheid om een surrogaatgeld in plaats van echt geld te gebruiken," concludeerde de Oostenrijker droevig. "De hoeveelheid van dat surrogaat kan niet nauw gekoppeld zijn aan dat van het echte geld, en het creëren ervan zou exact hetzelfde effect hebben als dat van elke andere uitbreiding van de geldhoeveelheid."[^68]
+'Het is uiteraard onmogelijk om [de hoeveelheid ruilmiddelen voor altijd vast te stellen], gezien de altijd aanwezige mogelijkheid om een surrogaatgeld in plaats van echt geld te gebruiken', concludeerde de Oostenrijker droevig. 'De hoeveelheid van dat surrogaat kan niet nauw gekoppeld zijn aan dat van het echte geld, en het creëren ervan zou exact hetzelfde effect hebben als dat van elke andere uitbreiding van de geldhoeveelheid'.[^68]
 
 Maar nog belangrijker, Hayek was van mening dat een homegene valuta met een vaste geldhoeveelheid überhaupt niet kon worden aangenomen, omdat hij er niet van overtuigd was dat er enige internationale autoriteit zou zijn die het vertrouwen zou krijgen om dergelijke valuta uit te geven. Iets zo belangrijk als een wereldwijde monetaire standaard zou de sterkste garantie moeten bieden dat het universeel aanvaardbaar en toegankelijk zal blijven. Maar Hayek dacht dat er geen bekende instantie was die deze garantie kon bieden.
 
-"[...] zolang er afzonderlijke soevereine staten zijn, zal er altijd de dreiging van oorlog opdoemen, of het risico van het instorten van de internationale monetaire regelingen om een andere reden."[^69]
+'[...] zolang er afzonderlijke soevereine staten zijn, zal er altijd de dreiging van oorlog opdoemen, of het risico van het instorten van de internationale monetaire regelingen om een andere reden'.[^69]
 
 Neutraal geld was onmogelijk omdat, op een zeer fundamenteel niveau, naties elkaar niet konden vertrouwen.
 
@@ -714,7 +714,7 @@ Als een van de weinige landen die tijdens de oorlog een beperkte vorm van goudco
 
 Maar deze dekkingsratio begon een belemmerende factor te vormen toen president Franklin Roosevelt de Keynesiaanse methoden toepaste in een poging om de Amerikaanse economie uit de economische depressie te helpen. Uiteindelijk besloot hij de obstakels die hij tegenkwam op een ongekende manier te verwijderen.
 
-Via Uitvoeringsbevel 6102, goedgekeurd met warme steun van Keynes,[^70] verbood FDR in 1933 resoluut "het hamsteren van gouden munten, goudstaaf en goudcertificaten binnen de continentale Verenigde Staten."[^71] Alle Amerikaanse burgers werden bevolen elk goud dat ze hadden in te ruilen voor dollars bij hun lokale Federale Reserve lidbank tegen het vaste tarief van $ 20.67. Bij niet-naleving stond een boete van $ 10.000 en een gevangenisstraf van maximaal tien jaar.
+Via Uitvoeringsbevel 6102, goedgekeurd met warme steun van Keynes,[^70] verbood FDR in 1933 resoluut 'het hamsteren van gouden munten, goudstaaf en goudcertificaten binnen de continentale Verenigde Staten'.[^71] Alle Amerikaanse burgers werden bevolen elk goud dat ze hadden in te ruilen voor dollars bij hun lokale Federale Reserve lidbank tegen het vaste tarief van $ 20.67. Bij niet-naleving stond een boete van $ 10.000 en een gevangenisstraf van maximaal tien jaar.
 
 Een paar maanden later devalueerde Roosevelt de dollar tot $ 35 per troy ounce, waardoor de gouddekkingsratio van de Federal Reserve in wezen met ongeveer 69 procent in één nacht toenam. Dit betekende een nieuwe klap voor de goudwisselstandaard.
 
@@ -730,7 +730,7 @@ Whitfield Diffie had altijd al een voorliefde voor codes. Al sinds zijn docent i
 
 De jonge Whitfield was al snel in de ban van elk cryptografieboek dat zijn vader, een universiteitsprofessor, kon vinden in de bibliotheek van het City College in New York. Hij stortte zich op standaardwerken zoals het boek *Cryptoanalysis* uit 1939 van Helen Forché Gaines, dat diverse methoden beschreef om berichten om te zetten in onleesbare versleutelde tekst, bij voorkeur zo dat alleen de beoogde ontvanger ze kon ontcijferen.
 
-Met de zeer simpele *Caesar-cipher* (vermoedelijk gebruikt door Julius Caesar), kunnen berichten bijvoorbeeld in *ciphertext* worden omgezet door elke letter te vervangen door een andere letter. De versleutelingssleutel '+1' vervangt bijvoorbeeld elke letter door de volgende letter in het alfabet - 'a' wordt 'b', 'b' wordt 'c', enzovoort. Het woord 'Secret' verandert in 'Tfdsfu.' Om de versleutelde tekst te ontcijferen, wordt dezelfde versleutelingssleutel gebruikt, maar in omgekeerde volgorde: elke letter wordt vervangen door de vorige letter in het alfabet ( 'Tfdsfu' wordt weer 'Secret').
+Met de zeer simpele *Caesar-cipher* (vermoedelijk gebruikt door Julius Caesar), kunnen berichten bijvoorbeeld in *ciphertext* worden omgezet door elke letter te vervangen door een andere letter. De versleutelingssleutel '+1' vervangt bijvoorbeeld elke letter door de volgende letter in het alfabet - 'a' wordt 'b', 'b' wordt 'c', enzovoort. Het woord 'Secret' verandert in 'Tfdsfu'. Om de versleutelde tekst te ontcijferen, wordt dezelfde versleutelingssleutel gebruikt, maar in omgekeerde volgorde: elke letter wordt vervangen door de vorige letter in het alfabet ( 'Tfdsfu' wordt weer 'Secret').
 
 Deze +1 versleutelingssleutel is natuurlijk niet erg sterk. Een tegenstander die vastbesloten is om de resulterende ciphertext te ontcijferen - een *cryptanalist* - zou het waarschijnlijk bij hun eerste poging raden. En zelfs al zouden ze dat niet doen, er zijn een aantal patronen in een versleutelde tekst die gespecialiseerde codekrakers kunnen helpen te bepalen welke vervangende letters waarschijnlijk overeenkomen met welke originele letters. Vooral in langere teksten kunnen aanwijzingen worden gevonden in de frequentie van specifieke letters en de lengte van woorden, om maar een paar voorbeelden te noemen.
 
@@ -808,7 +808,7 @@ Op een doodgewone middag, toen Diffie op het huis van zijn voormalige werkgever 
 
 De oplossing was om *twee* sleutels te gebruiken.
 
-Cryptografen hadden altijd als vanzelfsprekend beschouwd dat encryptiesleutels geheim moesten blijven, omdat ze ook dienden als decryptiesleutels. Maar Diffie negeerde deze 'vanzelfsprekende waarheid` en kwam met het idee van *sleutelparen*. In plaats van slechts één geheime sleutel, zou iedereen twee sleutels hebben, namelijk een privésleutel die inderdaad geheim moest blijven, en een publieke sleutel die vrijuit gedeeld kon worden.
+Cryptografen hadden altijd als vanzelfsprekend beschouwd dat encryptiesleutels geheim moesten blijven, omdat ze ook dienden als decryptiesleutels. Maar Diffie negeerde deze 'vanzelfsprekende waarheid' en kwam met het idee van *sleutelparen*. In plaats van slechts één geheime sleutel, zou iedereen twee sleutels hebben, namelijk een privésleutel die inderdaad geheim moest blijven, en een publieke sleutel die vrijuit gedeeld kon worden.
 
 Diffie was van mening dat de sleutels wiskundig met elkaar verbonden moesten zijn, waarbij de publieke sleutel in essentie zou worden afgeleid van de privésleutel door middel van een soort eenrichtingsfunctie. Zijn visie was erop gericht dat een verzender -- laten we haar 'Alice' noemen, zoals cryptografen graag doen -- een bericht zou versleutelen met haar privésleutel, waarna de beoogde ontvanger, 'Bob', het zou kunnen ontcijferen met behulp van haar publieke sleutel.
 
@@ -820,9 +820,9 @@ Bovendien zag Diffie in dat het omgekeerde ook kon werken. Alice zou een bericht
 
 Toen het concept die avond aan Hellman werd uitgelegd, was hij het ermee eens dat Diffie potentieel iets belangrijks had bedacht, ook al bestond het idee alleen nog maar in ontwerpfase en moest de exacte wiskunde nog worden uitgewerkt. In de weken die volgden, legde het duo de vroege wiskundige basis om het idee tastbaarder te maken.
 
-Dit resulteerde in het eerste gezamenlijk geschreven artikel van Diffie en Hellman. "Multiuser Cryptographic Techniques", dat in het voorjaar van 1976 werd gepubliceerd en kort daarna werd gepresenteerd op de National Computer Conference in New York. In het artikel gaven de twee onderzoekers toe dat er nog grote vragen onbeantwoord waren. Ze wisten nog niet precies hoe encryptie of decryptie zou werken, noch hoe een publieke sleutel zou worden afgeleid van een privésleutel.
+Dit resulteerde in het eerste gezamenlijk geschreven artikel van Diffie en Hellman. 'Multiuser Cryptographic Techniques', dat in het voorjaar van 1976 werd gepubliceerd en kort daarna werd gepresenteerd op de National Computer Conference in New York. In het artikel gaven de twee onderzoekers toe dat er nog grote vragen onbeantwoord waren. Ze wisten nog niet precies hoe encryptie of decryptie zou werken, noch hoe een publieke sleutel zou worden afgeleid van een privésleutel.
 
-"Op dit moment hebben we noch een bewijs dat er publieke sleutelsystemen bestaan," gaven Diffie en Hellman toe in hun paper, "noch een demonstratiesysteem."[^74]
+'Op dit moment hebben we noch een bewijs dat er publieke sleutelsystemen bestaan', gaven Diffie en Hellman toe in hun paper, 'noch een demonstratiesysteem'.[^74]
 
 Maar ze kondigden aan dat ze bezig waren met iets groots: ze brachten het idee van cryptografie met publieke sleutels naar voren.
 
@@ -830,7 +830,7 @@ Maar ze kondigden aan dat ze bezig waren met iets groots: ze brachten het idee v
 
 Het artikel was nauwelijks gepubliceerd toen Hellman een brief van een afgestudeerde student aan de Universiteit van Californië, Berkeley ontving.
 
-De student had zelf ook een werkstuk geschreven, zo legde hij uit in zijn brief. Maar, "De mensen met wie ik probeer te praten, begrijpen totaal niet wat er aan de hand is, of zien elke poging tot oplossing als onmogelijk," schreef hij. Zijn frustratie druipte van de pagina. Hij concludeerde: "Ik zie de mogelijkheid om samen te werken ontstaan, en ik zou geïnteresseerd zijn in die mogelijkheid."[^75]
+De student had zelf ook een werkstuk geschreven, zo legde hij uit in zijn brief. Maar, 'De mensen met wie ik probeer te praten, begrijpen totaal niet wat er aan de hand is, of zien elke poging tot oplossing als onmogelijk', schreef hij. Zijn frustratie druipte van de pagina. Hij concludeerde: 'Ik zie de mogelijkheid om samen te werken ontstaan, en ik zou geïnteresseerd zijn in die mogelijkheid'.[^75]
 
 Ondertekend: Ralph C. Merkle.
 
@@ -886,9 +886,9 @@ Tegelijk kan niemand anders het gedeelde geheim van Alice en Bob vinden. Immers,
 
 Het genereren van het gedeelde geheim vereist dus toegang tot ofwel de privésleutel van Alice of van Bob. Zolang zij deze geheim houden, kunnen ze genieten van wiskundig gegarandeerde privécommunicatie.
 
-De Diffie-Hellman sleuteluitwisseling doorbrak het status-quo in het veld van de cryptografie en was in staat om iets te realiseren dat lang onmogelijk werd geacht. Hun techniek had het potentieel om het volledige veld van cryptografie dramatisch te transformeren. De twee onconventionele cryptografen waren zich hier maar al te goed van bewust toen ze hun tweede paper, "Nieuwe richtingen in Cryptografie", indienden bij *IEEE Transactions on Information Theory*, een prestigieus wetenschappelijk tijdschrift uitgegeven door een professionele vereniging voor elektronische techniek.
+De Diffie-Hellman sleuteluitwisseling doorbrak het status-quo in het veld van de cryptografie en was in staat om iets te realiseren dat lang onmogelijk werd geacht. Hun techniek had het potentieel om het volledige veld van cryptografie dramatisch te transformeren. De twee onconventionele cryptografen waren zich hier maar al te goed van bewust toen ze hun tweede paper, 'Nieuwe richtingen in Cryptografie', indienden bij *IEEE Transactions on Information Theory*, een prestigieus wetenschappelijk tijdschrift uitgegeven door een professionele vereniging voor elektronische techniek.
 
-"Vandaag staan we aan de vooravond van een revolutie in cryptografie", kondigden Diffie en Hellmann aan in hun paper, gepubliceerd in de editie van november 1976 van het tijdschrift. Vooruitziend dat hun doorbraak het begin van een grote omwenteling zou markeren, vervolgden ze: "theoretische ontwikkelingen in informatietheorie en informatica beloven aantoonbaar veilige cryptosystemen mogelijk te maken, waardoor deze eeuwenoude kunst verandert in een wetenschap."[^76]
+'Vandaag staan we aan de vooravond van een revolutie in cryptografie', kondigden Diffie en Hellmann aan in hun paper, gepubliceerd in de editie van november 1976 van het tijdschrift. Vooruitziend dat hun doorbraak het begin van een grote omwenteling zou markeren, vervolgden ze: 'theoretische ontwikkelingen in informatietheorie en informatica beloven aantoonbaar veilige cryptosystemen mogelijk te maken, waardoor deze eeuwenoude kunst verandert in een wetenschap'.[^76]
 
 Het werd al snel duidelijk dat Diffie en Hellman een stroomversnelling hadden veroorzaakt. Een nieuwe generatie cryptografen stond op het punt om een waterval aan innovatie in de wereld van de cryptografie te introduceren.
 
@@ -926,7 +926,7 @@ Chaum zag het potentieel van de publieke sleutelcryptografie natuurlijk ook, omd
 
 Net zoals Diffie dat voor hem deed, herkende Chaum ook dat deze transformatie naar een tamelijk dystopische toekomst kon leiden. Hij begreep dat als berichten, documenten of bestanden over het internet werden verzonden, al deze data het risico liep om op een nooit eerder geziene schaal gemonitord, onderschept en geëxploiteerd te worden door tirannen. Chaum maakte zich zorgen dat mensen zich anders gaan gedragen als ze geloven dat ze mogelijk bekeken worden. Massasurveillance zou een gevangenis voor de geest creëren, conformiteit bevorderen, en uiteindelijk fundamentele vrijheden vernietigen, aldus Chaum.
 
-"De cyberruimte kent niet dezelfde fysieke beperkingen," legde Chaum later uit aan een journalist van het technologiemagazine *Wired*. "Er zijn geen muren ... het is een andere, angstaanjagende, vreemde plek en met identificatie wordt het een nachtmerrie van panoptisch toezicht. Juist? Alles wat je doet kan door iedereen gekend zijn, kan voor altijd worden opgenomen. Het is volkomen tegenstrijdig met het basisprincipe dat ten grondslag ligt aan de mechanismen van de democratie."[77]
+'De cyberruimte kent niet dezelfde fysieke beperkingen', legde Chaum later uit aan een journalist van het technologiemagazine *Wired*. 'Er zijn geen muren ... het is een andere, angstaanjagende, vreemde plek en met identificatie wordt het een nachtmerrie van panoptisch toezicht. Juist? Alles wat je doet kan door iedereen gekend zijn, kan voor altijd worden opgenomen. Het is volkomen tegenstrijdig met het basisprincipe dat ten grondslag ligt aan de mechanismen van de democratie'.[77]
 
 Maar hij zag dat er nu een alternatief was: een andere mogelijke toekomst. Chaum besefte dat de gloednieuwe ontwikkelingen in de cryptografie konden worden ingezet als verdediging. De maatschappij stond op een kruispunt, en innovaties zoals publieke sleutelcryptografie boden hoop voor een wereld waarin mensen de macht hadden over hun eigen data.
 
@@ -950,7 +950,7 @@ Maar het was geen wondermiddel, besefte Chaum. Zelfs met de publieke sleutelcryp
 
 Dergelijke *metadata* kunnen meer over iemand onthullen dan iemand prettig zou vinden. Een onderzoeksjournalist wil misschien niet dat zijn bronnen bekend worden, bijvoorbeeld. Of burgers uit landen met autoritaire regimes willen misschien niet dat iemand weet dat ze communiceren met een politieke dissident. Of misschien geeft een werknemer die informeert naar werkgelegenheden bij een concurrerend bedrijf de voorkeur aan het feit dat zijn baas niet ontdekt dat hij contact heeft gehad met dit bedrijf.
 
-In zijn paper uit 1981 getiteld "Ontraceerbare elektronische post, retouradressen en digitale pseudoniemen", stelde Chaum een oplossing voor dit probleem voor, eveneens gebaseerd op publieke sleutelcryptografie.[^78]
+In zijn paper uit 1981 getiteld 'Ontraceerbare elektronische post, retouradressen en digitale pseudoniemen', stelde Chaum een oplossing voor dit probleem voor, eveneens gebaseerd op publieke sleutelcryptografie.[^78]
 
 Dit is hoe het werkte.
 
@@ -1014,7 +1014,7 @@ Maar toen de bezuinigingen van Nixon onmiddellijk resulteerden in een milde econ
 
 Zoals de president verklaarde in de State of the Union van 1970:
 
-"Ik erken de politieke populariteit van uitgavenprogramma's, en zeker in een verkiezingsjaar."[^82]
+'Ik erken de politieke populariteit van uitgavenprogramma's, en zeker in een verkiezingsjaar'.[^82]
 
 De Keynesiaanse leer stelde eigenlijk zowel overheidsuitgaven als bezuinigingen als vereiste: uitgaven om de economie een impuls te geven, en bezuinigingen wanneer dit niet langer noodzakelijk was, om versnellende inflatie te voorkomen. Het probleem was echter dat het nu duidelijk werd dat hoewel verhoogde uitgaven verkiezingen konden winnen, bezuinigingen dat niet deden. Nixon had op de harde manier geleerd dat het beter was om vast te houden aan het populairdere stadium van de Keynesiaanse cyclus van uitgaven, en gemakshalve dat deel van de leer te negeren dat voorschreef wanneer bezuinigingen nodig waren.
 
@@ -1058,7 +1058,7 @@ Deze bedrijven zouden misschien gered kunnen worden door nog meer inflatie, maar
 
 Hayek:
 
-'En aangezien, als inflatie al enige tijd aan de gang is, veel activiteiten afhankelijk zullen zijn geworden van het voortduren ervan in een progressief tempo, krijgen we een situatie waarin, ondanks de stijgende prijzen, veel bedrijven verlies zullen lijden, en kan er aanzienlijke werkloosheid zijn. Depressie met stijgende prijzen is een typisch gevolg van alleen maar het afremmen van de stijging van de inflatie zodra de economie zich heeft aangepast aan een bepaald inflatietempo."[^86]
+'En aangezien, als inflatie al enige tijd aan de gang is, veel activiteiten afhankelijk zullen zijn geworden van het voortduren ervan in een progressief tempo, krijgen we een situatie waarin, ondanks de stijgende prijzen, veel bedrijven verlies zullen lijden, en kan er aanzienlijke werkloosheid zijn. Depressie met stijgende prijzen is een typisch gevolg van alleen maar het afremmen van de stijging van de inflatie zodra de economie zich heeft aangepast aan een bepaald inflatietempo'.[^86]
 
 In economische termen wordt dit resultaat (een economie met zowel inflatie van de munteenheid als economische stagnatie) stagflatie genoemd.
 
@@ -1080,7 +1080,7 @@ Dit betekent dat degenen die 'dichtbij' de bron van het geld zijn, hiervan kunne
 
 Zoals Hayek de bevindingen van Cantillon samenvatte:
 
-'Alleen die personen profiteren van de toename van geld waarvan de inkomens vroeg stijgen, terwijl voor personen waarvan de inkomens later stijgen, de toename van de hoeveelheid geld schadelijk is.'[^88]
+'Alleen die personen profiteren van de toename van geld waarvan de inkomens vroeg stijgen, terwijl voor personen waarvan de inkomens later stijgen, de toename van de hoeveelheid geld schadelijk is'.[^88]
 
 Goudproducenten waren historisch gezien te vinden in het hart van het Cantillon-effect. Maar naarmate de rol van goud in het financiële systeem minder belangrijk werd en het Keynesianisme zijn intrede deed, begonnen overheden steeds vaker hun plaats te claimen in het centrum van het geldcreatieproces. Telkens wanneer overheden de geldvoorraad zouden vergroten om de economie te stimuleren, zou dit in onevenredige mate de overheid zelf ten goede komen. Door het Cantillon-effect zouden ook overheidsmedewerkers, aannemers van de overheid en de bedrijven die het dichtst bij de overheid staan qua economische nabijheid, zoals financiële instellingen, profiteren.
 
@@ -1092,7 +1092,7 @@ En uiteindelijk, zo waarschuwde de econoom, kan voortdurende, overdadige geldcre
 
 Een rampzalige uitkomst, volgens Hayek:
 
-'Openlijke inflatie is al erg genoeg, maar inflatie die onderdrukt wordt door [prijs]controles is nog erger: het is het echte einde van de markteconomie."[^89]
+'Openlijke inflatie is al erg genoeg, maar inflatie die onderdrukt wordt door [prijs]controles is nog erger: het is het echte einde van de markteconomie'.[^89]
 
 ### De overheid buitenspel zetten
 
@@ -1120,7 +1120,7 @@ Maar nu, in de nadagen van zijn carrière, viel het kwartje eindelijk voor hem.
 
 'Midden in mijn wanhoop over de hopeloosheid om een politiek haalbare oplossing te vinden voor wat technisch gezien het eenvoudigst mogelijke probleem is, namelijk het stoppen van inflatie, heb ik ongeveer een jaar geleden in een lezing een ietwat schokkende suggestie geopperd. Het verder uitdiepen hiervan heeft geheel onverwachte nieuwe horizonten geopend', schreef Hayek halverwege de jaren '70.
 
-'Ik kon niet nalaten het idee verder uit te diepen, omdat de taak om inflatie te voorkomen mij altijd van het grootste belang heeft geleken. Niet alleen vanwege de schade en het leed dat grote inflaties veroorzaken, maar ook omdat ik er al lang van overtuigd ben dat zelfs milde inflaties uiteindelijk de terugkerende depressies en werkloosheid veroorzaken. Deze zijn terecht een klacht tegen het systeem van vrij ondernemerschap en moeten worden voorkomen als een vrije samenleving wil overleven.'[^92]
+'Ik kon niet nalaten het idee verder uit te diepen, omdat de taak om inflatie te voorkomen mij altijd van het grootste belang heeft geleken. Niet alleen vanwege de schade en het leed dat grote inflaties veroorzaken, maar ook omdat ik er al lang van overtuigd ben dat zelfs milde inflaties uiteindelijk de terugkerende depressies en werkloosheid veroorzaken. Deze zijn terecht een klacht tegen het systeem van vrij ondernemerschap en moeten worden voorkomen als een vrije samenleving wil overleven'.[^92]
 
 Het idee was dat geld aan de vrije markt overgelaten moest worden.
 
@@ -1186,7 +1186,7 @@ Hayek, de Oostenrijkse econoom, voegde nog toe dat hij verwachtte dat de meeste 
 
 Met overheden, economen en bankiers als voorziene tegenstanders, verwachtte Hayek zeker dat het realiseren van vrij bankieren een uitdagende strijd zou worden, maar toch geloofde hij sterk dat het desondanks gedaan moest worden.
 
-Hayek schreef in de tweede, verfijnde versie van zijn boek: '[Denationalisatie van geld is] de enige manier waarop we nog kunnen hopen om de voortdurende vooruitgang van alle overheidssturing richting totalitarisme te stoppen, wat voor veel scherpzinnige waarnemers onvermijdelijk lijkt. Maar de tijd dringt. Wat nu dringend nodig is, is niet de bouw van een nieuw systeem, maar het snel verwijderen van alle wettelijke obstakels die al tweeduizend jaar de weg hebben geblokkeerd naar een evolutie die ongetwijfeld gunstige resultaten zal opleveren die we niet kunnen overzien."[^100]
+Hayek schreef in de tweede, verfijnde versie van zijn boek: '[Denationalisatie van geld is] de enige manier waarop we nog kunnen hopen om de voortdurende vooruitgang van alle overheidssturing richting totalitarisme te stoppen, wat voor veel scherpzinnige waarnemers onvermijdelijk lijkt. Maar de tijd dringt. Wat nu dringend nodig is, is niet de bouw van een nieuw systeem, maar het snel verwijderen van alle wettelijke obstakels die al tweeduizend jaar de weg hebben geblokkeerd naar een evolutie die ongetwijfeld gunstige resultaten zal opleveren die we niet kunnen overzien'.[^100]
 
 En hij geloofde dat het mogelijk was. De sleutel lag bij het winnen van de steun van de algemene bevolking. Hayek maakte een vergelijking met de vrijhandelsbewegingen uit de negentiende eeuw en stelde dat een nieuwe burgerbeweging, een 'vrij geld-beweging', mensen zou kunnen informeren over de schade die inflatie en valutamanipulatie veroorzaken. Een bredere publieke bewustwording van deze kwesties zou een solide basis kunnen vormen voor de zaak. De daadwerkelijke politieke verandering (de deregulering van de bankensector) werd verondersteld in een later stadium te volgen.
 
@@ -1516,7 +1516,7 @@ Uiteindelijk verwachtte hij dat de medische wetenschap zelfs in staat zou zijn h
 
 Omdat traditionele beperkingen op het menselijk potentieel, zoals eindige levensduur, zouden worden weggenomen terwijl bionische lichaamsdelen en andere kunstmatige verbeteringen steeds meer nieuwe mogelijkheden zouden ontgrendelen, voorspelde FM-2030 dat mensen uiteindelijk het meest radicaal zouden transformeren en zichzelf zouden omvormen tot synthetische, post-biologische organismen.
 
-'Het is slechts een kwestie van tijd voordat we onze lichamen herschikken tot iets totaal anders, iets dat beter is aangepast aan de ruimte, iets dat levensvatbaar zal zijn in ons zonnestelsel en zelfs daarbuiten.'[^125]
+'Het is slechts een kwestie van tijd voordat we onze lichamen herschikken tot iets totaal anders, iets dat beter is aangepast aan de ruimte, iets dat levensvatbaar zal zijn in ons zonnestelsel en zelfs daarbuiten'.[^125]
 
 ### Transhumanisme
 
@@ -1528,15 +1528,15 @@ Inderdaad, Drexler geloofde dat nanotechnologie ook de gezondheidszorg kon revol
 
 Als zodanig zou nanotechnologie in staat zijn om zo ongeveer elke ziekte te genezen, en uiteindelijk het leven zelf te verlengen, speculeerde Drexler.
 
-"Veroudering is in wezen niet anders dan elke andere fysieke aandoening", schreef Drexler in zijn boek 'Motoren van Creatie' uit 1986, "het is geen magisch effect van kalenderdatums op een mysterieuze levenskracht. Broze botten, gerimpelde huid, lage enzymactiviteiten, trage wondgenezing, slecht geheugen, en de rest zijn allemaal het gevolg van beschadigde moleculaire machines, chemische onevenwichtigheden en verkeerd geordende structuren. Door alle cellen en weefsels van het lichaam weer een jeugdige structuur te geven, zullen reparatiemachines de jeugdige gezondheid herstellen."[^126]
+'Veroudering is in wezen niet anders dan elke andere fysieke aandoening', schreef Drexler in zijn boek 'Motoren van Creatie' uit 1986, 'het is geen magisch effect van kalenderdatums op een mysterieuze levenskracht. Broze botten, gerimpelde huid, lage enzymactiviteiten, trage wondgenezing, slecht geheugen, en de rest zijn allemaal het gevolg van beschadigde moleculaire machines, chemische onevenwichtigheden en verkeerd geordende structuren. Door alle cellen en weefsels van het lichaam weer een jeugdige structuur te geven, zullen reparatiemachines de jeugdige gezondheid herstellen'.[^126]
 
 Dit waren precies het soort ideeën die Max More als geen ander wisten te boeien.
 
 Bovendien waren deze ideeën voor More niet enkel grappige speculaties. Hij was ervan overtuigd dat de soort voorspellingen die FM-2030 en Drexler deden, beschouwd verdienden te worden als iets fundamentelers. Hij was ervan overtuigd dat ze een nieuw perspectief boden op het menselijk bestaan, en zelfs op de realiteit zelf. Terwijl More de concepten van de futuristen verzamelde, bestudeerde en overdacht, formuleerde de PhD-kandidaat ze uiteindelijk tot een nieuw en onderscheidend filosofisch kader: *transhumanisme*.
 
-Het algemene idee en de term "transhumanisme" werden al in de jaren '50 gebruikt door evolutionair bioloog Julian Huxley, maar het was More die het nu echt vestigde als een bijgewerkte versie van de humanistische filosofie. Net als het humanisme, respecteert het transhumanisme rede en wetenschap, terwijl het geloof, aanbidding en bovennatuurlijke concepten als een hiernamaals verwerpt. Maar waar humanisten waarde en betekenis halen uit de menselijke natuur en het bestaande menselijke potentieel, zouden transhumanisten vooruit kijken en pleiten voor het overstijgen van de natuurlijke beperkingen van de mensheid.
+Het algemene idee en de term 'transhumanisme' werden al in de jaren '50 gebruikt door evolutionair bioloog Julian Huxley, maar het was More die het nu echt vestigde als een bijgewerkte versie van de humanistische filosofie. Net als het humanisme, respecteert het transhumanisme rede en wetenschap, terwijl het geloof, aanbidding en bovennatuurlijke concepten als een hiernamaals verwerpt. Maar waar humanisten waarde en betekenis halen uit de menselijke natuur en het bestaande menselijke potentieel, zouden transhumanisten vooruit kijken en pleiten voor het overstijgen van de natuurlijke beperkingen van de mensheid.
 
-"Transhumanisme", vatte More kort samen, "verschilt van humanisme doordat het de radicale veranderingen erkent en voorziet in de aard en mogelijkheden van ons leven als gevolg van diverse wetenschappen en technologieën zoals neurowetenschap en neurofarmacologie, levensverlenging, nanotechnologie, kunstmatige ultra-intelligentie, en ruimtebewoning, gecombineerd met een rationele filosofie en waardesysteem".[^127]
+'Transhumanisme', vatte More kort samen, 'verschilt van humanisme doordat het de radicale veranderingen erkent en voorziet in de aard en mogelijkheden van ons leven als gevolg van diverse wetenschappen en technologieën zoals neurowetenschap en neurofarmacologie, levensverlenging, nanotechnologie, kunstmatige ultra-intelligentie, en ruimtebewoning, gecombineerd met een rationele filosofie en waardesysteem'.[^127]
 
 ### Extropianisme
 
@@ -1552,21 +1552,21 @@ Met andere woorden, een welvarender *morgen* werd het best gerealiseerd als de s
 
 More vond een vroege bondgenoot in mede USC-student Tom W. Bell. Net als More, omarmde Bell de transhumanistische filosofie en gaf hij de voorkeur aan More's vreugdevolle en vrije benadering om het te bereiken. Hij besloot dat hij zou bijdragen aan de verspreiding van deze relatief nieuwe ideeën door erover te schrijven onder zijn nieuwe pseudoniem: Tom Morrow.
 
-En om hun visie te concretiseren, introduceerde Morrow de term *extropie*. Als tegenhanger van "entropie", het proces van afbreuk en van verval, stond extropie voor verbetering en groei, zelfs oneindige groei. Degenen die, zoals Max More en Tom Morrow, deze transhumanistische visie onderschreven, zouden als Extropianen worden beschouwd.
+En om hun visie te concretiseren, introduceerde Morrow de term *extropie*. Als tegenhanger van 'entropie', het proces van afbreuk en van verval, stond extropie voor verbetering en groei, zelfs oneindige groei. Degenen die, zoals Max More en Tom Morrow, deze transhumanistische visie onderschreven, zouden als Extropianen worden beschouwd.
 
-Vervolgens schreef More de fundamentele beginselen van de Extropiaanse beweging uit in enkele pagina's tekst, getiteld "De Extropiaanse Principes: Een Transhumanistische Verklaring". Het bevatte vijf hoofdrichtlijnen of, inderdaad, principes: *grenzeloze uitbreiding, zelftransformatie, dynamisch optimisme, intelligente technologie*, en --- als een expliciete knipoog naar Hayek --- *spontane orde*. In het kort, de principes (in het engels) vormden het acroniem B.E.S.T. D.O. I.T. S.O.
+Vervolgens schreef More de fundamentele beginselen van de Extropiaanse beweging uit in enkele pagina's tekst, getiteld 'De Extropiaanse Principes: Een Transhumanistische Verklaring'. Het bevatte vijf hoofdrichtlijnen of, inderdaad, principes: *grenzeloze uitbreiding, zelftransformatie, dynamisch optimisme, intelligente technologie*, en --- als een expliciete knipoog naar Hayek --- *spontane orde*. In het kort, de principes (in het engels) vormden het acroniem B.E.S.T. D.O. I.T. S.O.
 
-"Voortdurende verbeteringen betekenen dat we de natuurlijke en traditionele beperkingen van menselijke mogelijkheden uitdagen", vatte More de doelen van de beweging samen in De Extropiaanse Principes. "Wetenschap en technologie zijn essentieel om beperkingen op levensduur, intelligentie, persoonlijke vitaliteit en vrijheid uit de weg te ruimen. Het is absurd om slaafs de 'natuurlijke' grenzen aan onze levensduur te accepteren. Het leven zal waarschijnlijk verder gaan dan de grenzen van de aarde - de geboorteplaats van biologische intelligentie - om het heelal te bewonen."[^128]
+'Voortdurende verbeteringen betekenen dat we de natuurlijke en traditionele beperkingen van menselijke mogelijkheden uitdagen', vatte More de doelen van de beweging samen in De Extropiaanse Principes. 'Wetenschap en technologie zijn essentieel om beperkingen op levensduur, intelligentie, persoonlijke vitaliteit en vrijheid uit de weg te ruimen. Het is absurd om slaafs de 'natuurlijke' grenzen aan onze levensduur te accepteren. Het leven zal waarschijnlijk verder gaan dan de grenzen van de aarde - de geboorteplaats van biologische intelligentie - om het heelal te bewonen'.[^128]
 
 Net als de transhumanistische visie die eraan ten grondslag lag, was de Extropiaanse toekomst ambitieus en spectaculair. Naast levensverlenging, wat mogelijk de centrale pijler van de beweging vertegenwoordigde, omvatten de vooruitzichten van Extropianen een breed scala aan futuristische technologieën. Deze variëerden van kunstmatige intelligentie tot ruimtekolonisatie en *mind uploading*, tot menselijk klonen, fusie-energie, en nog veel meer.
 
 Het is belangrijk om te overwegen dat Extropianisme echter geworteld moest blijven in wetenschap en technologie, zelfs als het vaak over zeer speculatieve versies daarvan ging. In plaats van weg te drijven naar het domein van sciencefiction, moesten Extropianen nadenken over hoe ze een betere toekomst kunnen realiseren door middel van kritisch en creatief denken, proactief zijn, en continu leren.
 
-Deze oproep ging over "rationeel individualisme" of "cognitieve onafhankelijkheid", schreef More. Extropianen moesten leven volgens hun "eigen oordeel, weloverwogen en geïnformeerde keuzes maken, profiteren van zowel succes als tekortkoming", legde hij uit. Dat vereiste op zijn beurt vrije en open samenlevingen waarin diverse informatiestromen en verschillende zienswijzen de kans krijgen om te bloeien.
+Deze oproep ging over 'rationeel individualisme' of 'cognitieve onafhankelijkheid', schreef More. Extropianen moesten leven volgens hun 'eigen oordeel, weloverwogen en geïnformeerde keuzes maken, profiteren van zowel succes als tekortkoming', legde hij uit. Dat vereiste op zijn beurt vrije en open samenlevingen waarin diverse informatiestromen en verschillende zienswijzen de kans krijgen om te bloeien.
 
 Anders gezien, geloven Extropianen dat staten en hun regeringen voornamelijk een obstakel voor vooruitgang vormen. Belastingen beroven mensen van middelen om te produceren en te bouwen, grenzen en andere reisbeperkingen kunnen verhinderen dat mensen zich op de plekken kunnen bevinden waar ze het meeste waarde toevoegen aan de globale samenleving, en overheidsregulaties beperken alleen maar het menselijke vermogen om te experimenteren en innoveren.
 
-"Centraal bevel over gedrag belemmert ontdekking, diversiteit en afwijkende meningen", concludeerde More.[^130]
+'Centraal bevel over gedrag belemmert ontdekking, diversiteit en afwijkende meningen', concludeerde More.[^130]
 
 ### De subcultuur[^131]
 
@@ -1582,9 +1582,9 @@ Gewapend met een superieure gereedschapskist om het voorheen onverklaarde te ver
 
 Om religie volledig weg te werken, moesten mensen een alternatieve bron van zingeving krijgen, geloofde More:
 
-"De extropiaanse filosofie kijkt niet buiten ons naar een superieure buitenaardse kracht voor inspiratie. In plaats daarvan kijkt het in ons en voorbij ons, en projecteert het vooruit naar een schitterende visie van onze toekomst. Ons doel is niet God, het is de voortzetting van het proces van verbetering en transformatie van onszelf naar steeds hogere vormen. We zullen onze huidige interesses, lichamen, geesten en vormen van sociale organisatie ontgroeien. Dit proces van expansie en transcendentie is de bron van betekenisvolheid."[^132]
+'De extropiaanse filosofie kijkt niet buiten ons naar een superieure buitenaardse kracht voor inspiratie. In plaats daarvan kijkt het in ons en voorbij ons, en projecteert het vooruit naar een schitterende visie van onze toekomst. Ons doel is niet God, het is de voortzetting van het proces van verbetering en transformatie van onszelf naar steeds hogere vormen. We zullen onze huidige interesses, lichamen, geesten en vormen van sociale organisatie ontgroeien. Dit proces van expansie en transcendentie is de bron van betekenisvolheid'.[^132]
 
-Dit Extropiaanse perspectief op het leven zou zich in de komende jaren ontwikkelen tot een kleine, lokale subcultuur in Californië, met unieke gewoonten en rituelen. De Extropianen hadden hun eigen logo (vijf pijlen die vanuit het midden spiraalsgewijs naar buiten waren gericht, wat groei in elke richting suggereert) en ze kwamen samen in een officieus clubhuis (of "nerd house") dat Nextropia heette. Ze ontwikkelden hun eigen handruk (het omhoog schieten van hun handen met verstrengelde vingers, net zo lang tot hun armen helemaal uitgestrekt waren: *The sky's the limit*!), ze organiseerden evenementen (waar sommigen van hen Extropiaanse kostuums droegen, bijvoorbeeld door zich als ruimtekolonisten te verkleden), en, onder leiding van Max More en Tom Morrow, veranderden diverse Extropianen hun namen: er was een MP-Infinity, een Skye D'Aureous en iemand die zichzelf R.U. Sirius noemde.
+Dit Extropiaanse perspectief op het leven zou zich in de komende jaren ontwikkelen tot een kleine, lokale subcultuur in Californië, met unieke gewoonten en rituelen. De Extropianen hadden hun eigen logo (vijf pijlen die vanuit het midden spiraalsgewijs naar buiten waren gericht, wat groei in elke richting suggereert) en ze kwamen samen in een officieus clubhuis (of 'nerd house') dat Nextropia heette. Ze ontwikkelden hun eigen handruk (het omhoog schieten van hun handen met verstrengelde vingers, net zo lang tot hun armen helemaal uitgestrekt waren: *The sky's the limit*!), ze organiseerden evenementen (waar sommigen van hen Extropiaanse kostuums droegen, bijvoorbeeld door zich als ruimtekolonisten te verkleden), en, onder leiding van Max More en Tom Morrow, veranderden diverse Extropianen hun namen: er was een MP-Infinity, een Skye D'Aureous en iemand die zichzelf R.U. Sirius noemde.
 
 Toen de Extropiaanse gemeenschap uitgroeide van enkele tientallen tot honderden mensen, richtten More en Morrow in 1990 ook het Extropie Instituut op, waarbij FM-2030 zich aansloot als derde oprichtend lid. De non-profit onderwijsorganisatie zou een tweemaandelijkse nieuwsbrief produceren, Extropiaanse conferenties organiseren en (wat voor die tijd vooruitstrevend was) een e-maillijst hosten om online discussie te faciliteren. Hoewel e-mail in die tijd nog een niche technologie was, wisten de technisch onderlegde en toekomstgerichte Extropianen over het algemeen goed hoe ze het ontluikende internet moesten benutten.
 
@@ -1596,7 +1596,7 @@ K. Eric Drexler, wiens werk een belangrijke inspiratiebron was voor Max More, we
 
 Een van hen was Mark S. Miller, die destijds de hoofdarchitect was van Xanadu, het allereerste hypertext project ter wereld (Hypertext is de tekst waarop je kunt klikken om je naar verschillende delen van het internet te brengen). Het ambitieuze Xanadu-project, dat al in 1960 werd opgericht, was dertig jaar later nog steeds in ontwikkeling.
 
-In het kader van de projectontwikkeling publiceerden Drexler en Miller gedurende de jaren '80 diverse artikelen over het toewijzen van rekenkracht over computernetwerken. Kort gezegd, stelden ze voor dat computers in wezen hun overbodige CPU-cycli konden "verhuren" aan de hoogte bieder. Zelfzuchtige computers zouden hun middelen over het netwerk verdelen via virtuele markten om de efficiëntie te maximaliseren, en dat alles zonder de noodzaak van een centrale beheerder. Dit zou het gebruik van rekenkracht waar het het meest gewaardeerd werd mogelijk maken, terwijl het investeringen in meer hardware zou aanmoedigen als de vraag hiertoe voldoende was.
+In het kader van de projectontwikkeling publiceerden Drexler en Miller gedurende de jaren '80 diverse artikelen over het toewijzen van rekenkracht over computernetwerken. Kort gezegd, stelden ze voor dat computers in wezen hun overbodige CPU-cycli konden 'verhuren' aan de hoogte bieder. Zelfzuchtige computers zouden hun middelen over het netwerk verdelen via virtuele markten om de efficiëntie te maximaliseren, en dat alles zonder de noodzaak van een centrale beheerder. Dit zou het gebruik van rekenkracht waar het het meest gewaardeerd werd mogelijk maken, terwijl het investeringen in meer hardware zou aanmoedigen als de vraag hiertoe voldoende was.
 
 Inderdaad, Drexler en Miller gebruikten Hayeks inzichten over de vrije markt om computernetwerken te ontwerpen.
 
@@ -1648,25 +1648,25 @@ Maar er was een opmerkelijke uitzondering. In de vroege jaren '90 raakten sommig
 
 Voor ten minste één Extropiaan, een computerwetenschapper genaamd Nick Szabo, was dit een reden om naar Amsterdam te verhuizen en zelf voor DigiCash te gaan werken. Tegelijkertijd begon game-ontwikkelaar Hal Finney het belang van digitaal geld aan zijn mede-Extropianen te propageren, in de hoop dat meer van hen zich erbij zouden aansluiten. Verspreid over zeven pagina's in de tiende editie van Extropy, gepubliceerd begin 1993, beschreef Finney de interne werking van Chaum's digitale geldsysteem en legde uit waarom Extropianen met hun libertaire ethos dit ter harte zouden moeten nemen.
 
-"Vandaag zijn we op een pad dat, als er niets verandert, zal leiden tot een wereld met potentieel meer regeringsmacht, bemoeienis, en controle", waarschuwde Finney. "We kunnen dit veranderen; deze technologieën [van digitaal geld] kunnen de relatie tussen individuen en organisaties revolutioneren, door ze voor het eerst op gelijke voet te zetten. Cryptografie kan een wereld mogelijk maken waarin mensen controle hebben over informatie over zichzelf, niet omdat de overheid hen die controle heeft gegeven, maar omdat zij zelf de enigen zijn die de cryptografische sleutels bezitten om die informatie te onthullen."[^136]
+'Vandaag zijn we op een pad dat, als er niets verandert, zal leiden tot een wereld met potentieel meer regeringsmacht, bemoeienis, en controle', waarschuwde Finney. 'We kunnen dit veranderen; deze technologieën [van digitaal geld] kunnen de relatie tussen individuen en organisaties revolutioneren, door ze voor het eerst op gelijke voet te zetten. Cryptografie kan een wereld mogelijk maken waarin mensen controle hebben over informatie over zichzelf, niet omdat de overheid hen die controle heeft gegeven, maar omdat zij zelf de enigen zijn die de cryptografische sleutels bezitten om die informatie te onthullen'.[^136]
 
 Finney kreeg gelijk: de community deelde over het algemeen zijn zorgen, en zij begrepen waarom elektronisch geld een belangrijk deel van de oplossing vormde. Toen zij meer te weten kwamen over cryptografisch beveiligd geld, begonnen sommige Extropianen bovendien met het idee te spelen dat de potentiële voordelen van elektronisch geld zelfs groter konden zijn dan enkel privacy.
 
 Waar Chaum voornamelijk bezig was geweest met de anonieme functies van digitale valuta, begonnen deze Extropianen ook het potentieel van digitale valuta in het kader van monetaire hervorming in overweging te nemen.
 
-Tegen 1995 bereikte de hernieuwde interesse van de Extropianen een hoogtepunt in een speciale *Extropy*-editie: het vijftiende nummer van het tijdschrift was volledig gewijd aan digitaal geld. De omslag van het tijdschrift bevatte opvallend een blauw-rood achtig ontwerp van een bankbiljet waarop niet een staatshoofd, maar het portret van Hayek te zien was. "Vijftien Hayeks," luidde de denominatie, en het zou naar verluidt uitgegeven zijn door de "Virtuele Bank van Extropolis".
+Tegen 1995 bereikte de hernieuwde interesse van de Extropianen een hoogtepunt in een speciale *Extropy*-editie: het vijftiende nummer van het tijdschrift was volledig gewijd aan digitaal geld. De omslag van het tijdschrift bevatte opvallend een blauw-rood achtig ontwerp van een bankbiljet waarop niet een staatshoofd, maar het portret van Hayek te zien was. 'Vijftien Hayeks', luidde de denominatie, en het zou naar verluidt uitgegeven zijn door de 'Virtuele Bank van Extropolis'.
 
 In het tijdschrift bespraken ongeveer de helft van alle artikelen het potentieel van elektronisch geld, met verschillende auteurs die uiteenlopende mening uitdrukten met betrekking tot de digitalisering van geld. Natuurlijk omvatten deze ideeën de bekende privacyfuncties die het ontwerp van Chaum bood. Maar de meeste auteurs gingen ook op verkenning naar aanvullende ideeën.
 
-In zijn "Introductie tot Digitaal Geld", speculeerde software-ingenieur Mark Grant bijvoorbeeld dat digitaal geld gebruikt kon worden om lokale munteenheden op te zetten. Hij stelde ook een bijzonder pittig alternatief voor om Chaumiaans geld te ondersteunen.
+In zijn 'Introductie tot Digitaal Geld', speculeerde software-ingenieur Mark Grant bijvoorbeeld dat digitaal geld gebruikt kon worden om lokale munteenheden op te zetten. Hij stelde ook een bijzonder pittig alternatief voor om Chaumiaans geld te ondersteunen.
 
-"Net zoals de *personal computer* en de laserprinter het voor iedereen mogelijk hebben gemaakt om een uitgever te worden, maakt digitaal geld het voor iedereen mogelijk om een bank te worden, of ze nu een groot bedrijf zijn of een straathoekdrugsdealer met een laptop en een mobiele telefoon," legde Grant uit. "Sterker nog, naarmate de nationale schulden blijven toenemen, zouden veel mensen wellicht voordelen zien in het gebruik van contant geld dat wordt gedekt door, laten we zeggen, cocaïne in plaats van contant geld dat louter wordt gedekt door het vermogen van een regering om belastingen te innen."[^137]
+'Net zoals de *personal computer* en de laserprinter het voor iedereen mogelijk hebben gemaakt om een uitgever te worden, maakt digitaal geld het voor iedereen mogelijk om een bank te worden, of ze nu een groot bedrijf zijn of een straathoekdrugsdealer met een laptop en een mobiele telefoon', legde Grant uit. 'Sterker nog, naarmate de nationale schulden blijven toenemen, zouden veel mensen wellicht voordelen zien in het gebruik van contant geld dat wordt gedekt door, laten we zeggen, cocaïne in plaats van contant geld dat louter wordt gedekt door het vermogen van een regering om belastingen te innen'.[^137]
 
 Een andere bijdrager, web-ontwikkelaar Eric Watt Forste, schreef een lyrische recensie over het werk van George Selgin, een moderne onderzoeker van de vrije bankenschool, genaamd 'The Theory of Free Banking'. In zijn boek doet Selgin nauwgezet verslag van hoe de bankeninfrastructuur zou kunnen evolueren in een omgeving van vrije banken. Watt Forste suggereerde dat dit boek ook als blauwdruk kon dienen voor de digitale wereld.
 
-"Terwijl crypto-experts druk bezig zijn uit te leggen hoe deze banken technologisch zouden kunnen functioneren, legt de theorie van vrij bankieren uit hoe ze economisch zouden kunnen functioneren," concludeerde Watt Forste zijn recensie.[^138]
+'Terwijl crypto-experts druk bezig zijn uit te leggen hoe deze banken technologisch zouden kunnen functioneren, legt de theorie van vrij bankieren uit hoe ze economisch zouden kunnen functioneren', concludeerde Watt Forste zijn recensie.[^138]
 
-Lawrence White, de naaste ideologische bondgenoot van Selgin in de vrije bankbeweging, had zelfs een artikel bijgedragen aan het tijdschrift. Hoewel zijn bijdrage voornamelijk een meer technische vergelijking was tussen elektronische geldschema's en bestaande betaaloplossingen, hintte White ook aan hoe digitale valuta de internationale bankdynamieken drastisch konden veranderen: "Een belangrijk potentieel voordeel van elektronische geldoverdracht via de persoonlijke computer is dat het gewone consumenten betaalbare toegang tot *offshore*-bankieren kan geven."[^139]
+Lawrence White, de naaste ideologische bondgenoot van Selgin in de vrije bankbeweging, had zelfs een artikel bijgedragen aan het tijdschrift. Hoewel zijn bijdrage voornamelijk een meer technische vergelijking was tussen elektronische geldschema's en bestaande betaaloplossingen, hintte White ook aan hoe digitale valuta de internationale bankdynamieken drastisch konden veranderen: 'Een belangrijk potentieel voordeel van elektronische geldoverdracht via de persoonlijke computer is dat het gewone consumenten betaalbare toegang tot *offshore*-bankieren kan geven'.[^139]
 
 Maar misschien wel het meest opmerkelijke van alles, was het artikel van Max More waarin hij het op zich nam om Hayek's baanbrekende boek over concurrerende valuta's samen te vatten en te presenteren.
 
@@ -1676,17 +1676,17 @@ Het werk van Hayek had het Extropianisme gevormd. Het inzicht van de Oostenrijke
 
 De oprichter van de Extropiaanse beweging betoogde voor de denationalisatie van geld.
 
-In zijn artikel toonde More zichzelf een goed onderlegde student van Hayek's werk en een effectieve communicator van diens ideeën. Hij presenteerde een beknopte samenvatting van Hayek's bijdragen aan het bredere debat over monetair beleid en legde uit hoe het fiatgeldsysteem verantwoordelijk was voor vier "economische kwalen": inflatie, instabiliteit, ongedisciplineerde staatsuitgaven en economisch nationalisme.
+In zijn artikel toonde More zichzelf een goed onderlegde student van Hayek's werk en een effectieve communicator van diens ideeën. Hij presenteerde een beknopte samenvatting van Hayek's bijdragen aan het bredere debat over monetair beleid en legde uit hoe het fiatgeldsysteem verantwoordelijk was voor vier 'economische kwalen': inflatie, instabiliteit, ongedisciplineerde staatsuitgaven en economisch nationalisme.
 
 Inflatie wordt veroorzaakt door de uitbreiding van de geldvoorraad door de overheid in een Keynesiaanse poging om de werkloosheid te verlagen, legde More uit, maar in werkelijkheid verstoort dit de economie, verhoogt het de effectieve belastingen en heeft het bovendien een verslavend effect.
 
 Ondertussen wordt onstabiliteit veroorzaakt door manipulatie van de rente door de centrale bank (More vat Hayek's conjunctuurcyclustheorie samen), niet door een inherente instabiliteit in de markt (zoals hij benadrukte dat zowel Keynesianen als Marxisten beweren).
 
-"Economisch nationalisme (of wat Hayek eigenlijk monetair nationalisme noemde), tast bovendien op onnodige wijze verschillende delen van de economie aan op onvoorspelbare en nadelige manieren", schreef More.
+'Economisch nationalisme (of wat Hayek eigenlijk monetair nationalisme noemde), tast bovendien op onnodige wijze verschillende delen van de economie aan op onvoorspelbare en nadelige manieren', schreef More.
 
 En tenslotte, legde More uit, maakte het monetaire systeem ongedisciplineerde staatsuitgaven mogelijk: fiatgeld helpt bij het vergroten van de reikwijdte van de overheid.
 
-"De staat breidt zijn macht grotendeels uit door meer welvaart van productieve individuen te nemen", schreef de Extropiaan. "Belastingen bieden een manier om nieuwe agentschappen, programma's en macht te financieren. Het verhogen van belastingen wekt weinig enthousiasme op, daarom wenden regeringen zich vaak tot een ander middel van financiering: lenen en uitbreiden van de geldvoorraad."[^140]
+'De staat breidt zijn macht grotendeels uit door meer welvaart van productieve individuen te nemen', schreef de Extropiaan. 'Belastingen bieden een manier om nieuwe agentschappen, programma's en macht te financieren. Het verhogen van belastingen wekt weinig enthousiasme op, daarom wenden regeringen zich vaak tot een ander middel van financiering: lenen en uitbreiden van de geldvoorraad'.[^140]
 
 Elk van deze kwalen belemmerde economische groei, wat vervolgens de menselijke vooruitgang beperkte. More vat het probleem bondig samen: fiatgeld frustreerde de missie van de Extropians.
 
@@ -1700,29 +1700,29 @@ More dacht dat overheden formeel geen afscheid zouden nemen van het geldmonopoli
 
 Via zijn artikel in het tijdschrift, riep de grondlegger van de beweging op om transactieprivacy en concurrentie in valuta gezamenlijk te overwegen.
 
-"Concurrerende valuta's zullen het huidige systeem aftroeven door inflatie te beheersen, de stabiliteit van dynamische markteconomieën te maximaliseren, de omvang van de overheid te beperken en door de absurditeit van de natiestaat te erkennen", schreef More. "Deze hervorming combineren met de introductie van anoniem digitaal geld zou een mokerslag zijn voor de bestaande orde --- digitaal geld maakt het moeilijker voor overheden om transacties te controleren en te belasten."
+'Concurrerende valuta's zullen het huidige systeem aftroeven door inflatie te beheersen, de stabiliteit van dynamische markteconomieën te maximaliseren, de omvang van de overheid te beperken en door de absurditeit van de natiestaat te erkennen', schreef More. 'Deze hervorming combineren met de introductie van anoniem digitaal geld zou een mokerslag zijn voor de bestaande orde --- digitaal geld maakt het moeilijker voor overheden om transacties te controleren en te belasten'.
 
-Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerste. [. . .] Omdat hij niet in biostase is geplaatst, zal Hayek nooit de dagen van elektronisch geld en concurrerende privévaluta's meemaken die zijn denken mogelijk zal helpen realiseren. Als we het voortouw willen blijven nemen in de toekomst, laten we dan kijken wat we kunnen doen om deze cruciale ontwikkelingen te versnellen. Wie weet zien we ooit nog een privévaluta die zijn naam draagt."[^141]
+Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerste. [. . .] Omdat hij niet in biostase is geplaatst, zal Hayek nooit de dagen van elektronisch geld en concurrerende privévaluta's meemaken die zijn denken mogelijk zal helpen realiseren. Als we het voortouw willen blijven nemen in de toekomst, laten we dan kijken wat we kunnen doen om deze cruciale ontwikkelingen te versnellen. Wie weet zien we ooit nog een privévaluta die zijn naam draagt'.[^141]
 
 # Endnotes
 
-[1]: ​Lawrence H. White, "The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold," Cato Journal, 34, No. 2 : 281--301.
+[1]: ​Lawrence H. White, 'The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold', Cato Journal, 34, No. 2 : 281--301.
 
-[2]: Huis van Afgevaardigden, "Deleting Commercial Pornography Sites From the Internet: The U.S. Financial Industry's Efforts to Combat This Problem," Hearing Before the Subcommittee on Oversight and Investigations of the Committee on Energy and Commerce, One Hundred Ninth Congress, Second Session, September 21, 2006, [https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm.]
+[2]: Huis van Afgevaardigden, 'Deleting Commercial Pornography Sites From the Internet: The U.S. Financial Industry's Efforts to Combat This Problem', Hearing Before the Subcommittee on Oversight and Investigations of the Committee on Energy and Commerce, One Hundred Ninth Congress, Second Session, September 21, 2006, [https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm.]
 
-[3]: ​White, "Troubling Suppression," 289.
+[3]: ​White, 'Troubling Suppression', 289.
 
-[4]: ​e-gold, "e-gold News," December 1999, geraadpleegd via [https://web.archive.org/web/20001209053900fw...ttp://www.e-gold.com/news.html.]
+[4]: ​e-gold, 'e-gold News', December 1999, geraadpleegd via [https://web.archive.org/web/20001209053900fw...ttp://www.e-gold.com/news.html.]
 
-[5]: ​e-gold, "e-gold Welcomes US Government Review of its Status as a Privately Issued Currency," 20 januari 2006, geraadpleegd via [https://web.archive.org/web/20060304203618if...ttp://www.e-gold.com:80/letter2.html.]
+[5]: ​e-gold, 'e-gold Welcomes US Government Review of its Status as a Privately Issued Currency', 20 januari 2006, geraadpleegd via [https://web.archive.org/web/20060304203618if...ttp://www.e-gold.com:80/letter2.html.]
 
-[6]: ​US Department of Justice, "Digital Currency Business e-gold Pleads Guilty to Money Laundering and Illegal Money Transmitting Charges," July 21, 2008, [https://www.justice.gov/archive/opa/pr/2008/July/08-crm-635.html.]
+[6]: ​US Department of Justice, 'Digital Currency Business e-gold Pleads Guilty to Money Laundering and Illegal Money Transmitting Charges', July 21, 2008, [https://www.justice.gov/archive/opa/pr/2008/July/08-crm-635.html.]
 
-[7]: ​e-gold "Transcript of sentence before the honorable Rosemarie M. Collyer United States District Judge," 114, November 20, 2008, <https://legalupdate.e-gold.com/2008/11/transcript-of-sentence-before-the-honorable-rosemarie-m-collyer-united-states-district-judge.html>
+[7]: ​e-gold 'Transcript of sentence before the honorable Rosemarie M. Collyer United States District Judge', 114, November 20, 2008, <https://legalupdate.e-gold.com/2008/11/transcript-of-sentence-before-the-honorable-rosemarie-m-collyer-united-states-district-judge.html>
 
 [8]: ​Deirdre N. McCloskey, How to be Human... ...ough an Economist , 33.
 
-[9]: ​Lawrence H. Officer, "Exchange Rates Between the United States Dollar and Forty-one Currencies," MeasuringWorth, 2023.
+[9]: ​Lawrence H. Officer, 'Exchange Rates Between the United States Dollar and Forty-one Currencies', MeasuringWorth, 2023.
 
 [10]: ​Eamonn Butler, Hayek: His Contribution to the Political and Economic Thought of Our Time .
 
@@ -1746,65 +1746,65 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [20]: Friedrich A. Hayek, Prices and Production .
 
-[21]: Friedrich A. Hayek, "The Use of Knowledge in Society," American Economic Review. XXXV, No. 4 : 526--27.
+[21]: Friedrich A. Hayek, 'The Use of Knowledge in Society', American Economic Review. XXXV, No. 4 : 526--27.
 
-[22]: Als persoon A € 100 bij de bank stort en de bank hiervan € 90 uitleent aan persoon B, zal persoon A nog steeds denken dat hij of zij € 100 heeft, terwijl persoon B € 90 zal hebben, voor een totaal van € 190. Bovendien, als persoon B de € 90 opnieuw bij de bank stort en de bank hiervan € 81 uitleent aan persoon C, zullen drie mensen denken dat ze samen € 271 bezitten. Dit kan zo doorgaan, wat lijkt alsof er steeds meer geld in omloop komt. Dit concept staat bekend als de "geldmultiplier." In werkelijkheid kan de geldmultiplier zelfs nog agressiever zijn dan dit conventionele voorbeeld van fractioneel bankieren suggereert, omdat banken geen stortingen hoeven te ontvangen voordat ze leningen kunnen verstrekken; ze kunnen leningen uitgeven door eenvoudigweg krediet te creëren in de bankrekeningen van klanten.
+[22]: Als persoon A € 100 bij de bank stort en de bank hiervan € 90 uitleent aan persoon B, zal persoon A nog steeds denken dat hij of zij € 100 heeft, terwijl persoon B € 90 zal hebben, voor een totaal van € 190. Bovendien, als persoon B de € 90 opnieuw bij de bank stort en de bank hiervan € 81 uitleent aan persoon C, zullen drie mensen denken dat ze samen € 271 bezitten. Dit kan zo doorgaan, wat lijkt alsof er steeds meer geld in omloop komt. Dit concept staat bekend als de 'geldmultiplier'. In werkelijkheid kan de geldmultiplier zelfs nog agressiever zijn dan dit conventionele voorbeeld van fractioneel bankieren suggereert, omdat banken geen stortingen hoeven te ontvangen voordat ze leningen kunnen verstrekken; ze kunnen leningen uitgeven door eenvoudigweg krediet te creëren in de bankrekeningen van klanten.
 
-[23]: Gary Richardson and Tim Sablik, "Banking Panics of the Gilded Age: 1863--1913," Federal Reserve History, December 4, 2015, [https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.]
+[23]: Gary Richardson and Tim Sablik, 'Banking Panics of the Gilded Age: 1863--1913', Federal Reserve History, December 4, 2015, [https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.]
 
-[24]: ​Friedrich A. Hayek, "Monetary Policy in the United States after the Recovery from the Crisis of 1920," in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge , 145.
+[24]: ​Friedrich A. Hayek, 'Monetary Policy in the United States after the Recovery from the Crisis of 1920', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge , 145.
 
-[25]: ​Hayek, "Monetary Policy," 146.
+[25]: ​Hayek, 'Monetary Policy', 146.
 
 [26]: Stephen Kresge, The Collected Works of F.A. Hayek, Good Money: part I , 13.
 
 [27]: Het meest uitgebreid uiteengezet in John Maynard Keynes, The General Theory of Employment, Interest and Money.
 
-[28]: ​George Selgin, "The New Deal and Recovery, Part 15: The Keynesian Myth," Cato Institute, March 16, 2022, [https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth.]
+[28]: ​George Selgin, 'The New Deal and Recovery, Part 15: The Keynesian Myth', Cato Institute, March 16, 2022, [https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth.]
 
-[29]: ​Friedrich A. Hayek, "The Gold Problem," in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge , 184.
+[29]: ​Friedrich A. Hayek, 'The Gold Problem', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge , 184.
 
-[30]: Richard Stallman, "Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius." Interview door Michael Gross, mgross.com, 1999, [https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/.]
+[30]: Richard Stallman, 'Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius'. Interview door Michael Gross, mgross.com, 1999, [https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/.]
 
 [31]: Deze sectie is grotendeels gebaseerd op Steven Levy, Hackers: Heroes of the Computer Revolution.
 
-[32]: ​Richard Stallman, "Talking to the Mailman," Interview by Rob Lucas, New Left Review, Sept--Oct 2018, [https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman.]
+[32]: ​Richard Stallman, 'Talking to the Mailman', Interview by Rob Lucas, New Left Review, Sept--Oct 2018, [https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman.]
 
-[33]: ​Richard Stallman, "RMS Berättar," Linköping University, [http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt.]
+[33]: ​Richard Stallman, 'RMS Berättar', Linköping University, [http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt.]
 
-[34]: ​Stallman, "Talking to the Mailman."
+[34]: ​Stallman, 'Talking to the Mailman'.
 
 [35]: ​Levy, Hackers, 448.
 
 [36]: ​Levy, Hackers, 472.
 
-[37]: ​Stallman, "High School Misfit."
+[37]: ​Stallman, 'High School Misfit'.
 
-[38]: ​Stallman, "RMS Berättar."
+[38]: ​Stallman, 'RMS Berättar'.
 
 [39]: ​Steven Levy, Hackers, 441--42.
 
-[40]: ​Angela Watercutter, "Why Free Software Is More Important Now Than Ever Before," Wired, September 20, 2013, [https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/.]
+[40]: ​Angela Watercutter, 'Why Free Software Is More Important Now Than Ever Before', Wired, September 20, 2013, [https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/.]
 
 [41]: Voor de nauwkeurigheid dient opgemerkt te worden dat dit deel van het argument technisch gezien pas duidelijk naar voren kwam toen Stallman het GNU-project een jaar of zo later lanceerde; het was nog geen deel van zijn oorspronkelijke motivatie om het project überhaupt te starten. Dit kleine anachronisme is in de tekst gebleven ten behoeve van de leesbaarheid.
 
-[42]: ​Richard Stallman, "Free Software Is Even More Important Now," gnu.org, [https://www.gnu.org/philosophy/free-software-even-more-important.en.html.]
+[42]: ​Richard Stallman, 'Free Software Is Even More Important Now', gnu.org, [https://www.gnu.org/philosophy/free-software-even-more-important.en.html.]
 
-[43]: ​GNU Operating System, "What is Free Software?" [https://www.gnu.org/philosophy/free-sw.html.]
+[43]: ​GNU Operating System, 'What is Free Software?' [https://www.gnu.org/philosophy/free-sw.html.]
 
 [44]: Eigenlijk werd vrijheid 0 pas expliciet toegevoegd in de jaren 1990; daarvoor dacht Stallman dat het een automatische juridische consequentie was van de oorspronkelijke drie vrijheden.
 
-[45]: ​GNO Operating System, "What is Free Software?"
+[45]: ​GNO Operating System, 'What is Free Software?'
 
-[46]: ​Richard Stallman, "Free Unix!" September 27, 1983, [https://www.gnu.org/gnu/initial-announcement.en.html.]
+[46]: ​Richard Stallman, 'Free Unix!' September 27, 1983, [https://www.gnu.org/gnu/initial-announcement.en.html.]
 
-[47]: ​GNU Operating System, "The GNU Manifesto," 1985,​[https://www.gnu.org/gnu/manifesto.html.en.]
+[47]: ​GNU Operating System, 'The GNU Manifesto', 1985,​[https://www.gnu.org/gnu/manifesto.html.en.]
 
-[48]: Om de zware afhankelijkheid van het project van GNU te benadrukken, geven sommigen de voorkeur aan de naam "GNU/Linux."
+[48]: Om de zware afhankelijkheid van het project van GNU te benadrukken, geven sommigen de voorkeur aan de naam 'GNU/Linux'.
 
 [49]: ​Eric S. Raymond, The Cathedral & The Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary .
 
-[50]: Richard Stallman is ook geen fan van deze terminologie. Als er een term moet worden gebruikt die beide kanten van de kloof omvat, geeft hij de voorkeur aan "Free/Libre and Open Source Software" omdat dit duidelijker overbrengt dat het "vrije" deel over "vrijheid" gaat.
+[50]: Richard Stallman is ook geen fan van deze terminologie. Als er een term moet worden gebruikt die beide kanten van de kloof omvat, geeft hij de voorkeur aan 'Free/Libre and Open Source Software' omdat dit duidelijker overbrengt dat het 'vrije' deel over 'vrijheid' gaat.
 
 [51]: ​Raymond, The Cathedral & The Bazaar, 52.
 
@@ -1814,75 +1814,75 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [54]: ​Ludwig von Mises, The Theory of Money and Credit, trans. J.E. Batson .
 
-[55]: Dit wordt soms beschouwd als "intrinsieke waarde," een veelgebruikte uitdrukking in de economie om aan te geven dat een goed economische gebruikswaarde heeft los van zijn monetaire rol. Oostenrijkse economen verwerpen echter over het algemeen het idee dat producten überhaupt intrinsieke waarde hebben: waarde is volgens hen altijd subjectief.
+[55]: Dit wordt soms beschouwd als 'intrinsieke waarde', een veelgebruikte uitdrukking in de economie om aan te geven dat een goed economische gebruikswaarde heeft los van zijn monetaire rol. Oostenrijkse economen verwerpen echter over het algemeen het idee dat producten überhaupt intrinsieke waarde hebben: waarde is volgens hen altijd subjectief.
 
 [56]: Recenter archeologisch onderzoek, gepubliceerd in David Graeber's Debt: The First 5,000 Years, suggereert dat er nooit een pure ruilhandel-economie is geweest zoals beschreven in de regressietheorie. In plaats daarvan gebruikten de oudste menselijke beschavingen schuld als hun eerste vorm van geld. Schuld werkt echter alleen als valuta in omgevingen met een hoge mate van vertrouwen en op reputatie gebaseerde systemen. In omgevingen met weinig vertrouwen was goud vaak de valuta bij uitstek, en het is heel goed mogelijk dat het edelmetaal deze status in de loop van de tijd verwierf via een proces dat lijkt op wat wordt beschreven in de regressietheorie.
 
-[57]: ​Nicholas Dimsdale, "British Monetary Policy and the Exchange Rate 1920-1938," Oxford Economic Papers 33, New Series : 307--49.
+[57]: ​Nicholas Dimsdale, 'British Monetary Policy and the Exchange Rate 1920-1938', Oxford Economic Papers 33, New Series : 307--49.
 
 [58]: ​Irving Fisher, The Purchasing Power of Money .
 
 [59]: ​John Maynard Keynes, A Tract on Monetary Reform , 173.
 
-[60]: ​Friedrich A. Hayek, "Intertemporal Price Equilibrium and Movements in the Value of Money," in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge , 195.
+[60]: ​Friedrich A. Hayek, 'Intertemporal Price Equilibrium and Movements in the Value of Money', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge , 195.
 
-[61]: ​Hayek, "Intertemporal Price Equilibrium," 207.
+[61]: ​Hayek, 'Intertemporal Price Equilibrium', 207.
 
-[62]: ​Hayek, "Intertemporal Price Equilibrium," 190.
+[62]: ​Hayek, 'Intertemporal Price Equilibrium', 190.
 
-[63]: ​Hayek, "Intertemporal Price Equilibrium," 214.
+[63]: ​Hayek, 'Intertemporal Price Equilibrium', 214.
 
 [64]: ​Keynes, Tract, 164.
 
-[65]: ​Friedrich A. Hayek, "Monetary Nationalism and International Stability," in The Collected Works of F.A. Hayek, Good Money: part II, ed. Stephen Kresge : 55.
+[65]: ​Friedrich A. Hayek, 'Monetary Nationalism and International Stability', in The Collected Works of F.A. Hayek, Good Money: part II, ed. Stephen Kresge : 55.
 
-[66]: ​Hayek, "Monetary Nationalism," 55--56.
+[66]: ​Hayek, 'Monetary Nationalism', 55--56.
 
-[67]: ​Hayek, "Intertemporal Price Equilibrium," 212.
+[67]: ​Hayek, 'Intertemporal Price Equilibrium', 212.
 
-[68]: ​Hayek, "Intertemporal Price Equilibrium," 217.
+[68]: ​Hayek, 'Intertemporal Price Equilibrium', 217.
 
-[69]: ​Hayek, "Monetary Nationalism," 87.
+[69]: ​Hayek, 'Monetary Nationalism', 87.
 
 [70]: ​Nicholas Wapshott, Keynes Hayek: The Clash That Defined Modern Economics : 159.
 
-[71]: ​Franklin D. Roosevelt, "Relating to the Hoarding, Export, and Earmarking of Gold Coin, Bullion, or Currency and to Transactions in Foreign Exchange," August 28, 1993, beschikbaar via The American Presidency Project.
+[71]: ​Franklin D. Roosevelt, 'Relating to the Hoarding, Export, and Earmarking of Gold Coin, Bullion, or Currency and to Transactions in Foreign Exchange', August 28, 1993, beschikbaar via The American Presidency Project.
 
 [72]: ​Joris Rickards, Currency Wars: The Making of the Next Global Crisis , 56--77.
 
 [73]: Een groot deel van dit hoofdstuk is gebaseerd op Steven Levy's Crypto: How the Code Rebels Beat the Government -- Saving Privacy in the Digital Age.
 
-[74]: Whitfield Diffie and Martin E. Hellman, "Multiuser Cryptographic Techniques," AFIPS ...: Proceedings of the June 7-10, 1976, national computer conference and exposition : 109--112.
+[74]: Whitfield Diffie and Martin E. Hellman, 'Multiuser Cryptographic Techniques', AFIPS ...: Proceedings of the June 7-10, 1976, national computer conference and exposition : 109--112.
 
 [75]: ​Levy, Crypto, 76.
 
-[76]: ​Whitfield Diffie and Martin E. Hellman, "New Directions in Cryptography," IEEE Transactions On Information Theory, vol. IT-22, no. 6 : 644.
+[76]: ​Whitfield Diffie and Martin E. Hellman, 'New Directions in Cryptography', IEEE Transactions On Information Theory, vol. IT-22, no. 6 : 644.
 
-[77]: Steven Levy, "E-Money ," Wired, December 1, 1994, [https://www.wired.com/1994/12/emoney/.]
+[77]: Steven Levy, 'E-Money ', Wired, December 1, 1994, [https://www.wired.com/1994/12/emoney/.]
 
-[78]: David Chaum, "Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms," Communications of the ACM 24, 2 : 84--90.
+[78]: David Chaum, 'Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms', Communications of the ACM 24, 2 : 84--90.
 
 [79]: ​Edward S. Mason and Robert E. Asher, The World Bank Since Bretton Woods: The Origins, Policies, Operations and Impact of the International Bank for Reconstruction , 29.
 
-[80]: ​Andrew F. Brimmer, "Remembering William McChesney Martin Jr.," Federal Reserve Bank of Minneapolis, September 1, 1998, [https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.]
+[80]: ​Andrew F. Brimmer, 'Remembering William McChesney Martin Jr'., Federal Reserve Bank of Minneapolis, September 1, 1998, [https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.]
 
 [81]: ​Wapshott, Keynes Hayek, 242.
 
 [82]: ​Wapshott, Keynes Hayek, 242.
 
-[83]: ​Richard Nixon, "Address to the Nation Outlining a New Economic Policy: 'The Challenge of Peace'," August 15, 1971.
+[83]: ​Richard Nixon, 'Address to the Nation Outlining a New Economic Policy: 'The Challenge of Peace'', August 15, 1971.
 
-[84]: ​Michael J. Graetz and Olivia Briffault, "A 'Barbarous Relic': The French, Gold, and the Demise of Bretton Woods," in The Bretton Woods Agreements, eds. Naomi Lamoreaux and Ian Shapiro : 121--142.
+[84]: ​Michael J. Graetz and Olivia Briffault, 'A 'Barbarous Relic': The French, Gold, and the Demise of Bretton Woods', in The Bretton Woods Agreements, eds. Naomi Lamoreaux and Ian Shapiro : 121--142.
 
-[85]: Federal Reserve Economic Data, "Consumer Price Index for All Urban Consumers," available via [https://fred.stlouisfed.org/series/CPIAUCSL.]
+[85]: Federal Reserve Economic Data, 'Consumer Price Index for All Urban Consumers', available via [https://fred.stlouisfed.org/series/CPIAUCSL.]
 
-[86]: ​Friedrich A. Hayek, "Can We Still Avoid Inflation?" in The Austrian Theory of the Trade Cycle and Other Essays, ed. Richard M. Ebeling : 101.
+[86]: ​Friedrich A. Hayek, 'Can We Still Avoid Inflation?' in The Austrian Theory of the Trade Cycle and Other Essays, ed. Richard M. Ebeling : 101.
 
 [87]: ​Mark Blaug, Economic Theory in Retrospect, 4th edition , 20--23.
 
 [88]: ​Hayek, Prices and Production, 203.
 
-[89]: ​Hayek, "Can We Still Avoid Inflation?" 108.
+[89]: ​Hayek, 'Can We Still Avoid Inflation?' 108.
 
 [90]: Friedrich A. Hayek, Denationalisation of Money , 89.
 
@@ -1906,11 +1906,11 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [100]: Hayek, The Argument Refined, 134.
 
-[101]: David Chaum, "Security Without Identification: Transaction Systems to Make Big Brother Obsolete," Communications of the ACM 28, no. 10 : 1030--1044.
+[101]: David Chaum, 'Security Without Identification: Transaction Systems to Make Big Brother Obsolete', Communications of the ACM 28, no. 10 : 1030--1044.
 
-[102]: David Chaum, "Achieving Electronic Privacy," Scientific American 267, 2 : 96--101.
+[102]: David Chaum, 'Achieving Electronic Privacy', Scientific American 267, 2 : 96--101.
 
-[103]: David Chaum, "Blind Signatures for Untraceable Payments," Advances in Cryptology: Proceedings of Crypto 82 : 199--203.
+[103]: David Chaum, 'Blind Signatures for Untraceable Payments', Advances in Cryptology: Proceedings of Crypto 82 : 199--203.
 
 [104]: Chaum zou later ook een oplossing voorstellen waarbij dubbel uitgeven de anonimiteit van de dader zou kunnen opheffen, waardoor de noodzaak om elke binnenkomende betaling direct te controleren aan de hand van de bankgegevens enigszins wordt beperkt, aangezien de dader van een dubbele-uitgave aanval kan worden geïdentificeerd.
 
@@ -1918,72 +1918,72 @@ Concluderend stelde hij: "Ik betreur het recente overlijden van Hayek ten zeerst
 
 [106]: Dat gezegd hebbende, zijn er nog enkele andere, mogelijk meer drastische maatregelen die Alice Bank had kunnen nemen. Naast het weigeren om digitale dollars aan Bob uit te geven, had ze ook alle elektronische contante betalingen kunnen blokkeren. Evenzo zou ze bepaalde gebruikers kunnen blokkeren van het accepteren van betalingen; zelfs als betalingen niet kunnen worden getraceerd, kunnen sommige gebruikers nog steeds worden uitgesloten van deelname aan het systeem.
 
-[107]: Er kan worden gesteld dat Chaum een tamelijk losse definitie van "contant geld" gebruikte, aangezien contant geld meestal meer onderscheidende eigenschappen heeft. Chaums vorm van digitaal contant geld bood bijvoorbeeld beperkte overdraagbaarheid van persoon tot persoon—een kenmerk dat fysiek contant geld wel heeft, omdat het vrij kan worden doorgegeven. Niettemin heeft Chaum een vorm van digitaal geld uitgevonden die ten minste een vergelijkbaar niveau van privacy bood als fysiek contant geld, wat zijn hoofddoel was.
+[107]: Er kan worden gesteld dat Chaum een tamelijk losse definitie van 'contant geld' gebruikte, aangezien contant geld meestal meer onderscheidende eigenschappen heeft. Chaums vorm van digitaal contant geld bood bijvoorbeeld beperkte overdraagbaarheid van persoon tot persoon—een kenmerk dat fysiek contant geld wel heeft, omdat het vrij kan worden doorgegeven. Niettemin heeft Chaum een vorm van digitaal geld uitgevonden die ten minste een vergelijkbaar niveau van privacy bood als fysiek contant geld, wat zijn hoofddoel was.
 
-[108]: David Chaum, "Security Without Identification."
+[108]: David Chaum, 'Security Without Identification'.
 
-[109]: Uiteindelijk werd het tolproject niet aangenomen: het idee bleek te controversieel in Nederland. De technologie zou echter later worden gelicentieerd onder de naam "DyniCash" aan een in Dallas gevestigde onderneming die gespecialiseerd was in communicatie op microgolf-frequenties voor treinen.
+[109]: Uiteindelijk werd het tolproject niet aangenomen: het idee bleek te controversieel in Nederland. De technologie zou echter later worden gelicentieerd onder de naam 'DyniCash' aan een in Dallas gevestigde onderneming die gespecialiseerd was in communicatie op microgolf-frequenties voor treinen.
 
-[110]: Peter H. Lewis, "Attention Internet Shoppers: E-Cash Is Here," The New York Times, October 19, 1994, [https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html.]
+[110]: Peter H. Lewis, 'Attention Internet Shoppers: E-Cash Is Here', The New York Times, October 19, 1994, [https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html.]
 
-[111]: DigiCash, "Bank Austria and Den norske Bank to Issue ecash™ the Electronic Cash for the Internet," DigiCash, April 14, 1997, geraadpleegd via [https://web.archive.org/web/19970605025912/http://www.digicash.com:80/publish/ec_pres8.html.]
+[111]: DigiCash, 'Bank Austria and Den norske Bank to Issue ecash™ the Electronic Cash for the Internet', DigiCash, April 14, 1997, geraadpleegd via [https://web.archive.org/web/19970605025912/http://www.digicash.com:80/publish/ec_pres8.html.]
 
-[112]: DigiCash, "Advance Bank First to Provide DigiCash's ecash™ System in Australia," DigiCash, October, 1996, geraadpleegd via [https://web.archive.org/web/19961102121407/https://www.digicash.com/publish/ec_pres6.html.]
+[112]: DigiCash, 'Advance Bank First to Provide DigiCash's ecash™ System in Australia', DigiCash, October, 1996, geraadpleegd via [https://web.archive.org/web/19961102121407/https://www.digicash.com/publish/ec_pres6.html.]
 
-[113]: DigiCash, "DigiCash's Ecash™ to be Issued by Deutsche Bank," DigiCash, May 7, 1996, geraadpleegd via [https://web.archive.org/web/19961102121355/https://www.digicash.com/publish/ec_pres5.html.]
+[113]: DigiCash, 'DigiCash's Ecash™ to be Issued by Deutsche Bank', DigiCash, May 7, 1996, geraadpleegd via [https://web.archive.org/web/19961102121355/https://www.digicash.com/publish/ec_pres5.html.]
 
-[114]: Jeffrey Kutler, "Credit Suisse, Digicash in E-Commerce Test," American Banker, June 16, 1998, [https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test.]
+[114]: Jeffrey Kutler, 'Credit Suisse, Digicash in E-Commerce Test', American Banker, June 16, 1998, [https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test.]
 
-[115]: Next! Magazine "Hoe DigiCash alles verknalde," Next!, January 1999, geraadpleegd via [https://web.archive.org/web/19990427142412/https://www.nextmagazine.nl/ecash.htm.]
+[115]: Next! Magazine 'Hoe DigiCash alles verknalde', Next!, January 1999, geraadpleegd via [https://web.archive.org/web/19990427142412/https://www.nextmagazine.nl/ecash.htm.]
 
-[116]: American Banker, "Digicash Sends Signal by Hiring Visa Veteran," American Banker, May 6, 1997, [https://www.americanbanker.com/news/digicash-sends-signal-by-hiring-visa-veteran.]
+[116]: American Banker, 'Digicash Sends Signal by Hiring Visa Veteran', American Banker, May 6, 1997, [https://www.americanbanker.com/news/digicash-sends-signal-by-hiring-visa-veteran.]
 
-[117]: Julie Pitta, "Requiem for a Bright Idea," Forbes, November 1, 1999, [https://www.forbes.com/forbes/1999/1101/6411390a.html.]
+[117]: Julie Pitta, 'Requiem for a Bright Idea', Forbes, November 1, 1999, [https://www.forbes.com/forbes/1999/1101/6411390a.html.]
 
-[118]: Hash-functies werden voor het eerst voorgesteld door de wiskundige George B. Purdy van de University of Illinois at Urbana-Champaign in zijn artikel "A High Security Log-in Procedure," Communications of the ACM 17, no. 8: 442--445.
+[118]: Hash-functies werden voor het eerst voorgesteld door de wiskundige George B. Purdy van de University of Illinois at Urbana-Champaign in zijn artikel 'A High Security Log-in Procedure', Communications of the ACM 17, no. 8: 442--445.
 
-[119]: Scott Stornetta, "The Missing Link between Satoshi & Bitcoin: Cypherpunk Scott Stornetta," interview by Naomi Brockwell, NBTV, with Naomi Brockwell, YouTube, September 6, 2018, [https://youtu.be/fYr-keVOQ18.]
+[119]: Scott Stornetta, 'The Missing Link between Satoshi & Bitcoin: Cypherpunk Scott Stornetta', interview by Naomi Brockwell, NBTV, with Naomi Brockwell, YouTube, September 6, 2018, [https://youtu.be/fYr-keVOQ18.]
 
-[120]: Stuart Haber and Scott W. Stornetta, "How to Time-Stamp a Digital Document," Journal of Cryptology 3 : 99--111.
+[120]: Stuart Haber and Scott W. Stornetta, 'How to Time-Stamp a Digital Document', Journal of Cryptology 3 : 99--111.
 
-[121]: Ralph C. Merkle, "A Certified Signature," Advances in Cryptology---CRYPTO '89: Proceedings : 218--238.
+[121]: Ralph C. Merkle, 'A Certified Signature', Advances in Cryptology---CRYPTO '89: Proceedings : 218--238.
 
-[122]: Dave Bayer, Stuart Haber and Scott W. Stornetta, "Improving the Efficiency and Reliability of Digital Time-Stamping," Conference Paper, Sequences II: Methods in Communication, Security, and Computer Science : 329--34.
+[122]: Dave Bayer, Stuart Haber and Scott W. Stornetta, 'Improving the Efficiency and Reliability of Digital Time-Stamping', Conference Paper, Sequences II: Methods in Communication, Security, and Computer Science : 329--34.
 
-[123]: Stuart Haber and Scott W. Stornetta, "Secure Names for Bit-strings," CCS '97: Proceedings of the 4th ACM Conference on Computer and Communications Security, : 28--35.
+[123]: Stuart Haber and Scott W. Stornetta, 'Secure Names for Bit-strings', CCS '97: Proceedings of the 4th ACM Conference on Computer and Communications Security, : 28--35.
 
-[124]: Ed Regis, "Meet the Extropians," Wired, October 1, 1994, [https://www.wired.com/1994/10/extropians/.]
+[124]: Ed Regis, 'Meet the Extropians', Wired, October 1, 1994, [https://www.wired.com/1994/10/extropians/.]
 
-[125]: Douglas Martin, "Futurist Known as FM-2030 Is Dead at 69," The New York Times, July 11, 2000, [https://www.nytimes.com/2000/07/11/us/futurist-known-as-fm-2030-is-dead-at-69.html.]
+[125]: Douglas Martin, 'Futurist Known as FM-2030 Is Dead at 69', The New York Times, July 11, 2000, [https://www.nytimes.com/2000/07/11/us/futurist-known-as-fm-2030-is-dead-at-69.html.]
 
 [126]: K. Eric Drexler, Engines of Creation , 146.
 
-[127]: Max More, "Transhumanism: Towards a Futurist Philosophy," maxmore.com, geraadpleegd via [https://web.archive.org/web/20051029125153/http://www.maxmore.com/transhum.htm.]
+[127]: Max More, 'Transhumanism: Towards a Futurist Philosophy', maxmore.com, geraadpleegd via [https://web.archive.org/web/20051029125153/http://www.maxmore.com/transhum.htm.]
 
-[128]: Max More, "The Extropian Principles: A Transhumanist Declaration," maxmore.com, geraadpleegd via [https://web.archive.org/web/20090130143449/https://www.maxmore.com/extprn3.htm.]
+[128]: Max More, 'The Extropian Principles: A Transhumanist Declaration', maxmore.com, geraadpleegd via [https://web.archive.org/web/20090130143449/https://www.maxmore.com/extprn3.htm.]
 
 [129]: De Amerikaanse Food and Drug Administration was een bijzonder restrictief voorbeeld; de federale instelling maakte het knutselen aan en uitproberen van nieuwe soorten medicijnen en geneeskunde zo goed als onmogelijk.
 
-[130]: More, "Extropian Principles."
+[130]: More, 'Extropian Principles'.
 
 [131]: Een groot deel van deze sectie is gebaseerd op Finn Brunton's Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists Who Built Cryptocurrency, 118--134.
 
-[132]: Max More, "Transhumanism."
+[132]: Max More, 'Transhumanism'.
 
-[133]: Don Lavoie, Howard Baetjer, and William Tulloh, "High-Tech Hayekians: Some Possible Research Topics in the Economics of Computation," Market Process 8 : 119--146.
+[133]: Don Lavoie, Howard Baetjer, and William Tulloh, 'High-Tech Hayekians: Some Possible Research Topics in the Economics of Computation', Market Process 8 : 119--146.
 
-[134]: E.g., Phil Salin, "Costs and Computers," Release 1.0 : 5--18; Phil Salin, "The Ecology of Decisions, or 'An Inquiry into the Nature and Causes of the Wealth of Kitchens'," Market Process 8 : 91--114.
+[134]: E.g., Phil Salin, 'Costs and Computers', Release 1.0 : 5--18; Phil Salin, 'The Ecology of Decisions, or 'An Inquiry into the Nature and Causes of the Wealth of Kitchens'', Market Process 8 : 91--114.
 
 [135]: Faciliteiten omvatten Alcor en het Cryonics Institute, Kriorus, Tomorrow Bio en Yinfeng Biological Group.
 
-[136]: Hal Finney, "Protecting Privacy with Electronic Cash," Extropy 10 : 14.
+[136]: Hal Finney, 'Protecting Privacy with Electronic Cash', Extropy 10 : 14.
 
-[137]: Mark Grant, "Introduction to Digital Cash," Extropy 15 : 15.
+[137]: Mark Grant, 'Introduction to Digital Cash', Extropy 15 : 15.
 
-[138]: Eric Watt Forste, "The Theory of Free Banking ," Extropy 15 : 53.
+[138]: Eric Watt Forste, 'The Theory of Free Banking ', Extropy 15 : 53.
 
-[139]: Lawrence H. White, "Thoughts on the Economics of 'Digital Currency'." Extropy 15 : 18.
+[139]: Lawrence H. White, 'Thoughts on the Economics of 'Digital Currency''. Extropy 15 : 18.
 
-[140]: Max More, "Hayek's Denationalisation of Money," Extropy 15 : 20.
+[140]: Max More, 'Hayek's Denationalisation of Money', Extropy 15 : 20.
 
-[141]: More, "Hayek's Denationalisation of Money," 20.
+[141]: More, 'Hayek's Denationalisation of Money', 20.

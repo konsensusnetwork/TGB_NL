@@ -514,7 +514,7 @@ Geld lijkt dus vrij waardeloos. Desondanks wordt geld algemeen geaccepteerd als 
 
 Deze schijnbare tegenstrijdigheid was in het begin van de twintigste eeuw al aangepakt door Hayeks mentor aan de Universiteit van Wenen, Ludwig von Mises.[^54] De uitleg van Mises, het regressie-theorema genoemd, accepteert dat mensen daadwerkelijk geen geld willen. Ze willen wat geld kan kopen. Ze verlangen naar koopkracht.
 
-Mises redeneerde dat de verwachte koopkracht van geld afgeleid is van eerdere prestaties. Als € 10 je gisteren in een restaurant een lunch kon kopen, zullen mensen aannemen dat ze er morgen ook een lunch voor kunnen kopen. En de reden dat € 10 hen gisteren een lunch kon bieden, is dat de restauranteigenaar wist dat hij daarmee de dag daarvoor tien broden kon kopen bij de bakkerij, en waarschijnlijk dus ook de dag erna. De bakker accepteerde op zijn beurt € 10 in ruil voor zijn brood, want daarmee kon hij de dag ervoor een pond meel kopen bij de lokale molenaar ... en zo verder.
+Mises redeneerde dat de verwachte koopkracht van geld afgeleid is van eerdere prestaties. Als € 10 je gisteren in een restaurant een lunch kon kopen, zullen mensen aannemen dat ze er morgen ook een lunch voor kunnen kopen. En de reden dat € 10 hen gisteren een lunch kon bieden, is dat de restauranteigenaar wist dat hij daarmee de dag daarvoor tien broden kon kopen bij de bakkerij, en waarschijnlijk dus ook de dag erna. De bakker accepteerde op zijn beurt € 10 in ruil voor zijn brood, want daarmee kon hij de dag ervoor een pond meel kopen bij de lokale molenaar... en zo verder.
 
 Maar dit laat uiteraard nog steeds een belangrijk deel van de tegenstrijdigheid onopgelost: wanneer begonnen mensen *voor het eerst* geld te accepteren en, vooral, waarom? Als we ver genoeg terug in de tijd gaan -- regressie --, moet er ooit iemand de eerste zijn geweest die geld begon te accepteren, zonder enige vorige ervaring om op te vertrouwen bij het inschatten van toekomstige koopkrachtverwachtingen.
 
@@ -926,7 +926,7 @@ Chaum zag het potentieel van de publieke sleutelcryptografie natuurlijk ook, omd
 
 Net zoals Diffie dat voor hem deed, herkende Chaum ook dat deze transformatie naar een tamelijk dystopische toekomst kon leiden. Hij begreep dat als berichten, documenten of bestanden over het internet werden verzonden, al deze data het risico liep om op een nooit eerder geziene schaal gemonitord, onderschept en geëxploiteerd te worden door tirannen. Chaum maakte zich zorgen dat mensen zich anders gaan gedragen als ze geloven dat ze mogelijk bekeken worden. Massasurveillance zou een gevangenis voor de geest creëren, conformiteit bevorderen, en uiteindelijk fundamentele vrijheden vernietigen, aldus Chaum.
 
-'De cyberruimte kent niet dezelfde fysieke beperkingen', legde Chaum later uit aan een journalist van het technologiemagazine *Wired*. 'Er zijn geen muren ... het is een andere, angstaanjagende, vreemde plek en met identificatie wordt het een nachtmerrie van panoptisch toezicht. Juist? Alles wat je doet kan door iedereen gekend zijn, kan voor altijd worden opgenomen. Het is volkomen tegenstrijdig met het basisprincipe dat ten grondslag ligt aan de mechanismen van de democratie'.[77]
+'De cyberruimte kent niet dezelfde fysieke beperkingen', legde Chaum later uit aan een journalist van het technologiemagazine *Wired*. 'Er zijn geen muren... het is een andere, angstaanjagende, vreemde plek en met identificatie wordt het een nachtmerrie van panoptisch toezicht. Juist? Alles wat je doet kan door iedereen gekend zijn, kan voor altijd worden opgenomen. Het is volkomen tegenstrijdig met het basisprincipe dat ten grondslag ligt aan de mechanismen van de democratie'.[77]
 
 Maar hij zag dat er nu een alternatief was: een andere mogelijke toekomst. Chaum besefte dat de gloednieuwe ontwikkelingen in de cryptografie konden worden ingezet als verdediging. De maatschappij stond op een kruispunt, en innovaties zoals publieke sleutelcryptografie boden hoop voor een wereld waarin mensen de macht hadden over hun eigen data.
 
@@ -1702,11 +1702,11 @@ Via zijn artikel in het tijdschrift, riep de grondlegger van de beweging op om t
 
 'Concurrerende valuta's zullen het huidige systeem aftroeven door inflatie te beheersen, de stabiliteit van dynamische markteconomieën te maximaliseren, de omvang van de overheid te beperken en door de absurditeit van de natiestaat te erkennen', schreef More. 'Deze hervorming combineren met de introductie van anoniem digitaal geld zou een mokerslag zijn voor de bestaande orde --- digitaal geld maakt het moeilijker voor overheden om transacties te controleren en te belasten'.
 
-Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerste. [. . .] Omdat hij niet in biostase is geplaatst, zal Hayek nooit de dagen van elektronisch geld en concurrerende privévaluta's meemaken die zijn denken mogelijk zal helpen realiseren. Als we het voortouw willen blijven nemen in de toekomst, laten we dan kijken wat we kunnen doen om deze cruciale ontwikkelingen te versnellen. Wie weet zien we ooit nog een privévaluta die zijn naam draagt'.[^141]
+Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerste. [...] Omdat hij niet in biostase is geplaatst, zal Hayek nooit de dagen van elektronisch geld en concurrerende privévaluta's meemaken die zijn denken mogelijk zal helpen realiseren. Als we het voortouw willen blijven nemen in de toekomst, laten we dan kijken wat we kunnen doen om deze cruciale ontwikkelingen te versnellen. Wie weet zien we ooit nog een privévaluta die zijn naam draagt'.[^141]
 
 # Endnotes
 
-[1]: ​Lawrence H. White, 'The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold', Cato Journal, 34, No. 2 : 281--301.
+[1]: ​Lawrence H. White, 'The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold', Cato Journal, 34, No. 2: 281--301.
 
 [2]: Huis van Afgevaardigden, 'Deleting Commercial Pornography Sites From the Internet: The U.S. Financial Industry's Efforts to Combat This Problem', Hearing Before the Subcommittee on Oversight and Investigations of the Committee on Energy and Commerce, One Hundred Ninth Congress, Second Session, September 21, 2006, [https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm.]
 
@@ -1720,11 +1720,11 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [7]: ​e-gold 'Transcript of sentence before the honorable Rosemarie M. Collyer United States District Judge', 114, November 20, 2008, <https://legalupdate.e-gold.com/2008/11/transcript-of-sentence-before-the-honorable-rosemarie-m-collyer-united-states-district-judge.html>
 
-[8]: ​Deirdre N. McCloskey, How to be Human... ...ough an Economist , 33.
+[8]: ​Deirdre N. McCloskey, How to be Human......ough an Economist , 33.
 
 [9]: ​Lawrence H. Officer, 'Exchange Rates Between the United States Dollar and Forty-one Currencies', MeasuringWorth, 2023.
 
-[10]: ​Eamonn Butler, Hayek: His Contribution to the Political and Economic Thought of Our Time .
+[10]: ​Eamonn Butler, Hayek: His Contribution to the Political and Economic Thought of Our Time.
 
 [11]: ​Bruce Caldwell and Hansjoerg Klausinger, Hayek: A Life, 1899--1950 , Chs. 6--9.
 
@@ -1734,19 +1734,19 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [14]: ​Ludwig von Mises, Human Action: A Treatise on Economics, The Scholar's Edition , 21, 38--54.
 
-[15]: ​Carl Menger, Untersuchungen über die Methode der Sozialwissenschaften und der Politischen Oekonomie insbesondere .
+[15]: ​Carl Menger, Untersuchungen über die Methode der Sozialwissenschaften und der Politischen Oekonomie insbesondere.
 
 [16]: ​Mises, Historical Setting, 3--19.
 
-[17]: ​Ludwig von Mises, Economic Calculation in the Socialist Commonwealth .
+[17]: ​Ludwig von Mises, Economic Calculation in the Socialist Commonwealth.
 
 [18]: Hoewel dit argument inderdaad is aangevoerd in de context van consumptiegoederen, is een meer precieze verwoording van dit argument—uitgewerkt in latere economische debatten—dat dit vooral van toepassing is op kapitaalgoederen.
 
 [19]: ​Mises, Economic Calculation, 18.
 
-[20]: Friedrich A. Hayek, Prices and Production .
+[20]: Friedrich A. Hayek, Prices and Production.
 
-[21]: Friedrich A. Hayek, 'The Use of Knowledge in Society', American Economic Review. XXXV, No. 4 : 526--27.
+[21]: Friedrich A. Hayek, 'The Use of Knowledge in Society', American Economic Review. XXXV, No. 4: 526--27.
 
 [22]: Als persoon A € 100 bij de bank stort en de bank hiervan € 90 uitleent aan persoon B, zal persoon A nog steeds denken dat hij of zij € 100 heeft, terwijl persoon B € 90 zal hebben, voor een totaal van € 190. Bovendien, als persoon B de € 90 opnieuw bij de bank stort en de bank hiervan € 81 uitleent aan persoon C, zullen drie mensen denken dat ze samen € 271 bezitten. Dit kan zo doorgaan, wat lijkt alsof er steeds meer geld in omloop komt. Dit concept staat bekend als de 'geldmultiplier'. In werkelijkheid kan de geldmultiplier zelfs nog agressiever zijn dan dit conventionele voorbeeld van fractioneel bankieren suggereert, omdat banken geen stortingen hoeven te ontvangen voordat ze leningen kunnen verstrekken; ze kunnen leningen uitgeven door eenvoudigweg krediet te creëren in de bankrekeningen van klanten.
 
@@ -1802,7 +1802,7 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [48]: Om de zware afhankelijkheid van het project van GNU te benadrukken, geven sommigen de voorkeur aan de naam 'GNU/Linux'.
 
-[49]: ​Eric S. Raymond, The Cathedral & The Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary .
+[49]: ​Eric S. Raymond, The Cathedral & The Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary.
 
 [50]: Richard Stallman is ook geen fan van deze terminologie. Als er een term moet worden gebruikt die beide kanten van de kloof omvat, geeft hij de voorkeur aan 'Free/Libre and Open Source Software' omdat dit duidelijker overbrengt dat het 'vrije' deel over 'vrijheid' gaat.
 
@@ -1812,15 +1812,15 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [53]: ​Raymond, The Cathedral & The Bazaar, 52.
 
-[54]: ​Ludwig von Mises, The Theory of Money and Credit, trans. J.E. Batson .
+[54]: ​Ludwig von Mises, The Theory of Money and Credit, trans. J.E. Batson.
 
 [55]: Dit wordt soms beschouwd als 'intrinsieke waarde', een veelgebruikte uitdrukking in de economie om aan te geven dat een goed economische gebruikswaarde heeft los van zijn monetaire rol. Oostenrijkse economen verwerpen echter over het algemeen het idee dat producten überhaupt intrinsieke waarde hebben: waarde is volgens hen altijd subjectief.
 
 [56]: Recenter archeologisch onderzoek, gepubliceerd in David Graeber's Debt: The First 5,000 Years, suggereert dat er nooit een pure ruilhandel-economie is geweest zoals beschreven in de regressietheorie. In plaats daarvan gebruikten de oudste menselijke beschavingen schuld als hun eerste vorm van geld. Schuld werkt echter alleen als valuta in omgevingen met een hoge mate van vertrouwen en op reputatie gebaseerde systemen. In omgevingen met weinig vertrouwen was goud vaak de valuta bij uitstek, en het is heel goed mogelijk dat het edelmetaal deze status in de loop van de tijd verwierf via een proces dat lijkt op wat wordt beschreven in de regressietheorie.
 
-[57]: ​Nicholas Dimsdale, 'British Monetary Policy and the Exchange Rate 1920-1938', Oxford Economic Papers 33, New Series : 307--49.
+[57]: ​Nicholas Dimsdale, 'British Monetary Policy and the Exchange Rate 1920-1938', Oxford Economic Papers 33, New Series: 307--49.
 
-[58]: ​Irving Fisher, The Purchasing Power of Money .
+[58]: ​Irving Fisher, The Purchasing Power of Money.
 
 [59]: ​John Maynard Keynes, A Tract on Monetary Reform , 173.
 
@@ -1834,7 +1834,7 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [64]: ​Keynes, Tract, 164.
 
-[65]: ​Friedrich A. Hayek, 'Monetary Nationalism and International Stability', in The Collected Works of F.A. Hayek, Good Money: part II, ed. Stephen Kresge : 55.
+[65]: ​Friedrich A. Hayek, 'Monetary Nationalism and International Stability', in The Collected Works of F.A. Hayek, Good Money: part II, ed. Stephen Kresge: 55.
 
 [66]: ​Hayek, 'Monetary Nationalism', 55--56.
 
@@ -1844,7 +1844,7 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [69]: ​Hayek, 'Monetary Nationalism', 87.
 
-[70]: ​Nicholas Wapshott, Keynes Hayek: The Clash That Defined Modern Economics : 159.
+[70]: ​Nicholas Wapshott, Keynes Hayek: The Clash That Defined Modern Economics: 159.
 
 [71]: ​Franklin D. Roosevelt, 'Relating to the Hoarding, Export, and Earmarking of Gold Coin, Bullion, or Currency and to Transactions in Foreign Exchange', August 28, 1993, beschikbaar via The American Presidency Project.
 
@@ -1852,19 +1852,19 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [73]: Een groot deel van dit hoofdstuk is gebaseerd op Steven Levy's Crypto: How the Code Rebels Beat the Government -- Saving Privacy in the Digital Age.
 
-[74]: Whitfield Diffie and Martin E. Hellman, 'Multiuser Cryptographic Techniques', AFIPS ...: Proceedings of the June 7-10, 1976, national computer conference and exposition : 109--112.
+[74]: Whitfield Diffie and Martin E. Hellman, 'Multiuser Cryptographic Techniques', AFIPS...: Proceedings of the June 7-10, 1976, national computer conference and exposition: 109--112.
 
 [75]: ​Levy, Crypto, 76.
 
-[76]: ​Whitfield Diffie and Martin E. Hellman, 'New Directions in Cryptography', IEEE Transactions On Information Theory, vol. IT-22, no. 6 : 644.
+[76]: ​Whitfield Diffie and Martin E. Hellman, 'New Directions in Cryptography', IEEE Transactions On Information Theory, vol. IT-22, no. 6: 644.
 
 [77]: Steven Levy, 'E-Money ', Wired, December 1, 1994, [https://www.wired.com/1994/12/emoney/.]
 
-[78]: David Chaum, 'Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms', Communications of the ACM 24, 2 : 84--90.
+[78]: David Chaum, 'Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms', Communications of the ACM 24, 2: 84--90.
 
 [79]: ​Edward S. Mason and Robert E. Asher, The World Bank Since Bretton Woods: The Origins, Policies, Operations and Impact of the International Bank for Reconstruction , 29.
 
-[80]: ​Andrew F. Brimmer, 'Remembering William McChesney Martin Jr'., Federal Reserve Bank of Minneapolis, September 1, 1998, [https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.]
+[80]: ​Andrew F. Brimmer, 'Remembering William McChesney Martin Jr.', Federal Reserve Bank of Minneapolis, September 1, 1998, [https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.]
 
 [81]: ​Wapshott, Keynes Hayek, 242.
 
@@ -1872,11 +1872,11 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [83]: ​Richard Nixon, 'Address to the Nation Outlining a New Economic Policy: 'The Challenge of Peace'', August 15, 1971.
 
-[84]: ​Michael J. Graetz and Olivia Briffault, 'A 'Barbarous Relic': The French, Gold, and the Demise of Bretton Woods', in The Bretton Woods Agreements, eds. Naomi Lamoreaux and Ian Shapiro : 121--142.
+[84]: ​Michael J. Graetz and Olivia Briffault, 'A 'Barbarous Relic': The French, Gold, and the Demise of Bretton Woods', in The Bretton Woods Agreements, eds. Naomi Lamoreaux and Ian Shapiro: 121--142.
 
-[85]: Federal Reserve Economic Data, 'Consumer Price Index for All Urban Consumers', available via [https://fred.stlouisfed.org/series/CPIAUCSL.]
+[85]: Federal Reserve Economic Data, 'Consumer Price Index for All Urban Consumers', beschikbaar via [https://fred.stlouisfed.org/series/CPIAUCSL.]
 
-[86]: ​Friedrich A. Hayek, 'Can We Still Avoid Inflation?' in The Austrian Theory of the Trade Cycle and Other Essays, ed. Richard M. Ebeling : 101.
+[86]: ​Friedrich A. Hayek, 'Can We Still Avoid Inflation?' in The Austrian Theory of the Trade Cycle and Other Essays, ed. Richard M. Ebeling: 101.
 
 [87]: ​Mark Blaug, Economic Theory in Retrospect, 4th edition , 20--23.
 
@@ -1890,7 +1890,7 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [92]: ​Friedrich A. Hayek, Denationalisation of Money: The Argument Refined , 13.
 
-[93]: Opnieuw gepubliceerd in Friedrich A. Hayek, Choice in Currency: A Way to Stop Inflation .
+[93]: Opnieuw gepubliceerd in Friedrich A. Hayek, Choice in Currency: A Way to Stop Inflation.
 
 [94]: ​Hayek, The Argument Refined, 78.
 
@@ -1906,11 +1906,11 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [100]: Hayek, The Argument Refined, 134.
 
-[101]: David Chaum, 'Security Without Identification: Transaction Systems to Make Big Brother Obsolete', Communications of the ACM 28, no. 10 : 1030--1044.
+[101]: David Chaum, 'Security Without Identification: Transaction Systems to Make Big Brother Obsolete', Communications of the ACM 28, no. 10: 1030--1044.
 
-[102]: David Chaum, 'Achieving Electronic Privacy', Scientific American 267, 2 : 96--101.
+[102]: David Chaum, 'Achieving Electronic Privacy', Scientific American 267, 2: 96--101.
 
-[103]: David Chaum, 'Blind Signatures for Untraceable Payments', Advances in Cryptology: Proceedings of Crypto 82 : 199--203.
+[103]: David Chaum, 'Blind Signatures for Untraceable Payments', Advances in Cryptology: Proceedings of Crypto 82: 199--203.
 
 [104]: Chaum zou later ook een oplossing voorstellen waarbij dubbel uitgeven de anonimiteit van de dader zou kunnen opheffen, waardoor de noodzaak om elke binnenkomende betaling direct te controleren aan de hand van de bankgegevens enigszins wordt beperkt, aangezien de dader van een dubbele-uitgave aanval kan worden geïdentificeerd.
 
@@ -1944,13 +1944,13 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [119]: Scott Stornetta, 'The Missing Link between Satoshi & Bitcoin: Cypherpunk Scott Stornetta', interview by Naomi Brockwell, NBTV, with Naomi Brockwell, YouTube, September 6, 2018, [https://youtu.be/fYr-keVOQ18.]
 
-[120]: Stuart Haber and Scott W. Stornetta, 'How to Time-Stamp a Digital Document', Journal of Cryptology 3 : 99--111.
+[120]: Stuart Haber and Scott W. Stornetta, 'How to Time-Stamp a Digital Document', Journal of Cryptology 3: 99--111.
 
-[121]: Ralph C. Merkle, 'A Certified Signature', Advances in Cryptology---CRYPTO '89: Proceedings : 218--238.
+[121]: Ralph C. Merkle, 'A Certified Signature', Advances in Cryptology---CRYPTO '89: Proceedings: 218--238.
 
-[122]: Dave Bayer, Stuart Haber and Scott W. Stornetta, 'Improving the Efficiency and Reliability of Digital Time-Stamping', Conference Paper, Sequences II: Methods in Communication, Security, and Computer Science : 329--34.
+[122]: Dave Bayer, Stuart Haber and Scott W. Stornetta, 'Improving the Efficiency and Reliability of Digital Time-Stamping', Conference Paper, Sequences II: Methods in Communication, Security, and Computer Science: 329--34.
 
-[123]: Stuart Haber and Scott W. Stornetta, 'Secure Names for Bit-strings', CCS '97: Proceedings of the 4th ACM Conference on Computer and Communications Security, : 28--35.
+[123]: Stuart Haber and Scott W. Stornetta, 'Secure Names for Bit-strings', CCS '97: Proceedings of the 4th ACM Conference on Computer and Communications Security,: 28--35.
 
 [124]: Ed Regis, 'Meet the Extropians', Wired, October 1, 1994, [https://www.wired.com/1994/10/extropians/.]
 
@@ -1970,20 +1970,20 @@ Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerst
 
 [132]: Max More, 'Transhumanism'.
 
-[133]: Don Lavoie, Howard Baetjer, and William Tulloh, 'High-Tech Hayekians: Some Possible Research Topics in the Economics of Computation', Market Process 8 : 119--146.
+[133]: Don Lavoie, Howard Baetjer, and William Tulloh, 'High-Tech Hayekians: Some Possible Research Topics in the Economics of Computation', Market Process 8: 119--146.
 
-[134]: E.g., Phil Salin, 'Costs and Computers', Release 1.0 : 5--18; Phil Salin, 'The Ecology of Decisions, or 'An Inquiry into the Nature and Causes of the Wealth of Kitchens'', Market Process 8 : 91--114.
+[134]: E.g., Phil Salin, 'Costs and Computers', Release 1.0: 5--18; Phil Salin, 'The Ecology of Decisions, or 'An Inquiry into the Nature and Causes of the Wealth of Kitchens'', Market Process 8: 91--114.
 
 [135]: Faciliteiten omvatten Alcor en het Cryonics Institute, Kriorus, Tomorrow Bio en Yinfeng Biological Group.
 
-[136]: Hal Finney, 'Protecting Privacy with Electronic Cash', Extropy 10 : 14.
+[136]: Hal Finney, 'Protecting Privacy with Electronic Cash', Extropy 10: 14.
 
-[137]: Mark Grant, 'Introduction to Digital Cash', Extropy 15 : 15.
+[137]: Mark Grant, 'Introduction to Digital Cash', Extropy 15: 15.
 
-[138]: Eric Watt Forste, 'The Theory of Free Banking ', Extropy 15 : 53.
+[138]: Eric Watt Forste, 'The Theory of Free Banking ', Extropy 15: 53.
 
-[139]: Lawrence H. White, 'Thoughts on the Economics of 'Digital Currency''. Extropy 15 : 18.
+[139]: Lawrence H. White, 'Thoughts on the Economics of 'Digital Currency''. Extropy 15: 18.
 
-[140]: Max More, 'Hayek's Denationalisation of Money', Extropy 15 : 20.
+[140]: Max More, 'Hayek's Denationalisation of Money', Extropy 15: 20.
 
 [141]: More, 'Hayek's Denationalisation of Money', 20.

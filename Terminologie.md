@@ -65,3 +65,5 @@ supervised release = voorwaardelijke vrijlating
 supply chain = toeleveringsketen
 unbacked = niet-ondersteunde
 withdrawal requests = opnameverzoeken
+proof of concept = proof-of-concept
+time-stamping system = tijdregistratiesysteem

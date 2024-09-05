@@ -1470,7 +1470,7 @@ Inderdaad, als iemand zou proberen een document te antidateren, zou het niet all
 
 De sleutel tot hun succes, was de verdeling van vertrouwen.
 
-## Hoofdstuk 7: De Extropians
+## Hoofdstuk 7: De Extropianen
 
 Friedrich Hayek wilde geld denationaliseren en David Chaum wilde het anoniem maken. Hoewel zowel de econoom als de cryptograaf een revolutionair idee hadden, hadden ze niet helemaal hetzelfde doel voor ogen.
 
@@ -1504,19 +1504,19 @@ Om de nieuwe start te markeren, besloot hij zelfs zijn naam te veranderen: vanaf
 
 Het uitbreiden van menselijk potentieel en specifiek levensverlenging waren nooit echt populaire onderwerpen in Engeland. Maar in Californië ontdekte Max More dat hij niet de enige was met interesse in deze thema's.
 
-Een van Max More's collega's aan de Universiteit van Zuid-Californië (USC) was een in België geboren Iraans-Amerikaanse auteur en leraar. Deze persoon werd geboren als Fereidoun M. Esfandiary, maar stond beter bekend onder de naam "FM-2030". Gedurende de jaren '70 en '80 was hij druk bezig met het populair maken van een radicaal futuristische visie voor de mensheid.
+Een van Max More's collega's aan de Universiteit van Zuid-Californië (USC) was een in België geboren Iraans-Amerikaanse auteur en leraar. Deze persoon werd geboren als Fereidoun M. Esfandiary, maar stond beter bekend onder de naam 'FM-2030'. Gedurende de jaren '70 en '80 was hij druk bezig met het populair maken van een radicaal futuristische visie voor de mensheid.
 
-Geïnspireerd door wereldwijde protestbewegingen in de jaren '60, waar hij mensen uit alle hoeken van de wereld zag opstaan tegen overheidsfraude en sociale onrechtvaardigheid, begon FM-2030 een toekomst voor te stellen waarin de mensheid grenzen zou overstijgen om een universele dialoog te vestigen, vrij van nationaliteit, politiek en erfdeel. Om dit te verwezenlijken, begon hij hightech woningen en levenswijzen te bevorderen, zodat mensen in een onderling verbonden mondiale gemeenschap kunnen leven.
+Geïnspireerd door wereldwijde protestbewegingen in de jaren '60, waar hij mensen uit alle hoeken van de wereld zag opstaan tegen overheidsfraude en sociale onrechtvaardigheid, begon FM-2030 zich een toekomst voor te stellen waarin de mensheid grenzen zou overstijgen om een universele dialoog te vestigen, vrij van nationaliteit, politiek en erfdeel. Om dit te verwezenlijken, begon hij hightech woningen en levenswijzen te bevorderen, zodat mensen in een onderling verbonden mondiale gemeenschap kunnen leven.
 
-Bovendien, zo voorspelde FM-2030, zou de ontwikkeling van nieuwe technologieën ingenieurs de instrumenten geven om de wereld dramatisch ten goede te veranderen. Hij geloofde dat eventuele risico's verbonden aan technologische innovatie gecompenseerd zouden worden door de voordelen van vooruitgang: zonne- en atoomenergie zouden zorgen voor een overvloed aan energie, mensen zouden Mars koloniseren, robotwerkers zouden de vrije tijd verhogen, en mensen zouden in staat zijn om vanuit het comfort van hun eigen huizen hun brood te verdienen dankzij de komst van telewerken.
+Bovendien, zo voorspelde FM-2030, zou de ontwikkeling van nieuwe technologieën ingenieurs de instrumenten geven om de wereld dramatisch ten goede te veranderen. Hij geloofde dat eventuele risico's verbonden aan technologische innovatie gecompenseerd zouden worden door de voordelen van vooruitgang: zonne- en atoomenergie zouden zorgen voor een overvloed aan energie, mensen zouden Mars koloniseren, robotwerkers zouden onze vrije tijd verhogen, en mensen zouden in staat zijn om vanuit het comfort van hun eigen huizen hun brood te verdienen dankzij de komst van telewerken.
 
-Nog interessanter is dat FM-2030 voorspelde dat technologie binnenkort het punt zou bereiken waar het mensen zelf drastisch zou kunnen verbeteren. Gezondheidsnormen zouden aanzienlijk verbeteren aangezien meer ziekten genezen konden worden en genetische fouten gecorrigeerd; toekomstige farmaceutica zou het menselijk potentieel kunnen verhogen door bijvoorbeeld de hersenactiviteit te verbeteren.
+Nog interessanter is dat FM-2030 voorspelde dat technologie binnenkort het punt zou bereiken dat het mensen zelf drastisch zou kunnen verbeteren. Gezondheidszorg zouden aanzienlijk verbeteren aangezien meer ziekten genezen, en genetische fouten gecorrigeerd konden worden: toekomstige farmaceutica zou het menselijk potentieel kunnen verhogen door bijvoorbeeld de hersenactiviteit te verbeteren.
 
-Uiteindelijk verwachtte hij dat de medische wetenschap zelfs in staat zou zijn het ouder worden te "genezen", en dus dat eindige menselijke levensduur geen probleem meer zou zijn. Volgens FM-2030 zou de mensheid rond zijn honderdste verjaardag in het jaar 2030 de dood overwinnen; het getal in zijn naam verwijst naar dit idee. ("FM" stond dan weer voor verschillende benamingen zoals Future Man, Future Marvel, of Future Modular---en soms iets anders, afhankelijk van zijn stemming of wie het hem vroeg.)
+Uiteindelijk verwachtte hij dat de medische wetenschap zelfs in staat zou zijn het ouder worden te 'genezen', en dus dat eindige menselijke levensduur geen probleem meer zou zijn. Volgens FM-2030 zou de mensheid rond zijn honderdste verjaardag in het jaar 2030 de dood overwinnen. Het getal in zijn naam verwijst naar dit idee ('FM' stond dan weer voor verschillende benamingen zoals *Future Man*, *Future Marvel*, of *Future Modular* --- en soms iets anders, afhankelijk van zijn stemming of wie het hem vroeg).
 
-Omdat traditionele beperkingen op het menselijk potentieel, zoals eindige levensduur, zouden worden weggenomen terwijl bionische lichaamsdelen en andere kunstmatige verbeteringen steeds meer nieuwe mogelijkheden zouden ontgrendelen, voorspelde FM-2030 dat mensen uiteindelijk het meest radicaal zouden transformeren en zichzelf zouden omvormen tot synthetische post-biologische organismen.
+Omdat traditionele beperkingen op het menselijk potentieel, zoals eindige levensduur, zouden worden weggenomen terwijl bionische lichaamsdelen en andere kunstmatige verbeteringen steeds meer nieuwe mogelijkheden zouden ontgrendelen, voorspelde FM-2030 dat mensen uiteindelijk het meest radicaal zouden transformeren en zichzelf zouden omvormen tot synthetische, post-biologische organismen.
 
-"Het is slechts een kwestie van tijd voordat we onze lichamen herschikken tot iets totaal anders, iets dat beter is aangepast aan de ruimte, iets dat levensvatbaar zal zijn in ons zonnestelsel en zelfs daarbuiten."[^125]
+'Het is slechts een kwestie van tijd voordat we onze lichamen herschikken tot iets totaal anders, iets dat beter is aangepast aan de ruimte, iets dat levensvatbaar zal zijn in ons zonnestelsel en zelfs daarbuiten.'[^125]
 
 ### Transhumanisme
 

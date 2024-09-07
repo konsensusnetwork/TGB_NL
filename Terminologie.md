@@ -82,4 +82,5 @@ Bay area = Bay area
 hands-on = hands-on
 leading by example = het voortouw nemen door voobeeld
 heat ray screens = warmtestralingsschermen
+key escrow = sleutelbewaring
 

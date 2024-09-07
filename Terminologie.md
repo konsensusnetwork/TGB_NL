@@ -36,6 +36,7 @@ gold exchange standard = goudwisselstandaard
 gold exchange standard = goudwisselstandaard
 hacker community = hacker-gemeenschap
 hacker culture = hacker-cultuur
+hacker ethics = hacker-ethiek
 hash-chain = hash-keten
 home arrrest = huisarrest
 incentive = stimulans
@@ -77,3 +78,8 @@ unbacked = niet-ondersteunde
 withdrawal requests = opnameverzoeken
 payment processors = betalingsverwekers
 heat rays = hittegolven
+Bay area = Bay area
+hands-on = hands-on
+leading by example = het voortouw nemen door voobeeld
+heat ray screens = warmtestralingsschermen
+

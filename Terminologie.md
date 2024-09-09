@@ -83,4 +83,13 @@ hands-on = hands-on
 leading by example = het voortouw nemen door voobeeld
 heat ray screens = warmtestralingsschermen
 key escrow = sleutelbewaring
-
+junk mail = junkmail
+distributed computing = gedistribueerde berekening
+identity escrow = escrow van identiteit
+Cypherpunk mailinglist = Cypherpunk mailinglijst
+the problem of postage = het postzegelprobleem
+email clients = e-mailclients
+processing power = rekenkracht
+postage = postzegel
+postage = porto
+postage solution = postzegel-oplossing

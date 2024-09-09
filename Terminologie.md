@@ -98,3 +98,7 @@ time-stamping system = tijdregistratiesysteem
 trust-free system = systeem zonder vertrouwen
 unbacked = niet-ondersteunde
 withdrawal requests = opnameverzoeken
+Cypherpunk movement = Cypherpunkbeweging
+resources = hulpbronnen
+resources = middelen
+precivilized = pre-civiele

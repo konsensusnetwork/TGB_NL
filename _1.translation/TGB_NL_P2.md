@@ -765,59 +765,59 @@ Szabo stelde nogmaals dat mogelijke oplossingen misschien wel te vinden zijn in 
 
 ### Vrij bankieren
 
-Net als Chaum waren de meeste Cypherpunks vooral geïnteresseerd in elektronisch geld vanwege de mogelijkheden tot privacy die het kon bieden. Maar Szabo, May, en enkele andere Cypherpunks die zich bij de beweging hadden aangesloten vanuit de Extropian community, waren ook gedreven door monetaire hervorming. Ze waren voornamelijk geïnteresseerd in de ideeën van Hayek over vrij bankieren, zoals ook beschreven door Max More in de digitale geldeditie van Extropy.
+Net als Chaum waren de meeste Cypherpunks vooral geïnteresseerd in elektronisch geld vanwege de mogelijkheden tot privacy die het kon bieden. Maar Szabo, May, en enkele andere Cypherpunks die zich bij de beweging hadden aangesloten vanuit de *Extropian*-community, waren ook gedreven door monetaire hervorming. Ze waren voornamelijk geïnteresseerd in de ideeën van Hayek over vrij bankieren, zoals ook beschreven door Max More in de digitale geldeditie van *Extropy*.
 
-Bovendien had Szabo het werk van George Selgin bestudeerd - wiens boek "The Theory of Free Banking" in datzelfde tijdschrift was besproken - en dat van Selgin's collega Lawrence H. White, die zelf een artikel aan het tijdschrift had bijgedragen. Met Hayek die net voor de oprichting van de Cypherpunk beweging overleed, dacht Szabo dat de medeoprichters van de door Hayek geïnspireerde moderne school voor vrij bankieren wellicht konden helpen bij het informeren over het ontwerp van een elektronisch geldsysteem.
+Bovendien had Szabo het werk van George Selgin bestudeerd, wiens boek "The Theory of Free Banking" in datzelfde tijdschrift was besproken, en dat van Selgin's collega Lawrence H. White, die zelf een artikel aan het tijdschrift had bijgedragen. Aangezien Hayek net voor de oprichting van de Cypherpunkbeweging overleed, dacht Szabo dat de medeoprichters van de door Hayek geïnspireerde moderne school voor vrij bankieren wellicht konden helpen bij het ontwerp van een elektronisch geldsysteem.
 
-Ergens midden jaren '90 besloot hij een nieuwe, meer themagerichte mailinglijst te maken: de Libtech-lijst. Hier zouden vrije bankiers als Selgin en White, evenals geïnteresseerde Extropianen en Cypherpunks, gerichte discussies voeren over bankieren, monetaire economie en het allerbelangrijkste - de ontwerpen voor digitale valuta.[^206]
+Ergens midden jaren '90 besloot hij een nieuwe, meer themagerichte mailinglijst te maken: de Libtech-lijst. Hier zouden vrije bankiers als Selgin en White, evenals geïnteresseerde Extropianen en Cypherpunks, gerichte discussies voeren over bankieren, monetaire economie en het allerbelangrijkste: de ontwerpen voor digitale valuta.[^206]
 
-Toen twee zeer verschillende werelden elkaar ontmoetten op de Libtech lijst, keek Szabo met een frisse blik naar de inzichten uit de Oostenrijkse economie, door zijn eigen ervaring als computerwetenschapper. Dit stelde hem in staat nog duidelijker dan voorheen de gebreken van fiat-geld te zien. Waar Hayek uitvoerig had gewaarschuwd voor de mankementen van centrale banken, zag Szabo in dat dit uiteindelijk te wijten was aan een fundamenteel ontwerpfout aan het huidige monetaire systeem.
+Toen twee zeer verschillende werelden elkaar ontmoetten op de Libtech lijst, keek Szabo met een frisse blik naar de inzichten uit de Oostenrijkse economie, door zijn eigen ervaring als computerwetenschapper. Dit stelde hem in staat nog duidelijker dan voorheen de gebreken van fiat-geld te zien. Waar Hayek uitvoerig had gewaarschuwd voor de mankementen van centrale banken, zag Szabo in dat dit uiteindelijk te wijten was aan een fundamentele ontwerpfout van het huidige monetaire systeem.
 
-Centrale banken waren TTP's.
+*Centrale banken waren vertrouwde derde partijen.*
 
-"Het probleem, kort gezegd, is dat ons geld momenteel afhankelijk is van het vertrouwen in een derde partij voor zijn waarde", betoogde Szabo later. "Zoals vele inflatoire en hyperinflatoire episodes in de 20e eeuw hebben aangetoond, is dit geen ideale situatie."
+"Het probleem, kort gezegd, is dat ons geld voor zijn waarde momenteel afhankelijk is van het vertrouwen in een derde partij", betoogde Szabo later. "Zoals vele inflatoire en hyperinflatoire episodes in de 20e eeuw hebben aangetoond, is dit geen ideale situatie."
 
-Door deze fundamentele zwakte centraal te stellen, bevestigde Szabo op een bepaalde manier Hayek's analyse - althans voor zichzelf.
+Door deze fundamentele zwakte centraal te stellen, bevestigde Szabo op een bepaalde manier Hayek's analyse, althans voor zichzelf.
 
-Maar tegelijkertijd betwistte hij enigszins het monetaire ecosysteem dat Selgin voorspelde dat zou ontstaan in een vrije bankomgeving. Als het probleem van het moderne monetaire systeem was dat iedereen een centrale bank moest vertrouwen, dan zou vrij bankieren gewoon particuliere banken tot de nieuwe vertrouwde derde partijen maken. Zelfs als concurrentie hen eerlijk kon houden, vertegenwoordigden deze TTP's (Trusted Third Parties) een bredere reeks veiligheidsrisico's - variërend van losgeslagen werknemers tot draconische overheden - die marktdynamieken niet noodzakelijkerwijs volledig zouden oplossen.
+Maar tegelijkertijd betwistte hij enigszins het monetaire ecosysteem dat Selgin voorspelde dat zou ontstaan in een vrije bankomgeving. Als het probleem van het moderne monetaire systeem was dat iedereen een centrale bank moest vertrouwen, dan zou vrij bankieren gewoon particuliere banken tot de nieuwe vertrouwde derde partijen maken. Zelfs als concurrentie hen eerlijk kon houden, vertegenwoordigden deze TTP's (Trusted Third Parties) een bredere reeks veiligheidsrisico's, variërend van losgeslagen werknemers tot draconische overheden, die marktdynamieken niet noodzakelijkerwijs volledig zouden oplossen.
 
-Als en wanneer deze nieuwe vertrouwde derde partijen -- de banken -- het vertrouwen van hun klanten zouden schenden, zouden mensen niet simpelweg overstappen naar hun concurrenten, zo voorspelde Szabo. In plaats daarvan zouden mensen opnieuw aandringen op waarborgen van de centrale bank - zo was het moderne monetaire systeem immers in de eerste plaats ontstaan.
+Als en wanneer deze nieuwe vertrouwde derde partijen -- de banken -- het vertrouwen van hun klanten zouden schenden, zouden mensen niet simpelweg overstappen naar hun concurrenten, zo voorspelde Szabo. In plaats daarvan zouden mensen opnieuw aandringen op waarborgen van de centrale bank. Zo was het moderne monetaire systeem immers in de eerste plaats ontstaan.
 
-Voordat vrij bankieren een haalbaar alternatief kon zijn, concludeerde Szabo, moest er vanaf de basis een vorm van elektronisch geld worden ontworpen dat het vertrouwen minimaliseerde. Net zoals eigendomsrechten en contractrecht voor cyberspace vanaf nul opnieuw moesten worden uitgevonden, zou ook een digitale munteenheid moeten worden gecreëerd door te starten vanuit de eerste principes.
+Voordat vrij bankieren een haalbaar alternatief kon zijn, concludeerde Szabo, moest er volledig nieuwe vorm van elektronisch geld worden ontworpen dat het vertrouwen minimaliseerde. Net zoals eigendomsrechten en contractrecht voor cyberspace vanaf nul opnieuw moesten worden uitgevonden, zou ook een digitale munteenheid moeten worden gecreëerd door te starten vanuit basisprincipes.
 
-### De Oorsprong van Geld
+### De oorsprong van geld
 
 Om geld te kunnen creëren, moest Szabo het eerst begrijpen.
 
-De Cypherpunk was natuurlijk niet de eerste die de natuur van geld bestudeerde - hij dacht ook niet dat hij dat was. Hij was goed op de hoogte van de theorieën van Carl Menger en Ludwig von Mises over de oorsprong van geld, en deelde grotendeels hun assessment dat geld is voortgekomen uit ruilhandel. Maar waar Menger en Mises hun stelling hadden ontwikkeld door logica en redeneren, ging Szabo op zoek naar daadwerkelijke historische documenten, en zelfs archeologische resten.
+De Cypherpunk was natuurlijk niet de eerste die de natuur van geld bestudeerde, en hij dacht ook niet dat hij dat was. Hij was goed op de hoogte van de theorieën van Carl Menger en Ludwig von Mises over de oorsprong van geld, en deelde grotendeels hun inschatting dat geld voortkwam uit ruilhandel. Maar waar Menger en Mises hun stelling hadden ontwikkeld door logica en redeneren, ging Szabo op zoek naar daadwerkelijke historische documenten, en zelfs archeologische resten.
 
-De zoektocht van Szabo bracht hem diep in de prehistorie van de mensheid en naar pre-industriële samenlevingen zoals die van de Native Americans. Hij ontdekte dat geld zelfs ouder was dan tekst: vroege vormen van valuta werden al gebruikt door jager-verzamelaarstammen. Dit leidde uiteindelijk tot zijn hypothese dat geld letterlijk zo oud zou kunnen zijn als de mensheid zelf. Zoals eerst gesuggereerd door evolutiebioloog Richard Dawkins in zijn baanbrekende werk The Selfish Gene,[^208] zou het vermogen om geld te gebruiken diep ingebed kunnen zijn in het menselijk DNA en zou het de overleving van de soort ten voordele gekomen kunnen zijn.
+In zijn zoektocht graafde Szabo in de prehistorie van de mensheid en deed hij onderzoek naar pre-industriële samenlevingen zoals die van de *Native Americans*. Hij ontdekte dat geld zelfs ouder was dan tekst: vroege vormen van geld werden al gebruikt door jager-verzamelaarstammen. Dit leidde uiteindelijk tot zijn hypothese dat geld letterlijk zo oud zou kunnen zijn als de mensheid zelf. Zoals eerst gesuggereerd door evolutiebioloog Richard Dawkins in zijn baanbrekende werk *The Selfish Gene*,[^208] zou het vermogen om geld te gebruiken diep ingebed kunnen zijn in het menselijk DNA en zou het de overleving van de soort ten voordele gekomen kunnen zijn.
 
-In zijn latere essay "Shelling Out: The Origins of Money,"[^209] legt Szabo uit hoe.
+In zijn latere essay "Shelling Out: The Origins of Money",[^209] legt Szabo uit hoe.
 
 Een van de grote voordelen van de mensheid in de meedogenloze overlevingsstrijd van moeder natuur, ontdekte Szabo, is dat de meeste leden van de soort bereid en in staat zijn om samen te werken om hun krachten te bundelen of om arbeid te verdelen en zich te specialiseren om vervolgens de opbrengst te delen. Dit is waarschijnlijk altijd zo geweest: prehistorische jagers die succesvol een wild zwijn doodden, zouden het vlees delen met hun stamleden. Hun medestamleden zouden een andere keer de gunst retourneren, misschien door de blauwe bessen of eetbare paddenstoelen te delen die ze de volgende dag verzamelden.
 
-Deze vorm van altruïstisch gedrag zou iedereen kunnen ten goede komen, zolang alle stamleden elkaar kenden en min of meer konden bijhouden wat ieders bijdragen waren. Alle stamleden hadden een publieke reputatie. Omdat profiteurs - degenen die nooit iets bijdroegen aan de stam - uiteindelijk konden worden uitgesloten van de deelrondes of zelfs uit de stam konden worden verbannen, was iedereen sterk gemotiveerd om bij te dragen en hun deel te doen.
+Deze vorm van altruïstisch gedrag zou iedereen kunnen ten goede komen, zolang alle stamleden elkaar kenden en min of meer konden bijhouden wat ieders bijdragen waren. Alle stamleden hadden een publieke reputatie. Omdat profiteurs, degenen die nooit iets bijdroegen aan de stam, uiteindelijk konden worden uitgesloten van de deelrondes of zelfs uit de stam konden worden verbannen, was iedereen sterk gemotiveerd om bij te dragen en hun deel te doen.
 
-Maar dit model zou onhoudbaar worden als een stam (of vaker: een groep stammen) te groot werd. Menselijke hersenen kunnen slechts een beperkt aantal sociale relaties onderhouden (populair bekend als "Dunbar's nummer", wat 150[^210] is), dus het wordt moeilijk om iedereens reputatie bij te houden als er meer mensen dan dit nummer zijn. Als niemand zich kan herinneren wie met de anderen heeft gedeeld en wie niet, breekt het "publieke reputatiesysteem" af, en krijgen profiteurs vrij spel op kosten van iedereen.
+Maar dit model zou onhoudbaar worden als een stam (of vaker: een groep stammen) te groot werd. Menselijke hersenen kunnen slechts een beperkt aantal sociale relaties onderhouden (populair bekend als "Dunbar's nummer", wat 150[^210] is), dus het wordt moeilijk om iedereens reputatie bij te houden als er meer mensen dan dit nummer zijn. Als niemand zich kan herinneren wie met de anderen heeft gedeeld en wie niet, brokkelt het "publieke reputatiesysteem" af, en krijgen profiteurs vrij spel op kosten van iedereen.
 
-Om te voorkomen dat er misbruik van ze wordt gemaakt, zou het zelfs rationeel worden voor elk individu om zelf ook te stoppen met delen en een profiteur te worden - ook al zou iedereen beter af zijn als iedereen zou delen. Met andere woorden, er zou iets van een groot gevangenendilemma[^211] ontstaan.
+Om te voorkomen dat er misbruik van ze wordt gemaakt, zou het zelfs rationeel worden voor elk individu om zelf ook te stoppen met delen en een profiteur te worden, ook al zou iedereen beter af zijn als iedereen zou delen. Met andere woorden, er zou iets van een groot *gevangenendilemma*[^211] ontstaan.
 
-Maar Szabo legde uit dat genen strategieën kunnen coderen om oplossingen te vinden voor uitdagingen in de gametheorie van de echte wereld. Gedurende lange perioden en via natuurlijke selectie zouden de beste eigenschappen - die de overleving van een soort bevorderen - dominant worden.
+Maar Szabo legde uit dat genen strategieën kunnen coderen om oplossingen te vinden voor uitdagingen in de speltheroie van de echte wereld. Gedurende lange perioden en via natuurlijke selectie zouden de beste eigenschappen, die de overleving van een soort bevorderen, dominant worden.
 
 Het gebruik van geld werd door de Cypherpunk als zo'n eigenschap beschouwd.
 
 Voor het grootste deel van de menselijke geschiedenis was dit echter een heel ander soort geld dan wat moderne samenlevingen gebruiken.
 
-Doorheen de eeuwen en over verschillende culturen heen, droegen mensen juwelen, zoals kettingen, iets wat geen enkel ander dier doet. De oppervlakkige uitleg hiervoor is dat mensen simpelweg plezier beleven aan het dragen van dergelijke sieraden. Maar Szabo begreep dat er een fundamenteelere vraag schuilging onder deze simpele verklaring - het soort vraag dat een evolutionair bioloog zou stellen. Waarom hebben mensen zich zo ontwikkeld dat ze plezier beleven aan het dragen van sieraden?
+Doorheen de eeuwen en over verschillende culturen heen, droegen mensen juwelen, zoals kettingen, iets wat geen enkel ander dier doet. De oppervlakkige uitleg hiervoor is dat mensen simpelweg plezier beleven aan het dragen van dergelijke sieraden. Maar Szabo begreep dat er een fundamenteelere vraag schuilging achter deze simpele verklaring, het soort vraag dat een evolutionair bioloog zou stellen. *Waarom* hebben mensen zich zo ontwikkeld dat ze plezier beleven aan het dragen van sieraden?
 
 Net als Dawkins vermoedde Szabo dat mensen in de loop van de eeuwen een voorliefde voor ornamenten hadden ontwikkeld omdat dit een evolutionair voordeel bood: het stelde hen in staat om te coöpereren en middelen te 'delen' op een grotere schaal dan alleen binnen hun eigen stam.
 
-Szabo ontdekte bijvoorbeeld dat halskettingen en andere verzamelobjecten verhandeld werden tussen stammen in ruil voor voedsel, wapens of bruiden. De ornamenten konden later teruggeruild worden of met een andere stam geruild worden voor andere bronnen. In plaats van te onthouden wie wat gedeeld had, diende de sieraden als een soort proto-geld en bevorderden ze wat evolutionaire psychologen wederzijds altruïsme noemen.
+Szabo ontdekte bijvoorbeeld dat halskettingen en andere verzamelobjecten verhandeld werden tussen stammen in ruil voor voedsel, wapens of bruiden. De ornamenten konden later teruggeruild worden of met een andere stam geruild worden voor andere hulpbronnen. In plaats van te onthouden wie wat gedeeld had, dienden de sieraden als een soort proto-geld en bevorderden ze wat evolutionaire psychologen *wederzijds altruïsme* noemen.
 
-Het stelde stammen in staat een mate van samenwerking en specialisatie tussen hen te bevorderen. Verschillende stammen jaagden bijvoorbeeld op verschillende soorten dieren in verschillende delen van het jaar, wat uiteindelijk aan hen allemaal ten goede kwam.
+Het stelde stammen in staat een mate van samenwerking en specialisatie tussen hen te bevorderen. Verschillende stammen jaagden bijvoorbeeld op verschillende soorten dieren in verschillende delen van het jaar, wat hen uiteindelijk allemaal ten goede kwam.
 
-### Proto-Money
+### Proto-geld
 
 Niet zomaar elk sieraad voldeed echter.
 
@@ -827,31 +827,31 @@ Allereerst waren de verzamelobjecten relatief makkelijk te beschermen tegen onop
 
 Ten tweede, de verzamelobjecten vertegenwoordigden een niet-te-vervalsen schaarste. Dat wil zeggen, ze zouden kostenlijk zijn om te maken of moeilijk te vinden: een mammoettand was schaars omdat een mammoet doden niet gemakkelijk is, terwijl struisvogel eieren moeilijk te bemachtigen zijn.
 
-"Op het eerste gezicht lijkt de productie van een product uitsluitend omdat het duur is, volledig verspillend," werkte Szabo later uit in "Shelling Out". "De onvervalsbaar dure grondstof voegt echter voortdurend waarde toe door welvarende overdrachten mogelijk te maken. Steeds meer van de kosten worden terugverdiend bij elke transactie die mogelijk wordt gemaakt of goedkoper wordt gemaakt. De kosten, aanvankelijk volledig verspild, worden omgeslagen over vele transacties."
+"Op het eerste gezicht lijkt de productie van een goed uitsluitend omdat het duur is, volledig verspillend", werkte Szabo later uit in "Shelling Out". "De onvervalsbaar dure grondstof voegt echter voortdurend waarde toe door welvarende overdrachten mogelijk te maken. Steeds meer van de kosten worden terugverdiend bij elke transactie die mogelijk wordt gemaakt of goedkoper wordt gemaakt. De kosten, aanvankelijk volledig verspild, worden omgeslagen over vele transacties."
 
 En ten derde, het was doorgaans vrij eenvoudig om vast te stellen dat het proto-geld inderdaad onvervalsbaar zeldzaam was, door simpelweg observaties of metingen te doen. De zeldzame slakkenhuisjes bijvoorbeeld, zou iedereen in deze stammen eenvoudig herkend hebben, terwijl het namaken ervan onmogelijk zou zijn geweest met de gereedschappen die ze ter beschikking hadden.
 
 Szabo ontdekte dat de oudste vormen van geld meestal makkelijk te beveiligen waren en aantoonbaar moeilijk te verkrijgen.
 
-Moderne fiatvaluta's bezaten volgens velen in wezen geen van de drie kwaliteiten van proto-geld. Ze waren niet bijzonder gemakkelijk te beschermen tegen diefstal, en de meeste mensen deed zelfs geen poging om hun eigen geld te beveiligen, in plaats daarvan vertrouwden ze op derde partijen (banken) voor veilige bewaring. Maar wellicht nog belangrijker: fiatvaluta was niet fundamenteel schaars; regeringen en centrale banken konden naar believen meer drukken, of zelfs meer ervan digitaal maken.
+Moderne fiatvaluta's bezaten volgens velen in wezen geen van de drie kwaliteiten van proto-geld. Ze waren niet bijzonder gemakkelijk te beschermen tegen diefstal, en de meeste mensen deden zelfs geen poging om hun eigen geld te beveiligen, in plaats daarvan vertrouwden ze op derde partijen (banken) voor veilige bewaring. Maar wellicht nog belangrijker: fiatvaluta was niet fundamenteel schaars; regeringen en centrale banken konden naar believen meer geld drukken, of digitaal extra geld aanmaken via een druk op de knop.
 
-Szabo benadrukte dat het drijvende fiatvalutasysteem dat al tientallen jaren de wereldstandaard was, een grote historische uitzondering was. Rekening houdend met de weinige soortgelijke voorbeelden waarvan hij wist - sommige in het dynastieke China, twee in het Frankrijk van de achttiende eeuw en de Confederatie dollar tijdens de Amerikaanse burgeroorlog - verwachtte hij niet dat het nieuwe monetaire experiment zou blijven duren. Hij was ervan overtuigd dat fiatvaluta uiteindelijk zouden ten onder gaan.
+Szabo benadrukte dat het zwevende fiatvalutasysteem dat al tientallen jaren de wereldstandaard was, een grote historische uitzondering was. Rekening houdend met de weinige soortgelijke voorbeelden waarvan hij wist (sommige in het dynastieke China, twee in het Frankrijk van de achttiende eeuw en de Confederatie-dollar tijdens de Amerikaanse burgeroorlog) verwachtte hij niet dat het nieuwe monetaire experiment zou blijven duren. Hij was ervan overtuigd dat fiatvaluta uiteindelijk ten onder zou gaan.
 
 Veel Oostenrijkse economen waren uiteraard tot vergelijkbare conclusies gekomen als Szabo. Degenen die een terugkeer naar de goudstandaard voorstaan, geloven specifiek dat het edelmetaal de beste vorm van geld is, grotendeels vanwege de onvervalsbare schaarste ervan.
 
 Szabo was echter niet overtuigd dat goud de beste vervanging was: hoewel het edelmetaal inderdaad moeilijk te verkrijgen was, was het ook moeilijk te beveiligen.
 
-"Dure metalen en verzamelobjecten hebben een onvervalsbaar tekort vanwege de hoge creatiekosten. Dit gaf geld ooit een waarde die grotendeels onafhankelijk was van een vertrouwde derde partij. Edelmetalen hebben echter problemen. Het is te kostbaar om metalen steeds opnieuw te testen voor gewone transacties. Daarom werd een vertrouwde derde partij (meestal geassocieerd met een belastingontvanger die de munten accepteerde als betaling) gevraagd om een standaard hoeveelheid van het metaal in een munt te stempelen. Het vervoeren van grote hoeveelheden waardevol metaal kan zeer onzeker zijn, zoals de Britten ontdekten toen ze tijdens de Eerste Wereldoorlog goud vervoerden over een door U-boten geïnfecteerde Atlantische Oceaan naar Canada om hun goudstandaard te ondersteunen," schreef Szabo.
+"Dure metalen en verzamelobjecten hebben een onvervalsbare schaarste vanwege de hoge creatiekosten. Dit gaf geld ooit een waarde die grotendeels onafhankelijk was van een vertrouwde derde partij. Edelmetalen hebben echter problemen. Het is te kostbaar om metalen steeds opnieuw te testen voor gewone transacties. Daarom werd een vertrouwde derde partij (meestal geassocieerd met een belastingontvanger die de munten accepteerde als betaling) gevraagd om een standaard hoeveelheid van het metaal in een munt te stempelen. Het vervoeren van grote hoeveelheden waardevol metaal kan zeer onzeker zijn, zoals de Britten ontdekten toen ze tijdens de Eerste Wereldoorlog goud vervoerden over een door U-boten geïnfecteerde Atlantische Oceaan naar Canada om hun goudstandaard te ondersteunen," schreef Szabo.
 
-Het spijt me, maar er lijkt een vergissing te zijn gemaakt bij het verstrekken van gegevens voor de vertaak. U heeft niet aangegeven welke specifieke tekst moet worden vertaald. Kunt u mij de te vertalen tekst geven? Dan kan ik u beter van dienst zijn.
+Hij voegde toe:
 
 "Erger nog, je kunt online niet betalen met metaal."[^212]
 
-De Cypherpunk wilde de wenselijke monetaire eigenschappen van goud reproduceren in een elektronisch geldsysteem - een digitale valuta met onvervalsbaar kostbaarheid.
+De Cypherpunk wilde de wenselijke monetaire eigenschappen van goud reproduceren in een elektronisch geldsysteem --- een digitale valuta met onvervalsbare kostbaarheid.
 
 Toen Adam Back in 1997 hashcash aankondigde, leek dit eindelijk mogelijk te zijn.
 
-### Bit Goud
+### Bit Gold
 
 Minder dan een jaar later, in 1998, had Szabo zijn eigen voorstel voor een digitale munteenheid ontworpen: Bit Gold. Hoewel hij Bit Gold nog niet in code had geïmplementeerd - het was tot dan toe slechts een idee - deelde hij een beschrijving ervan op de Libtech lijst.
 

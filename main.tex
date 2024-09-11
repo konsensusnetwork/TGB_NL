@@ -188,7 +188,7 @@
 \newcommand{\translatorone}{Theo Hague}
 
 \newcommand{\translators}{
-\textbf{Ubersetzung:}\\
+\textbf{Vertaling:}\\
 \translatorone\\
 }
 
@@ -200,17 +200,6 @@
 
 \usepackage{calc}
 \usepackage{hologo}
-
-\makeatletter
-\renewcommand\listoftables{%
-        \@starttoc{lot}%
-}
-\makeatother
-\makeatletter
-\renewcommand\listoffigures{%
-        \@starttoc{lof}%
-}
-\makeatother
 
 
 % PHYSICAL DOCUMENT SETUP
@@ -288,7 +277,7 @@
 
 \renewcommand{\cftchapterpresnum}{HOOFDSTUK~}
 \renewcommand{\cftchapternumwidth}{6em}
-\setlength{\cftsectionindent}{2em}
+\setlength{\cftsectionindent}{8em}
 \setsecnumdepth{chapter}
 
 
@@ -368,33 +357,24 @@
 % Footnotes in blockquoteboxes
 \newcommand{\footautocite}[1]{\footnotetext{\normalfont{\cite{#1}}}}
 
-% Replacements for pandoc conversion
-% TURN OFF FOR OVERLEAF / PDF
-% \renewcommand{\footautocite}[1]{\footnote{\cite{#1}}}
-% \renewenvironment{blockquotebox}{%
-%     \begin{quote}%
-% }{%
-%     \end{quote}%
-% }
-% \renewcommand{\autocite}[1]{\footnote{\cite{#1}}}
-
 % layout check and fix
 \checkandfixthelayout
 
 \begin{document}
-% begin front matter
+
 \frontmatter
 % the half title page
 \pagestyle{empty}
 \halftitlepage
 \cleardoublepage
+
 % the title page
 \titleM
 \clearpage
+
 % copyright page
 \vphantom{just for the drop}
 \vfill
-
 \begin{scriptsize}
 \noindent \copyright\space 2024: \theauthor
 \par\noindent \textit{The Genesis Book}
@@ -427,10 +407,8 @@
 
 \end{scriptsize}
 \vspace{3em}
-
 \par
 \noindent \href{https://konsensus.network}{\large\MakeUppercase \press  \hfill \includegraphics[width=0.5cm]{freestarfish.png}} \space\url{https://konsensus.network}
-
 
 \setcounter{footnote}{0}
 \clearpage
@@ -445,8 +423,9 @@
 Dedication}}
 \end{center}
 \cleardoublepage
-\normalfont
 
+% table of contents
+\normalfont
 \pagestyle{empty}
 \tableofcontents*
 \thispagestyle{empty}

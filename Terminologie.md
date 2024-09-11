@@ -1,4 +1,5 @@
 # Terminologie
+
 account system = rekeningensysteem
 aggregate = gezamenlijke
 aggregate demand = totale vraag

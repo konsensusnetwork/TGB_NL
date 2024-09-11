@@ -1,0 +1,80 @@
+project:
+  type: book
+
+book:
+  title: "Het Genesis Boek"
+  subtitle: "xx"
+  author: "Aaron van Wirdum"
+  translator: Theo Hague
+  date: "9/11/2024"
+  cover-image: cover.png
+  isbn: 978-3-16-123450-0
+  license: CC-BY-4.0
+  language: nl
+  original-title: "The Genesis Book"
+  publisher: Konsensus Network
+  navbar:
+    logo: cover.png
+    logo-alt: Cover
+    right:
+      - icon: github
+        href: https://github.com/konsensusnetwork/TGB_NL
+        aria-label: GitHub
+      - icon: shop
+        href: https://bitcoinbook.shop/
+        aria-label: Shop
+  page-footer:
+    center:
+      - text: "License"
+        href: index.qmd
+  open-graph: true
+  twitter-card:
+    site: "@konsensusn"
+  chapters:
+    - index.qmd
+    - _4.chapters/CH00.qmd
+    - part: "Deel I: Grondslagen"
+      chapters:
+      - _4.chapters/CH01.qmd
+      - _4.chapters/CH02.qmd
+      - _4.chapters/CH03.qmd
+      - _4.chapters/CH04.qmd
+      - _4.chapters/CH05.qmd
+      - _4.chapters/CH06.qmd
+      - _4.chapters/CH07.qmd
+    - part: "Deel II: Cypherpunks"
+      chapters:
+      - _4.chapters/CH08.qmd
+      - _4.chapters/CH09.qmd
+      - _4.chapters/CH10.qmd
+      - _4.chapters/CH11.qmd
+      - _4.chapters/CH12.qmd
+      - _4.chapters/CH13.qmd
+    - part: "Deel III: Bitcoin"
+      chapters:
+      - _4.chapters/CH14.qmd
+      - _4.chapters/CH15.qmd
+      - _4.chapters/CH16.qmd
+    - _4.chapters/CHXX.qmd
+
+format:
+  html:
+    theme: cosmo
+    number-depth: 1
+    reader-mode: true
+  latex:
+    documentclass: memoir
+    classoption: smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes
+    papersize: a5
+    secnumdepth: 1
+    geometry:
+      - top=18mm
+      - bottom=28mm
+      - left=18mm
+      - right=18mm
+    epub:
+      creator: Konsensus Network
+
+
+
+

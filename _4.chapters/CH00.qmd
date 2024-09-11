@@ -98,16 +98,16 @@ Tot slot beschrijft Deel III van het boek hoe Satoshi Nakamoto zijn elektronisch
 
 Samen vormen zij het verhaal van de monetaire hervormers, computerwetenschappers, activisten voor privacy, futurologen, ondernemers en andere pioniers die, elk op hun eigen manier, bijdroegen aan de opkomst van het eerste succesvolle peer-to-peer elektronische geldsysteem ter wereld: Bitcoin.
 
-[1]: ​Lawrence H. White, 'The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold', Cato Journal, 34, No. 2: 281--301.
+[^1]: ​Lawrence H. White, 'The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold', Cato Journal, 34, No. 2: 281--301.
 
-[2]: Huis van Afgevaardigden, 'Deleting Commercial Pornography Sites From the Internet: The U.S. Financial Industry's Efforts to Combat This Problem', Hearing Before the Subcommittee on Oversight and Investigations of the Committee on Energy and Commerce, One Hundred Ninth Congress, Second Session, September 21, 2006, [https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm.]
+[^2]: Huis van Afgevaardigden, 'Deleting Commercial Pornography Sites From the Internet: The U.S. Financial Industry's Efforts to Combat This Problem', Hearing Before the Subcommittee on Oversight and Investigations of the Committee on Energy and Commerce, One Hundred Ninth Congress, Second Session, September 21, 2006, [https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm.]
 
-[3]: ​White, 'Troubling Suppression', 289.
+[^3]: ​White, 'Troubling Suppression', 289.
 
-[4]: ​e-gold, 'e-gold News', December 1999, geraadpleegd via [https://web.archive.org/web/20001209053900fw...ttp://www.e-gold.com/news.html.]
+[^4]: ​e-gold, 'e-gold News', December 1999, geraadpleegd via [https://web.archive.org/web/20001209053900fw...ttp://www.e-gold.com/news.html.]
 
-[5]: ​e-gold, 'e-gold Welcomes US Government Review of its Status as a Privately Issued Currency', 20 januari 2006, geraadpleegd via [https://web.archive.org/web/20060304203618if...ttp://www.e-gold.com:80/letter2.html.]
+[^5]: ​e-gold, 'e-gold Welcomes US Government Review of its Status as a Privately Issued Currency', 20 januari 2006, geraadpleegd via [https://web.archive.org/web/20060304203618if...ttp://www.e-gold.com:80/letter2.html.]
 
-[6]: ​US Department of Justice, 'Digital Currency Business e-gold Pleads Guilty to Money Laundering and Illegal Money Transmitting Charges', July 21, 2008, [https://www.justice.gov/archive/opa/pr/2008/July/08-crm-635.html.]
+[^6]: ​US Department of Justice, 'Digital Currency Business e-gold Pleads Guilty to Money Laundering and Illegal Money Transmitting Charges', July 21, 2008, [https://www.justice.gov/archive/opa/pr/2008/July/08-crm-635.html.]
 
-[7]: ​e-gold 'Transcript of sentence before the honorable Rosemarie M. Collyer United States District Judge', 114, November 20, 2008, <https://legalupdate.e-gold.com/2008/11/transcript-of-sentence-before-the-honorable-rosemarie-m-collyer-united-states-district-judge.html>
+[^7]: ​e-gold 'Transcript of sentence before the honorable Rosemarie M. Collyer United States District Judge', 114, November 20, 2008, <https://legalupdate.e-gold.com/2008/11/transcript-of-sentence-before-the-honorable-rosemarie-m-collyer-united-states-district-judge.html>

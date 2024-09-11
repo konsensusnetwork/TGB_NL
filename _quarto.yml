@@ -32,30 +32,30 @@ book:
     site: "@konsensusn"
   chapters:
     - index.qmd
-    - _4.chapters/CH00.qmd
+    - chapters/CH00.qmd
     - part: "Deel I: Grondslagen"
       chapters:
-      - _4.chapters/CH01.qmd
-      - _4.chapters/CH02.qmd
-      - _4.chapters/CH03.qmd
-      - _4.chapters/CH04.qmd
-      - _4.chapters/CH05.qmd
-      - _4.chapters/CH06.qmd
-      - _4.chapters/CH07.qmd
+      - chapters/CH01.qmd
+      - chapters/CH02.qmd
+      - chapters/CH03.qmd
+      - chapters/CH04.qmd
+      - chapters/CH05.qmd
+      - chapters/CH06.qmd
+      - chapters/CH07.qmd
     - part: "Deel II: Cypherpunks"
       chapters:
-      - _4.chapters/CH08.qmd
-      - _4.chapters/CH09.qmd
-      - _4.chapters/CH10.qmd
-      - _4.chapters/CH11.qmd
-      - _4.chapters/CH12.qmd
-      - _4.chapters/CH13.qmd
+      - chapters/CH08.qmd
+      - chapters/CH09.qmd
+      - chapters/CH10.qmd
+      - chapters/CH11.qmd
+      - chapters/CH12.qmd
+      - chapters/CH13.qmd
     - part: "Deel III: Bitcoin"
       chapters:
-      - _4.chapters/CH14.qmd
-      - _4.chapters/CH15.qmd
-      - _4.chapters/CH16.qmd
-    - _4.chapters/CHXX.qmd
+      - chapters/CH14.qmd
+      - chapters/CH15.qmd
+      - chapters/CH16.qmd
+    - chapters/CHXX.qmd
 
 format:
   html:

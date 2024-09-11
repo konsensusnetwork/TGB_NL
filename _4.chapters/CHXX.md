@@ -1,0 +1,29 @@
+## Erkenningen
+
+Ik had dit boek niet kunnen schrijven zonder de hulp die ik van zoveel mensen heb gekregen.
+
+Allereerst, grote dank aan David Bailey, die me de tijd en kans heeft gegeven om aan dit boek te werken tijdens mijn tijd bij *Bitcoin Magazine*.
+
+Vervolgens wil ik mijn redacteuren bedanken. Pete Rizzo, die geduldig genoeg was om de zeer slordige vroege concepten te lezen en hielp met het structureren van het verhaal, en Joakim Book, die de tekst liet glanzen, een aantal fouten ving die niemand anders zag, en me hielp om alles over de finish te krijgen.
+
+Ik ben ook erg dankbaar voor de steun die ik heb gekregen van andere collega's bij *Bitcoin Magazine*, namelijk Ellen Sullivan en Christian Keroles.
+
+Ik had het grote geluk dat een aantal mensen die in het boek voorkomen beschikbaar waren voor interviews en/of feedback, waaronder (in alfabetische volgorde) Adam Back, David Chaum, Douglas Jackson, Gregory Maxwell, Martin Hellman, Nick Szabo, Richard Stallman, Scott Stornetta, Tom Morrow, Wei Dai en Whitfield Diffie. Hartelijk bedankt!
+
+Speciale dank gaat naar de domeindeskundigen die zo vriendelijk waren om de vroege hoofdstukconcepten na te kijken, met name Adam Gibson, Bryan Bishop, Eduard de Jong, Jan Burgers, Tony Klausing, Vijay Boyapati, en Wolf von Laer.
+
+Om verschillende redenen wil ik ook Austin Hill, Andreas Antonopoulos, Ferdinando Ametrano, Jurjen Bos, LENA, Marcel van der Peijl, Tuur Demeester, en Wouter Habraken bedanken.
+
+In mei 2023 heb ik dit boek 'open source' gemaakt door de tekst op Google Docs te publiceren en zo aan iedereen de gelegenheid te geven om het te lezen en suggesties voor verbeteringen aan te kaarten. Gedurende de volgende maanden hadden daadwerkelijk een aantal mensen bijgedragen, sommigen klein, anderen groot. De deelnemers waren onder meer: 0x3phemeralsoul, Antoine Poinsot, Ben Murdock, Bitcoin Graffiti, Fractal Encrypt, Giacomo Zucco, Haarman Haarman, Info Scholarium, Jake Franklin, Jake Thomas, Jan-Paul Franken, Joao Bordalo, Jonathan Bier, John Doe, Leonhard Weese, Ludovic Lars, Marc Bonenberger, Mengu Gulmen, Muhammad Saqib Arfeen, Nadir Khan, Nick Nell, Pieter Meulenhoff, Richard Hogan, Thomas Farstrike, Will Wohler, en Zionfuo.
+
+Tot slot wil ik mijn familie en vrienden (in het bijzonder Frederique Mol) bedanken voor hun steun gedurende de jaren, evenals iedereen die mij heeft geholpen op mijn Bitcoinreis sinds 2013.
+
+En natuurlijk, bedankt Satoshi Nakamoto, wie je dan ook mag zijn.
+
+Mijn excuses aan iedereen die ik ben vergeten te noemen.
+
+Free Ross.
+
+## Over de auteur
+
+Aaron van Wirdum studeerde Journalistiek aan de Hogeschool Utrecht en Politiek en Maatschappij in Historisch Perspectief aan de Hogeschool Utrecht, waar hij zich specifiek richtte op de historische impact van nieuwe technologieën op maatschappelijke structuren. Hij stuitte op Bitcoin in 2013, en sindsdien schrijft hij over 's werelds eerste succesvolle elektronische geldproject. Voor het grootste deel van deze jaren deed hij dit voor *Bitcoin Magazine*: eerst als journalist, daarna als technisch redacteur, en uiteindelijk als hoofdredacteur van de gedrukte editie. *Het Genesis Boek* is zijn eerste boek.

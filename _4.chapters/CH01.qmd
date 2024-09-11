@@ -1,4 +1,4 @@
-## Hoofdstuk 1: Spontane orde
+# Spontane orde
 
 Friedrich August von Hayek wilde net als zijn vader hoogleraar in de biologie worden, maar de Eerste Wereldoorlog zorgde voor een volledige verandering van zijn levenspad.[^8] Hij werd geboren in 1899 en groeide op tijdens de laatste jaren van het Oostenrijks-Hongaarse Rijk. Nadat hij achttien was geworden, werd hij opgeroepen om te vechten aan het Italiaanse front. Het laatste deel van de oorlog bracht hij door als waarnemer in vliegtuigen.
 
@@ -14,7 +14,7 @@ Hij schreef zich niet meteen in voor alle economielessen. Voor de socialistisch-
 
 De naam van de professor was Ludwig von Mises. Hayek kwam al snel te weten dat Mises een vooraanstaand econoom was binnen een relatief nieuwe school van economisch denken.[^11]
 
-### Oostenrijkse economie
+## Oostenrijkse economie
 
 De Eerste Wereldoorlog was het gewelddadige hoogtepunt van een tijdperk dat sterk doordrenkt was van nationalisme, de ideologie die stelt dat collectieven van mensen met een gemeenschappelijke herkomst, geschiedenis, cultuur of taal --- *naties* --- zichzelf als staten zouden moeten organiseren en handelen in het belang van deze staten.
 
@@ -42,7 +42,7 @@ Tijdens deze soms vijandige *Methodenstreit* ('strijd der methodes'), begonnen D
 
 De vijandige sfeer tijdens de Methodenstreit in de late negentiende eeuw bereikte zijn hoogtepunt met de *de facto* verbanning van de Oostenrijkse economie uit Duitse universiteiten. De boycott zou decennia van kracht blijven, en verhinderdde in grote mate dat Mengers ideeën zich door de nieuwe, verenigde natiestaat verspreidden. In plaats daarvan bleef het nationalisme domineren, terwijl een andere collectivistische ideologie zich zonder veel wezenlijk tegengas ook begon te verspreiden doorheen de Duitse universiteiten: het socialisme was in opkomst.
 
-### Economische berekening
+## Economische berekening
 
 Oorspronkelijk gepopulariseerd door de Duitse auteur en sociale commentator Karl Marx, geloofden socialisten dat de economische geschiedenis van de wereld het best te begrijpen was als een klassenstrijd tussen degenen die kapitaal bezitten (goederen die kunnen worden gebruikt als productiemiddel, zoals fabrieken en hun machines) en de arbeidersklasse, die alleen hun arbeid te verkopen hebben. Marx voorspelde dat deze strijd in het voordeel van de kapitaalbezittende klasse (de *kapitalisten*) zou uitdraaien, omdat ze steeds meer kapitaal en eindeloos groeiende winsten zouden genieten, totdat de arbeidersklasse (het proletariaat) onvermijdelijk in opstand zou komen.
 
@@ -64,7 +64,7 @@ Zonder vrije markt is er geen *economische berekening* mogelijk, wat de fundamen
 
 'Zonder economische berekening kan er geen economie zijn', concludeerde Mises. 'Daarom kan er in een socialistische staat, waarin het nastreven van economische berekening onmogelijk is, in onze betekenis van het woord, geen economie bestaan.'
 
-### Prijzen
+## Prijzen
 
 Mises, en met name zijn concept van economische berekening, zou een grote invloed hebben op Hayek. Aan de Universiteit van Wenen groeide hij uit tot een enthousiaste student van de Oostenrijkse school van economie. Hij bestudeerde de werken van Menger, evenals andere 'eerste generatie'-Oostenrijkers zoals Eugen von Böhm-Bawerk. Hij werd ook een vaste bezoeker van privé-seminaries die Mises tweemaal per maand organiseerde in zijn overheidskantoor. Daar kwam een kleine groep geleerden samen om economische theorie, filosofie en welke andere onderwerpen Mises en zijn gasten die week ook interessant vonden, te bespreken.
 
@@ -94,7 +94,7 @@ Hayek legde uit dat relevante informatie in de economie kenbaar wordt gemaakt do
 
 En belangrijk is dat dit allemaal mogelijk is zonder centrale planning. De vrije markt, zo betoogde Hayek, valt het best te begrijpen als een vorm van zelforganisatie van onderaf: een *spontane orde*.
 
-### Rentetarieven
+## Rentetarieven
 
 Waar Mises Hayeks begrip van spontane orde vormde doorheen ruimte -- de toewijzing van middelen van het ene punt in de samenleving naar het andere -- hielpen de werken van Von Böhm-Bawerk om Hayeks begrip van spontane orde in de tijd te vormen.
 
@@ -124,7 +124,7 @@ Rentevoeten, legde Hayek uit, bevorderen spontane orde door de tijd heen!
 
 Dat is natuurlijk zo, *als* rentetarieven in feite de tijdsvoorkeuren nauwkeurig weerspiegelen. Hayek merkte echter op dat het in de praktijk vaak niet toegelaten werd om zo te zijn.
 
-### De Federale Reserve
+## De Federale Reserve
 
 Een aantal jaren voordat zijn student afstudeerde aan de Universiteit van Wenen, hielp Mises Hayek opnieuw om een tijdelijke functie te verkrijgen als onderzoeksassistent bij de Universiteit van New York.
 
@@ -158,7 +158,7 @@ Dit soort verkeerde afstemming van economische prikkels, waar bepaalde economisc
 
 En Hayek geloofde dat dit niet eens de belangrijkste manier was waarop de Federal Reserve onhoudbare, door krediet geïnduceerde, economische bubbels stimuleerde.
 
-### De Oostenrijkse conjunctuurcyclus
+## De Oostenrijkse conjunctuurcyclus
 
 Het lezen van het jaarverslag 1923 van de Federal Reserve bepaalde de koers van Hayeks carrière als econoom voor de komende decennia.
 
@@ -182,7 +182,7 @@ Alhoewel het pijnlijk was, geloofde Hayek dat de beste aanpak destijds was om de
 
 Midden in de scherpe economische crisis die later bekend zou worden als de Grote Depressie, was de voorgestelde oplossing van Hayek echter niet erg geliefd. De meeste mensen waren van mening dat er *iets moest gedaan worden*.
 
-### De rivaliteit
+## De rivaliteit
 
 En er kon iets gedaan worden, zo stelde een academicus uit Cambridge genaamd John Maynard Keynes. De Britse econoom zou tijdens de Grote Depressie snel naam maken door een onconventionele, maar dringend gewenste oplossing aan te dragen om de economie weer op de been te krijgen. In schril contrast met de pijnlijke oplossing die Hayek voorstelde, verspreidde Keynes een boodschap waar veel mensen reikhalzend naar uitkeken.[^27]
 

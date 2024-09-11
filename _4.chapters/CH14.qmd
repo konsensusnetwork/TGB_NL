@@ -1,6 +1,4 @@
-# DEEL III BITCOIN
-
-## Fiat in de 21ste eeuw
+# Fiat in de 21ste eeuw
 
 Voor het grootste deel van zijn leven voelde Friedrich Hayek dat zijn ideeën waren gemarginaliseerd. Spontane orde van onderaf moest het onderspit delven voor de economische staatsinterventie van John Maynard Keynes, die van bovenaf functioneert. In plaats van rentetarieven die bepaald werden door de markt, hadden centrale banken het goud vaarwel gezegd om het manipuleren van de rente nog gemakkelijker te maken. En geld, verre van gedenationaliseerd, was een strategisch instrument geworden op het globale geopolitieke schaakbord.
 
@@ -22,7 +20,7 @@ Het petrodollarsysteem was een geweldige overeenkomst voor de Amerikanen - maar 
 
 Het petrodollarsysteem implementeerde in feite het Cantillon-effect op wereldwijde schaal, met de Amerikaanse regering en Amerikaanse financiële instellingen in het hart van dit monetaire paradigma.[^258]
 
-### De Hayekiaanse heropleving
+## De Hayekiaanse heropleving
 
 Intussen had stagflatie de economische wereld tot wanorde gebracht, aangezien de Keynesiaanse assumptie dat inflatie werkloosheid zou tegengaan, onjuist bleek. Als het gebruik van inflatie om de economie te stimuleren verslavend was, zoals Hayek had betoogd, waren de positieve effecten van deze drug nu uitgewerkt en ondervond de samenleving de pijnlijke ontwenningsverschijnselen. Na een bestuur van veertig jaar bevond het Keynesianisme zich in een existentiële crisis.
 
@@ -48,7 +46,7 @@ Een fundamenteel verschil was de methodologie van de Chicago School. Waar Carl M
 
 Het tweede grote verschil was bijna net zo fundamenteel als het eerste: de Chicago School was het niet eens met de Oostenrijkers over het onderwerp geld.
 
-### Monetarisme
+## Monetarisme
 
 Hoewel Friedman een grote voorvechter was van Hayeks ideeën over markt en prijzen, omvatte dit niet Hayeks perspectief op de stadia van productie, of hoe rentetarieven en het intertemporele prijssysteem de toewijzing van middelen door de tijd heen konden sturen. Friedman was zeker geen voorstander van Hayeks voorstel om geld te denationaliseren. In plaats daarvan pleitte Friedman voor strikte overheidsregulatie van geld.
 
@@ -70,7 +68,7 @@ De theorie overtuigde Hayek echter niet, om veel van dezelfde redenen dat de sta
 
 Hoewel Hayeks ideeën over markten en het prijssysteem in de jaren tachtig een heropleving genoten, bleven zijn ideeën over geld grotendeels onopgemerkt. Geld bleef onder staatscontrole en zelfs de nieuwe stroom vrije markteconomen in Chicago geloofde niet dat hier verandering in moest komen.
 
-### Spaargeld en leningen
+## Spaargeld en leningen
 
 In 1987 benoemde president Reagan een ander lid van zijn Economische Beleidsadviesraad tot de nieuwe voorzitter van de Federal Reserve, met name Alan Greenspan. Net zoals Friedman was ook Greenspan een fervent monetarist. Toen de Amerikaanse Senaat kort daarna de nominatie bevestigde, stond de monetaire theorie van de Chicago School op het punt om voor het eerst in de praktijk te worden gebracht.
 
@@ -84,7 +82,7 @@ Het klopt dat de reddingsacties de omvang van de spaar- en leencrisis beperkten 
 
 Aan het begin van zijn carrière had Hayek al zijn zorgen uitgesproken over het morele risico dat centrale banken in de economie introduceerden. Dit werd met de FDIC en FSLIC alleen maar explicieter. Tijdens de spaar- en leencrisis werd het duidelijk dat financiële instellingen grote risico's konden nemen; de Amerikaanse overheid zou de rekening betalen als het fout liep.
 
-### Dot-Com
+## Dot-Com
 
 Ongeveer tien jaar na de crisis van de spaar- en leenverenigingen, tegen het einde van de jaren 1990, deden de aandeelmarkten het enorm goed.
 
@@ -104,7 +102,7 @@ Op het eerste zicht leek het te werken. In de daaropvolgende jaren begon de aand
 
 Eén sector in het bijzonder beleefde in het midden van de jaren 2000 niets minder dan een volledige economische opleving: de huizenmarkt.
 
-### "Te groot om te falen"
+## "Te groot om te falen"
 
 Deze bloei in de huizenmarkt baarde Greenspan, met het oog op monetaire stabiliteit, nauwelijks zorgen. Hoewel sommige afgeleide prijzen, zoals de kosten van woninghuur en onderhoud, in acht werden genomen, waren de werkelijke huizenprijzen zelf niet opgenomen in de CPI (Consumentenprijsindex); ze waren in 1983 uit de index gehaald. Vastgoed wordt sindsdien grotendeels beschouwd als een vorm van investering, hetgeen bijzonder handig was omdat politici in die tijd de inflatiecijfers wilden verlagen.[^263]
 
@@ -126,7 +124,7 @@ Dit luidde een nieuw beleidstijdperk in, zowel in de VS als daarbuiten, omdat de
 
 Een onmiddellijke financiële instorting werd afgewend, maar alleen omdat grote delen van de financiële sector werden gered door openbare instellingen en de creatie van enorme hoeveelheden nieuw geld uit het niets; het morele risico stond nu volop in de schijnwerpers.
 
-### Een nieuwe wereld
+## Een nieuwe wereld
 
 De overheidsinterventies zouden zich niet alleen tot reddingsoperaties beperken.
 

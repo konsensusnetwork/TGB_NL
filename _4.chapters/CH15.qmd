@@ -1,6 +1,4 @@
-## Hoofdstuk 15:
-
-## Het witboek
+# Het witboek
 
 **De financiële markten** waren al in rep en roer toen Adam Back in de zomer van 2008 een e-mail ontving van iemand die zichzelf "Satoshi Nakamoto" noemde. Nakamoto legde uit dat hij een digitaal geldsysteem had ontworpen dat gebaseerd was op het proof of work-systeem dat Back meer dan tien jaar eerder had geïntroduceerd via hashcash. De e-mail bevatte een link naar een conceptversie van een witboek, getiteld "Elektronisch Geld Zonder een Vertrouwde Derde Partij." Nakamoto was geïnteresseerd in feedback.
 
@@ -38,7 +36,7 @@ Inderdaad, het elektronische geldproject van Nakamoto had nu een naam: *Bitcoin*
 
 Bijgevoegd was een link naar de actuele versie van het witboek.[^270] "Bitcoin: Een Peer-to-Peer Elektronisch Geldsysteem", luidde nu de titel. In amper negen pagina's (inclusief een bladzijde voor externe referenties), schetste Nakamoto de kernmechanismen van zijn digitale valuta. Het maakte een compacte, maar zeer efficiënte beschrijving van --- zoals de inleiding van het paper omschreef --- "een elektronisch betalingssysteem gebaseerd op cryptografisch bewijs in plaats van vertrouwen."
 
-### De block chain
+## De block chain
 
 Het systeem dat Satoshi Nakamoto in zijn whitepaper beschreef leek daadwerkelijk op b-money --- dat nu als eerste van acht verwijzingen wordt genoemd --- op meerdere manieren.
 
@@ -66,7 +64,7 @@ Inderdaad, de inhoud van Bitcoinblokken, hun chronologische volgorde en daarmee 
 
 Nakamoto noemde deze ketting van blokken in de mailinglijst: de block chain.
 
-### **Delven**
+## **Delven**
 
 Omdat een Bitcoinblok alleen als geldig zou worden beschouwd als het geen conflicterende transacties bevat, bood de "block chain" het begin van een oplossing voor het probleem van dubbele uitgaven. Zelfs als verschillende gebruikers de transacties in een andere volgorde zouden zien, zouden hun eigendomsregisters nog steeds overeenkomen zolang ze alle blokken in dezelfde volgorde ontvingen. Bij een poging tot dubbele uitgave zou alleen de transactie die in een blok was opgenomen worden gebruikt om alle grootboeken bij te werken.
 
@@ -94,7 +92,7 @@ Om het Byzantijnse Generaalsprobleem te overkomen, bedacht de sluwe Satoshi Naka
 
 "Het netwerk is robuust in zijn ongestructureerde eenvoud", concludeerde Nakamoto in zijn witboek. "De nodes werken allemaal tegelijk met weinig coördinatie."
 
-### Muntuitgifte
+## Muntuitgifte
 
 Als Bitcoingebruikers proof of work zouden produceren, en dus blokken delven, hadden ze een aansporing nodig.
 
@@ -110,7 +108,7 @@ Door de hoeveelheid proof of work te ontkoppelen van het tempo van valutacreatie
 
 "Het stabiel toevoegen van een vastgesteld aantal nieuwe munten is te vergelijken met gouddelvers die middelen verbruiken om goud in omloop te brengen", legt het Bitcoin- witboek uit. "In ons geval gaat het om CPU-tijd en elektriciteit die/dat verbruikt wordt."
 
-### Positieve aansporing
+## Positieve aansporing
 
 Nakamoto was bovendien van mening dat het uitgiftemodel van Bitcoin potentiële aanvallers zou ontmoedigen.
 
@@ -132,7 +130,7 @@ Nakamoto veronderstelde dat de blokbeloningen die door het Bitcoinprotocol worde
 
 Zelfs in het ergste geval, zijn de stimuli van Bitcoin waarschijnlijk zodanig afgestemd dat iedereen eerlijk handelt.
 
-### Peer-To-Peer
+## Peer-To-Peer
 
 Bitcoin was, zoals Nakamoto in zijn e-mailaankondiging had beloofd, ontworpen om een echt peer-to-peer-systeem te zijn.
 
@@ -144,7 +142,7 @@ Daarbovenop was zijn timing ook verbazingwekkend. Net toen centrale banken over 
 
 Toch was de reactie op de publieke aankondiging van Bitcoin grotendeels zonder erkenning of waardering.
 
-### **Schaalcapaciteit**
+## **Schaalcapaciteit**
 
 De eerste reactie op Nakamotos aankondiging kwam ongeveer een dag later, van James A. Donald, een Cypherpunk die toevallig bijna klaar was met het ontwerpen van zijn eigen digitaal geldsysteem.
 
@@ -172,7 +170,7 @@ Nakamoto heeft niet specifiek gereageerd op Donalds suggestie over de betalingsl
 
 "Ja, maar we kunnen een grote slag winnen in de wapenwedloop en enkele jaren een nieuw territorium van vrijheid verwerven", schreef hij. "Overheden zijn goed in het elimineren van de leiders van [...] centraal gecontroleerde netwerken zoals Napster, maar pure peer-to-peer netwerken zoals Gnutella en Tor lijken zich goed staande te houden."[^274]
 
-### Zorgen en verwarring
+## Zorgen en verwarring
 
 De eerste reactie die Nakamoto kreeg --- de bezorgdheid van James A. Donald over schaalbaarheid --- was zeker niet onterecht; het opschalen van Bitcoin om miljoenen, of zelfs miljarden gebruikers te dienen, zou inderdaad een grote uitdaging worden. Maar veel van de feedback die volgde op deze reactie was meer uiteenlopend , waarbij sommigen duidelijk in de war waren over het ontwerp van Bitcoin.
 
@@ -196,7 +194,7 @@ John Levine, een andere informaticus die eerder de Cypherpunks-mailinglijst bezo
 
 Echter, niet iedereen op de Cryptography-mailinglijst was bereid Bitcoin af te doen als een foutief ontwerp.
 
-### Optimisme
+## Optimisme
 
 Op 7 november, ongeveer een week nadat Nakamoto zijn witboek openbaar had gemaakt, kwam er ook een opvallend optimistische reactie naar voren op de lijst.
 
@@ -216,7 +214,7 @@ Nakamoto was het hiermee eens.
 
 "Het is erg aantrekkelijk vanuit het libertaire standpunt als we het goed kunnen uitleggen", antwoordde de uitvinder van Bitcoin. "Ik ben echter beter met code dan met woorden."[^284]
 
-### Het pseudoniem
+## Het pseudoniem
 
 De voornamelijk sceptische reacties op het witboek in de Cryptography-mailinglijst kunnen waarschijnlijk deels worden verklaard doordat de auteur van het witboek, Satoshi Nakamoto, compleet onbekend was.
 

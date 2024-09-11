@@ -1,4 +1,4 @@
-## Hoofdstuk 7: De Extropianen
+# De Extropianen
 
 Friedrich Hayek wilde geld denationaliseren en David Chaum wilde het anoniem maken. Hoewel zowel de econoom als de cryptograaf een revolutionair idee hadden, hadden ze niet helemaal hetzelfde doel voor ogen.
 
@@ -28,7 +28,7 @@ Om de nieuwe start te markeren, besloot hij zelfs zijn naam te veranderen: vanaf
 
 'Het leek echt de essentie van wat mijn doel is te vatten: altijd verbeteren, nooit stilstaan', legde hij later uit. 'Ik zou beter worden in alles, slimmer, fitter en gezonder worden. Het zou een constante herinnering zijn om vooruit te blijven gaan'.[124]
 
-### FM-2030
+## FM-2030
 
 Het uitbreiden van menselijk potentieel en specifiek levensverlenging waren nooit echt populaire onderwerpen in Engeland. Maar in Californië ontdekte Max More dat hij niet de enige was met interesse in deze thema's.
 
@@ -46,7 +46,7 @@ Omdat traditionele beperkingen op het menselijk potentieel, zoals eindige levens
 
 'Het is slechts een kwestie van tijd voordat we onze lichamen herschikken tot iets totaal anders, iets dat beter is aangepast aan de ruimte, iets dat levensvatbaar zal zijn in ons zonnestelsel en zelfs daarbuiten'.[^125]
 
-### Transhumanisme
+## Transhumanisme
 
 FM-2030 was overtuigd dat vooruitgang op het gebied van technologie uiteindelijk de menselijke conditie zou veranderen: de mensheid zou zichzelf upgraden om een nieuwe, verbeterde versie van de soort te creëren. Technologie zou een post-menselijke toestand tot stand brengen.
 
@@ -66,7 +66,7 @@ Het algemene idee en de term 'transhumanisme' werden al in de jaren '50 gebruikt
 
 'Transhumanisme', vatte More kort samen, 'verschilt van humanisme doordat het de radicale veranderingen erkent en voorziet in de aard en mogelijkheden van ons leven als gevolg van diverse wetenschappen en technologieën zoals neurowetenschap en neurofarmacologie, levensverlenging, nanotechnologie, kunstmatige ultra-intelligentie, en ruimtebewoning, gecombineerd met een rationele filosofie en waardesysteem'.[^127]
 
-### Extropianisme
+## Extropianisme
 
 Alle transhumanisten willen het menselijk potentieel verbeteren. Echter, ondanks dat ze hetzelfde doel hebben, realiseerde Max More zich dat verschillende transhumanisten zeer uiteenlopende benaderingen kunnen voorstaan om dit doel te bereiken.
 
@@ -96,7 +96,7 @@ Anders gezien, geloven Extropianen dat staten en hun regeringen voornamelijk een
 
 'Centraal bevel over gedrag belemmert ontdekking, diversiteit en afwijkende meningen', concludeerde More.[^130]
 
-### De subcultuur[^131]
+## De subcultuur[^131]
 
 In de herfst van 1988 publiceerden Max More en Tom Morrow de eerste editie van een nieuw tijdschrift genaamd *Extropy*. Dit markeerde de officiële start van de Extropiaanse beweging.
 
@@ -118,7 +118,7 @@ Toen de Extropiaanse gemeenschap uitgroeide van enkele tientallen tot honderden 
 
 Sommigen van hen werkten zelfs aan een bijzonder ambitieus internetnavigatieproject...
 
-### De *high-tech* Hayekianen
+## De *high-tech* Hayekianen
 
 K. Eric Drexler, wiens werk een belangrijke inspiratiebron was voor Max More, werd niet lang na oprichting lid van de Extropiaanse gemeenschap, net als verschillende van zijn vrienden. Deze vrienden waren technologie-enthousiastelingen die graag aan enkele van de meest innovatieve en uitdagende projecten van die tijd werkten.
 
@@ -132,7 +132,7 @@ Drexler en Miller hadden het werk van Hayek bestudeerd op advies van een andere 
 
 De drie mannen, Drexler, Miller en Salin, werden door het economisch tijdschrift *Market Process* uitgeroepen tot de 'high-tech Hayekianen', een bijnaam die het trio met trots aanvaardde.[^133]
 
-### AMIX
+## AMIX
 
 Ondanks de succesvolle lancering van een raket in de ruimte, eindigde Starstruck als een commerciële mislukking: Salin ontdekte dat de Amerikaanse overheid het praktisch onmogelijk maakte om een ruimtevaartbedrijf te runnen omdat de door de belastingbetaler gesubsidieerde Space Shuttle de markt continu ondermijnde.
 
@@ -148,7 +148,7 @@ Salin was van mening dat de maatschappij enorm baat zou hebben van zo'n efficië
 
 Kortom, meer handel betekent een betere verdeling van hulpbronnen over de economie --- spontane orde.
 
-### Cryogenica
+## Cryogenica
 
 AMIX was een vooruitstrevend concept. Maar het was ook zijn tijd ver vooruit. Toen AMIX live ging in 1984, hadden Salin en zijn kleine team de marktplaats vanuit het niets opgebouwd. Het reputatiesysteem dat ze ontwikkelden was het eerste in zijn soort, net als hun tool voor de oplossing van geschillen, en aangezien er nog geen online betalingsverwerkers operationeel waren, moesten ze dit ook zelf implementeren. Zelfs websites bestonden op dat moment nog niet, wat betekende dat AMIX-gebruikers hun eigen netwerk moesten opzetten, waarop ze moesten inbellen via *dial-up*-modems, omdat breedbandinternet nog niet bestond. Het is dan ook niet verwonderlijk dat het project traag op gang kwam.
 
@@ -168,7 +168,7 @@ Zelfs als men inschat dat de kans op succes (zeer) klein is, zou je redelijkerwi
 
 De overgebleven, levende, Extropianen zullen in de tussentijd gewoon de vlam van het transhumanisme brandend moeten houden.
 
-### Digitale valuta
+## Digitale valuta
 
 De Extropiaanse beweging was, net zoals Max More zelf, van nature thuis in Californië. Silicon Valley werd begin jaren '90 steeds meer erkend als de wereldwijde hotspot voor innovatie. Dit trok enkele van de meest ambitieuze technologen, wetenschappers en ondernemers naar de Amerikaanse westkust.
 
@@ -198,7 +198,7 @@ Lawrence White, de naaste ideologische bondgenoot van Selgin in de vrije bankbew
 
 Maar misschien wel het meest opmerkelijke van alles, was het artikel van Max More waarin hij het op zich nam om Hayek's baanbrekende boek over concurrerende valuta's samen te vatten en te presenteren.
 
-### Geld verder denationaliseren
+## Geld verder denationaliseren
 
 Het werk van Hayek had het Extropianisme gevormd. Het inzicht van de Oostenrijker in gedistribueerde kennis, vrije markten en spontane orde was een centrale inspiratiebron voor Max More toen hij de organisatorische principes van de beweging formuleerde. Nu vroeg More zijn mede-Extropianen om ook een van Hayek's veel recentere voorstellen te overwegen: een radicaal idee dat tot dan toe beperkte aandacht had gekregen.
 

@@ -1,4 +1,4 @@
-## De release
+# De release
 
 **"Wet, taal, geld**: de drie paradigma's van spontaan ontstane instituties. Gelukkig hebben wet en taal zich mogen ontwikkelen. Geld is ontstaan in zijn oorspronkelijke vorm, maar zodra het er was in zijn meest primitieve vorm, werd het bevroren. Overheden zeiden dat het niet verder mocht ontwikkelen. En wat we sinds die ontwikkeling hebben gehad, waren zaken van overheidsuitvindingen, meestal verkeerd, meestal misbruik van geld, en ik ben tot het punt gekomen dat ik me afvraag: heeft monetair beleid ooit enig goed gedaan? Ik denk het niet. Ik denk dat het alleen maar schade heeft aangericht. Dat is waarom ik nu pleit voor wat ik 'denationalisering van geld' heb genoemd."[^287]
 
@@ -16,7 +16,7 @@ Toen Satoshi Nakamoto bijna vijfentwintig jaar later, op 8 januari 2009, terugke
 
 Satoshi Nakamoto introduceerde iets wat regeringen niet kunnen stoppen.
 
-## De Codebasis
+# De Codebasis
 
 *Bitcoin v.0.1 is uitgebracht*, luidde de titel van Nakamotos e-mail deze keer.[^289]
 
@@ -54,7 +54,7 @@ The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
 
 De wereld van geld en financiën was een puinhoop geworden. Met Bitcoin stelde Satoshi Nakamoto een alternatief voor.
 
-### Eenentwintig miljoen
+## Eenentwintig miljoen
 
 Het interessantste nieuw onthulde kenmerk was echter het "monetaire beleid" van Bitcoin.
 
@@ -110,7 +110,7 @@ Op een zekere manier had Finney Ludwig von Mises zijn regressietheorema onderste
 
 "Het zou logisch kunnen zijn om er gewoon wat te bemachtigen in het geval dat het aanslaat", stemde Satoshi Nakamoto toe. "Als genoeg mensen op dezelfde manier denken, wordt dat een *self-fulfilling prophecy*."[^295]
 
-### Hayeks ideaal
+## Hayeks ideaal
 
 Het oplossen van het kip-en-ei-probleem was niet het enige potentiële voordeel van de limiet van eenentwintig miljoen. Het was misschien zelfs niet het grootste voordeel, zeker niet op een grotere tijdschaal. Als de analyse van Friedrich Hayek over de monetaire economie aan het begin van zijn carrière correct was, *zou Bitcoin de economie kunnen helpen te herstellen.*
 
@@ -138,7 +138,7 @@ In ongeveer 32.000 regels code heeft Satoshi Nakamoto het potentieel ingebed om 
 
 ... Als het alom aanvaard zou worden.
 
-### Het laatste punt van centralisatie
+## Het laatste punt van centralisatie
 
 Op 8 januari 2009, begon Bitcoin zijn reis met slechts één gebruiker: de ontwerper van het digitale valutasysteem zelf. Hoewel het waarschijnlijk is dat minimaal honderden mensen over het project hadden gehoord, na de aankondiging van Nakamoto in de Cryptography -mailinglijst, wijzen de gebrekkige betrokkenheid bij zijn e-mail en de eerder sceptische reacties erop, dat in de begindagen slechts een handvol mensen de software daadwerkelijk hadden geprobeerd (met Hal Finney die op 12 januari de allereerste transactie ooit van Nakamoto ontving).
 
@@ -160,7 +160,7 @@ In de begindagen was dit type leiderschap waarschijnlijk noodzakelijk. Bitcoin w
 
 Zonder Nakamoto had niemand een vergelijkbaar natuurlijk gezag over het project. Aan het eind van 2010 werd Bitcoin echt gedecentraliseerd.
 
-### Het Bitcoin project
+## Het Bitcoin project
 
 Vandaag de dag wordt de code van Bitcoin onderhouden en ontwikkeld door een open gemeenschap van vrijwillige programmeurs van over de hele wereld. Of ze nu bewogen zijn door ideologische redenen, geïnteresseerd zijn in de technologie, worden gesponsord door een bedrijf dat een belang heeft in het project, of om een andere reden: ze nemen het op zich om Bitcoin up-to-date te houden en te verbeteren waar ze maar kunnen.
 

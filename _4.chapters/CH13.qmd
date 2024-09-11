@@ -1,4 +1,4 @@
-## Hoofdstuk 13: RPOW
+# RPOW
 
 In het begin van de jaren 2000 had de Cypherpunk-beweging het grootste deel van zijn momentum verloren.
 
@@ -24,7 +24,7 @@ In plaats van het investeren in nieuwe crypto-initiatieven, richtten traditionel
 
 Toch was niet iedereen bereid de hoop op te geven...
 
-### Hal Finney
+## Hal Finney
 
 Geboren in het voorjaar van 1956 in het kleine Californische dorpje Coalinga, toonde Hal Finney al vroeg, nog als een jong kind, een interesse in codes: op de basisschool, vond hij het leuk om codes met letters en cijfers te maken voor willekeurige teksten die hij tegenkwam.
 
@@ -40,7 +40,7 @@ Als algemeen optimistisch mens, was Finney ervan overtuigd dat de wereld van mor
 
 Zoals Fran het later zei: "Hij geloofde niet in God. Hij geloofde in de toekomst."[^245]
 
-### Cypherpunkrealisme
+## Cypherpunkrealisme
 
 Toen het internet begin jaren '90 voor het eerst publiek toegankelijk werd, was Finney een van de allereerste gebruikers die zich een verbinding wist te bemachtigen.
 
@@ -76,7 +76,7 @@ In plaats van een anarchistisch utopia om naar te migreren, zag Finney het inter
 
 "In de kern geloof ik dat we de soort samenleving zullen hebben die de meeste mensen wensen. Als we vrijheid en privacy willen, moeten we anderen overtuigen dat deze waardevol zijn. Er zijn geen snelkoppelingen. Terugtrekken in technologie is als het over je hoofd trekken van je dekens. Het voelt even goed, totdat de realiteit je inhaalt."[^249]
 
-### Elektronisch geld
+## Elektronisch geld
 
 Ondanks zijn nuchtere en misschien wel meer realistische kijk op de mogelijkheden van cryptografie, was Finney altijd gedreven om elektronisch geld te realiseren. Hij voerde uitvoerig gesprekken over de mogelijkheden hiervan met zowel de Extropianen als de Cypherpunks op hun respectievelijke mailinglijsten, en ook op de Libtech mailinglijst van Nick Szabo.
 
@@ -96,7 +96,7 @@ Ook hier was het niet zo dat Finney de meer radicale beloftes van Tim May onaant
 
 "Het lijkt mij dat de zwakte in deze plannen om de overheid te omzeilen met digitaal geld zit in de omzetting van fysiek geld naar digitaal geld. Dat lijkt het knelpunt te zijn waar de overheid nog steeds controle kan houden", concludeert Finney. [^251]
 
-### Herbruikbare proofs-of-work
+## Herbruikbare proofs-of-work
 
 In de jaren 2000, ongeveer tien jaar nadat Finney bij Extropianen begon te pleiten voor elektronisch geld, was er nog steeds geen succesvol elektronisch geldsysteem. Hoewel een reeks ideeën besproken was op de mailinglijst van de Cypherpunks, en Finney veel van de voorstellen persoonlijk had beoordeeld, was geen van hen van de grond gekomen. In sommige gevallen, zoals bij de startups van Chaum of Hettinga, was dit omdat het product uiteindelijk commercieel niet haalbaar bleek te zijn, of althans zo leek het. Maar in andere gevallen, zoals bij het Bit Gold van Nick Szabo of de b-geld voorstellen van Wei Dai, waren de systemen in de eerste plaats nooit geïmplementeerd.
 
@@ -122,7 +122,7 @@ Stel je voor dat Bob zijn nieuwe RPOW-token wil gebruiken om toegang te krijgen 
 
 Op deze manier kon het proof-of-work, vertegenwoordigd door een enkele geldige hash (gemaakt door Alice), effectief oneindig blijven circuleren. Het was inderdaad *herbruikbaar* proof-of-work.
 
-### Betrouwbaar rekenen
+## Betrouwbaar rekenen
 
 Het systeem zoals tot dusver beschreven zou vrij goed werken, behalve dat het vertrouwen vereist in de beheerder van de RPOW-server om geen dubbele uitgaven te doen of RPOW-tokens voor zichzelf te maken zonder een proof-of-work te leveren. Finney wilde echter niet dat de gebruikers de beheerder van de RPOW-server moesten vertrouwen, zelfs als die beheerder hijzelf was. Daarom voegde Finney nog een speciale eigenschap toe aan het ontwerp.
 
@@ -136,7 +136,7 @@ Zolang men IBM vertrouwde om niet mee te werken met Finney om een valse handteke
 
 "[...] Het RPOW-systeem is ontworpen met één overkoepelend doel: het onmogelijk maken dat iemand, zelfs de eigenaar van de RPOW-server of zelfs de ontwikkelaar van de RPOW-software, in staat zou zijn om de regels van het systeem te overtreden en RPOW-tokens te vervalsen," legde Finney uit op de RPOW-website. "Zonder zo'n garantie tegen vervalsbaarheid, zouden RPOW-tokens het werk dat is gedaan om ze te creëren niet geloofwaardig kunnen vertegenwoordigen. Vervalsbare tokens zouden meer lijken op papiergeld dan op bit-goud."[^253]
 
-### Het lot van RPOW
+## Het lot van RPOW
 
 De eerste RPOW-release was weliswaar nog erg ruw, maar Hal Finney had het voornemen het project in de loop van de tijd te verbeteren. Wellicht het belangrijkst, hij plande om het systeem te upgraden zodat het op meerdere, onafhankelijk van elkaar opererende, servers zou draaien. Zo zou het volledige RPOW-systeem niet onderuit gaan als zijn server om welke reden dan ook offline ging.
 
@@ -158,7 +158,7 @@ Maar waarschijnlijk slaagde het elektronische geldsysteem er ook niet in om van 
 
 Net als eCash en hashcash voorheen, leed ook RPOW aan een kip-of-ei probleem.
 
-### E-goud
+## E-goud
 
 Ondanks de beste bedoelingen van Hal Finney is RPOW halverwege de jaren 2000 geëindigd als nog een mislukte poging om elektronisch geld te creëren.
 

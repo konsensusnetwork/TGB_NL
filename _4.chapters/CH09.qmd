@@ -1,4 +1,4 @@
-## Hoofdstuk 9: Cypherpunk-valuta
+# Cypherpunk-valuta
 
 De Cypherpunks hadden zich tot doel gesteld privacy in het digitale tijdperk te verdedigen. Ze begrepen dat de privacy die fysiek geld biedt, in gevaar was. Als elektronische betalingen papiergeld en metalen munten zouden vervangen, konden banken en andere transactieverwerkers (en bij uitbreiding de regeringen die hen reguleren) alle economische activiteit monitoren.
 
@@ -34,7 +34,7 @@ In het bijzonder zagen sommige van de Cypherpunks, zoals Tim May, die ook deel u
 
 In zijn geheel stelde elektronisch geld iets voor dat vergelijkbaar is met de heilige graal van de Cypherpunks.
 
-### Het compromis van Chaum
+## Het compromis van Chaum
 
 Toen de Cypherpunks in de vroege jaren '90 net op het toneel verschenen, was David Chaum's eCash het enige elektronische geldproject dat een sterke privacy garandeerde. In hun discussies over digitaal geld tijdens bijeenkomsten of op de Cypherpunks mailinglijst, maakten Tim May en de andere Cypherpunks vaak expliciet of impliciet verwijzingen naar Chaum's ontwerp. Hij had met zijn methode van blinde handtekeningen een cruciaal onderdeel van de privacy-puzzel opgelost.
 
@@ -50,7 +50,7 @@ De hoop van de Cypherpunks dat Chaum de belofte van digitaal geld zou waarmaken,
 
 Tot verbazing van veel Cypherpunks, beschouwde Chaum dit als een aantrekkelijke eigenschap. Chaum, de CEO van DigiCash, redeneerde dat eCash, met de optie om ontvangers te deanoniemiseren, minder snel gebruikt zou kunnen worden voor afpersing, ontvoering of andere verontrustende criminele activiteiten. Daarnaast zou het zijn digitale geldsysteem waarschijnlijk aantrekkelijker maken voor banken en andere financiële instellingen, en (vooral) voor toezichthouders op deze instellingen.
 
-### Privacy zonder compromissen
+## Privacy zonder compromissen
 
 Voor de meeste Cypherpunks was het compromis over de anonimiteit van verkopers in eCash een grote teleurstelling.
 
@@ -72,7 +72,7 @@ Teleurgesteld schreef May naar de Cypherpunks mailinglijst:
 
 "Als het gaat om volledig ontraceerbaar digitaal geld, het echte e-geld, dan zijn wij misschien wel de vaandeldragers hiervan."[^166]
 
-### Octrooien
+## Octrooien
 
 Sommige van de Cypherpunks kwamen wel met oplossingen om een eCash-achtig systeem te creëren met volledige privacy voor zowel kopers als verkopers.
 
@@ -94,7 +94,7 @@ Hierdoor verwachtte May dat de ontwikkeling van digitaal geld tot stilstand zou 
 
 Hoewel David Chaum ongetwijfeld een pionier was op dit gebied, begonnen de Cypherpunks de cryptograaf steeds meer te zien als iemand die de toekomst van het elektronisch geld eerder hinderde dan bevorderde.
 
-### Alternatieven
+## Alternatieven
 
 Als de Cypherpunks het eCash protocol wilden verbeteren, moesten ze daarvoor nog een decennium wachten tot de patenten van Chaum verlopen waren, en dat leek een eeuwigheid. Tim May, Eric Hughes en John Gilmore hadden de Cypherpunk beweging juist opgezet omdat ze al gefrustreerd waren door de gebrek aan voortgang in de cryptografie, en dat al ruim tien jaar na de publicatie van Chaum's eerste digitale geld papers.
 
@@ -110,7 +110,7 @@ Andere ideeën waren op een fundamenteler niveau gebrekkig, zoals Nash's 'Digita
 
 "Ik moet echter wel zeggen", schreef Finney, "dat ondanks het feit dat ik niet echt denk dat het voorstel voor digitaal goud technisch haalbaar is, het idee om eigenaar te zijn van getallen enorm brutaal en behoorlijk creatief is."[^172]
 
-### De experimenten
+## De experimenten
 
 Omdat er niet veel veelbelovende alternatieven leken te zijn, was een populaire methode om Chaum's patenten te omzeilen dus om onder de radar te blijven.
 
@@ -138,7 +138,7 @@ Pr0duct Cypher concludeerde:
 
 "Jouw digitaal geld moet schaars zijn."[^174]
 
-### Gedekt digitaal geld
+## Gedekt digitaal geld
 
 Gedurende de volgende paar jaar, de midden jaren negentig, kwamen onderwerpen als de aard van geld, waarde en dekking van valuta regelmatig ter sprake op de mailinglijst van de Cypherpunks. Het was logisch dat de Cypherpunks deze kwesties bespraken, want om elektronisch geld te creëren, moesten ze begrijpen wat het eigenlijk waarde zou geven. Waarom zou iemand echte producten of diensten opgeven in ruil voor een nummer op een scherm?
 
@@ -166,7 +166,7 @@ Maar toch zag May elektronische valuta niet echt als geld op zich. Hij beschouwd
 
 En toen was er een Britse Cypherpunk die dacht dat elektronisch geld helemaal niet gedekt hoefde te zijn...
 
-### Adam Back
+## Adam Back
 
 Adam Back, een post-doctoraatsstudent in de informatica aan de Universiteit van Exeter en midden in de twintig, had nog nooit in persoon een Cypherpunk bijeenkomst bijgewoond. De mailinglijst had hij wel online gevonden. Hij raakte bijzonder geïnteresseerd in elektronisch geld en werd snel een van de meest actieve deelnemers in de discussies over dit onderwerp.
 

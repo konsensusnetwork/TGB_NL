@@ -1,6 +1,4 @@
-# DEEL II CYPHERPUNKS
-
-## Hoofdstuk 8: De Cypherpunk-beweging
+# De Cypherpunk-beweging
 
 Tim May kon een glimp van de toekomst zien. Hij had een gave om het potentieel van nieuwe technologieën te herkennen en kon voorspellen hoe ze de samenleving zouden beïnvloeden voordat bijna iemand anders dat kon.
 
@@ -20,7 +18,7 @@ Dit alles maakte dat de aspirant-schrijver zich als vanzelfsprekend thuis voelde
 
 In deze context raakte Tim May bevriend met Phil Salin, de "high-tech Hayekiaan" die tevergeefs had geprobeerd om een privé ruimtetransportindustrie op te zetten met zijn startup Starstruck. May en Salin deelden een passie voor zowel de Oostenrijkse economie als technologie. Beiden geloofden dat de voormalige verder kon worden ontwikkeld door de laatste te benutten.
 
-### BlackNet
+## BlackNet
 
 May had ongeveer een jaar op het strand doorgebracht met boeken toen Salin hem vertelde over AMIX, het ambitieuze internetproject waar hij aan werkte.
 
@@ -46,7 +44,7 @@ En May realiseerde zich uiteindelijk dat deze dynamiek niet alleen grote bedrijv
 
 En ook een andere lokale vriend van hem...
 
-### Eric Hughes
+## Eric Hughes
 
 Toen Eric Hughes in de late jaren 80, toen hij halfweg de twintig was, wiskunde studeerde aan Berkeley, had de cryptografische revolutie zijn weg al in het curriculum gevonden. Tegen de tijd dat hij afstudeerde, was hij goed op de hoogte van recente innovaties van mensen zoals Whitfield Diffie, Martin Hellman, Ralph Merkle en David Chaum. En net zoals zij, begreep Hughes intuïtief het veelbelovende potentieel van hun doorbraken in de context van een steeds meer gedigitaliseerde samenleving.
 
@@ -78,7 +76,7 @@ Toegegeven, er waren wel een paar projecten in ontwikkeling. In feite werkte Cha
 
 Toch leken dit erg magere resultaten, als je bedenkt hoe groot de doorbraken waren die May en Hughes zo enthousiast maakten voor de toekomst. Hoewel de nieuwe golf van crypto zich ongeveer vijftien jaar door het academia had verspreid, en een serie succesvolle Crypto-conferenties een reeks baanbrekende concepten hadden voorgesteld, bleef de daadwerkelijke softwareontwikkeling ver achter.
 
-### De vergadering
+## De vergadering
 
 Eric Hughes verhuisde uiteindelijk niet naar Santa Cruz. Maar de reis was zeker niet verspild. Gedurende zijn bezoek aan het stadje aan het strand kwamen Hughes en May overeen dat het tijd was om het gat tussen de academische wereld en de echte wereld te dichten, en zij concludeerden dat zij zelf het initiatief moesten nemen om dit te laten gebeuren. May en Hughes zetten zich in voor het bijeenbrengen van een groep van enkele van de slimste en meest bekwame cryptografen en hackers uit de Bay Area, en gingen aan het werk.
 
@@ -96,7 +94,7 @@ Op dit moment concludeerde de groep ook dat ze een pakkende naam nodig hadden om
 
 Met de slimme samentrekking van "cipher" en "cyberpunk," had de groep hun naam te pakken.
 
-### De Cypherpunks
+## De Cypherpunks
 
 De bijeenkomsten die volgden, werden op wisselende locaties gehouden, vaak bij iemand thuis of in iemands werkruimte, en vormden een centraal punt voor het delen van informatie, discussie en projectcoördinatie. Natuurlijk bood het iedereen ook de kans om elkaar wat beter te leren kennen, terwijl nieuwe mensen welkom waren om zich aan te sluiten en meer te leren over het initiatief en hoe ze konden deelnemen.
 
@@ -116,7 +114,7 @@ Ze hadden plannen om deze elektronische technologieën te ontwikkelen en deze al
 
 "Cypherpunks schrijven code". Dit werd de informele strijdkreet van de groep.
 
-### De mailinglijst
+## De mailinglijst
 
 De maandelijkse bijeenkomsten van de Cypherpunks waren vrij en open van aard. Naast de vaste kern van reguliere deelnemers, kwamen er ook nieuwsgierige nieuwkomers om een indruk te krijgen van wat er gaande was. Om de coördinatie hiervan te vergemakkelijken, richtte Hughes een e-maillijst op, gehost op de computer van Gilmore, waar hij aankomende evenementen aankondigde. Elke abonnee ontving handig een bericht in hun inbox met daarin de datum en locatie.
 
@@ -146,7 +144,7 @@ Toch werd actie aangemoedigd. Als iemand vond dat de Cypherpunks een specifieke 
 
 In feite werkte de Cypherpunk-beweging niet alleen aan een ander type toekomst. Voor May vertegenwoordigde het die toekomst al. Hij zag de open, toestemmingloze en non-hiërarchische manier waarop de Cypherpunks en hun e-maillijst opereerden als een model voor een opkomende *crypto-anarchistische* samenleving.
 
-### Crypto-anarchie
+## Crypto-anarchie
 
 De Extropians speculeerden soms over het creëren van vrije gebieden om te ondermijnen, zich te verbergen, of te ontsnappen aan staatscontrole over hun levens. Sommigen van hen stelden voor om steden te bouwen op grote drijvende eilanden in de zee -- het zogenaamde *seasteading* -- als de weg voorwaarts. Anderen geloofden dat het misschien mogelijk zou zijn om een klein eiland op te kopen om er een libertaire samenleving te stichten. Weer anderen suggereerden dat ze allemaal naar een specifieke jurisdictie moesten verhuizen en proberen lokale politieke structuren te beïnvloeden om zoveel mogelijk wetten en regulaties aan de kant te zetten.
 
@@ -178,7 +176,7 @@ May voorzag dat Cypherpunk-tools mensen zouden helpen om hun economische activit
 
 "In feite heeft Hayek héél véél met de Cypherpunks te maken!" schreef May op de Cypherpunk mailinglijst. "Van 'The Road to Serfdom' tot 'Law, Legislation, and Liberty', zijn werken hebben diepgaande invloed op mij gehad en op vele anderen. [...] Ik zou zelfs zeggen dat Hayek een kandidaat zou zijn geweest om op de cover van 'Wired' te staan... natuurlijk ervan uitgaande dat hij 60 jaar jonger was, sommige van zijn lichaamsdelen had gepiercet, en beter nog, een Netchick was."[^152]
 
-### Code
+## Code
 
 Tim May was er zich goed van bewust dat de crypto-anarchistische ideeën die hij verspreidde niet precies aantrekkelijk waren voor een breed publiek; niet iedereen hoopt op een ineenstorting van regeringen. Waarschijnlijk zou het nog erger worden als men erachter zou komen dat onkraakbare encryptie en anonieme mixnetwerken grootschalige verspreiding van kinderpornografie mogelijk maakten en veilige communicatie voor terroristische cellen faciliteerden. Veel mensen zouden deze nieuwe instrumenten waarschijnlijk met angst en woede bekijken.
 
@@ -206,7 +204,7 @@ Met de gloednieuwe remailer-software van Hughes en de verbeterde encryptietool v
 
 Maar het zou niet lang duren voordat ze in het defensief gedwongen werden...
 
-### De crypto-oorlogen
+## De crypto-oorlogen
 
 Toen Bill Clinton in januari 1993 het ambt van de 42e President van de Verenigde Staten op zich nam, waren er door zijn nieuwe administratie snel zorgen geuit omtrent het mogelijk onheilspellende gebruik van persoonlijke computers en het internet. Ze kondigden aan dat wetshandhavingsinstanties nieuwe tools nodig zouden hebben om mee te kunnen gaan met het recente tempo van technologische vernieuwing.
 
@@ -236,7 +234,7 @@ Inderdaad, het verzet van de Cypherpunks nam allerlei vormen aan: juist omdat ze
 
 Hij concludeerde: "Ons onmiddellijke doel moet zijn om ervoor te zorgen dat de 'geest uit de fles is', dat voldoende crypto-tools en kennis wijdverspreid zijn zodat zo'n overheidsverbod zinloos wordt."[^156]
 
-### Sucessen
+## Sucessen
 
 De Cypherpunks waren gemotiveerd en gedreven, maar stonden tegenover de volle kracht van de Amerikaanse overheid. Weinigen hadden verwacht dat ze als overwinnaars uit de crypto-oorlogen zouden komen.
 

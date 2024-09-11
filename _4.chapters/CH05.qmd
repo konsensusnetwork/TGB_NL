@@ -1,4 +1,4 @@
-## Hoofdstuk 5: Denationalisatie van geld
+# Denationalisatie van geld
 
 Economische depressie en valuta-devaluaties hadden geleid tot fascisme en, uiteindelijk naar de Tweede Wereldoorlog.
 
@@ -20,7 +20,7 @@ Keynes was er echter niet om de effecten van het Bretton Woods-systeem en de ins
 
 Hoewel Hayek zijn rivaal had overleefd, erkende hij dat de ideeën van Keynes de voorkeur genoten boven de zijne. Hij had niet het gevoel dat de nieuwe generatie Keynesiaanse economen echt geïnteresseerd was in een eerlijk en zinvol debat. De Oostenrijker besloot de London School of Economics te verlaten en zich aan te sluiten bij de Universiteit van Chicago. Daar trok hij zich grotendeels terug uit het vakgebied van de economie en verschoof zijn focus naar de wereld van politiek en filosofie.
 
-### Het tijdperk van Keynes
+## Het tijdperk van Keynes
 
 Halverwege de twintigste eeuw was 'het tijdperk van Keynes' onmiskenbaar aangebroken in het kapitalistische Westen. Overheden, centrale banken en andere instellingen bepaalden het economisch beleid en economen trachtten het theoretische raamwerk achter fiscale planning, stabilisatiebeleid en monetaire stimuli verder uit te werken. Zo introduceerde bijvoorbeeld Professor William Phillips van de London School of Economics de Phillips-curve, die aangaf dat er een omgekeerd verband was tussen inflatie en werkloosheid. Dit was precies zoals de Keynesiaanse theorie suggereerde: meer overheidsuitgaven resulteerden in meer banen.
 
@@ -46,7 +46,7 @@ De Keynesiaanse leer stelde eigenlijk zowel overheidsuitgaven als bezuinigingen 
 
 Dit probleem was natuurlijk voorzien. Hayek heeft altijd beweerd dat de grootste nalatigheid van Keynes wellicht niet op economisch gebied lag, maar op politiek gebied: het was over het algemeen niet zo dat je van verkozen vertegenwoordigers kon verwachten dat ze de discipline zouden aan de dag leggen die een *anti-cyclische* aanpak vereist.
 
-### De Nixon-schok
+## De Nixon-schok
 
 De overdadige uitgavendrift van Nixon en een aantal van zijn voorgangers kon in zekere zin worden verklaard als een uitvoering van de Keynesiaanse doctrine. Maar tegen de jaren '70 werden sommige van de grootste bezitters van dollars ongemakkelijk. Het werd steeds duidelijker dat de Verenigde Staten boven hun stand leefden en veel meer geld drukten en uitgaven dan ze in goud konden verantwoorden.
 
@@ -62,7 +62,7 @@ Ondertussen had Nixon het voornemen om in tijd voor de verkiezingen van 1972 de 
 
 Nixon kreeg zijn zin. Hij won de herverkiezing. En tegen 1973 waren de officiële, op de consumentenprijsindex-gebaseerde (CPI), inflatiecijfers gestegen naar 9,6 procent, om vervolgens in de volgende jaren te stijgen naar dubbele cijfers.[^85]
 
-### Inflatie
+## Inflatie
 
 Hayek beweerde dat kunstmatig lage rentes zouden leiden tot een economische groei die niet vol te houden was, gevolgd door een pijnlijke correctie, waarbij de markt het best met rust kon worden gelaten om een natuurlijker evenwicht te vinden. Keynesianen daarentegen adviseerden dat de overheid zou moeten ingrijpen met uitgaven om de economie weer op het juiste spoor te krijgen na zo'n recessie.
 
@@ -88,7 +88,7 @@ Hayek:
 
 In economische termen wordt dit resultaat (een economie met zowel inflatie van de munteenheid als economische stagnatie) stagflatie genoemd.
 
-### Het Cantillon-effect
+## Het Cantillon-effect
 
 Hayek maakte zich om diverse redenen zeer veel zorgen over inflatie (en het uiteindelijke vooruitzicht van stagflatie).
 
@@ -120,7 +120,7 @@ Een rampzalige uitkomst, volgens Hayek:
 
 'Openlijke inflatie is al erg genoeg, maar inflatie die onderdrukt wordt door [prijs]controles is nog erger: het is het echte einde van de markteconomie'.[^89]
 
-### De overheid buitenspel zetten
+## De overheid buitenspel zetten
 
 Keynesianen, die tegen die tijd bijna alle mainstream economen vertegenwoordigden, deelden Hayek's zorg over inflatie en in het bijzonder stagflatie niet. Ze geloofden in feite dat stagflatie onmogelijk was. Zoals de Phillips-curve had aangetoond, waren inflatie en werkloosheid *omgekeerd* gecorreleerd: een hogere inflatie zou betekenen dat er minder werkloosheid was.
 
@@ -150,7 +150,7 @@ Maar nu, in de nadagen van zijn carrière, viel het kwartje eindelijk voor hem.
 
 Het idee was dat geld aan de vrije markt overgelaten moest worden.
 
-### Denationaliseren van geld
+## Denationaliseren van geld
 
 Hayek bepleitte zijn zaak voor het eerst in zijn toespraak tot de Goud en Monetaire Conferentie in Genève in 1975[^93]. In 1976 presenteerde Hayek dit onconventionele voorstel uitvoerig in zijn boek *Denationalisatie van Geld*. In essentie betoogde de econoom dat banken volledig gedereguleerd zouden moeten worden, zodat ze elk geld dat ze geschikt achten konden uitgeven: ondersteund of niet ondersteund, inflatoir of deflatoir, al dan niet in bestaan gebracht door leningen, en tegen elk renteniveau dat ze wilden vragen.
 
@@ -174,7 +174,7 @@ Op het eerste gezicht zou dit als een toegeving aan het gebruik van een consumen
 
 Dit zou inderdaad een valuta met een vaste voorraad kunnen omvatten, of wat Hayek eerder in zijn carrière had omschreven als neutraal geld.
 
-### Ongedekt geld
+## Ongedekt geld
 
 Het voorstel van Hayek kreeg niet meteen de steun van al zijn collega's binnen de Oostenrijkse school van economie. Veel Oostenrijkers waren van mening dat de markt al een lange tijd geleden de beste vorm van geld had gekozen. In een strijd die duizenden jaren heeft geduurd, had goud gewonnen. Zij hielden vol dat goud nog steeds de beste vorm van geld was, en dat nieuwe valuta's op z'n minst *gedekt* zouden moeten worden door het kostbare metaal.
 
@@ -194,7 +194,7 @@ In een wereld waar banken en andere financiële instellingen in de loop der tijd
 
 Hayek zag geld als een spontane orde.
 
-### Het realiseren van vrij bankieren
+## Het realiseren van vrij bankieren
 
 Hoewel de meeste landen technisch gezien alternatieve valuta's toestaan (er zijn doorgaans geen wetten die ze expliciet illegaal maken) wordt dit vaak niet weerspiegeld in de praktijk. Bankregulaties, vergunningen voor geldtransfers, antiwitwasregels, wetten tegen vervalsing evenals belastingen (zoals vermogenswinstbelasting op alternatieve valuta's) bieden wetshandhavingsinstanties meer dan voldoende middelen om bedrijven die valuta uitgeven compleet te sluiten, en hun operators veroordeeld te krijgen, of op zijn minst maken ze het opereren van dergelijke bedrijven praktisch onmogelijk.
 

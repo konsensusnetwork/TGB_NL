@@ -1,4 +1,4 @@
-## Hoofdstuk 4: Cryptografie[^73]
+# Cryptografie[^73]
 
 Whitfield Diffie had altijd al een voorliefde voor codes. Al sinds zijn docent in het vijfde leerjaar hem de substitutiecipher leerde (een basistechniek in de wiskundige tak van cryptografie), was hij gefascineerd door deze methode van geheimhouding. Het feit dat tekstversleutelingsalgoritmen in die tijd -- de jaren vijftig -- de specialiteit waren van het leger, geheime agenten en spionnen, droeg alleen maar bij tot de mysterieuze aantrekkingskracht.
 
@@ -16,7 +16,7 @@ Een sleutel delen via een onbeveiligd communicatiekanaal was echter geen optie. 
 
 Dit was natuurlijk niet altijd gemakkelijk, of zelfs mogelijk. Grote afstanden of extreme situaties zoals oorlog konden het proces aanzienlijk bemoeilijken. Toch geloofden cryptografen, zoals Diffie in zijn beginjaren leerde, dat er geen andere manier was: men moest eerst sleutels persoonlijk uitwisselen.
 
-### MIT
+## MIT
 
 Ongeveer tien jaar nadat hij voor het eerst kennismaakte met de methode van de substitutiecipher, begon Whitfield Diffie wiskunde te studeren aan de Massachusetts Institute of Technology. Dit viel ook samen met de komst van de allereerste computers op de universiteitscampus. Hoewel hij zichzelf toen, in zijn vroege twintiger jaren en als een naar eigen zeggen vredelievend persoon, meer als een pure wiskundige zag dan als een informaticus, besloot Diffie toch om programmeervaardigheden aan te leren. Op deze manier wilde hij zijn vaardigheden uitbreiden met praktischere kennis.
 
@@ -34,7 +34,7 @@ Maar Diffie leerde nu ook dat de werkelijke voorhoede van cryptografie waarschij
 
 Het idee dat de NSA belangrijke informatie voor het publiek zou kunnen achterhouden, zat Diffie helemaal niet lekker.
 
-### Stanford
+## Stanford
 
 Toen de hackercultuur voor het eerst begon te verspreiden buiten de campus van MIT, vond het een vroege thuis in de San Francisco Bay Area, op de Stanford University. En zo zou ook Diffie zijn weg daarheen vinden. Toen hij in 1969 vierentwintig werd en de leeftijdsgrens voor de dienstplicht naderde, verliet de afgestudeerde van MIT Mitre om in plaats daarvan te werken voor het AI Lab van Stanford. Hier vond hij nieuwe uitdagingen die pasten bij zijn hernieuwde interesse in cryptografie.
 
@@ -52,7 +52,7 @@ Terwijl hij oplossingen probeerde te vinden voor deze uitdagingen, groeide Diffi
 
 Dit was echter niet de enige reden waarom de hacker van het AI Lab uiteindelijk besloot om alles op alles te zetten.
 
-### Rondreis door Amerika
+## Rondreis door Amerika
 
 Toen Diffie in de zomer van 1973 een oude vriendin, de dierentrainster Marie Fischer uit Brooklyn, bezocht, had hij niet verwacht verliefd te worden. Maar toen dat gebeurde, veranderden zijn plannen drastisch. In plaats van terug te keren naar de Westkust, besloot hij om zijn baan in het AI Lab van Stanford op te zeggen en tijd met zijn nieuwe vriendin op de weg door te brengen. De twee begonnen aan een rondreis door het land in een oude Datsun 510.
 
@@ -74,7 +74,7 @@ Toen Diffie en Hellman elkaar voor het eerst ontmoetten in 1974 en het idee besp
 
 Toen Diffie na meer dan een jaar reizen besloot om zich te vestigen in de Bay Area, werden hij en Hellman goede vrienden en al snel collega's: Hellman nam Diffie aan als deeltijdse onderzoeker aan de universiteit.
 
-### Publieke-sleutel cryptograpfie
+## Publieke-sleutel cryptograpfie
 
 Op een doodgewone middag, toen Diffie op het huis van zijn voormalige werkgever John McCarthy pastte, viel het kwartje eindelijk.
 
@@ -100,7 +100,7 @@ Dit resulteerde in het eerste gezamenlijk geschreven artikel van Diffie en Hellm
 
 Maar ze kondigden aan dat ze bezig waren met iets groots: ze brachten het idee van cryptografie met publieke sleutels naar voren.
 
-### Ralph Merkle
+## Ralph Merkle
 
 Het artikel was nauwelijks gepubliceerd toen Hellman een brief van een afgestudeerde student aan de Universiteit van Californië, Berkeley ontving.
 
@@ -142,7 +142,7 @@ Hellman besloot om Merkle een zomerstage aan te bieden, waarbij hij de student u
 
 Nu waren ze met drie bezig met het probleem.
 
-### De doorbraak
+## De doorbraak
 
 Uiteindelijk was het Hellman die de puzzelstukjes op hun plek liet vallen.
 
@@ -166,7 +166,7 @@ De Diffie-Hellman sleuteluitwisseling doorbrak het status-quo in het veld van de
 
 Het werd al snel duidelijk dat Diffie en Hellman een stroomversnelling hadden veroorzaakt. Een nieuwe generatie cryptografen stond op het punt om een waterval aan innovatie in de wereld van de cryptografie te introduceren.
 
-### RSA
+## RSA
 
 Onder de eersten die geïnspireerd raakten door het paper van Diffie en Hellman waren drie jonge wiskundigen van het MIT. Niet alleen hielden ze allen van getallen, ze waren ook gedreven om lastige problemen op te lossen. Ron Rivest, een assistent-professor aan de universiteit, Adi Shamir, een gastprofessor, en Leonard Adleman, een computerspecialist aan hetzelfde instituut, begonnen samen aan het ontwerpen van een eenrichtingsfunctie specifiek voor publieke sleutel-cryptografie.
 
@@ -188,7 +188,7 @@ En tot slot, RSA-encryptie schaalde (ongeveer) exponentieel. Gewoon een paar cij
 
 Met RSA was Diffie's visie voor publieke-sleutelcryptografie echt werkelijkheid geworden.
 
-### David Chaum
+## David Chaum
 
 Een andere jonge cryptograaf die geïnspireerd werd door de doorbraak van Diffie en Hellman was David Chaum.
 
@@ -216,7 +216,7 @@ Daarnaast richtte Chaum de *International Association for Cryptologic Research* 
 
 De grootste bijdragen van Chaum aan het veld van de cryptografie waren echter niet de evenementen die hij organiseerde of de organisatie die hij oprichtte, maar de technieken die hij ontwierp.
 
-### Remailers
+## Remailers
 
 Publieke-sleutelcryptografie maakte het mogelijk voor twee mensen die elkaar nog nooit hadden ontmoet om berichten uit te wisselen die alleen zij konden lezen. Dit bood privacy in communicatie --- een baanbrekende ontwikkeling.
 

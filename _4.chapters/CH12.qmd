@@ -1,4 +1,4 @@
-## Hoofdstuk 12: B-geld (en BitTorrent)
+# B-geld (en BitTorrent)
 
 Niet lang nadat Bit Gold had laten zien hoe proof-of-work in overdraagbaar elektronisch geld kon worden omgezet, werd er een enigszins vergelijkbaar voorstel voor digitale valuta ingediend bij de Cypherpunk mailinglijst. De auteur, Wei Dai, was een bekende naam binnen de Cypherpunk gemeenschap, maar dan alleen bij naam.
 
@@ -28,7 +28,7 @@ Hij concludeerde:
 
 "Het protocol dat in dit artikel wordt voorgesteld, maakt het voor ontraceerbare pseudonieme entiteiten mogelijk om efficiënter samen te werken, door hen te voorzien van een ruilmiddel en een manier om contracten af te dwingen. [...] Ik hoop dat dit een stap is in de richting van het praktisch mogelijk maken van crypto-anarchie, naast de theoretische mogelijkheid."[^224]
 
-### B-geld
+## B-geld
 
 B-geld leek in belangrijke opzichten op Bit Gold, hoewel het op andere punten verschilde.
 
@@ -62,7 +62,7 @@ Wei Dai stelde daarom een manier voor om de servers eerlijk te houden.
 
 Echter, het b-geld voorstel ging niet in detail in op een van deze oplossingen. Wellicht het meest problematisch was dat Dai niet uitlegde wie zou bepalen of er wangedrag plaatsvond, als dit niet werd bepaald door de (samenzwerende) servers zelf, of hoe de boetes konden worden afgedwongen. Net zoals Bit Gold geen oplossing had geboden om conflicten tussen servers te beslechten, had b-geld dat ook niet gedaan.
 
-### Monetaire beleid van b-geld
+## Monetaire beleid van b-geld
 
 Net als Bit Gold zou b-geld een zuiver digitale munteenheid zijn. Er zou geen bank of bedrijf zijn die de digitale eenheden dekte met dollars of goud, en geen garantie dat iemand de munteenheid zou accepteren voor betaling.
 
@@ -90,7 +90,7 @@ Het was een innovatieve aanpak, maar opnieuw bleef er veel ongespecificeerd. Zow
 
 Dai zelf besloot echter dat hij niet degene zou zijn die deze problemen zou oplossen.
 
-### Ontgoocheling
+## Ontgoocheling
 
 In zijn voorstel voor b-geld leek Wei Dai nog altijd optimistisch over de mogelijkheden en het potentieel van Tim May's crypto-anarchistische visie. Maar in werkelijkheid was de ongrijpbare informaticus de droom van de Cypherpunks aan het opgeven.
 
@@ -112,7 +112,7 @@ Het optimisme en de assertiviteit die de beweging in de begindagen kenmerkten, w
 
 In plaats daarvan kwamen sommige van de meer hoopvolle impulsen voor de Cypherpunk-missie in de late jaren '90 van relatieve buitenstaanders van de gemeenschap.
 
-### Zero-Knowledge Systems
+## Zero-Knowledge Systems
 
 De Canadese broers Austin en Hamnett Hill waren nog maar halverwege de twintig toen ze TotalNet, de internetprovider die ze hadden opgericht en die de derde grootste van hun land werd, verkochten. Met wat geld in hun zak en de tijd om het uit te geven, zochten de twee naar hun volgende project toen ze op de Cypherpunk-mailinglijst stuitten. Ze raakten volledig in de ban van het techno-libertarische ethos van de beweging.
 
@@ -144,7 +144,7 @@ Hiermee liet de startup het Cypherpunk-ethos grotendeels achter zich, en persone
 
 Ondanks een hoopvol begin, was dit een nieuwe tegenslag voor het doel van de Cypherpunks.
 
-### Mojo Nation
+## Mojo Nation
 
 Een andere positieve impuls kwam van twee tot dusver onbekende tieners die een compleet ander deel van de cyberspace ontregelden: Met de lancering van Napster in 1999 gooiden Shawn Fanning en Sean Parker, achttien en negentien jaar oud respectievelijk, de digitale variant van een handgranaat recht in het hart van de muziekindustrie.
 
@@ -164,7 +164,7 @@ Daarnaast werden sommige taken die Napster nog steeds als een centrale coördina
 
 Wat dit alles liet draaien was wellicht het meest interessante element van Mojo Nation: een digitale valuta genaamd *Mojo*.
 
-### Mojo
+## Mojo
 
 Mojo is ontworpen als een ongedekte digitale valuta die eigenlijk alleen nuttig was binnen de context van het bestandsuitwisselingsnetwerk.
 
@@ -186,7 +186,7 @@ Dat gezegd zijnde, was het vertrouwen op een gecentraliseerd digitaal valutasyst
 
 In 2002 zag McCoy zich gedwongen om de meeste werknemers te ontslaan.
 
-### BitTorrent
+## BitTorrent
 
 Hoewel Mojo Nation ten onder ging, waren er enkele ontwikkelaars bij de startup die hun vooruitstrevende technologieën niet wilden laten vergaan. Zo besloot Wilcox bijvoorbeeld de code van Mojo Nation te kopiëren (forken) om een versie van het protocol genaamd Mnet uit te brengen. Daarnaast bracht ook een andere medewerker van Autonomous Zone Industries, de 28-jarige softwareontwikkelaar en Cypherpunk Bram Cohen, zijn eigen op Mojo Nation geïnspireerde bestandsuitwisselingsnetwerk uit.
 

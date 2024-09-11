@@ -1,4 +1,4 @@
-## Hoofdstuk 3: Neutraal geld
+# Neutraal geld
 
 Friedrich Hayek legde het idee van de vrije markt uit in termen van spontane orde in de jaren dertig. Hij voerde aan dat individuen, door in hun eigen belang te handelen, in staat waren middelen op een efficiënte manier over de samenleving te verdelen met behulp van het prijssysteem: een verbazingwekkend concept.
 
@@ -16,7 +16,7 @@ Maar dit laat uiteraard nog steeds een belangrijk deel van de tegenstrijdigheid 
 
 Mises loste deze vraag op door de theorie van Carl Menger te accepteren, die stelde dat geld oorspronkelijk uit ruilhandel ontstond.
 
-### Van ruilhandel naar geld
+## Van ruilhandel naar geld
 
 In een ruileconomie -- een economie zonder geld -- ruilen mensen direct goederen en diensten. Als de schoenmaker een paar schoenen heeft, maar liever een brood wil, en de bakker een brood heeft maar liever een paar schoenen wil, dan ruilen ze hun producten met elkaar. Na deze transactie zijn ze beiden (subjectief gezien) beter af dan daarvoor.
 
@@ -48,7 +48,7 @@ Zout is in het verleden inderdaad als vorm van betaling gebruikt. Enkele duizend
 
 Desalniettemin, gedurende duizenden jaren, ontdekten diverse beschavingen van over de wereld dat er een beter ruilmiddel bestond dan zout. Tegen de tijd dat Mises zijn regressietheorema publiceerde, was het grootste deel van de wereld overgegaan op het gebruik van goud.[^56]
 
-### Goud
+## Goud
 
 De eigenschappen van goud maken het bijzonder geschikt als geld. Goud is ongelooflijk duurzaam: het rot niet, roest niet en bederft ook niet. Het is ook redelijk draagbaar. Gouden munten kunnen makkelijk worden meegenomen. Het is deelbaar, want met de juiste gereedschappen kan goud worden gesmolten tot kleinere stukjes, en deze kleinere porties kunnen weer worden samengesmolten tot grotere baren. De eigenschappen van goud maken het ook relatief makkelijk te herkennen, terwijl het perfect inwisselbaar is. En wellicht het belangrijkste, het winnen van goud uit de aardkorst is een moeilijk en duur proces, en wordt steeds lastiger naarmate de makkelijkst toegankelijke goudmijnen uitgeput raken, wat enige mate van schaarste garandeert. En als bonus, het glanzende, gele metaal wordt door velen als mooi beschouwd.
 
@@ -70,7 +70,7 @@ Deze flexibiliteit bood de mogelijkheid voor een nieuw soort monetair beleid: ce
 
 Het was dit beleid waar Hayek zo fel kritiek op had.
 
-### De stabilisators
+## De stabilisators
 
 De eerste pleitbezorger voor dit nieuwe type van monetair beleid was Irving Fisher, een toonaangevende econoom in het begin van de twintigste eeuw. Fisher was een van de eerste economen die zich zorgen maakten over deflatie, of specifieker, de deflatoire schuldenspiraal. Hij geloofde dat alleen stabiele prijzen 'de kwalen van monetaire instabiliteit' konden voorkomen.[^58]
 
@@ -90,7 +90,7 @@ Hoewel dit inderdaad gedeeltelijk verzacht kon worden als de centrale banken een
 
 Als geld daarentegen volledig bevrijd zou worden van de beperkingen van goud, kon het monetaire beleid zo flexibel zijn als de monetaire autoriteiten nodig achtten.
 
-### De verwerping van stabiel geld
+## De verwerping van stabiel geld
 
 Hayek verwierp het gebruik van rentetarieven door centrale banken als middel, omdat hij geloofde dat dit enkel leidde tot een volatielere conjunctuurcyclus. Maar hij verwierp ook het doel om prijzen te stabiliseren. Hayek keurde deze stabilisatoren af.
 
@@ -128,7 +128,7 @@ Hayek benadrukte dat als de daling van de prijzen niet veroorzaakt werd door een
 
 'Een daling van het prijspeil als gevolg van continue verbeteringen in alle productietakken heeft niet dezelfde problematische gevolgen als een deflatie. Theorie is tot nu toe nauwelijks verder gekomen dan dit onderscheid tussen de effecten van prijswijzigingen die enerzijds afkomstig zijn van de 'goederenkant' en anderzijds van de 'geldkant''.[^63]
 
-### De goudwisselstandaard
+## De goudwisselstandaard
 
 De Vereniging voor Stabiel Geld had zich in de periode kort na de Eerste Wereldoorlog snel laten gelden. Slechts een jaar na de oprichting wist de groep hun standpunt met succes te verdedigen op de Economische en Financiële Conferentie van Genua in 1922. Daar kwamen vertegenwoordigers van 34 grote geïndustrialiseerde landen bijeen om de grote economische en politieke problemen van het naoorlogse Europa op te lossen.
 
@@ -146,7 +146,7 @@ Het verhoogde prijspeil in landen met een handelsoverschot zou de producten van 
 
 Ook Hayek erkende dat een dergelijk handelsevenwicht behouden kon worden onder de goudwisselstandaard, net zoals onder de fiatgelstandaard. Maar hij was het er niet mee eens dat dit een goede zaak was.
 
-### Monetair nationalisme
+## Monetair nationalisme
 
 In 1937 nam Hayek zowel de goudwisselstandaard als het zwevende fiatgeldsysteem onder de loep in een reeks lezingen getiteld 'Monetair nationalisme en internationale stabiliteit'. De lezingen wezen de internationale valuta-afspraken door de stabilisatoren, die Hayek had bestempeld als monetair nationalisme, volledig af.
 
@@ -168,7 +168,7 @@ Hoewel in dit voorbeeld de initiële verschuiving in vraag enkel plaatsvindt tus
 
 In beide vormen verstoorde het monetair nationalisme de spontane orde over grenzen heen, concludeerde Hayek.
 
-### Neutraal geld
+## Neutraal geld
 
 Hayek verwierp stabilisatiebeleid en hij verwierp ook monetair nationalisme. In plaats daarvan pleitte hij voor een homogeen, internationaal soort geld met een vaste hoeveelheid. Of wat hij *neutraal geld* noemde.
 
@@ -194,7 +194,7 @@ Maar nog belangrijker, Hayek was van mening dat een homegene valuta met een vast
 
 Neutraal geld was onmogelijk omdat, op een zeer fundamenteel niveau, naties elkaar niet konden vertrouwen.
 
-### Valuta-oorlogen
+## Valuta-oorlogen
 
 Inderdaad, dit gebrek aan vertrouwen had tegen het einde van de jaren dertig ook bijgedragen aan de ineenstorting van de goudwisselstandaard.
 

@@ -1,4 +1,4 @@
-## Hoofdstuk 2: vrije en open source software
+# Vrije en open source software
 
 Richard Stallman was in de vroege jaren '60, al vanaf jonge leeftijd, gefascineerd door computers. Toen hij op zomerkamp was, leende hij programmeerhandleidingen van zijn begeleiders. Er was destijds geen computer te bekennen -- ze kostten gemakkelijk meer dan € 100.000 per stuk -- maar dat kleine detail ging zijn plezier niet bederven. Tijdens zijn reis schreef hij computerprogramma's volledig uit op papier.
 
@@ -12,7 +12,7 @@ In plaats daarvan gaven ze hem een baan.
 
 Dit weerspiegelde de tamelijk anarchistische cultuur in het AI Lab. De leiders van het onderzoekscentrum hadden niet veel interesse in ervaring of kwalificaties, maar waardeerden vaardigheid en potentieel. Het was duidelijk dat dit wonderkind van Harvard, die het lab bezocht om hun computerdocumentatie te bestuderen, goed bij hen zou passen.[^30]
 
-### 'De cultuur van hackers[^31]'
+## 'De cultuur van hackers[^31]'
 
 De anarchistische cultuur in het AI Lab was ongeveer een decennium eerder voor het eerst ontstaan.
 
@@ -42,7 +42,7 @@ De hackers zouden uiteindelijk een speciaal besturingssysteem ontwikkelen om dat
 
 Dit was de vrije en coöperatieve cultuur die Stallman in het AI Lab van MIT ontdekte.
 
-### Anarchisme
+## Anarchisme
 
 De computer van het AI Lab was inderdaad, door iedereen, vrij, en zonder beperkingen, te gebruiken. Niet alleen werknemers, maar ook bezoekers van het lab konden de machine op elk gewenst moment gebruiken, en toegang krijgen tot elk programma of bestand dat zich op de machine bevond. De machine fungeerde als een gedeelde voorziening, voor iedereen beschikbaar.
 
@@ -62,7 +62,7 @@ Hoewel Stallman geen anarchist was in de meest complete betekenis van het woord 
 
 En Stallman geloofde dat de hackercultuur ook buiten het academische domein levensvatbaar zou zijn. Met het AI Lab als een geslaagd voorbeeld, zou het vrije en samenwerkende ethos wellicht een model kunnen worden voor de opkomende computerrevolutie.
 
-### Problemen in het paradijs
+## Problemen in het paradijs
 
 Later werd echter duidelijk dat de verspreiding van de hackercultuur niet zo eenvoudig was.
 
@@ -94,7 +94,7 @@ Stallman had ooit gedroomd van een toekomst geïnspireerd door de vrije en colla
 
 'Ik ben de laatste overlevende van een dode cultuur', klaagde Stallman met een gevoel van drama. 'En ik hoor echt niet meer thuis in de wereld. En op sommige manieren voel ik dat ik eigenlijk dood zou moeten zijn.'[^36]
 
-### Vrije software
+## Vrije software
 
 Toch was Stallman nog niet helemaal bereid om op te geven.
 
@@ -124,7 +124,7 @@ Om dit te verwezenlijken, ontwikkelde hij een filosofie die vereiste dat elk com
 
 Of samengevat, gebruikers hadden over het algemeen 'de vrijheid om software te draaien, kopiëren, verspreiden, bestuderen, veranderen en te verbeteren.'[^45] Dit vereist dat de menselijk-leesbare broncode van een programma gepubliceerd is, en dat deze niet onderhevig is aan beperkende auteursrechtenlicenties. Stallman zou software, die deze vier essentiële vrijheden bood, classificeren als vrije software (vrij in de betekenis van 'vrijheid', benadrukte de hacker graag, en niet zoals in 'gratis bier'.).
 
-### GNU
+## GNU
 
 Om echt de belofte van vrije software waar te maken, begreep Stallman dat elk programma op een computer de vereiste vrijheden moest bieden. Dit omvatte -- in de eerste plaats -- het besturingssysteem. Een tekstverwerker die zich houdt aan de vier vrijheden kan zijn gebruiker niet stiekem bespioneren, maar als het besturingssysteem waarop de tekstverwerker draait ook niet-vrije software is, kan niet worden uitgesloten dat het besturingssysteem bespioneert.
 
@@ -142,7 +142,7 @@ Dit omvatte, het meest opmerkelijk, de GNU General Public License: een licentie 
 
 Met het GNU-project in volle gang en de nieuwe licenties geïmplementeerd, stond vrije software op het punt om een kracht te worden waar je maar best rekening mee hield.
 
-### De kathedraal en de bazaar
+## De kathedraal en de bazaar
 
 Traditioneel werden vrije softwareprojecten uitgevoerd door kleine groepjes ontwikkelaars vanuit speciale technologiehubs, zoals het AI Lab van MIT. Maar toen hij aan GNU begon te werken, nodigde Stallman andere ontwikkelaars uit om ook aan zijn project mee te werken. Door gebruik te maken van het ontluikende internet, konden hackers zelfs vanuit de hele wereld code bijdragen.
 
@@ -172,7 +172,7 @@ Stallman was zelf echter niet akkoord met de herbenoeming. Voor hem was vrijheid
 
 Vandaag de dag verwijzen de termen 'vrije software' en 'open source software' in vrijwel alle gevallen naar hetzelfde concept, maar het verschil in terminologie blijft de filosofische kloof vertegenwoordigen. De term 'vrije en open source software' (FOSS) wordt gebruikt om beide zijden van het schisma expliciet te omvatten.[^50]
 
-### Gemeenschappelijk begrip
+## Gemeenschappelijk begrip
 
 Het bazaarmodel kan hoogwaardige code opleveren. Maar die kwaliteit is geen vanzelfsprekendheid. Volgens de Wet van Linus, vereist hoogwaardige code voldoende 'ogen', oftewel bijdragers.
 

@@ -1,4 +1,4 @@
-## Hoofdstuk 10: Hashcash
+# Hashcash
 
 Adam Back groeide op in de East Midlands van Engeland en had op dertienjarige leeftijd genoeg gespaard om de populaire Sinclair ZX81 thuiscomputer te kopen. Dit apparaat, dat voor het eerst uitkwam in januari 1981, was ongeveer de omvang van een faxmachine, had een ingebouwd toetsenbord en kon worden aangesloten op de televisie van het gezin. Hierdoor kon de jongen de 8-bits wonderen van dit apparaat ontdekken, gewoon in het comfort van zijn eigen woonkamer.
 
@@ -22,7 +22,7 @@ De uitdaging was dus om een protocol te ontwerpen dat elke eerlijke deelnemer on
 
 Dit waren precies het soort uitdagingen waar Adam Back graag zijn hersenen over kraakte.
 
-### De Cypherpunk
+## De Cypherpunk
 
 Als PhD-kandidaat kwam Back aan dezelfde universiteit in contact met een masterstudent die probeerde het RSA-encryptieprotocol te optimaliseren voor parallele berekening. Dit leek Back een interessant project, en het lag dicht bij zijn eigen onderzoeksgebied. Hij besloot dus om te helpen. Dit betekende dat hij zich moest verdiepen in het RSA-algoritme, wat hem op zijn beurt ook leidde naar het bestuderen van Phil Zimmermann's nieuwe PGP-project.
 
@@ -50,7 +50,7 @@ Het leidde de Britse Cypherpunk ertoe om op een unieke manier zijn punt te bewij
 
 Passend genoeg, want mogelijk meer dan wat dan ook, was Adam Back bijzonder geïnteresseerd in elektronisch geld.
 
-### In actie komen
+## In actie komen
 
 Toen Adam Back zich bij de mailinglijst van de Cypherpunks aansloot, was DigiCash werkelijk onbetwistbaar op gebied van anonieme digitale valuta. Maar de voortgang van eCash verliep minder snel dan hij en vele anderen hadden gewenst.
 
@@ -80,7 +80,7 @@ Door de bank op te splitsen in meerdere, onderling afhankelijke, partijen, zou e
 
 Hij kreeg geen antwoord op zijn e-mail.
 
-### Spam
+## Spam
 
 In de tweede helft van de jaren '90 moest elke e-mailservice op het internet omgaan met ogenschijnlijk steeds toenemende hoeveelheden ongewenste mail, of *spam*: ongevraagde berichten die in bulk werden verzonden, doorgaans door adverteerders. De Cypherpunks werden hierbij niet gespaard; promoties voor afslankpillen, producten voor penisvergroting en aanbiedingen om snel rijk mee te worden veroorzaakten alsmaar meer vervuiling op de mailinglijst.
 
@@ -108,7 +108,7 @@ Helaas bleek het in de praktijk ingewikkelder te zijn. Ten eerste waren de vroeg
 
 Het maakte DigiCash's eCash grotendeels ongeschikt voor postzegels.
 
-### De eerste elektronische postzegel
+## De eerste elektronische postzegel
 
 Wat Adam Back niet wist was dat het postzegelprobleem al een paar jaar eerder was opgelost, en op een heel andere manier dan de Cypherpunks hadden overwogen.
 
@@ -130,7 +130,7 @@ Het was een handige oplossing. Maar of het nu kwam omdat het idee iets te voorui
 
 Gelukkig zou het concept spoedig opnieuw worden uitgevonden.
 
-### Hashcash
+## Hashcash
 
 *[MEDEDELING] implementatie van hash cash porto*
 
@@ -164,7 +164,7 @@ Het genereren van een geldige hash, daarentegen, is een kwestie van gokken. Hoew
 
 En: "Hashcash kan ons een alternatieve methode bieden voor het beheersen van spam als digicash misloopt (verboden wordt of vereist dat gebruikersidentiteiten in escrow worden gehouden)."
 
-### Digitale schaarste
+## Digitale schaarste
 
 Hashcash werd in de jaren na de aankondiging van Adam Back enigszins geadopteerd. Apache's open source SpamAssassin platform implementeerde de oplossing, terwijl Microsoft het idee in zijn incompatibele Postmark systeem uitprobeerde. Adam Back, samen met enkele andere academici, kwamen ondertussen op alternatieve toepassingen voor het proof-of-work systeem, waaronder oplossingen tegen DoS-aanvallen.
 

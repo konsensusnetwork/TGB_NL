@@ -1,4 +1,4 @@
-## Hoofdstuk 11: Bit Gold
+# Bit Gold
 
 De vader van Nick Szabo was een van de 200.000 Hongaren die hun land verlieten nadat Sovjettroepen de anti-communistische opstand van 1956 hadden neergeslagen. Terwijl tienduizenden van zijn mede-vrijheidsstrijders werden opgesloten of geïnterneerd, en in sommige gevallen zelfs geëxecuteerd, besloot hij alles achter te laten. Uiteindelijk vond hij een nieuwe thuis aan de andere kant van de Atlantische Oceaan, in *het land van de vrijheid*.
 
@@ -18,7 +18,7 @@ De techno-utopische, futuristische beweging kreeg tijdens zijn eerste jaren in d
 
 Het was ook via de Extropiaanse gemeenschap dat Szabo kennis maakte met Tim May.
 
-### De Crypto-anarchist
+## De Crypto-anarchist
 
 Op een dag nodigde May Szabo uit om deel te nemen aan een bijeenkomst van de Cypherpunks. Szabo ging graag op de uitnodiging in; hij was zelf ook ongerust over de schijnbare erosie van privacy in het opkomende digitale tijdperk.
 
@@ -34,7 +34,7 @@ Zijn voorstel was:
 
 "Er is geen utopie in zicht waar dergelijke bedreigingen volledig kunnen worden geëlimineerd, maar we kunnen erkennen dat ze bestaan en zorgvuldig werken aan het verminderen van onze afhankelijkheid ervan."[200]
 
-### Slimme contracten
+## Slimme contracten
 
 Misschien wel meer dan wie dan ook, was Szabo zich er sterk van bewust dat voor het realiseren van May's visie op crypto-anarchie, private communicatie slechts een eerste stap was.
 
@@ -70,7 +70,7 @@ Dat gezegd zijnde, zouden de meeste slimme contracten vermoedelijk ook een vorm 
 
 Voor slimme contracten is elektronisch geld noodzakelijk.
 
-### Vertrouwde derde partijen
+## Vertrouwde derde partijen
 
 Als digitale equivalenten van eigendomsrechten en contractrecht twee van de fundamentele bouwstenen waren die nodig zijn om een "Galt's Gulch in cyberspace" te realiseren, was een digitaal equivalent voor geld de derde.
 
@@ -96,7 +96,7 @@ Szabo stelde nogmaals dat mogelijke oplossingen misschien wel te vinden zijn in 
 
 "De beste 'TTP' van allemaal is er een die niet bestaat, maar waarvan de noodzaak [ertoe] is geëlimineerd door het protocolontwerp, of die geautomatiseerd en verdeeld is over de deelnemers van een protocol", concludeert hij in zijn paper.
 
-### Vrij bankieren
+## Vrij bankieren
 
 Net als Chaum waren de meeste Cypherpunks vooral geïnteresseerd in elektronisch geld vanwege de mogelijkheden tot privacy die het kon bieden. Maar Szabo, May, en enkele andere Cypherpunks die zich bij de beweging hadden aangesloten vanuit de *Extropian*-community, waren ook gedreven door monetaire hervorming. Ze waren voornamelijk geïnteresseerd in de ideeën van Hayek over vrij bankieren, zoals ook beschreven door Max More in de digitale geldeditie van *Extropy*.
 
@@ -118,7 +118,7 @@ Als en wanneer deze nieuwe vertrouwde derde partijen -- de banken -- het vertrou
 
 Voordat vrij bankieren een haalbaar alternatief kon zijn, concludeerde Szabo, moest er volledig nieuwe vorm van elektronisch geld worden ontworpen dat het vertrouwen minimaliseerde. Net zoals eigendomsrechten en contractrecht voor cyberspace vanaf nul opnieuw moesten worden uitgevonden, zou ook een digitale munteenheid moeten worden gecreëerd door te starten vanuit basisprincipes.
 
-### De oorsprong van geld
+## De oorsprong van geld
 
 Om geld te kunnen creëren, moest Szabo het eerst begrijpen.
 
@@ -150,7 +150,7 @@ Szabo ontdekte bijvoorbeeld dat halskettingen en andere verzamelobjecten verhand
 
 Het stelde stammen in staat een mate van samenwerking en specialisatie tussen hen te bevorderen. Verschillende stammen jaagden bijvoorbeeld op verschillende soorten dieren in verschillende delen van het jaar, wat hen uiteindelijk allemaal ten goede kwam.
 
-### Proto-geld
+## Proto-geld
 
 Niet zomaar elk sieraad voldeed echter.
 
@@ -184,7 +184,7 @@ De Cypherpunk wilde de wenselijke monetaire eigenschappen van goud reproduceren 
 
 Toen Adam Back in 1997 hashcash aankondigde, leek dit eindelijk mogelijk te zijn.
 
-### Bit Gold
+## Bit Gold
 
 Minder dan een jaar later, in 1998, had Szabo zijn eigen voorstel voor een digitale munteenheid ontworpen: *Bit Gold*. Hoewel hij Bit Gold nog niet in code had geïmplementeerd (het was tot dan toe slechts een idee) deelde hij een beschrijving ervan op de Libtech lijst.
 
@@ -206,7 +206,7 @@ Het proof-of-work zou ervoor zorgen dat Szabo's elektronische geld aantoonbaar m
 
 Dat is natuurlijk onder voorwaarde dat het register zelf veilig is.
 
-### Het register
+## Het register
 
 Dus wie zou het register onderhouden?
 
@@ -226,7 +226,7 @@ Szabo was zich ervan bewust dat het niet de meest elegante oplossing was en enke
 
 Desondanks zag Szabo dit in zijn ogen als een betere oplossing dan vertrouwen op een derde partij.
 
-### Het beheersen van inflatie
+## Het beheersen van inflatie
 
 Het laatste probleem dat Szabo moest oplossen was inflatie.
 

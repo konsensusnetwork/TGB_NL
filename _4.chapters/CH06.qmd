@@ -1,4 +1,4 @@
-## Hoofdstuk 6: eCash (en vertrouwensloze tijdstempels)
+# eCash (en vertrouwensloze tijdstempels)
 
 Sinds Whitfield Diffie en Martin Hellman de Diffie-Hellman sleuteluitwisseling introduceerden in 1976, begrepen cryptografen hoe twee mensen die elkaar nooit eerder ontmoet hadden de inhoud van hun onderlinge berichten konden versleutelen voor iedereen behalve voor zichzelf. Ondertussen hadden de mixnetwerken van David Chaum al in de vroege jaren '80 de basis gelegd voor remailers: een digitale infrastructuur ontworpen om metadata te verbergen. Gecombineerd konden deze instrumenten een lange weg afleggen naar het bieden van privacy voor de meeste soorten van elektronische communicatie.
 
@@ -20,7 +20,7 @@ Volgens Chaum zou een maatschappij waarin anonieme transacties wel of niet mogel
 
 De wereld had behoefte aan *elektronisch geld*.
 
-### Het dubbele-uitgavenprobleem
+## Het dubbele-uitgavenprobleem
 
 Toen Chaum begon na te denken over ontwerpen voor een elektronisch geldsysteem, kwam hij al snel de eerste uitdaging tegen die iedereen die een digitale vorm van geld wil creëren, tegenkomt: *het probleem van dubbele uitgaven*.[^103]
 
@@ -36,7 +36,7 @@ Dit lost het probleem van dubbele uitgaven op... maar het illustreert ook het pr
 
 Daarom begon Chaum aan een zoektocht naar een manier waarop zo'n derde partij (de bank) dubbele uitgaven kon detecteren, zonder de mogelijkheid om te traceren hoe elke 'digitale dollar' zich door de economie beweegt.
 
-### Blinde handtekeningen
+## Blinde handtekeningen
 
 De bekwaamde cryptoloog loste het probleem op in 1983. Nauwelijks nadat hij zijn doctoraat in informatica aan de Berkeley-universiteit had verdiend, werd Chaum aangesteld als professor aan diezelfde universiteit. Hij publiceerde zijn ontwerp voor een elektronisch geldsysteem in zijn paper getiteld 'Blinde handtekeningen voor ontraceerbare betalingen'.
 
@@ -56,7 +56,7 @@ Met andere woorden, iedereen die het originele bericht heeft, kan op dat moment 
 
 Als een realistische analogie die Chaum in zijn paper gebruikte, zou het zijn alsof Bob een brief in een envelop met carbonpapier stopt en deze envelop aan Alice overhandigt, die de buitenkant van de envelop zou ondertekenen en deze terug zou geven aan Bob. Als Bob dan de envelop verwijdert en Alice de brief toont met een carbonkopie van haar handtekening, zou ze weten dat de brief inderdaad in de envelop zat die ze had ondertekend.
 
-### Anonieme betalingen
+## Anonieme betalingen
 
 Om het blinde-handtekeningenschema te gebruiken voor een elektronisch geldsysteem, zou Alice uit het bovenstaande voorbeeld eigenlijk een bank zijn: laten we deze bank Alice Bank noemen. Alice Bank is een reguliere bank, waar klanten bankrekeningen hebben met dollardeposito's. En laten we zeggen dat Alice Bank vier klanten heeft: Bob, Carol, Dan en Erin.
 
@@ -80,7 +80,7 @@ In de jaren na de publicatie van zijn eerste werk over ontraceerbare betalingen,
 
 'De grootschalige geautomatiseerde transactiesystemen van de nabije toekomst kunnen zo worden ontworpen dat de privacy en de veiligheid van zowel individuen als organisaties beschermd blijven', zo verklaarde de introductie van één zin triomfantelijk.
 
-### DigiCash
+## DigiCash
 
 Een paar jaar later, tegen 1989, had Chaum zijn intrek genomen in Amsterdam. Tijdens een van zijn eerdere bezoeken aan Nederland hadden lokale academici hem een baan aangeboden als hoofdcryptograaf bij het Centrum voor Wiskunde en Informatica (CWI), welke hij dankbaar had geaccepteerd. Het stelde hem in staat dicht bij zijn Nederlandse vriendin te wonen.
 
@@ -100,7 +100,7 @@ Het was begin jaren 90 steeds duidelijker geworden dat het internet mainstream z
 
 Het prestigeproject van DigiCash was een digitaal betalingssysteem dat mensen in staat zou stellen om dergelijke betalingen privé te maken, met behulp van elektronisch geld --- *eCash*.
 
-### CyberBucks
+## CyberBucks
 
 DigiCash begon snel internationaal onder de aandacht te komen. In een tijd waarin bedrijven als Netscape en Yahoo! bevestigden dat het grote geld zich verplaatste naar beginnende internetstartups, werd Chaum's startup door veel techondernemers in de vroege jaren 90 gezien als een rijzende ster in deze snelgroeiende industrie.
 
@@ -118,7 +118,7 @@ Dit vereiste wel veel vertrouwen in DigiCash. Hoewel het bedrijf beloofde de Cyb
 
 Bovendien was het valutasysteem volledig afhankelijk van de voortdurende steun van DigiCash: de bedrijfsserver voorkwam dubbele uitgaven. Hoewel CyberBucks een leuk en interessant experiment was, was de uiteindelijke topprioriteit van DigiCash om hun belangrijkste elektronische geldproduct klaar te stomen voor het grote publiek...
 
-### eCash
+## eCash
 
 Na vier jaar ontwikkeling bereikte eCash een standaard van beveiliging gelijk aan die van banken. In 1994 begonnen de proeven met echt geld, waarna financiële instellingen een licentie konden aanvragen bij de start-up van Chaum om de nieuwe technologie te gebruiken.
 
@@ -140,7 +140,7 @@ Chaum zelf verwerpt deze beweringen echter krachtig als kwaadwillige laster. Hij
 
 Het maakt niet uit welke versie van het verhaal de waarheid dichter benadert, het is duidelijk dat eind 1996 het geduld in het DigiCash kantoor op was. De medewerkers van Chaum eisten een verandering in het bedrijfsbeleid.
 
-### Faillissement
+## Faillissement
 
 Uiteindelijk kwam de verandering vanuit Chaum's thuisland.
 
@@ -168,7 +168,7 @@ Hieruit hebben alle betrokkenen bij het nicheproject voor digitaal geld een waar
 
 Rond deze tijd probeerde iemand anders, toevallig en om een heel andere reden, een zeer vergelijkbaar soort fout te herstellen...
 
-### Scott Stornetta
+## Scott Stornetta
 
 Vers van de Stanford Universiteit met een PhD in natuurkunde, was Scott Stornetta enthousiast om zijn nieuwe baan te beginnen bij wat in 1989 het epicentrum van computerwetenschappelijke innovatie was: het in New Jersey-gevestigde telecom onderzoekscentrum Bellcore.
 
@@ -190,7 +190,7 @@ Stornetta had nog niet precies uitgevogeld hoe zo'n tijdregistratiesysteem zou w
 
 In de daaropvolgende weken brainstormden Stornetta en Haber over ideeën, speculerend over mogelijke strategieën om de uitdaging waarvoor zij stonden op te lossen.
 
-### Hash-ketens
+## Hash-ketens
 
 Eén van hun meest belovende ideeën maakte gebruik van een hash-functie,[^118] een soort eenrichtingsfunctie die data omzet in een unieke en ogenschijnlijk willekeurige reeks cijfers van een vaste lengte. Alle digitale data kan worden gehasht, of het nu een enkele letter is, een heel boek, een muziekbestand of de broncode van een programma. Het is van belang dat dezelfde data altijd hetzelfde gehashte resultaat oplevert, maar als de oorspronkelijke data ook maar een beetje wordt veranderd, zou de resulterende hash onherkenbaar anders zijn. Als een enkele komma uit een boek wordt verwijderd, zou de resulterende hash totaal niet meer lijken op de hash van het originele boek.
 
@@ -210,7 +210,7 @@ Stornetta en Haber leken tegen een fundamenteel probleem te zijn aangelopen dat 
 
 Als een soort van troost, besloten ze hun bevindingen te publiceren. Ook al hadden Stornetta en Haber het vertrouwensprobleem niet opgelost, ze konden nu tenminste aantonen dat dit probleem onoplosbaar was...
 
-### Het verdelen van vertrouwen
+## Het verdelen van vertrouwen
 
 Pas toen Stornetta beargumenteerde dat het probleem onoplosbaar was, besefte hij dat ze daadwerkelijk fout zaten --- althans technisch gezien.
 
@@ -238,7 +238,7 @@ En aangezien deze gebruikers steeds meer data moesten opslaan om deel te kunnen 
 
 Het was wiskundige Dave Bayer die dit raadsel hielp oplossen, met behulp van *Merkle Trees*.
 
-### Een boom van hashes
+## Een boom van hashes
 
 In de jaren na het afronden van zijn stage bij Martin Hellman, had Ralph Merkle een naam voor zichzelf gemaakt als een van de vooraanstaande cryptografen van zijn generatie. Onder zijn vele innovaties had hij een nieuwe eenrichtingsfunctie ontworpen, een sneller versleutelingsprotocol geïntroduceerd en zijn eigen handtekeningsalgoritme voorgesteld. Hoewel hij technisch gezien niet medeauteur was van het onderzoek, zagen veel cryptografen Merkle als de derde uitvinder van de Diffie-Hellman sleuteluitwisseling.
 
@@ -252,7 +252,7 @@ Ondertussen is het strikt onmogelijk om iets in een boom te bewerken of te verwi
 
 Het zou een waardevol middel blijken te zijn in de strijd tegen digitale fraude.
 
-### Een keten van wortels
+## Een keten van wortels
 
 Goed bekend met de vele cryptografische voorstellen die in de anderhalf decennium vóór de publicatie van Stornetta en Haber's eerste paper zijn geïntroduceerd, stelde Bayer aan de onderzoekers van Bellcore voor dat ze Merkle's hash-structuur konden gebruiken voor tijdstempels, wat het duo met plezier accepteerde. Hun tweede paper, 'Het verbeteren van de efficiëntie en betrouwbaarheid van digitale tijdstempels', werd gepubliceerd in 1993, en Bayer werd opgenomen als derde auteur. [^122]
 

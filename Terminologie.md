@@ -102,3 +102,7 @@ Cypherpunk movement = Cypherpunkbeweging
 resources = hulpbronnen
 resources = middelen
 precivilized = pre-civiele
+candidate string = kandidaat-string
+club members = clubleden
+candidate strings = kandidaat-reeksen
+b-money = b-geld

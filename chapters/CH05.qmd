@@ -134,7 +134,7 @@ Hoewel decennia van onverantwoorde uitgaven door regeringen hadden geleid tot st
 
 Hayek kwam dus tot de conclusie dat overheden helemaal geen poortwachters van geld zouden moeten zijn:
 
-'Een goede munteenheid, net als een goede wet, moet functioneren zonder rekening te houden met de effecten die beslissingen van de uitgever zullen hebben op bekende groepen of individuen', schreef Hayek. 'Zelfs met de beste bedoelingen ter wereld, kan geen enkele regering deze druk weerstaan [van zulke groepen of individuen], tenzij ze kunnen wijzen op een vaste barrière die ze niet kunnen overschrijden'.
+'Een goede munteenheid, net als een goede wet, moet functioneren zonder rekening te houden met de effecten die beslissingen van de uitgever zullen hebben op bekende groepen of individuen', schreef Hayek.[^90] 'Zelfs met de beste bedoelingen ter wereld, kan geen enkele regering deze druk weerstaan [van zulke groepen of individuen], tenzij ze kunnen wijzen op een vaste barrière die ze niet kunnen overschrijden'.[^91]
 
 Goud zou in theorie een dergelijke sterke barrière kunnen bieden. Idealiter zou goud dan zelf als munteenheid worden gebruikt, in plaats van dat het in bankkluizen wordt opgeslagen waar het fractionele reservebankieren mogelijk maakt. Maar de onpraktische aard van het direct gebruik van goud bij transacties, en de uitdagingen van een veilige opslag, betekenen waarschijnlijk dat dit ideaal onhaalbaar is.
 
@@ -204,7 +204,7 @@ Hij verwachtte dat het merendeel van deze weerstand afkomstig zou zijn van overh
 
 Om het nog moeilijker te maken, zou het merendeel van de economen waarschijnlijk ook tegen zijn, voorzag Hayek. Geld van de vrije markt zou immers waarschijnlijk elke kans op het manipuleren van rentetarieven om de koopkracht van de munteenheid te beïnvloeden en deflatie te voorkomen, elimineren. De meeste economen van de jaren '70 waren van mening dat overheidsinstellingen zoals de Federal Reserve een belangrijke rol speelden bij het beheer van de geldvoorraad.
 
-'Ik vrees dat 'Keynesiaanse' propaganda doorgedrongen is tot de massa, [en] inflatie respectabel heeft gemaakt en onruststokers heeft voorzien van argumenten die de professionele politici niet kunnen weerleggen', schreef Hayek gefrustreerd.
+'Ik vrees dat 'Keynesiaanse' propaganda doorgedrongen is tot de massa, [en] inflatie respectabel heeft gemaakt en onruststokers heeft voorzien van argumenten die de professionele politici niet kunnen weerleggen', schreef Hayek gefrustreerd.[^98]
 
 Hayek, de Oostenrijkse econoom, voegde nog toe dat hij verwachtte dat de meeste van de huidige banken ook tegen de verandering zouden zijn. De 'oude bankiers', zoals hij ze noemde, zouden niet in staat zijn om de nieuwe uitdagingen aan te kunnen die een vrije bankensector op hen zou zetten.
 
@@ -227,46 +227,46 @@ Het werk van Hayek op het gebied van geld diende kort na zijn overlijden als ins
 Ze gingen een toekomst bouwen zonder hen...
 
 
-[79]: ​Edward S. Mason and Robert E. Asher, The World Bank Since Bretton Woods: The Origins, Policies, Operations and Impact of the International Bank for Reconstruction, 29.
+[^79]: ​Edward S. Mason and Robert E. Asher, The World Bank Since Bretton Woods: The Origins, Policies, Operations and Impact of the International Bank for Reconstruction, 29.
 
-[80]: ​Andrew F. Brimmer, 'Remembering William McChesney Martin Jr.', Federal Reserve Bank of Minneapolis, September 1, 1998, [https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.]
+[^80]: ​Andrew F. Brimmer, 'Remembering William McChesney Martin Jr.', Federal Reserve Bank of Minneapolis, September 1, 1998, [https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.]
 
-[81]: ​Wapshott, Keynes Hayek, 242.
+[^81]: ​Wapshott, Keynes Hayek, 242.
 
-[82]: ​Wapshott, Keynes Hayek, 242.
+[^82]: ​Wapshott, Keynes Hayek, 242.
 
-[83]: ​Richard Nixon, 'Address to the Nation Outlining a New Economic Policy: 'The Challenge of Peace'', August 15, 1971.
+[^83]: ​Richard Nixon, 'Address to the Nation Outlining a New Economic Policy: 'The Challenge of Peace'', August 15, 1971.
 
-[84]: ​Michael J. Graetz and Olivia Briffault, 'A 'Barbarous Relic': The French, Gold, and the Demise of Bretton Woods', in The Bretton Woods Agreements, eds. Naomi Lamoreaux and Ian Shapiro: 121--142.
+[^84]: ​Michael J. Graetz and Olivia Briffault, 'A 'Barbarous Relic': The French, Gold, and the Demise of Bretton Woods', in The Bretton Woods Agreements, eds. Naomi Lamoreaux and Ian Shapiro: 121--142.
 
-[85]: Federal Reserve Economic Data, 'Consumer Price Index for All Urban Consumers', beschikbaar via [https://fred.stlouisfed.org/series/CPIAUCSL.]
+[^85]: Federal Reserve Economic Data, 'Consumer Price Index for All Urban Consumers', beschikbaar via [https://fred.stlouisfed.org/series/CPIAUCSL.]
 
-[86]: ​Friedrich A. Hayek, 'Can We Still Avoid Inflation?' in The Austrian Theory of the Trade Cycle and Other Essays, ed. Richard M. Ebeling: 101.
+[^86]: ​Friedrich A. Hayek, 'Can We Still Avoid Inflation?' in The Austrian Theory of the Trade Cycle and Other Essays, ed. Richard M. Ebeling: 101.
 
-[87]: ​Mark Blaug, Economic Theory in Retrospect, 4th edition, 20--23.
+[^87]: ​Mark Blaug, Economic Theory in Retrospect, 4th edition, 20--23.
 
-[88]: ​Hayek, Prices and Production, 203.
+[^88]: ​Hayek, Prices and Production, 203.
 
-[89]: ​Hayek, 'Can We Still Avoid Inflation?' 108.
+[^89]: ​Hayek, 'Can We Still Avoid Inflation?' 108.
 
-[90]: Friedrich A. Hayek, Denationalisation of Money, 89.
+[^90]: Friedrich A. Hayek, Denationalisation of Money, 89.
 
-[91]: ​Hayek, Denationalisation of Money, 91.
+[^91]: ​Hayek, Denationalisation of Money, 91.
 
-[92]: ​Friedrich A. Hayek, Denationalisation of Money: The Argument Refined, 13.
+[^92]: ​Friedrich A. Hayek, Denationalisation of Money: The Argument Refined, 13.
 
-[93]: Opnieuw gepubliceerd in Friedrich A. Hayek, Choice in Currency: A Way to Stop Inflation.
+[^93]: Opnieuw gepubliceerd in Friedrich A. Hayek, Choice in Currency: A Way to Stop Inflation.
 
-[94]: ​Hayek, The Argument Refined, 78.
+[^94]: ​Hayek, The Argument Refined, 78.
 
-[95]: ​Hayek, The Argument Refined, 83.
+[^95]: ​Hayek, The Argument Refined, 83.
 
-[96]: ​Hayek, The Argument Refined, 109.
+[^96]: ​Hayek, The Argument Refined, 109.
 
-[97]: ​Hayek, The Argument Refined, 77.
+[^97]: ​Hayek, The Argument Refined, 77.
 
-[98]: ​Hayek,The Argument Refined, 133.
+[^98]: ​Hayek,The Argument Refined, 133.
 
-[99]: ​Hayek, The Argument Refined, 93.
+[^99]: ​Hayek, The Argument Refined, 93.
 
-[100]: Hayek, The Argument Refined, 134.
+[^100]: Hayek, The Argument Refined, 134.

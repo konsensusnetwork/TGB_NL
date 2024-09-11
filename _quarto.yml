@@ -32,6 +32,7 @@ book:
     site: "@konsensusn"
   chapters:
     - index.qmd
+    - opening-quote.qmd
     - chapters/CH00.qmd
     - part: "Deel I: Grondslagen"
       chapters:

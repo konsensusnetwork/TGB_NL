@@ -1,4 +1,6 @@
-# Cryptografie[^73]
+# Cryptografie
+
+[^73]
 
 Whitfield Diffie had altijd al een voorliefde voor codes. Al sinds zijn docent in het vijfde leerjaar hem de substitutiecipher leerde (een basistechniek in de wiskundige tak van cryptografie), was hij gefascineerd door deze methode van geheimhouding. Het feit dat tekstversleutelingsalgoritmen in die tijd -- de jaren vijftig -- de specialiteit waren van het leger, geheime agenten en spionnen, droeg alleen maar bij tot de mysterieuze aantrekkingskracht.
 
@@ -200,7 +202,7 @@ Chaum zag het potentieel van de publieke sleutelcryptografie natuurlijk ook, omd
 
 Net zoals Diffie dat voor hem deed, herkende Chaum ook dat deze transformatie naar een tamelijk dystopische toekomst kon leiden. Hij begreep dat als berichten, documenten of bestanden over het internet werden verzonden, al deze data het risico liep om op een nooit eerder geziene schaal gemonitord, onderschept en geëxploiteerd te worden door tirannen. Chaum maakte zich zorgen dat mensen zich anders gaan gedragen als ze geloven dat ze mogelijk bekeken worden. Massasurveillance zou een gevangenis voor de geest creëren, conformiteit bevorderen, en uiteindelijk fundamentele vrijheden vernietigen, aldus Chaum.
 
-'De cyberruimte kent niet dezelfde fysieke beperkingen', legde Chaum later uit aan een journalist van het technologiemagazine *Wired*. 'Er zijn geen muren... het is een andere, angstaanjagende, vreemde plek en met identificatie wordt het een nachtmerrie van panoptisch toezicht. Juist? Alles wat je doet kan door iedereen gekend zijn, kan voor altijd worden opgenomen. Het is volkomen tegenstrijdig met het basisprincipe dat ten grondslag ligt aan de mechanismen van de democratie'.[77]
+'De cyberruimte kent niet dezelfde fysieke beperkingen', legde Chaum later uit aan een journalist van het technologiemagazine *Wired*. 'Er zijn geen muren... het is een andere, angstaanjagende, vreemde plek en met identificatie wordt het een nachtmerrie van panoptisch toezicht. Juist? Alles wat je doet kan door iedereen gekend zijn, kan voor altijd worden opgenomen. Het is volkomen tegenstrijdig met het basisprincipe dat ten grondslag ligt aan de mechanismen van de democratie'.[^77]
 
 Maar hij zag dat er nu een alternatief was: een andere mogelijke toekomst. Chaum besefte dat de gloednieuwe ontwikkelingen in de cryptografie konden worden ingezet als verdediging. De maatschappij stond op een kruispunt, en innovaties zoals publieke sleutelcryptografie boden hoop voor een wereld waarin mensen de macht hadden over hun eigen data.
 
@@ -246,14 +248,14 @@ Zo had Chaum het cruciale conceptuele fundament gelegd voor wat later bekend zou
 
 En zijn bijdragen aan het veld van cryptografie zouden daar niet ophouden...
 
-[73]: Een groot deel van dit hoofdstuk is gebaseerd op Steven Levy's 'Crypto: How the Code Rebels Beat the Government -- Saving Privacy in the Digital Age'.
+[^73]: Een groot deel van dit hoofdstuk is gebaseerd op Steven Levy's 'Crypto: How the Code Rebels Beat the Government -- Saving Privacy in the Digital Age'.
 
-[74]: Whitfield Diffie and Martin E. Hellman, 'Multiuser Cryptographic Techniques', AFIPS...: Proceedings of the June 7-10, 1976, national computer conference and exposition: 109--112.
+[^74]: Whitfield Diffie and Martin E. Hellman, 'Multiuser Cryptographic Techniques', AFIPS...: Proceedings of the June 7-10, 1976, national computer conference and exposition: 109--112.
 
-[75]: ​Levy, Crypto, 76.
+[^75]: ​Levy, Crypto, 76.
 
-[76]: ​Whitfield Diffie and Martin E. Hellman, 'New Directions in Cryptography', IEEE Transactions On Information Theory, vol. IT-22, no. 6: 644.
+[^76]: ​Whitfield Diffie and Martin E. Hellman, 'New Directions in Cryptography', IEEE Transactions On Information Theory, vol. IT-22, no. 6: 644.
 
-[77]: Steven Levy, 'E-Money ', Wired, December 1, 1994, [https://www.wired.com/1994/12/emoney/.]
+[^77]: Steven Levy, 'E-Money ', Wired, December 1, 1994, [https://www.wired.com/1994/12/emoney/.]
 
-[78]: David Chaum, 'Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms', Communications of the ACM 24, 2: 84--90.
+[^78]: David Chaum, 'Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms', Communications of the ACM 24, 2: 84--90.

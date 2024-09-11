@@ -16,7 +16,7 @@ Hier werd Back geconfronteerd met langlopende uitdagingen in gedistribueerd comp
 
 Het klassieke metaforische verhaal, voor het eerst beschreven door computergoeroe Leslie Lamport, ging over een groep (inderdaad) Byzantijnse generaals die een stad omsingelden.[^183] Terwijl elk van hen de situatie inschatte, zouden ze via boodschappers communiceren om te coördineren of ze zouden aanvallen of zich terugtrekken. Hoewel beide opties acceptabel waren, zouden ze allemaal moeten overeenkomen met de gekozen optie; het zou een ramp zijn als sommige generaals zouden aanvallen, terwijl anderen besluiten zich terug te trekken.
 
-Het probleem is echter dat er ook verraderlijke generaals (en/of boodschappers, afhankelijk van de versie van de allegorie) zijn, die tegenstrijdige boodschappen ("aanval" of "terugtrekken") aan verschillende generaals konden sturen, wat tot onenigheid kon leiden. Omdat directe communicatie tussen verschillende partijen onmogelijk is, zouden sommigen eerst de ene instructie ("aanval") te zien krijgen, terwijl anderen aanvankelijk de andere instructie ("terugtrekken") zouden zien.
+Het probleem is echter dat er ook verraderlijke generaals (en/of boodschappers, afhankelijk van de versie van de allegorie) zijn, die tegenstrijdige boodschappen ('aanval' of 'terugtrekken') aan verschillende generaals konden sturen, wat tot onenigheid kon leiden. Omdat directe communicatie tussen verschillende partijen onmogelijk is, zouden sommigen eerst de ene instructie ('aanval') te zien krijgen, terwijl anderen aanvankelijk de andere instructie ('terugtrekken') zouden zien.
 
 De uitdaging was dus om een protocol te ontwerpen dat elke eerlijke deelnemer onafhankelijk zou kunnen volgen, zodat ze allemaal tot dezelfde conclusie kwamen. Of dit nu de beslissing was om een stad wel of niet aan te vallen, of om consensus te bereiken over hoe een gedeelde computertaak te coördineren.
 
@@ -30,7 +30,7 @@ Inmiddels had Back ook een interesse in vrije markten ontwikkeld, en had hij eni
 
 Zo vond Back de cryptografische hulpmiddelen waar hij over leerde op sociologisch vlak zeer interessant.
 
-"Minder privacy is negatief voor de vrije markteconomie, omdat een afname van privacy leidt tot een toename van overheidsinterventies, grotere overheidsapparaten, fascisme, etc. waardoor de vrije markteconomie naar de knoppen gaat", zou hij later verklaren. "Hierdoor zullen armoede en voedseltekorten ontstaan, vergelijkbaar met wat er gebeurde in de voormalige USSR, die nog steeds langzaam herstelt van de ondergang die veroorzaakt werd door fascistisch overheidsbeleid."
+'Minder privacy is negatief voor de vrije markteconomie, omdat een afname van privacy leidt tot een toename van overheidsinterventies, grotere overheidsapparaten, fascisme, etc. waardoor de vrije markteconomie naar de knoppen gaat', zou hij later verklaren. 'Hierdoor zullen armoede en voedseltekorten ontstaan, vergelijkbaar met wat er gebeurde in de voormalige USSR, die nog steeds langzaam herstelt van de ondergang die veroorzaakt werd door fascistisch overheidsbeleid.'[^184]
 
 Daarnaast realiseerde de student zich snel dat dit soort technologieën individuen de middelen konden bieden om fundamentele rechten uit te oefenen zoals vrijheid van meningsuiting en vrijheid van vergadering. In wezen ontdekte Back dat cryptografie aanzienlijke implicaties kon hebben voor het evenwicht van macht tussen individuen en de staat.
 
@@ -38,7 +38,7 @@ Toen hij op het internet naar plaatsen zocht om deze onderwerpen te bespreken, o
 
 Halverwege de wereld hadden de Cypherpunks net hun reguliere bijeenkomsten georganiseerd en, nog belangrijker, de Cypherpunk-mailinglijst gelanceerd. Back, al programmeur van in zijn kindertijd, was erg geïnspireerd door hun doel om software te schrijven die een positieve sociale impact had en hij meldde zich snel aan voor de mailinglijst.
 
-"Dat was een interessante uitlaatklep", herinnerde Back zich later aan zijn eerste interacties met de Cypherpunks-mailinglijst, "want mensen waren bezig met andere dingen dan PGP, andere dingen die je kon bouwen met encryptie en cryptografie. Ik heb een groot deel van mijn doctoraat eigenlijk niet besteed aan werken aan gedistribueerde systemen, maar aan leren over cryptografische protocollen, voornamelijk met als toegepaste interesse om te denken over wat een bepaald cryptografie-artikel je zou toestaan om te bouwen."[^185]
+'Dat was een interessante uitlaatklep', herinnerde Back zich later aan zijn eerste interacties met de Cypherpunks-mailinglijst, 'want mensen waren bezig met andere dingen dan PGP, andere dingen die je kon bouwen met encryptie en cryptografie. Ik heb een groot deel van mijn doctoraat eigenlijk niet besteed aan werken aan gedistribueerde systemen, maar aan leren over cryptografische protocollen, voornamelijk met als toegepaste interesse om te denken over wat een bepaald cryptografie-artikel je zou toestaan om te bouwen.'[^185]
 
 In de loop der jaren werd Back een van de meest actieve deelnemers aan deze lijst. Soms droeg hij zelfs tientallen e-mails bij in een maand. Hij had een sterke interesse in filosofische onderwerpen zoals privacy, vrije meningsuiting en libertarisme, en nam deel aan diepgaande technische discussies over onderwerpen zoals anonieme remailers of versleutelde bestandssystemen, technologieën waaraan hij ook heeft bijgedragen.
 
@@ -46,7 +46,7 @@ Back raakte ook betrokken bij de 'crypto-oorlogen' die niet al te lang na zijn t
 
 Het verbod raakte een gevoelige snaar bij de jonge Cypherpunk. Hij was van mening dat de betwiste cryptografische protocollen in werkelijkheid individuen alleen maar toestonden om rechten uit te oefenen die zij juridisch gezien al moesten hebben: als privégesprekken zijn toegestaan, waarom zou publieke sleutel-cryptografie dan niet toegestaan zijn? En wellicht nog belangrijker, cryptografie was in feite gewoon wiskunde. Back vond het zowel absurd als zorgwekkend dat de VS in feite het delen van bepaalde getallen en vergelijkingen illegaal maakten.
 
-Het leidde de Britse Cypherpunk ertoe om op een unieke manier zijn punt te bewijzen. Volgens de activistische ethos van de groep, maakte Back "munitie"-shirts: zwarte t-shirts met in witte letters het RSA-protocol erop gedrukt. Volgens de wet was iedereen die Back's kleding droeg bij het verlaten van de Verenigde Staten, technisch gezien, een wapenexporteur. Hij zou de shirts verkopen aan zijn mede-Cypherpunks en, passend, DigiCash's proefvaluta CyberBucks als betaling accepteren.
+Het leidde de Britse Cypherpunk ertoe om op een unieke manier zijn punt te bewijzen. Volgens de activistische ethos van de groep, maakte Back 'munitie'-shirts: zwarte t-shirts met in witte letters het RSA-protocol erop gedrukt. Volgens de wet was iedereen die Back's kleding droeg bij het verlaten van de Verenigde Staten, technisch gezien, een wapenexporteur. Hij zou de shirts verkopen aan zijn mede-Cypherpunks en, passend, DigiCash's proefvaluta CyberBucks als betaling accepteren.
 
 Passend genoeg, want mogelijk meer dan wat dan ook, was Adam Back bijzonder geïnteresseerd in elektronisch geld.
 
@@ -62,13 +62,13 @@ In de hoop dat het de zaken zou versnellen, schreef Back initieel software-*libr
 
 Toen eCash te midden de jaren 90 nog steeds niet echt van de grond kwam, begon Adam Back pas echt ongeduldig te worden.
 
-"Technologie voor blinde handtekeningen bestaat al geruime tijd, maar er is niet één voorbeeld van een praktisch, echt wereldwijd gebruik van deze technologie," schreef Back gefrustreerd naar de Cypherpunk-mailinglijst in oktober 1995.[^186]
+'Technologie voor blinde handtekeningen bestaat al geruime tijd, maar er is niet één voorbeeld van een praktisch, echt wereldwijd gebruik van deze technologie', schreef Back gefrustreerd naar de Cypherpunk-mailinglijst in oktober 1995.[^186]
 
 Hij merkte op dat niet-anonieme internetbetaalsystemen snel marktaandeel veroverden, wat betekende dat de toekomst van digitale transacties een gevaarlijke richting insloeg. Als deze privacy-schendende alternatieven zich eenmaal zouden verankeren in de gewoonten van mensen als hun standaard online betalingsoplossingen, geloofde hij dat het aanzienlijk moeilijker zou zijn om internetgebruikers over te laten stappen naar anoniem digitaal geld.
 
 Het was tijd om actie te ondernemen. Aangezien Back niet veel vertrouwen had in de voortgang van DigiCash, en het leek alsof niemand anders aan haalbare alternatieven voor eCash werkte, concludeerde hij dat de snelste weg naar succes misschien wel was om samen te werken met Chaum. Hij stelde voor dat een groep Cypherpunks een start-up bank zou oprichten en eigenlijk de technologie van DigiCash zou licentiëren om zelf door fiatgeld gedekte eCash uit te geven.
 
-"Ik meen het serieus en zou erin willen investeren", maakte Back duidelijk op de mailinglijst. "Wat denken jullie ervan? De eerste DigiCash-bank, 'gerund' en eigendom van een groep cypherpunks?"[^187]
+'Ik meen het serieus en zou erin willen investeren', maakte Back duidelijk op de mailinglijst. 'Wat denken jullie ervan? De eerste DigiCash-bank, 'gerund' en eigendom van een groep cypherpunks?'[^187]
 
 De enige persoon die reageerde op zijn voorstel wees erop dat dit plan waarschijnlijk ook niet zou werken: tenslotte wilde Chaum zijn technologie niet in licentie geven aan een bende Cypherpunks.[^188] Het idee stierf een stille dood.
 
@@ -76,7 +76,7 @@ Twee jaar later, in de zomer van 1997, keerde Back terug naar de mailinglijst om
 
 Door de bank op te splitsen in meerdere, onderling afhankelijke, partijen, zou er geen enkele entiteit volledig vertrouwd hoeven te worden met de bankoperaties. En hoewel het Byzantijnse Generaalsprobleem nog steeds niet volledig was opgelost, kon het systeem alleen worden misleid als een bepaald aantal deelnemers samenspanden.
 
-"De bank zou bestaan binnen het netwerk, in deze virtuele CPU," schreef Back. "Individuele deelnemers kunnen komen en gaan, maar de beveiligde software-entiteit, die de bank en de accountinformatie is, zou blijven voortbestaan."[^189]
+'De bank zou bestaan binnen het netwerk, in deze virtuele CPU', schreef Back. 'Individuele deelnemers kunnen komen en gaan, maar de beveiligde software-entiteit, die de bank en de accountinformatie is, zou blijven voortbestaan.'[^189]
 
 Hij kreeg geen antwoord op zijn e-mail.
 
@@ -90,11 +90,11 @@ Adam Back, die zelf ook een remailer beheerde, was lid van een groep Cypherpunks
 
 Ze wilden ook niet afhankelijk zijn van wetten en regelgeving. Hoewel er stemmen opgingen om eenvoudigweg spam e-mails illegaal te maken, was het niet de manier van de cypherpunks om de overheid in te schakelen om hun problemen op te lossen.
 
-De overheid het probleem niet laten oplossen, was ook belangrijk omdat het niet altijd duidelijk was wat precies als spam beschouwd kon worden. Als de staat de autoriteit krijgt om dat onderscheid te maken, zou dat effectief regeringen toestaan om te bepalen welke vormen van communicatie tussen internetgebruikers acceptabel zijn en welke niet. Dit zou de deur kunnen openen voor politiek gemotiveerde censuur, waarschuwden Cypherpunks zoals Tim May.[190]
+De overheid het probleem niet laten oplossen, was ook belangrijk omdat het niet altijd duidelijk was wat precies als spam beschouwd kon worden. Als de staat de autoriteit krijgt om dat onderscheid te maken, zou dat effectief regeringen toestaan om te bepalen welke vormen van communicatie tussen internetgebruikers acceptabel zijn en welke niet. Dit zou de deur kunnen openen voor politiek gemotiveerde censuur, waarschuwden Cypherpunks zoals Tim May.[^190]
 
 Adam Back benadrukte dat om spammers wettelijk verantwoordelijk te kunnen houden, ze ook geïdentificeerd dienen te worden. Als een overheidsdienst tegen spam de taak krijgt om de daders te vangen, waarschuwde Back zijn mede-Cypherpunks, dan zouden remailers waarschijnlijk een groot doelwit worden, met mogelijk ernstige gevolgen voor de online privacy in het algemeen.[^191]
 
-"De gevaren het inzetten van de overheid om spammers aan te vallen, is dat dit het internet is, en we willen geen regulering van de inhoud door overheden, noch pogingen tot afdwingen van 'escrow van identiteit', 'internetrijbewijzen' of iets anders", schreef Back aan de Cypherpunk mailinglijst. "We lossen het zelf wel op zonder de behoefte aan overheidsinterventie, hartelijk dank."[^192]
+'De gevaren het inzetten van de overheid om spammers aan te vallen, is dat dit het internet is, en we willen geen regulering van de inhoud door overheden, noch pogingen tot afdwingen van 'escrow van identiteit', 'internetrijbewijzen' of iets anders', schreef Back aan de Cypherpunk mailinglijst. 'We lossen het zelf wel op zonder de behoefte aan overheidsinterventie, hartelijk dank.'[^192]
 
 De cypherpunks waren het er in het algemeen over eens dat een betere oplossing zou zijn om een digitaal equivalent van postzegels te creëren. Als het verzenden van een email kosten met zich mee zou brengen, zou dit spammers ontmoedigen, vooral omdat spammers meestal tienduizenden, zo niet miljoenen, ongewenste e-mails moeten versturen om winst te maken uit hun activiteiten. Op dezelfde manier vereiste het bombarderen van remailers massa's ongewenste e-mails.
 
@@ -114,7 +114,7 @@ Wat Adam Back niet wist was dat het postzegelprobleem al een paar jaar eerder wa
 
 In de vroege jaren '90 realiseerden Cynthia Dwork en Moni Naor, twee computerwetenschappers bij IBM, zich dat een elektronisch mailsysteem veel voordelen had ten opzichte van de traditionele post: e-mail was veel sneller, veel goedkoper, en bood veel meer mogelijkheden dan de postdienst ooit zou kunnen bieden. Maar ze realiseerden zich ook dat e-mail zijn eigen uitdagingen met zich meebracht. Ze voorzagen dat met de toenemende populariteit van e-mail, ook spam zou toenemen.
 
-"Met name de eenvoud en lage kosten om elektronische post te versturen, en dan vooral het gemak om eenzelfde bericht naar veel verschillende partijen te sturen, nodigen in principe uit tot misbruik", legden ze uit in hun paper uit 1992, getiteld "Pricing via Processing of Combatting Junk Mail."[^193].
+'Met name de eenvoud en lage kosten om elektronische post te versturen, en dan vooral het gemak om eenzelfde bericht naar veel verschillende partijen te sturen, nodigen in principe uit tot misbruik', legden ze uit in hun paper uit 1992, getiteld 'Pricing via Processing of Combatting Junk Mail.'[^193].
 
 Er was een oplossing nodig, stelden ze vast, en dat was precies wat het artikel leverde. Dwork en Naor stelden een systeem voor waarbij afzenders een beetje extra data aan hun e-mail moeten toevoegen. Deze data zou de oplossing zijn voor een wiskundig probleem, afgeleid van de eigenschappen van de e-mail zelf, en dus uniek voor die e-mail. Zonder de correcte oplossing toegevoegd, zouden e-mail*clients* de e-mail volledig moeten afwijzen.
 
@@ -122,9 +122,9 @@ In hun artikel stelden Dwork en Naor drie mogelijke puzzels voor, allen gebaseer
 
 De kerngedachte achter dit systeem was dat het oplossen van een juiste oplossing voor een puzzel niet veel moeite zou kosten voor individuele gebruikers die af en toe een e-mail willen sturen naar collega's, familie of vrienden. Maar voor spammers zou het snel oplopen. Om duizenden of zelfs miljoenen berichten op een enkele dag te sturen, zouden zij evenveel puzzels moeten oplossen, wat in totaal aanzienlijke hoeveelheden rekenkracht zou vereisen.
 
-"Het idee is om een gebruiker een matig moeilijke, maar niet onoplosbare, functie te laten berekenen om toegang te krijgen tot de hulpbron, en zo lichtzinnig gebruik te voorkomen", legden Dwork en Naor uit. Ze stelden voor om spammen te veranderen in een dure aangelegenheid.
+'Het idee is om een gebruiker een matig moeilijke, maar niet onoplosbare, functie te laten berekenen om toegang te krijgen tot de hulpbron, en zo lichtzinnig gebruik te voorkomen', legden Dwork en Naor uit. Ze stelden voor om spammen te veranderen in een dure aangelegenheid.
 
-Hoewel Dwork en Naor de term zelf niet hebben voorgesteld, zou de soort oplossing die zij introduceerden later bekend komen te staan als een "proof-of-work"-systeem. Het oplossen van het wiskundeprobleem zou bewijzen dat er daadwerkelijk *werk* is verricht.
+Hoewel Dwork en Naor de term zelf niet hebben voorgesteld, zou de soort oplossing die zij introduceerden later bekend komen te staan als een 'proof-of-work'-systeem. Het oplossen van het wiskundeprobleem zou bewijzen dat er daadwerkelijk *werk* is verricht.
 
 Het was een handige oplossing. Maar of het nu kwam omdat het idee iets te vooruitstrevend was voor die tijd, of omdat het simpelweg niet breed genoeg werd geadverteerd, kreeg het voorstel uit de vroege jaren 90 buiten een vrij kleine groep academici niet veel aandacht. Het postzegelsysteem van Dwork en Naor is nooit in de praktijk gebracht, laat staan gebruikt, en veel van de Cypherpunks waren waarschijnlijk onbekend met dit idee.
 
@@ -134,11 +134,11 @@ Gelukkig zou het concept spoedig opnieuw worden uitgevonden.
 
 *[MEDEDELING] implementatie van hash cash porto*
 
-Op 28 maart 1997 kregen de inmiddels ongeveer 2000 abonnees van de Cypherpunk mailinglijst een bericht in hun inbox.[^194] Het bericht werd verstuurd door Adam Back en bevatte een beschrijving en vroege implementatie van wat hij "hashcash" noemde: een "postzegelsysteem gebaseerd op gedeeltelijke hash-botsingen". Hij had met succes een postzegel-oplossing voor e-mail ontworpen.
+Op 28 maart 1997 kregen de inmiddels ongeveer 2000 abonnees van de Cypherpunk mailinglijst een bericht in hun inbox.[^194] Het bericht werd verstuurd door Adam Back en bevatte een beschrijving en vroege implementatie van wat hij 'hashcash' noemde: een 'postzegelsysteem gebaseerd op gedeeltelijke hash-botsingen'. Hij had met succes een postzegel-oplossing voor e-mail ontworpen.
 
 Net als het schema van Dwork en Naor, zou de Hashcash porto niet betaald worden aan operators van remailers, of aan de ontvangers van een e-mail, of aan wie dan ook. In plaats daarvan zou het alleen extra kosten met zich meebrengen voor de verzenders.
 
-Een week eerder had Back al nagedacht over het tegengaan van spam door de kosten van massa-mail te verhogen, hoewel nog vrij oppervlakkig: "Een nevenvoordeel van het gebruik van PGP is dat PGP-versleuteling enige meerkost zou betekenen voor de spammer: hij kan waarschijnlijk minder berichten per seconde versleutelen dan hij kan spammen via een T3-link", merkte hij op in een discussie over het toevoegen van extra privacy aan remailers.[^195]
+Een week eerder had Back al nagedacht over het tegengaan van spam door de kosten van massa-mail te verhogen, hoewel nog vrij oppervlakkig: 'Een nevenvoordeel van het gebruik van PGP is dat PGP-versleuteling enige meerkost zou betekenen voor de spammer: hij kan waarschijnlijk minder berichten per seconde versleutelen dan hij kan spammen via een T3-link', merkte hij op in een discussie over het toevoegen van extra privacy aan remailers.[^195]
 
 Back's nieuwe voorstel maakte dit algemene idee nog explicieter: het zou vereisen dat afzenders een bewijs van geleverd werk aan hun e-mails toevoegen. Inderdaad, hashcash was op verschillende manieren vergelijkbaar met het postzegelschema van Dwork en Naor: het *proof-of-work* zou uniek zijn voor de e-mail, en het zou een beetje rekenkracht vereisen om te produceren.
 
@@ -146,23 +146,23 @@ Zoals de naam al doet vermoeden, was het voorstel van Back echter gebaseerd op h
 
 Hashing -- de cryptografische truc die alle data omzet in een unieke en schijnbaar willekeurige reeks getallen van een specifieke lengte -- is een volkomen onvoorspelbaar proces. Hoewel dezelfde data altijd hetzelfde hashresultaat oplevert, is de enige manier om te ontdekken hoe de hash van een stuk data er in de eerste plaats uit zal zien, om het daadwerkelijk te hashen. Het is deze onvoorspelbaarheid waar hashcash op slimme wijze gebruik van maakte.
 
-Om 'hashcash' te genereren, moest een gebruiker een hash creëren uit de metadata van een e-mail (zoals het adres van de verzender, het adres van de ontvanger, de tijd enz.) en een willekeurig nummer, een zogenaamde 'nonce'. Maar hier zat een addertje onder het gras: niet elke resulterende hash werd als "geldig" beschouwd. In plaats daarvan moest de binaire versie van een geldige hash beginnen met een vastgesteld aantal nullen. En er was maar één manier om een hash te genereren die met voldoende nullen begon: de gebruiker moest verschillende nonces proberen en nieuwe hashes maken totdat hij er één vond die toevallig aan de norm voldeed. Simpel *trial and error*.
+Om 'hashcash' te genereren, moest een gebruiker een hash creëren uit de metadata van een e-mail (zoals het adres van de verzender, het adres van de ontvanger, de tijd enz.) en een willekeurig nummer, een zogenaamde 'nonce'. Maar hier zat een addertje onder het gras: niet elke resulterende hash werd als 'geldig' beschouwd. In plaats daarvan moest de binaire versie van een geldige hash beginnen met een vastgesteld aantal nullen. En er was maar één manier om een hash te genereren die met voldoende nullen begon: de gebruiker moest verschillende nonces proberen en nieuwe hashes maken totdat hij er één vond die toevallig aan de norm voldeed. Simpel *trial and error*.
 
 Het aantal voorafgaande nullen dat vereist is, bepaalt hoe moeilijk het zou zijn om een geldige hash te vinden. Meer nullen zouden het moeilijker maken, omdat computers gemiddeld meer pogingen zouden moeten doen.
 
-"Het idee van het gebruik van partiële hashes is dat ze naar willekeur duur in berekening kunnen worden gemaakt," legde Back het voordeel van het gebruik van hashes uit, "en toch kunnen ze onmiddellijk geverifieerd worden."
+'Het idee van het gebruik van partiële hashes is dat ze naar willekeur duur in berekening kunnen worden gemaakt', legde Back het voordeel van het gebruik van hashes uit, 'en toch kunnen ze onmiddellijk geverifieerd worden.'
 
 Net als bij de oplossing van Dwork en Naor was het idee dat gewone gebruikers vrij snel, binnen enkele seconden, een geldige hash moeten kunnen vinden om met een e-mail te versturen. Tegelijkertijd zouden spammers niet in staat moeten zijn om dit duizenden of miljoenen keren te doen en nog steeds winstgevend te blijven.
 
-"[...] als het geen 20 bit hash heeft [...] heb je een programma dat het terugstuurt met een bericht waarin de vereiste porto wordt uitgelegd, en waar de software te vinden is", legde Back uit op de Cypherpunk-mailinglijst. "Dit zou spammers van de ene op de andere dag wegwerken, aangezien 1.000.000 x 20 = 100 MIP jaren, wat meer rekenkracht is dan ze hebben."
+'[...] als het geen 20 bit hash heeft [...] heb je een programma dat het terugstuurt met een bericht waarin de vereiste porto wordt uitgelegd, en waar de software te vinden is', legde Back uit op de Cypherpunk-mailinglijst. 'Dit zou spammers van de ene op de andere dag wegwerken, aangezien 1.000.000 x 20 = 100 MIP jaren, wat meer rekenkracht is dan ze hebben.'
 
 Een subtiele verandering ten opzichte van Dwork en Naor's oplossing was dat hun 'proof-of-work' systeem niet onderhevig was aan toeval. Hun postzegelschema vereist in principe het oplossen van een vrij eenvoudige puzzel, wat betekent dat een krachtigere computer de puzzel altijd sneller zou oplossen dan een zwakkere computer.
 
 Het genereren van een geldige hash, daarentegen, is een kwestie van gokken. Hoewel een krachtigere computer meer gokjes per seconde zou kunnen doen, zou een zwakkere computer nog steeds af en toe geluk kunnen hebben en sneller een geldige hash vinden (hoewel spammers hoe dan ook duizenden of miljoenen geldige hashwaarden zouden moeten genereren per spamsessie, zou het kleine beetje variatie bij het genereren van een enkele hashcash proof-of-work niet echt een verschil maken, althans niet binnen de context van het stoppen van ongewenste mail).
 
-"Hashcash kan een tussentijdse oplossing bieden totdat digicash breder wordt toegepast", concludeerde Back in zijn aankondiging. "Hashcash is gratis, het enige dat je hoeft te doen is wat processorkracht van je PC gebruiken. Het sluit aan bij de online cultuur van vrije communicatie, waarin de financieel minder bedeelden op gelijke voet kunnen concurreren met miljonairs, gepensioneerde overheidsfunctionarissen en dergelijke."
+'Hashcash kan een tussentijdse oplossing bieden totdat digicash breder wordt toegepast', concludeerde Back in zijn aankondiging. 'Hashcash is gratis, het enige dat je hoeft te doen is wat processorkracht van je PC gebruiken. Het sluit aan bij de online cultuur van vrije communicatie, waarin de financieel minder bedeelden op gelijke voet kunnen concurreren met miljonairs, gepensioneerde overheidsfunctionarissen en dergelijke.'
 
-En: "Hashcash kan ons een alternatieve methode bieden voor het beheersen van spam als digicash misloopt (verboden wordt of vereist dat gebruikersidentiteiten in escrow worden gehouden)."
+En: 'Hashcash kan ons een alternatieve methode bieden voor het beheersen van spam als digicash misloopt (verboden wordt of vereist dat gebruikersidentiteiten in escrow worden gehouden).'
 
 ## Digitale schaarste
 
@@ -176,7 +176,7 @@ En hoewel veel Cypherpunks nog steeds aannamen dat een elektronisch geldsysteem 
 
 De sleutelinnovatie van hashcash was dat het puur digitale data (in wezen getallen) aan echte hulpbronnen in de fysieke realiteit koppelde. Het creëren van een proof-of-work vereiste rekenkracht, en deze rekenkracht zelf verbruikt elektriciteit, die op zijn beurt energie kost om te produceren. Terwijl de meeste digitale dingen kosteloos en bijna eindeloos gekopieerd kunnen worden, kon het proof-of-work op een bepaalde manier de fundamentele schaarste aan energie in de fysieke realiteit naar de digitale wereld overbruggen.
 
-Inderdaad, hashcash was digitaal, maar toch schaars. Het totale aantal hashcash "valuta-eenheden" (bij gebrek aan een beter woord) was in zekere mate beperkt: er zou nooit meer hashcash zijn dan er zou kunnen worden geproduceerd met de hoeveelheid energie die mensen bereid en in staat zouden zijn om eraan te spenderen.
+Inderdaad, hashcash was digitaal, maar toch schaars. Het totale aantal hashcash 'valuta-eenheden' (bij gebrek aan een beter woord) was in zekere mate beperkt: er zou nooit meer hashcash zijn dan er zou kunnen worden geproduceerd met de hoeveelheid energie die mensen bereid en in staat zouden zijn om eraan te spenderen.
 
 Dit was een cruciaal inzicht, omdat ingebouwde schaarste een van de zes eigenschappen was die Adam Back op zijn lijstje voor een ideaal elektronisch geldsysteem had gezet. Tot voor kort kon digitale schaarste slechts gecreëerd worden als een belofte, zoals DigiCash's belofte om een harde limiet te stellen aan het totale aantal CyberBucks dat ze zouden creëren. Maar beloftes kunnen natuurlijk gebroken worden. Back geloofde dat proof-of-work de mogelijkheid bood om schaarste te garanderen op een veel fundamenteler niveau.
 
@@ -186,7 +186,7 @@ Het grootste probleem was dat hashcash niet herbruikbaar was. Elke munteenheid w
 
 Back overwoog daarom dat hashcash, of meer algemeen het proof-of-work principe, de basis zou kunnen vormen voor een ander soort elektronisch geldsysteem.
 
-Eén van zijn eerste suggesties was een *Chaumiaans* systeem. Hierin zou de bank elektronisch geld uitgeven bij ontvangst van hashcash: gebruikers zouden proof-of-work creëren en daarvoor ongedekt digitaal geld terugkrijgen. Dit geld zou anoniem, herbruikbaar en enigszins schaars zijn --- hoewel de schaarste in de praktijk eerlijk gezegd vrij zwak zou zijn, omdat mensen altijd meer bewijzen zouden kunnen creëren als ze dat zouden willen. En met computerprocessors die elk jaar krachtiger worden, zou het produceren van geldig proof-of-work in de loop van de tijd steeds goedkoper worden.[196]
+Eén van zijn eerste suggesties was een *Chaumiaans* systeem. Hierin zou de bank elektronisch geld uitgeven bij ontvangst van hashcash: gebruikers zouden proof-of-work creëren en daarvoor ongedekt digitaal geld terugkrijgen. Dit geld zou anoniem, herbruikbaar en enigszins schaars zijn --- hoewel de schaarste in de praktijk eerlijk gezegd vrij zwak zou zijn, omdat mensen altijd meer bewijzen zouden kunnen creëren als ze dat zouden willen. En met computerprocessors die elk jaar krachtiger worden, zou het produceren van geldig proof-of-work in de loop van de tijd steeds goedkoper worden.[^196]
 
 Inderdaad, de fundamentele schaarste van hashcash was meer technisch van aard. Als het echt de basis zou vormen voor een elektronische valuta, zouden nieuwere en krachtigere computers uiteindelijk de markt overspoelen met verse valuta-eenheden en zou de valuta hyperinflateren.
 
@@ -194,39 +194,39 @@ Bovendien zouden gebruikers de bank moeten vertrouwen dat deze geen geld uit het
 
 Back geloofde, echter, dat vrije marktcompetitie mogelijk kon helpen dit probleem op te lossen.
 
-"Wellicht zou je dus meerdere banken kunnen hebben en reputatie het werk laten doen, als je de protocollen zo kunt regelen dat het duidelijk zou zijn of een bank meer geld aan het drukken was dan het aan hash-botsingen had ontvangen. [. . .] Maar als je meerdere banken hebt dan moet je een uitwisselingsmechanisme hebben. De markt zou hier waarschijnlijk zorg voor kunnen dragen, door wisselkoersen te bepalen op basis van de reputaties van banken," suggereerde hij, in wat nu heel erg leek op een vrijbankiersysteem zoals beschreven door Friedrich Hayek.
+'Wellicht zou je dus meerdere banken kunnen hebben en reputatie het werk laten doen, als je de protocollen zo kunt regelen dat het duidelijk zou zijn of een bank meer geld aan het drukken was dan het aan hash-botsingen had ontvangen. [. . .] Maar als je meerdere banken hebt dan moet je een uitwisselingsmechanisme hebben. De markt zou hier waarschijnlijk zorg voor kunnen dragen, door wisselkoersen te bepalen op basis van de reputaties van banken', suggereerde hij, in wat nu heel erg leek op een vrijbankiersysteem zoals beschreven door Friedrich Hayek.
 
 Desalniettemin geloofde de jonge Cypherpunk uit Exeter dat ze het misschien zelfs nog beter konden doen dan dat:
 
-"Het zou beter zijn om iets te hebben dat geen vertrouwen vereist en dat geen mogelijkheid heeft voor bedrog, in plaats van te vertrouwen op reputatie om ze te sorteren."[^197]
+'Het zou beter zijn om iets te hebben dat geen vertrouwen vereist en dat geen mogelijkheid heeft voor bedrog, in plaats van te vertrouwen op reputatie om ze te sorteren.'[^197]
 
 
-[183]: Leslie Lamport, Robert Shostak, and Marshall Pease, "The Byzantine Generals Problem," ACM Transactions on Programming Languages and Systems : 382--401.
+[^183]: Leslie Lamport, Robert Shostak, and Marshall Pease, 'The Byzantine Generals Problem', ACM Transactions on Programming Languages and Systems : 382--401.
 
-[184]: Adam Back, "Re: 'why privacy' revisited," originally sent to the Cypherpunks mailing list, March 22, 1997, available via: [https://cypherpunks.venona.com/date/1997/03/msg00586.html.]
+[^184]: Adam Back, 'Re: 'why privacy' revisited', originally sent to the Cypherpunks mailing list, March 22, 1997, available via: [https://cypherpunks.venona.com/date/1997/03/msg00586.html.]
 
-[185]: Adam Back, "The Bitcoin Game #59: Dr. Adam Back," interview by Rob Mitchell, The Bitcoin Game, YouTube, October 25, 2018, <https://youtu.be/xxYsRjanphA?si=XVdLXPWGUk6oVPXg&t=647> 10:47--11:19.
+[^185]: Adam Back, 'The Bitcoin Game #59: Dr. Adam Back', interview by Rob Mitchell, The Bitcoin Game, YouTube, October 25, 2018, <https://youtu.be/xxYsRjanphA?si=XVdLXPWGUk6oVPXg&t=647> 10:47--11:19.
 
-[186]: Adam Back, "Re: cypherpunks digicash bank?," originally sent to the Cypherpunks mailing list, October 8, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00734.html.]
+[^186]: Adam Back, 'Re: cypherpunks digicash bank?', originally sent to the Cypherpunks mailing list, October 8, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00734.html.]
 
-[187]: Adam Back, "cypherpunks digicash bank?," originally sent to the Cypherpunks mailing list, October 7, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00690.html.]
+[^187]: Adam Back, 'cypherpunks digicash bank?', originally sent to the Cypherpunks mailing list, October 7, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00690.html.]
 
-[188]: Barnes, "cypherpunks digicash."
+[^188]: Barnes, 'cypherpunks digicash.'
 
-[189]: Adam Back, "distributed virtual bank," originally sent to the Cypherpunks mailing list, August 27, 1997, accessed via: <https://cypherpunks.venona.com/date/1997/08/msg01289.html>.
+[^189]: Adam Back, 'distributed virtual bank', originally sent to the Cypherpunks mailing list, August 27, 1997, accessed via: <https://cypherpunks.venona.com/date/1997/08/msg01289.html>.
 
-[190]: Tim May, "Re: More on digital postage," originally sent to the Cypherpunks mailing list, February 15, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/02/msg02295.html.]
+[^190]: Tim May, 'Re: More on digital postage', originally sent to the Cypherpunks mailing list, February 15, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/02/msg02295.html.]
 
-[191]: Adam Back, "Re: bulk postage fine ," originally sent to the Cypherpunks mailing list, August 3, 1997 accessed via: [https://cypherpunks.venona.com/date/1997/08/msg00070.html.]
+[^191]: Adam Back, 'Re: bulk postage fine ', originally sent to the Cypherpunks mailing list, August 3, 1997 accessed via: [https://cypherpunks.venona.com/date/1997/08/msg00070.html.]
 
-[192]: Adam Back, "no government regulation of the net ," originally sent to the Cypherpunks mailing list, August 3, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/08/msg00087.html.]
+[^192]: Adam Back, 'no government regulation of the net ', originally sent to the Cypherpunks mailing list, August 3, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/08/msg00087.html.]
 
-[193]: Cynthia Dwork and Moni Naor, "Pricing via Processing or Combatting Junk Mail," Advances in Cryptology---Crypto '92 : 139--147.
+[^193]: Cynthia Dwork and Moni Naor, 'Pricing via Processing or Combatting Junk Mail', Advances in Cryptology---Crypto '92 : 139--147.
 
-[194]: Adam Back, "ANNOUNCE hash cash postage implementation," originally sent to the Cypherpunks mailing list, March 28, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/03/msg00774.html.]
+[^194]: Adam Back, 'ANNOUNCE hash cash postage implementation', originally sent to the Cypherpunks mailing list, March 28, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/03/msg00774.html.]
 
-[195]: Adam Back, "Re: Remailer problem solution?" March 23, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/03/msg00631.html.]
+[^195]: Adam Back, 'Re: Remailer problem solution?' March 23, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/03/msg00631.html.]
 
-[196]: Back, "Re: Bypassing."
+[^196]: Back, 'Re: Bypassing.'
 
-[197]: Back, "Re: Bypassing."
+[^197]: Back, 'Re: Bypassing.'

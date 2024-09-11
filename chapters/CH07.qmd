@@ -26,7 +26,7 @@ Hier zou O'Connor een nieuw leven beginnen, als een nieuwe man.
 
 Om de nieuwe start te markeren, besloot hij zelfs zijn naam te veranderen: vanaf dat moment zou Max O'Connor door het leven gaan als 'Max More'.
 
-'Het leek echt de essentie van wat mijn doel is te vatten: altijd verbeteren, nooit stilstaan', legde hij later uit. 'Ik zou beter worden in alles, slimmer, fitter en gezonder worden. Het zou een constante herinnering zijn om vooruit te blijven gaan'.[124]
+'Het leek echt de essentie van wat mijn doel is te vatten: altijd verbeteren, nooit stilstaan', legde hij later uit. 'Ik zou beter worden in alles, slimmer, fitter en gezonder worden. Het zou een constante herinnering zijn om vooruit te blijven gaan'.[^124]
 
 ## FM-2030
 
@@ -92,7 +92,7 @@ Het is belangrijk om te overwegen dat Extropianisme echter geworteld moest blijv
 
 Deze oproep ging over 'rationeel individualisme' of 'cognitieve onafhankelijkheid', schreef More. Extropianen moesten leven volgens hun 'eigen oordeel, weloverwogen en geïnformeerde keuzes maken, profiteren van zowel succes als tekortkoming', legde hij uit. Dat vereiste op zijn beurt vrije en open samenlevingen waarin diverse informatiestromen en verschillende zienswijzen de kans krijgen om te bloeien.
 
-Anders gezien, geloven Extropianen dat staten en hun regeringen voornamelijk een obstakel voor vooruitgang vormen. Belastingen beroven mensen van middelen om te produceren en te bouwen, grenzen en andere reisbeperkingen kunnen verhinderen dat mensen zich op de plekken kunnen bevinden waar ze het meeste waarde toevoegen aan de globale samenleving, en overheidsregulaties beperken alleen maar het menselijke vermogen om te experimenteren en innoveren.
+Anders gezien, geloven Extropianen dat staten en hun regeringen voornamelijk een obstakel voor vooruitgang vormen. Belastingen beroven mensen van middelen om te produceren en te bouwen, grenzen en andere reisbeperkingen kunnen verhinderen dat mensen zich op de plekken kunnen bevinden waar ze het meeste waarde toevoegen aan de globale samenleving, en overheidsregulaties beperken alleen maar het menselijke vermogen om te experimenteren en innoveren.[^129]
 
 'Centraal bevel over gedrag belemmert ontdekking, diversiteit en afwijkende meningen', concludeerde More.[^130]
 
@@ -233,38 +233,38 @@ Via zijn artikel in het tijdschrift, riep de grondlegger van de beweging op om t
 Concluderend stelde hij: 'Ik betreur het recente overlijden van Hayek ten zeerste. [...] Omdat hij niet in biostase is geplaatst, zal Hayek nooit de dagen van elektronisch geld en concurrerende privévaluta's meemaken die zijn denken mogelijk zal helpen realiseren. Als we het voortouw willen blijven nemen in de toekomst, laten we dan kijken wat we kunnen doen om deze cruciale ontwikkelingen te versnellen. Wie weet zien we ooit nog een privévaluta die zijn naam draagt'.[^141]
 
 
-[124]: Ed Regis, 'Meet the Extropians', Wired, October 1, 1994, [https://www.wired.com/1994/10/extropians/.]
+[^124]: Ed Regis, 'Meet the Extropians', Wired, October 1, 1994, [https://www.wired.com/1994/10/extropians/.]
 
-[125]: Douglas Martin, 'Futurist Known as FM-2030 Is Dead at 69', The New York Times, July 11, 2000, [https://www.nytimes.com/2000/07/11/us/futurist-known-as-fm-2030-is-dead-at-69.html.]
+[^125]: Douglas Martin, 'Futurist Known as FM-2030 Is Dead at 69', The New York Times, July 11, 2000, [https://www.nytimes.com/2000/07/11/us/futurist-known-as-fm-2030-is-dead-at-69.html.]
 
-[126]: K. Eric Drexler, Engines of Creation, 146.
+[^126]: K. Eric Drexler, Engines of Creation, 146.
 
-[127]: Max More, 'Transhumanism: Towards a Futurist Philosophy', maxmore.com, geraadpleegd via [https://web.archive.org/web/20051029125153/http://www.maxmore.com/transhum.htm.]
+[^127]: Max More, 'Transhumanism: Towards a Futurist Philosophy', maxmore.com, geraadpleegd via [https://web.archive.org/web/20051029125153/http://www.maxmore.com/transhum.htm.]
 
-[128]: Max More, 'The Extropian Principles: A Transhumanist Declaration', maxmore.com, geraadpleegd via [https://web.archive.org/web/20090130143449/https://www.maxmore.com/extprn3.htm.]
+[^128]: Max More, 'The Extropian Principles: A Transhumanist Declaration', maxmore.com, geraadpleegd via [https://web.archive.org/web/20090130143449/https://www.maxmore.com/extprn3.htm.]
 
-[129]: De Amerikaanse Food and Drug Administration was een bijzonder restrictief voorbeeld; de federale instelling maakte het knutselen aan en uitproberen van nieuwe soorten medicijnen en geneeskunde zo goed als onmogelijk.
+[^129]: De Amerikaanse Food and Drug Administration was een bijzonder restrictief voorbeeld; de federale instelling maakte het knutselen aan en uitproberen van nieuwe soorten medicijnen en geneeskunde zo goed als onmogelijk.
 
-[130]: More, 'Extropian Principles'.
+[^130]: More, 'Extropian Principles'.
 
-[131]: Een groot deel van deze sectie is gebaseerd op Finn Brunton's Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists Who Built Cryptocurrency, 118--134.
+[^131]: Een groot deel van deze sectie is gebaseerd op Finn Brunton's Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists Who Built Cryptocurrency, 118--134.
 
-[132]: Max More, 'Transhumanism'.
+[^132]: Max More, 'Transhumanism'.
 
-[133]: Don Lavoie, Howard Baetjer, and William Tulloh, 'High-Tech Hayekians: Some Possible Research Topics in the Economics of Computation', Market Process 8: 119--146.
+[^133]: Don Lavoie, Howard Baetjer, and William Tulloh, 'High-Tech Hayekians: Some Possible Research Topics in the Economics of Computation', Market Process 8: 119--146.
 
-[134]: E.g., Phil Salin, 'Costs and Computers', Release 1.0: 5--18; Phil Salin, 'The Ecology of Decisions, or 'An Inquiry into the Nature and Causes of the Wealth of Kitchens'', Market Process 8: 91--114.
+[^134]: E.g., Phil Salin, 'Costs and Computers', Release 1.0: 5--18; Phil Salin, 'The Ecology of Decisions, or 'An Inquiry into the Nature and Causes of the Wealth of Kitchens'', Market Process 8: 91--114.
 
-[135]: Faciliteiten omvatten Alcor en het Cryonics Institute, Kriorus, Tomorrow Bio en Yinfeng Biological Group.
+[^135]: Faciliteiten omvatten Alcor en het Cryonics Institute, Kriorus, Tomorrow Bio en Yinfeng Biological Group.
 
-[136]: Hal Finney, 'Protecting Privacy with Electronic Cash', Extropy 10: 14.
+[^136]: Hal Finney, 'Protecting Privacy with Electronic Cash', Extropy 10: 14.
 
-[137]: Mark Grant, 'Introduction to Digital Cash', Extropy 15: 15.
+[^137]: Mark Grant, 'Introduction to Digital Cash', Extropy 15: 15.
 
-[138]: Eric Watt Forste, 'The Theory of Free Banking ', Extropy 15: 53.
+[^138]: Eric Watt Forste, 'The Theory of Free Banking ', Extropy 15: 53.
 
-[139]: Lawrence H. White, 'Thoughts on the Economics of 'Digital Currency''. Extropy 15: 18.
+[^139]: Lawrence H. White, 'Thoughts on the Economics of 'Digital Currency''. Extropy 15: 18.
 
-[140]: Max More, 'Hayek's Denationalisation of Money', Extropy 15: 20.
+[^140]: Max More, 'Hayek's Denationalisation of Money', Extropy 15: 20.
 
-[141]: More, 'Hayek's Denationalisation of Money', 20.
+[^141]: More, 'Hayek's Denationalisation of Money', 20.

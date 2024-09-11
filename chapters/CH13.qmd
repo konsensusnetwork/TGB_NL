@@ -18,7 +18,7 @@ Misschien nog dichter bij de visie van de Cypherpunks, richtte Robert Hettinga, 
 
 Maar geen van deze projecten heeft haar beloftes kunnen waarmaken. Hoewel sommige technologieën banenbrekend waren in specifieke sectoren, zoals het openbaar vervoer of voor betaalkaarten voor telefooncellen, slaagde digitaal geld er niet in om veel aantrekkingskracht te winnen bij het algemene publiek. Door het gebrek aan interesse begon de financiering ook te verminderen.
 
-"Eerlijk gezegd is het dot-com geld verdwenen," concludeerde Hettinga in 2001, nadat hij er niet in geslaagd was genoeg geld op te halen om het elektronische geldsysteem van zijn bedrijf te ontwikkelen. "We gaan ook over terrein waar CyberCash, DigiCash en veel andere mensen hun vingers aan verbrand hebben."[^244]
+'Eerlijk gezegd is het dot-com geld verdwenen', concludeerde Hettinga in 2001, nadat hij er niet in geslaagd was genoeg geld op te halen om het elektronische geldsysteem van zijn bedrijf te ontwikkelen. 'We gaan ook over terrein waar CyberCash, DigiCash en veel andere mensen hun vingers aan verbrand hebben.'[^244]
 
 In plaats van het investeren in nieuwe crypto-initiatieven, richtten traditionele banken en financiële dienstverleners zich op het verbeteren van bestaande cashloze betalingsystemen, zoals transacties via creditcards en betaalpassen. Intussen wonnen flamboyante nieuwe web-gebaseerde betalingsverwerkers zoals PayPal snel aan marktaandeel en het leek erop dat privacy (laat staan ​​monetaire hervorming) geen grote zorg was voor de meesten van hen. De dystopische toekomst waar Chaum en veel van de Cypherpunks voor gewaarschuwd hadden (een toekomst waarin alle financiële transacties konden worden gemonitord, geregistreerd en mogelijk gecensureerd) werd snel realiteit.
 
@@ -38,7 +38,7 @@ Kort na zijn afstuderen aan Caltech in 1978, vond Finney zijn eerste serieuze ba
 
 Als algemeen optimistisch mens, was Finney ervan overtuigd dat de wereld van morgen beter zou zijn dan die van vandaag, en stond hij open voor verandering. Dus toen de Extropiaanse-gemeenschap eind jaren '80 begon te vormen, paste hij er ook goed in. Het vooruitzicht van technologische vernieuwingen zoals nanotechnologie, kunstmatige intelligentie en *mind uploading* maakte hem enthousiast. En als een overtuigd atheïst die niet in het hiernamaals geloofde, was Finney al erg geïnteresseerd in het potentieel van cryonics sinds hij over het concept las tijdens zijn eerste jaar op de universiteit.
 
-Zoals Fran het later zei: "Hij geloofde niet in God. Hij geloofde in de toekomst."[^245]
+Zoals Fran het later zei: 'Hij geloofde niet in God. Hij geloofde in de toekomst.'[^245]
 
 ## Cypherpunkrealisme
 
@@ -50,11 +50,11 @@ Maar al snel besefte hij dat er ook een nadeel was aan de digitalisering van com
 
 Dit was het geval voor gewone communicatie, en Finney dacht dat dit net zo goed opging voor financiële transacties.
 
-"Er kunnen dossiers worden gemaakt die de uitgavenpatronen van ons allemaal volgen", waarschuwde Finney. "Als ik nu iets bestel via de telefoon of elektronisch met mijn Visa kaart, wordt er een record bijgehouden van hoeveel ik precies heb uitgegeven en waar ik het heb besteed. Naarmate de tijd vordert, kunnen er meer transacties op deze manier plaatsvinden, en het uiteindelijke resultaat kan een groot verlies aan privacy zijn."[^246]
+'Er kunnen dossiers worden gemaakt die de uitgavenpatronen van ons allemaal volgen', waarschuwde Finney. 'Als ik nu iets bestel via de telefoon of elektronisch met mijn Visa kaart, wordt er een record bijgehouden van hoeveel ik precies heb uitgegeven en waar ik het heb besteed. Naarmate de tijd vordert, kunnen er meer transacties op deze manier plaatsvinden, en het uiteindelijke resultaat kan een groot verlies aan privacy zijn.'[^246]
 
 Het internet had behoefte aan een ontraceerbare vorm van geld, concludeerde Finney --- digitaal contant geld. En hij was opgetogen te ontdekken dat zo'n systeem al in ontwikkeling was.
 
-"Het leek me zo duidelijk", herinnerde Finney zich later. "We worden geconfronteerd met problemen zoals het verlies van privacy, oprukkende computarisering, enorme databases en meer centralisatie, en Chaum biedt een volledig andere weg om in te slaan, eentje die macht in handen van individuen legt in plaats van regeringen en bedrijven. De computer kan eerder als instrument gebruikt worden om mensen te bevrijden en te beschermen, in plaats van hen te controleren."[^247]
+'Het leek me zo duidelijk', herinnerde Finney zich later. 'We worden geconfronteerd met problemen zoals het verlies van privacy, oprukkende computarisering, enorme databases en meer centralisatie, en Chaum biedt een volledig andere weg om in te slaan, eentje die macht in handen van individuen legt in plaats van regeringen en bedrijven. De computer kan eerder als instrument gebruikt worden om mensen te bevrijden en te beschermen, in plaats van hen te controleren.'[^247]
 
 Finney had daarom een uitnodiging aanvaard van mede-Extropiaan Tim May, die een ontmoeting organiseerde met een groep lokale hackers en cryptografen uit de Bay Area, die zichzelf spoedig de Cypherpunks zouden noemen.
 
@@ -68,13 +68,13 @@ Finney stond echter niet achter de visie van Tim May om met behulp van Cypherpun
 
 Dit was niet omdat hij het idee om de staat uit economische interacties te verwijderen niet leuk vond, of omdat de ideeën van May op dat vlak te radicaal voor zijn smaak waren. Als een Extropiaan en libertariër vond Finney in feite dat May's visie in principe geweldig klonk. Hij geloofde echter niet dat May's idee om een anarchistische samenleving te bereiken door middel van cryptografie erg realistisch was.
 
-"[...] er bestaat niet zoiets als cyberspace", schreef Finney op een gegeven moment aan de mailinglijst van de Cypherpunks in reactie op een van de betogen van May. "Ik ben nu niet in cyberspace, ik ben in Californië. Ik val onder de wetten van Californië en de Verenigde Staten, ook al communiceer ik met een andere persoon, of het nu per post of elektronisch is, via telefoon of TCP/IP-verbinding. Wat betekent het om te spreken over een regering in cyberspace? Het is de regering in de fysieke ruimte die ik vrees. Haar agenten dragen fysieke wapens die echte kogels afvuren. Totdat ik in mijn computer kan leven en elektronen kan eten, zie ik de relevantie van cyberspace niet in." [248]
+'[...] er bestaat niet zoiets als cyberspace', schreef Finney op een gegeven moment aan de mailinglijst van de Cypherpunks in reactie op een van de betogen van May. 'Ik ben nu niet in cyberspace, ik ben in Californië. Ik val onder de wetten van Californië en de Verenigde Staten, ook al communiceer ik met een andere persoon, of het nu per post of elektronisch is, via telefoon of TCP/IP-verbinding. Wat betekent het om te spreken over een regering in cyberspace? Het is de regering in de fysieke ruimte die ik vrees. Haar agenten dragen fysieke wapens die echte kogels afvuren. Totdat ik in mijn computer kan leven en elektronen kan eten, zie ik de relevantie van cyberspace niet in.' [^248]
 
-Hoewel individuen Cypherpunk hulpmiddelen konden gebruiken om hun privacy te beschermen, geloofde Finney niet dat de meeste mensen hun hele leven zich in cyberspace zouden kunnen "verbergen". Zelfs als Cypherpunk-hulpmiddelen een kleine groep technisch onderlegde elite zouden kunnen helpen om bepaalde wetten te omzeilen, verwierp hij de gedachte dat dit de beschaving ingrijpend zou veranderen, omdat hij uiteindelijk niet geloofde dat een libertaire samenleving gerealiseerd kon worden zonder wijdverspreide steun van de bevolking.
+Hoewel individuen Cypherpunk hulpmiddelen konden gebruiken om hun privacy te beschermen, geloofde Finney niet dat de meeste mensen hun hele leven zich in cyberspace zouden kunnen 'verbergen'. Zelfs als Cypherpunk-hulpmiddelen een kleine groep technisch onderlegde elite zouden kunnen helpen om bepaalde wetten te omzeilen, verwierp hij de gedachte dat dit de beschaving ingrijpend zou veranderen, omdat hij uiteindelijk niet geloofde dat een libertaire samenleving gerealiseerd kon worden zonder wijdverspreide steun van de bevolking.
 
 In plaats van een anarchistisch utopia om naar te migreren, zag Finney het internet eerder als een plek voor intellectuele uitwisseling: in plaats van een Galt's Gulch, zag hij cyberspace als een plek om ideeën vrijelijk uit te wisselen en te bediscussiëren. En dit, zo geloofde Finney, was de echte sleutel tot het bereiken van ware vrijheid. De beste en enige manier om een vrije samenleving te creëren was om de massa ervan te overtuigen dat een vrije samenleving een goed idee is.
 
-"In de kern geloof ik dat we de soort samenleving zullen hebben die de meeste mensen wensen. Als we vrijheid en privacy willen, moeten we anderen overtuigen dat deze waardevol zijn. Er zijn geen snelkoppelingen. Terugtrekken in technologie is als het over je hoofd trekken van je dekens. Het voelt even goed, totdat de realiteit je inhaalt."[^249]
+'In de kern geloof ik dat we de soort samenleving zullen hebben die de meeste mensen wensen. Als we vrijheid en privacy willen, moeten we anderen overtuigen dat deze waardevol zijn. Er zijn geen snelkoppelingen. Terugtrekken in technologie is als het over je hoofd trekken van je dekens. Het voelt even goed, totdat de realiteit je inhaalt.'[^249]
 
 ## Elektronisch geld
 
@@ -90,11 +90,11 @@ Finney had ook een speciale interesse in de wettelijkheid van elektronisch geld,
 
 Tegelijkertijd stelde Finney zich terughoudend op tegenover enkele uitspraken, geïnspireerd door crypto-anarchie, over de beloften van elektronisch geld. Ook hier was hij sceptisch over enkele van de meer radicale voorspellingen met betrekking tot massale belastingontduiking en hoe elektronisch geld dit zou mogelijk maken.
 
-"We zijn verblind door het beeld van monetaire stromen die over de hele wereld flitsen. Wat ik echter nooit precies kan plaatsen is, wat precies verhindert dat zoiets vandaag de dag wordt gedaan?" vroeg Finney aan de mailinglijst. "Als je in goud wilt investeren, kun je toch naar de goudhandelaar gaan en wat kopen? Of je kunt je geld in een beleggingsfonds in goud stoppen en het als een betaalrekening gebruiken. Als je yen of marken wilt, kun je daarin investeren. Als het punt is om dit in het geheim te doen, waarom zou het dan gemakkelijker zijn om je salaris per post naar de digicash-bank in de Bahamas te sturen dan naar een bestaande bank daar?"[250]
+'We zijn verblind door het beeld van monetaire stromen die over de hele wereld flitsen. Wat ik echter nooit precies kan plaatsen is, wat precies verhindert dat zoiets vandaag de dag wordt gedaan?' vroeg Finney aan de mailinglijst. 'Als je in goud wilt investeren, kun je toch naar de goudhandelaar gaan en wat kopen? Of je kunt je geld in een beleggingsfonds in goud stoppen en het als een betaalrekening gebruiken. Als je yen of marken wilt, kun je daarin investeren. Als het punt is om dit in het geheim te doen, waarom zou het dan gemakkelijker zijn om je salaris per post naar de digicash-bank in de Bahamas te sturen dan naar een bestaande bank daar?'[^250]
 
 Ook hier was het niet zo dat Finney de meer radicale beloftes van Tim May onaantrekkelijk vond. Hij beschouwde ze gewoon als niet erg realistisch. Afgezien van het feit dat de meeste mensen hun belastingen toch al rechtstreeks van hun salaris betaalden, moest iedereen uiteindelijk in de fysieke wereld leven, waar belastingontduiking nog steeds illegaal zou zijn. Het was voor Finney verre van duidelijk dat het verbergen van rijkdom in cyberspace de meeste mensen in het echte leven ten goede zou komen.
 
-"Het lijkt mij dat de zwakte in deze plannen om de overheid te omzeilen met digitaal geld zit in de omzetting van fysiek geld naar digitaal geld. Dat lijkt het knelpunt te zijn waar de overheid nog steeds controle kan houden", concludeert Finney. [^251]
+'Het lijkt mij dat de zwakte in deze plannen om de overheid te omzeilen met digitaal geld zit in de omzetting van fysiek geld naar digitaal geld. Dat lijkt het knelpunt te zijn waar de overheid nog steeds controle kan houden', concludeert Finney. [^251]
 
 ## Herbruikbare proofs-of-work
 
@@ -102,9 +102,9 @@ In de jaren 2000, ongeveer tien jaar nadat Finney bij Extropianen begon te pleit
 
 Wellicht was het omdat zijn verwachtingen voor het potentieel van elektronisch geld meer ingetogen waren dan die van Tim May en andere crypto-anarchisten in de eerste plaats, of misschien was het gewoon vanwege zijn over het algemeen optimistische karakter, maar waar vele andere Cypherpunks tegen deze tijd ontgoocheld waren geraakt, wilde Finney het idee nog een kans geven. Hij besloot uiteindelijk om een op proof-of-work gebaseerd elektronisch geldsysteem te ontwikkelen, zelfs als het in een vereenvoudigde vorm moest.
 
-In 2004 lanceerde hij *Reusable Proofs of Work*, of kortweg *RPOW* (uitgesproken als "arpow"). Hij nodigde mensen uit om het systeem te testen, adverteerde het elektronische geld op een eenvoudige blauw-groene webpagina met een RPOW-logo in stripboekstijl (denk aan de "POW" letters die de plek markeren waar Batman's uppercut de kaak van een ongelukkige handlanger raakt).
+In 2004 lanceerde hij *Reusable Proofs of Work*, of kortweg *RPOW* (uitgesproken als 'arpow'). Hij nodigde mensen uit om het systeem te testen, adverteerde het elektronische geld op een eenvoudige blauw-groene webpagina met een RPOW-logo in stripboekstijl (denk aan de 'POW' letters die de plek markeren waar Batman's uppercut de kaak van een ongelukkige handlanger raakt).
 
-"Beveiligingsonderzoeker Nick Szabo heeft de term bit gold bedacht om een soortgelijk concept van tokens, dat inherent een bepaald niveau van inspanning vertegenwoordigt, te omschrijven", schreef Finney op de website van het project. "Het concept van Nick is complexer dan het eenvoudige RPOW-systeem, maar zijn inzicht is van toepassing: op sommige manieren kun je een RPOW-token zien als het hebben van de eigenschappen van een zeldzame grondstof zoals goud. Het kost moeite en uitgaven om goud te delven en munten te slaan, waardoor ze inherent zeldzaam zijn."[^252]
+'Beveiligingsonderzoeker Nick Szabo heeft de term bit gold bedacht om een soortgelijk concept van tokens, dat inherent een bepaald niveau van inspanning vertegenwoordigt, te omschrijven', schreef Finney op de website van het project. 'Het concept van Nick is complexer dan het eenvoudige RPOW-systeem, maar zijn inzicht is van toepassing: op sommige manieren kun je een RPOW-token zien als het hebben van de eigenschappen van een zeldzame grondstof zoals goud. Het kost moeite en uitgaven om goud te delven en munten te slaan, waardoor ze inherent zeldzaam zijn.'[^252]
 
 Waar Bit Gold was ontworpen rondom een 'eigendomsclub', zou ook RPOW beheerd worden door specifieke servers. Voor het prototype had Finney zelf een RPOW-server opgezet. Deze voerde de basisbewerkingen uit die nodig zijn voor het elektronische geldsysteem: het gaf nieuwe RPOW-tokens uit (de munteenheden), en controleerde of tokens niet twee keer werden uitgegeven.
 
@@ -128,13 +128,13 @@ Het systeem zoals tot dusver beschreven zou vrij goed werken, behalve dat het ve
 
 Ten eerste zou de RPOW-server gebruik maken van gratis en open source software. Iedereen kon online de broncode van RPOW vinden en controleren hoe het functioneerde.
 
-En, als hoofdinnovatie van het systeem, was de RPOW-server gehost op een veilige hardwarecomponent, de IBM 4758. Dit maakte "betrouwbaar rekenen" mogelijk.
+En, als hoofdinnovatie van het systeem, was de RPOW-server gehost op een veilige hardwarecomponent, de IBM 4758. Dit maakte 'betrouwbaar rekenen' mogelijk.
 
-Kortom, de sabotagebestendige hardware bevatte een privésleutel, ingebed door IBM, die niemand, zelfs niet de eigenaar van de veilige hardwarecomponent, kon manipuleren of eruit kon halen. Met behulp van een techniek die "remote attestation" wordt genoemd, kon de privésleutel vervolgens de gratis en open source software die op de veilige hardwarecomponent was geïnstalleerd, cryptografisch ondertekenen. Met deze handtekening en de bijbehorende publieke sleutel van IBM kon iedereen verifiëren dat de veilige hardwarecomponent daadwerkelijk de RPOW-broncode uitvoerde die Finney had gepubliceerd, zonder achterdeuren of aanpassingen.
+Kortom, de sabotagebestendige hardware bevatte een privésleutel, ingebed door IBM, die niemand, zelfs niet de eigenaar van de veilige hardwarecomponent, kon manipuleren of eruit kon halen. Met behulp van een techniek die 'remote attestation' wordt genoemd, kon de privésleutel vervolgens de gratis en open source software die op de veilige hardwarecomponent was geïnstalleerd, cryptografisch ondertekenen. Met deze handtekening en de bijbehorende publieke sleutel van IBM kon iedereen verifiëren dat de veilige hardwarecomponent daadwerkelijk de RPOW-broncode uitvoerde die Finney had gepubliceerd, zonder achterdeuren of aanpassingen.
 
 Zolang men IBM vertrouwde om niet mee te werken met Finney om een valse handtekening te fabriceren (en aannemende dat de centrale server niet volledig offline ging), konden RPOW-gebruikers er zeker van zijn dat het elektronische geldsysteem functioneerde zoals het moest.
 
-"[...] Het RPOW-systeem is ontworpen met één overkoepelend doel: het onmogelijk maken dat iemand, zelfs de eigenaar van de RPOW-server of zelfs de ontwikkelaar van de RPOW-software, in staat zou zijn om de regels van het systeem te overtreden en RPOW-tokens te vervalsen," legde Finney uit op de RPOW-website. "Zonder zo'n garantie tegen vervalsbaarheid, zouden RPOW-tokens het werk dat is gedaan om ze te creëren niet geloofwaardig kunnen vertegenwoordigen. Vervalsbare tokens zouden meer lijken op papiergeld dan op bit-goud."[^253]
+'[...] Het RPOW-systeem is ontworpen met één overkoepelend doel: het onmogelijk maken dat iemand, zelfs de eigenaar van de RPOW-server of zelfs de ontwikkelaar van de RPOW-software, in staat zou zijn om de regels van het systeem te overtreden en RPOW-tokens te vervalsen', legde Finney uit op de RPOW-website. 'Zonder zo'n garantie tegen vervalsbaarheid, zouden RPOW-tokens het werk dat is gedaan om ze te creëren niet geloofwaardig kunnen vertegenwoordigen. Vervalsbare tokens zouden meer lijken op papiergeld dan op bit-goud.'[^253]
 
 ## Het lot van RPOW
 
@@ -148,13 +148,13 @@ Helaas voor Finney bleek Maxwell echter een zeldzame uitzondering. Omdat bijna n
 
 Dit was waarschijnlijk ten minste gedeeltelijk te wijten aan het feit dat RPOW geen heel goede vorm van geld was. Geconfronteerd met hetzelfde probleem als Adam Back's hashcash, een probleem dat Szabo en Dai geprobeerd hadden op een omslachtige manier op te lossen, zouden computationele verbeteringen het na verloop van tijd goedkoper maken om geldige hashes te genereren, wat suggereert dat de markt uiteindelijk zou worden overspoeld met RPOW-tokens. De verwachting van hoge inflatie werkte ontmoedigend om de RPOW-valuta-eenheden te bezitten.
 
-"Het klopt dat als de Wet van Moore blijft gelden, de kosten voor het vervaardigen van een 'proof-of-work'-token exponentieel zullen blijven dalen", gaf Finney toe op de website van het project. "Maar onthou dat dit geen geld is en niet bedoeld is als een stabiel middel om waarde op te slaan. Het is eerder bedoeld als een gemakkelijk te ruilen representatie van computerrekenkracht."[^254]
+'Het klopt dat als de Wet van Moore blijft gelden, de kosten voor het vervaardigen van een 'proof-of-work'-token exponentieel zullen blijven dalen', gaf Finney toe op de website van het project. 'Maar onthou dat dit geen geld is en niet bedoeld is als een stabiel middel om waarde op te slaan. Het is eerder bedoeld als een gemakkelijk te ruilen representatie van computerrekenkracht.'[^254]
 
 Inderdaad, het elektronische geldsysteem van Finney fungeerde niet zozeer als een breed geaccepteerde waardeopslag of rekeneenheid. Het werd vooral nuttig geacht als ruilmiddel op plaatsen waar hashcash zinvol kon zijn, bijvoorbeeld om te dienen als 'postzegels' voor het beperken van spam.
 
 Maar waarschijnlijk slaagde het elektronische geldsysteem er ook niet in om van de grond te komen omdat het de opstartuitdaging niet kon overwinnen. Geld is enkel nuttig als anderen het accepteren als betaalmiddel, maar zonder een economische stimulans om RPOW-tokens bij te houden, hadden de meeste mensen daar geen reden toe. En zonder dat er iemand was die de tokens als betaling accepteerde, was er ook niemand die ze wilde uitgegeven, wat betekende dat er nog minder reden was voor iemand om ze in eerste instantie te accepteren als betaling...
 
-"Het had het probleem dat er min of meer niets was om het voor te gebruiken", concludeerde Maxwell ook, die jaren later terugkeek op het RPOW-project, "wat het moeilijk maakte om de aandacht erop gericht te houden."[255]
+'Het had het probleem dat er min of meer niets was om het voor te gebruiken', concludeerde Maxwell ook, die jaren later terugkeek op het RPOW-project, 'wat het moeilijk maakte om de aandacht erop gericht te houden.'[^255]
 
 Net als eCash en hashcash voorheen, leed ook RPOW aan een kip-of-ei probleem.
 
@@ -173,30 +173,30 @@ Na meer dan twintig jaar van niet-gerealiseerde voorstellen, verlaten projecten 
 Intussen werd de noodzaak om een alternatief voor fiatgeld te vinden steeds groter...
 
 
-[242]: Tim May, "My Departure, Moderation, and 'Ownership of the List,' originally sent to the Cypherpunks mailing list, February 2, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/02/msg02898.html]
+[^242]: Tim May, 'My Departure, Moderation, and 'Ownership of the List', originally sent to the Cypherpunks mailing list, February 2, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/02/msg02898.html]
 
-[243]: ​Mark Frauenfelder, "Homeless Cypherpunks Turn to Usenet," Wired, February 17, 1997, [https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/.]
+[^243]: ​Mark Frauenfelder, 'Homeless Cypherpunks Turn to Usenet', Wired, February 17, 1997, [https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/.]
 
-[244]: Declan McCullagh, "Digging Those Digicash Blues," Wired, June 14, 2001, [https://www.wired.com/2001/06/digging-those-digicash-blues/.]
+[^244]: Declan McCullagh, 'Digging Those Digicash Blues', Wired, June 14, 2001, [https://www.wired.com/2001/06/digging-those-digicash-blues/.]
 
-[245]: Nicole Weinstock, "Member Profile: Hal Finney," Cryonics 40, issue 2 : 9.
+[^245]: Nicole Weinstock, 'Member Profile: Hal Finney', Cryonics 40, issue 2 : 9.
 
-[246]: Hal Finney, "Re: Physical to digital cash, and back again," originally sent to the Cypherpunks mailing list, August 19, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00581.html]
+[^246]: Hal Finney, 'Re: Physical to digital cash, and back again', originally sent to the Cypherpunks mailing list, August 19, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00581.html]
 
-[247]: Hal Finney, "Why remailers...," originally sent to the Cypherpunks mailing list, November 15, 1992, accessed via: [https://cypherpunks.venona.com/date/1992/11/msg00108.html.]
+[^247]: Hal Finney, 'Why remailers...', originally sent to the Cypherpunks mailing list, November 15, 1992, accessed via: [https://cypherpunks.venona.com/date/1992/11/msg00108.html.]
 
-[248]: Hal Finney, "Re: Voluntary Governments?" originally sent to the Cypherpunks mailing list, August 4, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/08/msg00239.html.]
+[^248]: Hal Finney, 'Re: Voluntary Governments?' originally sent to the Cypherpunks mailing list, August 4, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/08/msg00239.html.]
 
-[249]: Hal Finney, "POLI: Politics vs Technology," originally sent to the Cypherpunks mailing list, January 2, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/01/msg00014.html.]
+[^249]: Hal Finney, 'POLI: Politics vs Technology', originally sent to the Cypherpunks mailing list, January 2, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/01/msg00014.html.]
 
-[250]: Hal Finney, "Re: Re: re: re: digital cash," originally sent to the Cypherpunks mailing list, March 16, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/03/msg00694.html.]
+[^250]: Hal Finney, 'Re: Re: re: re: digital cash', originally sent to the Cypherpunks mailing list, March 16, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/03/msg00694.html.]
 
-[251]: Finney, "Re: Re: re: re: digital cash."
+[^251]: Finney, 'Re: Re: re: re: digital cash.'
 
-[252]: Hal Finney, "Reusable Proofs of Work," RPOW website index page, accessed via: [https://web.archive.org/web/20090217090451/http://rpow.net/index.html.]
+[^252]: Hal Finney, 'Reusable Proofs of Work', RPOW website index page, accessed via: [https://web.archive.org/web/20090217090451/http://rpow.net/index.html.]
 
-[253]: Hal Finney, "RPOW Theory," RPOW website theory page, accessed via [https://web.archive.org/web/20040815154951/http://rpow.net/theory.html.]
+[^253]: Hal Finney, 'RPOW Theory', RPOW website theory page, accessed via [https://web.archive.org/web/20040815154951/http://rpow.net/theory.html.]
 
-[254]: Hal Finney, "RPOW FAQs," RPOW website FAQ page, accessed via [https://web.archive.org/web/20090217090439/http://rpow.net/faqs.html#inflation.]
+[^254]: Hal Finney, 'RPOW FAQs', RPOW website FAQ page, accessed via [https://web.archive.org/web/20090217090439/http://rpow.net/faqs.html#inflation.]
 
-[255]: Gregory Maxwell, IRC message to author, August 13, 2020.
+[^255]: Gregory Maxwell, IRC message to author, August 13, 2020.

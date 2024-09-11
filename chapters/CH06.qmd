@@ -128,7 +128,7 @@ Kort na de Mark Twain Bank volgden andere banken. Banken in verschillende landen
 
 Echter, misschien nog opmerkelijker dan de samenwerkingsverbanden die Chaum tot stand bracht, waren de zakendeals die hij niet wist af te ronden. En hier begint het verhaal over wat er precies gebeurde bij DigiCash te variëren, afhankelijk van wie je het vraagt.
 
-Volgens diverse medewerkers van DigiCash hadden grote spelers in de tech- en financiële industrie grote interesse getoond. Twee van de drie meest prominente Nederlandse banken, ING en ABN Amro, zouden naar verluidt aanbiedingen voor samenwerkingen gemaakt hebben aan DigiCash ter waarde van tientallen miljoenen dollars. Ook betalingsreus Visa zou Chaum een deal van in de miljoenen hebben voorgelegd. Er wordt verder gezegd dat ook Netscape geïnteresseerd was: eCash had een mogelijke toevoeging kunnen zijn aan de populairste webbrowser van die tijd, maar deze samenwerking kwam niet tot stand.
+Volgens diverse medewerkers van DigiCash hadden grote spelers in de tech- en financiële industrie grote interesse getoond.[^115] Twee van de drie meest prominente Nederlandse banken, ING en ABN Amro, zouden naar verluidt aanbiedingen voor samenwerkingen gemaakt hebben aan DigiCash ter waarde van tientallen miljoenen dollars. Ook betalingsreus Visa zou Chaum een deal van in de miljoenen hebben voorgelegd. Er wordt verder gezegd dat ook Netscape geïnteresseerd was: eCash had een mogelijke toevoeging kunnen zijn aan de populairste webbrowser van die tijd, maar deze samenwerking kwam niet tot stand.
 
 Het grootste aanbod van allemaal zou echter zijn gekomen van niemand minder dan Microsoft. Zo luidt het verhaal, Bill Gates wilde eCash integreren in het Windows 95-besturingssysteem en bood DigiCash ongeveer 100 miljoen dollar om dit mogelijk te maken. In plaats daarvan zou Chaum twee dollar hebben gevraagd voor elke verkochte versie van Windows 95. Dit was te hoog gegrepen voor de Amerikaanse softwaregigant en daarmee was de deal van de baan.
 
@@ -218,7 +218,7 @@ Stornetta en Haber hadden geconcludeerd dat het toevoegen van meer entiteiten om
 
 Maar Stornetta kwam nu tot het inzicht dat er een uitzondering op deze regel is: als iedereen de tijdstempeldienst controleert, kan niemand samenspannen: er zou niemand meer over zijn om tegen te samenzweren. Zolang iedereen iedereen in de gaten houdt, is er helemaal geen vertrouwde partij meer nodig!
 
-Stornetta stelde: 'Als we in essentie een samenzwering kunnen creëren die zo groot is dat het de hele wereld omvat, dan zouden we in feite het probleem hebben omgekeerd en een systeem zonder vertrouwen hebben gecreëerd'.[119]
+Stornetta stelde: 'Als we in essentie een samenzwering kunnen creëren die zo groot is dat het de hele wereld omvat, dan zouden we in feite het probleem hebben omgekeerd en een systeem zonder vertrouwen hebben gecreëerd'.[^119]
 
 Het is uiteraard onwaarschijnlijk dat de groep die op vervalsingen controleert zo groot wordt dat letterlijk iedereen op aarde erbij hoort. Desalniettemin, deze nieuwe inzichten betekenden een echte doorbraak in het denken van Stornetta en Haber.
 
@@ -269,48 +269,48 @@ Inderdaad, als iemand zou proberen een document te antidateren, zou het niet all
 De sleutel tot hun succes, was de verdeling van vertrouwen.
 
 
-[101]: David Chaum, 'Security Without Identification: Transaction Systems to Make Big Brother Obsolete', Communications of the ACM 28, no. 10: 1030--1044.
+[^101]: David Chaum, 'Security Without Identification: Transaction Systems to Make Big Brother Obsolete', Communications of the ACM 28, no. 10: 1030--1044.
 
-[102]: David Chaum, 'Achieving Electronic Privacy', Scientific American 267, 2: 96--101.
+[^102]: David Chaum, 'Achieving Electronic Privacy', Scientific American 267, 2: 96--101.
 
-[103]: David Chaum, 'Blind Signatures for Untraceable Payments', Advances in Cryptology: Proceedings of Crypto 82: 199--203.
+[^103]: David Chaum, 'Blind Signatures for Untraceable Payments', Advances in Cryptology: Proceedings of Crypto 82: 199--203.
 
-[104]: Chaum zou later ook een oplossing voorstellen waarbij dubbel uitgeven de anonimiteit van de dader zou kunnen opheffen, waardoor de noodzaak om elke binnenkomende betaling direct te controleren aan de hand van de bankgegevens enigszins wordt beperkt, aangezien de dader van een dubbele-uitgave aanval kan worden geïdentificeerd.
+[^104]: Chaum zou later ook een oplossing voorstellen waarbij dubbel uitgeven de anonimiteit van de dader zou kunnen opheffen, waardoor de noodzaak om elke binnenkomende betaling direct te controleren aan de hand van de bankgegevens enigszins wordt beperkt, aangezien de dader van een dubbele-uitgave aanval kan worden geïdentificeerd.
 
-[105]: Als een handig extra detail bevat het systeem ook een soort fraudepreventiecontrole—zij het een die ten koste gaat van privacy als en wanneer gebruikers ervoor zouden kiezen deze te gebruiken. Als Carol ten onrechte zou beweren dat ze nooit betaald is, zou Bob kunnen kiezen om de nonce aan Alice Bank te onthullen. Hiermee kan hij bewijzen dat hij de digitale dollars heeft gemaakt die Carol heeft gestort en dat hij ze aan haar heeft betaald.
+[^105]: Als een handig extra detail bevat het systeem ook een soort fraudepreventiecontrole—zij het een die ten koste gaat van privacy als en wanneer gebruikers ervoor zouden kiezen deze te gebruiken. Als Carol ten onrechte zou beweren dat ze nooit betaald is, zou Bob kunnen kiezen om de nonce aan Alice Bank te onthullen. Hiermee kan hij bewijzen dat hij de digitale dollars heeft gemaakt die Carol heeft gestort en dat hij ze aan haar heeft betaald.
 
-[106]: Dat gezegd hebbende, zijn er nog enkele andere, mogelijk meer drastische maatregelen die Alice Bank had kunnen nemen. Naast het weigeren om digitale dollars aan Bob uit te geven, had ze ook alle elektronische contante betalingen kunnen blokkeren. Evenzo zou ze bepaalde gebruikers kunnen blokkeren van het accepteren van betalingen; zelfs als betalingen niet kunnen worden getraceerd, kunnen sommige gebruikers nog steeds worden uitgesloten van deelname aan het systeem.
+[^106]: Dat gezegd hebbende, zijn er nog enkele andere, mogelijk meer drastische maatregelen die Alice Bank had kunnen nemen. Naast het weigeren om digitale dollars aan Bob uit te geven, had ze ook alle elektronische contante betalingen kunnen blokkeren. Evenzo zou ze bepaalde gebruikers kunnen blokkeren van het accepteren van betalingen; zelfs als betalingen niet kunnen worden getraceerd, kunnen sommige gebruikers nog steeds worden uitgesloten van deelname aan het systeem.
 
-[107]: Er kan worden gesteld dat Chaum een tamelijk losse definitie van 'contant geld' gebruikte, aangezien contant geld meestal meer onderscheidende eigenschappen heeft. Chaums vorm van digitaal contant geld bood bijvoorbeeld beperkte overdraagbaarheid van persoon tot persoon—een kenmerk dat fysiek contant geld wel heeft, omdat het vrij kan worden doorgegeven. Niettemin heeft Chaum een vorm van digitaal geld uitgevonden die ten minste een vergelijkbaar niveau van privacy bood als fysiek contant geld, wat zijn hoofddoel was.
+[^107]: Er kan worden gesteld dat Chaum een tamelijk losse definitie van 'contant geld' gebruikte, aangezien contant geld meestal meer onderscheidende eigenschappen heeft. Chaums vorm van digitaal contant geld bood bijvoorbeeld beperkte overdraagbaarheid van persoon tot persoon—een kenmerk dat fysiek contant geld wel heeft, omdat het vrij kan worden doorgegeven. Niettemin heeft Chaum een vorm van digitaal geld uitgevonden die ten minste een vergelijkbaar niveau van privacy bood als fysiek contant geld, wat zijn hoofddoel was.
 
-[108]: David Chaum, 'Security Without Identification'.
+[^108]: David Chaum, 'Security Without Identification'.
 
-[109]: Uiteindelijk werd het tolproject niet aangenomen: het idee bleek te controversieel in Nederland. De technologie zou echter later worden gelicentieerd onder de naam 'DyniCash' aan een in Dallas gevestigde onderneming die gespecialiseerd was in communicatie op microgolf-frequenties voor treinen.
+[^109]: Uiteindelijk werd het tolproject niet aangenomen: het idee bleek te controversieel in Nederland. De technologie zou echter later worden gelicentieerd onder de naam 'DyniCash' aan een in Dallas gevestigde onderneming die gespecialiseerd was in communicatie op microgolf-frequenties voor treinen.
 
-[110]: Peter H. Lewis, 'Attention Internet Shoppers: E-Cash Is Here', The New York Times, October 19, 1994, [https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html.]
+[^110]: Peter H. Lewis, 'Attention Internet Shoppers: E-Cash Is Here', The New York Times, October 19, 1994, [https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html.]
 
-[111]: DigiCash, 'Bank Austria and Den norske Bank to Issue ecash™ the Electronic Cash for the Internet', DigiCash, April 14, 1997, geraadpleegd via [https://web.archive.org/web/19970605025912/http://www.digicash.com:80/publish/ec_pres8.html.]
+[^111]: DigiCash, 'Bank Austria and Den norske Bank to Issue ecash™ the Electronic Cash for the Internet', DigiCash, April 14, 1997, geraadpleegd via [https://web.archive.org/web/19970605025912/http://www.digicash.com:80/publish/ec_pres8.html.]
 
-[112]: DigiCash, 'Advance Bank First to Provide DigiCash's ecash™ System in Australia', DigiCash, October, 1996, geraadpleegd via [https://web.archive.org/web/19961102121407/https://www.digicash.com/publish/ec_pres6.html.]
+[^112]: DigiCash, 'Advance Bank First to Provide DigiCash's ecash™ System in Australia', DigiCash, October, 1996, geraadpleegd via [https://web.archive.org/web/19961102121407/https://www.digicash.com/publish/ec_pres6.html.]
 
-[113]: DigiCash, 'DigiCash's Ecash™ to be Issued by Deutsche Bank', DigiCash, May 7, 1996, geraadpleegd via [https://web.archive.org/web/19961102121355/https://www.digicash.com/publish/ec_pres5.html.]
+[^113]: DigiCash, 'DigiCash's Ecash™ to be Issued by Deutsche Bank', DigiCash, May 7, 1996, geraadpleegd via [https://web.archive.org/web/19961102121355/https://www.digicash.com/publish/ec_pres5.html.]
 
-[114]: Jeffrey Kutler, 'Credit Suisse, Digicash in E-Commerce Test', American Banker, June 16, 1998, [https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test.]
+[^114]: Jeffrey Kutler, 'Credit Suisse, Digicash in E-Commerce Test', American Banker, June 16, 1998, [https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test.]
 
-[115]: Next! Magazine 'Hoe DigiCash alles verknalde', Next!, January 1999, geraadpleegd via [https://web.archive.org/web/19990427142412/https://www.nextmagazine.nl/ecash.htm.]
+[^115]: Next! Magazine 'Hoe DigiCash alles verknalde', Next!, January 1999, geraadpleegd via [https://web.archive.org/web/19990427142412/https://www.nextmagazine.nl/ecash.htm.]
 
-[116]: American Banker, 'Digicash Sends Signal by Hiring Visa Veteran', American Banker, May 6, 1997, [https://www.americanbanker.com/news/digicash-sends-signal-by-hiring-visa-veteran.]
+[^116]: American Banker, 'Digicash Sends Signal by Hiring Visa Veteran', American Banker, May 6, 1997, [https://www.americanbanker.com/news/digicash-sends-signal-by-hiring-visa-veteran.]
 
-[117]: Julie Pitta, 'Requiem for a Bright Idea', Forbes, November 1, 1999, [https://www.forbes.com/forbes/1999/1101/6411390a.html.]
+[^117]: Julie Pitta, 'Requiem for a Bright Idea', Forbes, November 1, 1999, [https://www.forbes.com/forbes/1999/1101/6411390a.html.]
 
-[118]: Hash-functies werden voor het eerst voorgesteld door de wiskundige George B. Purdy van de University of Illinois at Urbana-Champaign in zijn artikel 'A High Security Log-in Procedure', Communications of the ACM 17, no. 8: 442--445.
+[^118]: Hash-functies werden voor het eerst voorgesteld door de wiskundige George B. Purdy van de University of Illinois at Urbana-Champaign in zijn artikel 'A High Security Log-in Procedure', Communications of the ACM 17, no. 8: 442--445.
 
-[119]: Scott Stornetta, 'The Missing Link between Satoshi & Bitcoin: Cypherpunk Scott Stornetta', interview by Naomi Brockwell, NBTV, with Naomi Brockwell, YouTube, September 6, 2018, [https://youtu.be/fYr-keVOQ18.]
+[^119]: Scott Stornetta, 'The Missing Link between Satoshi & Bitcoin: Cypherpunk Scott Stornetta', interview by Naomi Brockwell, NBTV, with Naomi Brockwell, YouTube, September 6, 2018, [https://youtu.be/fYr-keVOQ18.]
 
-[120]: Stuart Haber and Scott W. Stornetta, 'How to Time-Stamp a Digital Document', Journal of Cryptology 3: 99--111.
+[^120]: Stuart Haber and Scott W. Stornetta, 'How to Time-Stamp a Digital Document', Journal of Cryptology 3: 99--111.
 
-[121]: Ralph C. Merkle, 'A Certified Signature', Advances in Cryptology---CRYPTO '89: Proceedings: 218--238.
+[^121]: Ralph C. Merkle, 'A Certified Signature', Advances in Cryptology---CRYPTO '89: Proceedings: 218--238.
 
-[122]: Dave Bayer, Stuart Haber and Scott W. Stornetta, 'Improving the Efficiency and Reliability of Digital Time-Stamping', Conference Paper, Sequences II: Methods in Communication, Security, and Computer Science: 329--34.
+[^122]: Dave Bayer, Stuart Haber and Scott W. Stornetta, 'Improving the Efficiency and Reliability of Digital Time-Stamping', Conference Paper, Sequences II: Methods in Communication, Security, and Computer Science: 329--34.
 
-[123]: Stuart Haber and Scott W. Stornetta, 'Secure Names for Bit-strings', CCS '97: Proceedings of the 4th ACM Conference on Computer and Communications Security,: 28--35.
+[^123]: Stuart Haber and Scott W. Stornetta, 'Secure Names for Bit-strings', CCS '97: Proceedings of the 4th ACM Conference on Computer and Communications Security,: 28--35.

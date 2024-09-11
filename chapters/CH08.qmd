@@ -10,13 +10,13 @@ Omdat hij een deel van zijn salaris in de vorm van aandelenopties ontving, had d
 
 Cyberpunkverhalen, een relatief nieuw genre in die tijd, speelden zich meestal af in high-tech dystopieën. De boeken schilderden over het algemeen een grimmige versie van de toekomst, maar eentje waarin het internet (of een geëvolueerde versie ervan) een toevluchtsoord bood voor hun vrijheidsgezinde hoofdpersonen. In *True Names* van Vernor Vinge, verbergen een groep hackers zich voor de sterke mannen van de regering door hun pseudonieme avatars vrijelijk te laten rondzwerven door een kleurrijke en driedimensionale representatie van het internet zelf. In *Snow Crash* van Neil Stephenson verloren naties grotendeels hun macht aan grote bedrijven en de maffia, terwijl mensen aan hun miezerig bestaan ontsnapten door alternatieve levens te leiden in een virtuele wereld. En *Neuromancer* van William Gibson presenteert evenzo een wereldwijd verbonden, virtuele realiteitsomgeving als een kleurrijk alternatief voor een vijandige onderwereldmaatschappij.
 
-May was van plan om uiteindelijk zelf een cyberpunkroman te schrijven, gemodelleerd naar Ayn Rand's *Atlas Shrugged*. In Rand's verhaal, dat oorspronkelijk in 1957 werd gepubliceerd, omarmt een Amerika in verval socialistische doctrines, terwijl het Amerikaanse volk zich afkeert van de meest succesvolle ondernemers van het land. Sommige van deze ondernemers besluiten uiteindelijk om "in staking" te gaan: een kleine gemeenschap van doorgewinterde vernieuwers vestigt zich in een afgelegen bergketen genaamd "Galt's Gulch," en gebruiken een scherm van hittegolven en reflectoren om zich te verbergen voor de buitenwereld. De subtiele boodschap van het boek is dat Amerika's meest ijverige ondernemers niet gedemoniseerd, maar gekoesterd en gevierd zouden moeten worden.
+May was van plan om uiteindelijk zelf een cyberpunkroman te schrijven, gemodelleerd naar Ayn Rand's *Atlas Shrugged*. In Rand's verhaal, dat oorspronkelijk in 1957 werd gepubliceerd, omarmt een Amerika in verval socialistische doctrines, terwijl het Amerikaanse volk zich afkeert van de meest succesvolle ondernemers van het land. Sommige van deze ondernemers besluiten uiteindelijk om 'in staking' te gaan: een kleine gemeenschap van doorgewinterde vernieuwers vestigt zich in een afgelegen bergketen genaamd 'Galt's Gulch', en gebruiken een scherm van hittegolven en reflectoren om zich te verbergen voor de buitenwereld. De subtiele boodschap van het boek is dat Amerika's meest ijverige ondernemers niet gedemoniseerd, maar gekoesterd en gevierd zouden moeten worden.
 
 Na het lezen van Rand's meesterwerk 'Atlas Shrugged' als tiener, had dit boek May op het spoor gezet om meer te leren over vrije markten en libertarisme. Uiteindelijk zou hij zich toeleggen op de studie van de Oostenrijkse economie, en in het bijzonder, op de theorieën van Friedrich Hayek.
 
 Dit alles maakte dat de aspirant-schrijver zich als vanzelfsprekend thuis voelde in een niche subcultuur in Californië die in de jaren '80 opkwam. Via enkele van zijn lokale vrienden leerde May de Extropianen kennen en vond hij een ideologische thuis. Hoewel hij niet volledig mee was met enkele van de meer buitensporige toekomstvisies van de transhumanisten (ideeën zoals eeuwig leven, het uploaden van de hersenen of een AI singulariteit) was hij wel toegewijd aan vrijheid en technologische vooruitgang.
 
-In deze context raakte Tim May bevriend met Phil Salin, de "high-tech Hayekiaan" die tevergeefs had geprobeerd om een privé ruimtetransportindustrie op te zetten met zijn startup Starstruck. May en Salin deelden een passie voor zowel de Oostenrijkse economie als technologie. Beiden geloofden dat de voormalige verder kon worden ontwikkeld door de laatste te benutten.
+In deze context raakte Tim May bevriend met Phil Salin, de 'high-tech Hayekiaan' die tevergeefs had geprobeerd om een privé ruimtetransportindustrie op te zetten met zijn startup Starstruck. May en Salin deelden een passie voor zowel de Oostenrijkse economie als technologie. Beiden geloofden dat de voormalige verder kon worden ontwikkeld door de laatste te benutten.
 
 ## BlackNet
 
@@ -86,13 +86,13 @@ Een paar maanden verstreken, tot op een zaterdag in september een groep van onge
 
 May opende de bijeenkomst met een inleiding over cryptografie. Hij bracht de aanwezigen op de hoogte van het veelbelovende potentieel van openbare sleutel-cryptografie evenals enige van de innovatieve schema's die waren voorgesteld sinds de doorbraak van Diffie en Hellman. Hierna deelde hij een door hemzelf samengesteld boekje uit waarin de basisprincipes werden uitgelegd en belangrijke termen werden gedefinieerd. De groep begon vervolgens te discussiëren over de mogelijke gevolgen voor de samenleving als cryptografische hulpmiddelen op grote schaal beschikbaar zouden worden, maar daar tegenover ook de onrustbarende implicaties van een toekomst zonder dergelijke hulpmiddelen.
 
-In de namiddag begon de hele bende, vanwege een gebrek aan meubels zittend op de vloer, op speelse wijze te experimenteren met analoge representaties van cryptoprotocollen. Ze creëerden het op papier gebaseerde "crypto-anarchie-spel", waarbij enveloppen fungeerden als een protocol voor het anonimiseren van berichten, een prikbord fungeerde als een informatiebeurs en Monopolie-geld werd rondgegeven alsof het digitale contanten waren. Op een leuke manier kreeg iedereen een gevoel van hoe deze systemen zouden functioneren.
+In de namiddag begon de hele bende, vanwege een gebrek aan meubels zittend op de vloer, op speelse wijze te experimenteren met analoge representaties van cryptoprotocollen. Ze creëerden het op papier gebaseerde 'crypto-anarchie-spel', waarbij enveloppen fungeerden als een protocol voor het anonimiseren van berichten, een prikbord fungeerde als een informatiebeurs en Monopolie-geld werd rondgegeven alsof het digitale contanten waren. Op een leuke manier kreeg iedereen een gevoel van hoe deze systemen zouden functioneren.
 
 De bijeenkomst was een succes. Aan het einde van een dag vol mini-seminars, brainstormsessies en spelletjes, was iedereen die het appartement van Hughes had bereikt voor deze speciale gelegenheid, aangestoken met hetzelfde gevoel van enthousiasme dat May, Hughes en Gilmore had aangezet om deze unieke groep mensen bij elkaar te brengen. Belangrijker nog, ze deelden nu de visie van de organisatoren dat de crypto-protocollen waarover ze hadden geleerd, geïmplementeerd moesten worden als werkende software en zo ver mogelijk verspreid moesten worden. Om de zaak verder te bevorderen, gingen ze ermee akkoord om de bijeenkomst een maandelijks evenement te maken.
 
-Op dit moment concludeerde de groep ook dat ze een pakkende naam nodig hadden om zichzelf mee te omschrijven. Hughes had het tot dan toe de Cryptologie Amateurs voor Sociale Onverantwoordelijkheid (of kortweg CASO) genoemd, maar nu overwogen ze suggesties zoals "De Crypto Vrijheid Liga", "Privacy Hackers", en "De Crypto Cabal". Middenin al dit gepraat riep Hughes' vriendin van dat moment, hacker Jude Milhon, gekscherend uit: "Jullie zijn gewoon een stel cypherpunks!"[^143]
+Op dit moment concludeerde de groep ook dat ze een pakkende naam nodig hadden om zichzelf mee te omschrijven. Hughes had het tot dan toe de Cryptologie Amateurs voor Sociale Onverantwoordelijkheid (of kortweg CASO) genoemd, maar nu overwogen ze suggesties zoals 'De Crypto Vrijheid Liga', 'Privacy Hackers', en 'De Crypto Cabal'. Middenin al dit gepraat riep Hughes' vriendin van dat moment, hacker Jude Milhon, gekscherend uit: 'Jullie zijn gewoon een stel cypherpunks!'[^143]
 
-Met de slimme samentrekking van "cipher" en "cyberpunk," had de groep hun naam te pakken.
+Met de slimme samentrekking van 'cipher' en 'cyberpunk', had de groep hun naam te pakken.
 
 ## De Cypherpunks
 
@@ -106,13 +106,13 @@ Maar de Cypherpunks waren niet alleen van plan om privacy te promoten of te eise
 
 Een belangrijk onderdeel van hun strategie was dat de Cypherpunks zelf de behoeder van hun privacy gingen worden.[^144]
 
-"We moeten onze eigen privacy verdedigen als we verwachten er nog enige te hebben," schreef Hughes in "Het Manifest van de Cypherpunk," dat de mede-oprichter van de groep hardop voorlas tijdens een Cypherpunk-bijeenkomst begin 1993. "We moeten samenkomen en systemen creëren die anonieme transacties mogelijk maken. Mensen hebben eeuwenlang hun eigen privacy verdedigd met gefluister, duisternis, enveloppen, gesloten deuren, geheime handdrukken en koeriers. De technologieën van het verleden boden geen sterke privacy, maar elektronische technologieën doen dat wel."
+'We moeten onze eigen privacy verdedigen als we verwachten er nog enige te hebben', schreef Hughes in 'Het Manifest van de Cypherpunk', dat de mede-oprichter van de groep hardop voorlas tijdens een Cypherpunk-bijeenkomst begin 1993. 'We moeten samenkomen en systemen creëren die anonieme transacties mogelijk maken. Mensen hebben eeuwenlang hun eigen privacy verdedigd met gefluister, duisternis, enveloppen, gesloten deuren, geheime handdrukken en koeriers. De technologieën van het verleden boden geen sterke privacy, maar elektronische technologieën doen dat wel.'
 
 Ze hadden plannen om deze elektronische technologieën te ontwikkelen en deze als gratis software te verspreiden. In overeenstemming met de hacker-ethiek, hadden ze niet de intentie om iemand om toestemming te vragen om dit te doen.
 
-"Cypherpunks schrijven code", verklaarde Hughes. "We weten dat iemand software moet schrijven om privacy te verdedigen, en wij gaan dat doen."[^145]
+'Cypherpunks schrijven code', verklaarde Hughes. 'We weten dat iemand software moet schrijven om privacy te verdedigen, en wij gaan dat doen.'[^145]
 
-"Cypherpunks schrijven code". Dit werd de informele strijdkreet van de groep.
+'Cypherpunks schrijven code'. Dit werd de informele strijdkreet van de groep.
 
 ## De mailinglijst
 
@@ -122,13 +122,13 @@ Maar de mailinglijst van de Cypherpunks zou al snel een groter doel gaan dienen.
 
 E-mail had natuurlijk als extra voordeel dat iedereen kon deelnemen, ongeacht de geografische afstand, en vanuit het comfort van hun eigen huis. Vrij voorspelbaar, groeide de Cypherpunks mailinglijst snel en overtrof die de aantallen van de feitelijke Cypherpunk evenementen. Slechts weken na de lancering had de lijst al 100 abonnees, beduidend meer dan de paar dozijn hackers en cryptografen die de maandelijkse bijeenkomsten bijwoonden.
 
-En de populariteit van de mailinglijst explodeerde pas echt toen het technologietijdschrift Wired in mei 1993 zijn cover-verhaal wijdde aan de Cypherpunks. "Rebellen met een doel (jouw privacy)" stond er op de cover, net boven een foto van drie gemaskerde mannen die de Amerikaanse vlag vasthielden (De uitdrukkingsloze witte maskers met computercodecode erop gekrabbeld verborgen de gezichten van May, Hughes en Gilmore). Dankzij dit cover-verhaal had nu vrijwel iedereen met interesse in computers gehoord van de groep privacy-activisten en door hun wereldwijde bereik, stroomden honderden mensen van over heel de Verenigde Staten en de rest van de wereld toe om zich aan te melden voor hun e-maillijst.
+En de populariteit van de mailinglijst explodeerde pas echt toen het technologietijdschrift Wired in mei 1993 zijn cover-verhaal wijdde aan de Cypherpunks. 'Rebellen met een doel (jouw privacy)' stond er op de cover, net boven een foto van drie gemaskerde mannen die de Amerikaanse vlag vasthielden (De uitdrukkingsloze witte maskers met computercodecode erop gekrabbeld verborgen de gezichten van May, Hughes en Gilmore). Dankzij dit cover-verhaal had nu vrijwel iedereen met interesse in computers gehoord van de groep privacy-activisten en door hun wereldwijde bereik, stroomden honderden mensen van over heel de Verenigde Staten en de rest van de wereld toe om zich aan te melden voor hun e-maillijst.
 
 In de daaropvolgende jaren werd de Cypherpunks mailinglijst een klein fenomeen op het vroege internet. Met tot wel 2.000 abonnees en soms bijna evenveel e-mails per maand, bespraken de Cypherpunks een breed scala aan onderwerpen: van cryptoprotocollen, tot overheidsbeleid, tot implementaties van software, en tips voor boeken of films, evenals periodieke klaagzangen en verhitte discussies. De lijst bood een platform voor publieke discussie tussen enkele van de meest getalenteerde hackers op de planeet, terwijl Silicon Valley's CEO's en mainstream journalisten ook graag meelazen.
 
-Tim May onderscheidde zich op de mailinglijst dankzij zijn vele mails: niemand was actiever dan hij, en niemand leverde een groter aanbod aan bijdragen. Hij schetste toekomstscenario's, deelde ideeën, nam deel aan discussies, gaf technische uiteenzettingen, stelde strategieën voor, gaf commentaar op actuele gebeurtenissen, linkte naar relevante artikelen en deelde regelmatig "snel geschreven" essays, soms zelfs verscheidene op een dag.
+Tim May onderscheidde zich op de mailinglijst dankzij zijn vele mails: niemand was actiever dan hij, en niemand leverde een groter aanbod aan bijdragen. Hij schetste toekomstscenario's, deelde ideeën, nam deel aan discussies, gaf technische uiteenzettingen, stelde strategieën voor, gaf commentaar op actuele gebeurtenissen, linkte naar relevante artikelen en deelde regelmatig 'snel geschreven' essays, soms zelfs verscheidene op een dag.
 
-Maar hij onderscheidde zich ook door zijn unieke gevoel voor humor. Soms voerde hij sarcastisch het woord tegen de Cypherpunk-agenda vanuit het perspectief van een Ingsociaanse overheid en kafferde hij andere deelnemers aan de lijst uit als "burgereenheden". Andere keren maakte hij opzettelijk politiek incorrecte grappen om de grenzen uit te dagen van wat als sociaal acceptabel werd beschouwd. Zo veranderde hij op een gegeven moment bijvoorbeeld zijn e-mailhandtekening in "een bijbeltekst in afwachting van beoordeling onder de Communications Decency Act", waarbij de begeleidende tekst een incestueuze orgie beschrijft.[^146] Of misschien overschreed hij de sociaal aanvaardbare grenzen ronduit, afhankelijk van wie je het zou vragen. May leek er hoe dan ook niet veel om te geven.
+Maar hij onderscheidde zich ook door zijn unieke gevoel voor humor. Soms voerde hij sarcastisch het woord tegen de Cypherpunk-agenda vanuit het perspectief van een Ingsociaanse overheid en kafferde hij andere deelnemers aan de lijst uit als 'burgereenheden'. Andere keren maakte hij opzettelijk politiek incorrecte grappen om de grenzen uit te dagen van wat als sociaal acceptabel werd beschouwd. Zo veranderde hij op een gegeven moment bijvoorbeeld zijn e-mailhandtekening in 'een bijbeltekst in afwachting van beoordeling onder de Communications Decency Act', waarbij de begeleidende tekst een incestueuze orgie beschrijft.[^146] Of misschien overschreed hij de sociaal aanvaardbare grenzen ronduit, afhankelijk van wie je het zou vragen. May leek er hoe dan ook niet veel om te geven.
 
 En zijn aanwezigheid op de mailinglijst diende ook nog een ander waardevolle doel. Hoewel de lijst volledig ongemodereerd was, speelde May vaak de rol van een onofficiële moderator, en begeleidde gesprekken waar nodig. Als een discussie dreigde te ontsporen, had hij de gewoonte om zijn kenmerkende analytische perspectief in te brengen, waarbij hij uitlegde waarom hij geloofde dat bepaalde opmerkingen of onderwerpen al dan niet geschikt waren voor de lijst, maar zonder daadwerkelijk iets te verbieden; hij wilde niet dat iemand die macht had, zelfs hijzelf niet. In plaats van anderen op te leggen hoe ze zich moeten gedragen, had May een manier om het voortouw te nemen door voorbeeld, en wanneer andere abonnees klaagden over de inhoud op de mailinglijst, moedigde hij hen ook aan om het voortouw te nemen door voorbeeld.
 
@@ -136,7 +136,7 @@ Voor veel van zijn abonnees was May in de maanden en jaren dat de lijst actief w
 
 May zelf, daarentegen, benadrukte vaak dat hij niet de hele Cypherpunk-gemeenschap vertegenwoordigde. Net zoals hij geen enkele moderator in controle wilde hebben over de mailinglijst, verwierp hij ten stelligste het idee dat hij, of wie dan ook, als een formele leider of woordvoerder van de beweging beschouwd moest worden. Hij stond erop dat hij slechts één stem was van de velen.
 
-"Hoewel ieder van ons wellicht zijn of haar persoonlijke (hiërarchische) rangorde van anderen heeft, is het belangrijk dat we nooit hebben geprobeerd deze rangordes te formaliseren of erover te 'stemmen'. Of te stemmen om een Grote Leider te kiezen", betoogde May op een gegeven moment. "Onze kracht zit in onze aantallen en in onze ideeën, niet in de man die we op een kantoor in Washington hebben geïnstalleerd zodat hij persconferenties kan geven en *oneliners* kan leveren voor journalisten. Onze kracht zit in ons meerkoppige (durf ik 'Medusa' te zeggen?), multinationale, informeel gebrek aan structuur."[^147]
+'Hoewel ieder van ons wellicht zijn of haar persoonlijke (hiërarchische) rangorde van anderen heeft, is het belangrijk dat we nooit hebben geprobeerd deze rangordes te formaliseren of erover te 'stemmen'. Of te stemmen om een Grote Leider te kiezen', betoogde May op een gegeven moment. 'Onze kracht zit in onze aantallen en in onze ideeën, niet in de man die we op een kantoor in Washington hebben geïnstalleerd zodat hij persconferenties kan geven en *oneliners* kan leveren voor journalisten. Onze kracht zit in ons meerkoppige (durf ik 'Medusa' te zeggen?), multinationale, informeel gebrek aan structuur.'[^147]
 
 Inderdaad, de Cypherpunks waren geen organisatie in de traditionele zin van het woord. Het was een bewust informele, ongestructureerde en open groep. De Cypherpunks hadden geen stemprocedure, geen vertegenwoordigers, en ze gaven zelfs geen gezamenlijke verklaringen. Iedereen kon een Cypherpunk worden, maar alle Cypherpunks zetten zich uiteindelijk in als individuen. Ze hadden geen specifieke taken of regels, noch kon iemand anderen verantwoordelijk houden voor hun eigen acties.
 
@@ -154,27 +154,27 @@ Sinds May de stukjes bij elkaar had gevoegd om het ontwrichtende potentieel van 
 
 In de roman van Rand maken de productieve ondernemers hun ontsnapping mogelijk met behulp van futuristische technologie. Hoewel May erkende dat warmtestralingsschermen nog steeds tot het domein van de sciencefiction behoorden, was de medeoprichter van de Cypherpunk-beweging gaan inzien dat het internet en sterke cryptografie uiteindelijk een vergelijkbare ontsnapping uit de macht van de staat konden faciliteren, net als in de verhalen van de cyberpunk-genre.
 
-May schetste deze visie in "Het Crypto-anarchistisch manifest".[^148] Hij schreef het oorspronkelijk voor de editie van de Crypto-conferentie in 1988, las het korte manifest voor tijdens de allereerste bijeenkomst van de Cypherpunks in Hughes's appartement en deelde het later ook via hun mailinglijst.
+May schetste deze visie in 'Het Crypto-anarchistisch manifest'.[^148] Hij schreef het oorspronkelijk voor de editie van de Crypto-conferentie in 1988, las het korte manifest voor tijdens de allereerste bijeenkomst van de Cypherpunks in Hughes's appartement en deelde het later ook via hun mailinglijst.
 
-"Een spook waart rond in de moderne wereld, het spook van de crypto-anarchie", begon het manifest met een knipoog naar het Communistisch Manifest van Karl Marx en Friedrich Engels, voordat het voorspelde dat computertechnologie en cryptografische protocollen "de aard van de overheidsregulering volledig zullen veranderen, het vermogen om de economische interacties te belasten en te controlen, het vermogen om informatie geheim te houden, en zelfs de aard van vertrouwen en reputatie zullen veranderen."
+'Een spook waart rond in de moderne wereld, het spook van de crypto-anarchie', begon het manifest met een knipoog naar het Communistisch Manifest van Karl Marx en Friedrich Engels, voordat het voorspelde dat computertechnologie en cryptografische protocollen 'de aard van de overheidsregulering volledig zullen veranderen, het vermogen om de economische interacties te belasten en te controlen, het vermogen om informatie geheim te houden, en zelfs de aard van vertrouwen en reputatie zullen veranderen.'
 
 Om een paar paragrafen verder te concluderen:
 
-"Net zoals de technologie van drukken de macht van de middeleeuwse gilden en de sociale machtsstructuur heeft veranderd en verminderd, zo zullen cryptologische methoden de aard van bedrijven en de inmenging van de overheid in economische transacties fundamenteel veranderen."[^149]
+'Net zoals de technologie van drukken de macht van de middeleeuwse gilden en de sociale machtsstructuur heeft veranderd en verminderd, zo zullen cryptologische methoden de aard van bedrijven en de inmenging van de overheid in economische transacties fundamenteel veranderen.'[^149]
 
 Het internet was nog niet getransformeerd naar de kleurrijke 3D-wereld zoals die in de romans van Vinge, Stephenson en Gibson werd voorgesteld. Maar als je deze verhalen meer als metaforische representaties van online domeinen beschouwde, had May ze toch als visionair leren waarderen. Terwijl het internet verder zijn onvermijdelijke pad naar massa-adoptie vervolgde, en mensen stapje voor stapje zouden leren om zichzelf online te organiseren, geloofde May dat de instellingen van de reële wereld uiteindelijk zouden worden vervangen door hun cyber-equivalenten. Het internet zou in toenemende mate dienen als facilitator voor een parallelle, digitale samenleving, met eigen gemeenschappen, ondernemingen en uiteindelijk ook eigen economieën.
 
-"Dit maakt snelle experimentatie, zelfselectie en evolutie mogelijk", stelde May voor op de Cypherpunks mailinglijst. "Als mensen een bepaalde virtuele gemeenschap beu raken, kunnen ze deze verlaten. De cryptografische aspecten zorgen ervoor dat hun lidmaatschap van een bepaalde gemeenschap onbekend blijft voor anderen (vis-a-vis de fysieke of buitenwereld, oftewel, hun 'echte namen') en fysieke dwang vermindert."
+'Dit maakt snelle experimentatie, zelfselectie en evolutie mogelijk', stelde May voor op de Cypherpunks mailinglijst. 'Als mensen een bepaalde virtuele gemeenschap beu raken, kunnen ze deze verlaten. De cryptografische aspecten zorgen ervoor dat hun lidmaatschap van een bepaalde gemeenschap onbekend blijft voor anderen (vis-a-vis de fysieke of buitenwereld, oftewel, hun 'echte namen') en fysieke dwang vermindert.'
 
-Verdergaand: "De elektronische wereld is geenszins volledig, aangezien we nog steeds een groot deel van ons leven in de fysieke wereld zullen doorbrengen. Maar de economische activiteit in het domein van het Net neemt sterk toe en deze ideeën van 'crypto-anarchie' zullen de macht van fysieke staten om inwoners te belasten en te dwingen verder ondermijnen."[^150]
+Verdergaand: 'De elektronische wereld is geenszins volledig, aangezien we nog steeds een groot deel van ons leven in de fysieke wereld zullen doorbrengen. Maar de economische activiteit in het domein van het Net neemt sterk toe en deze ideeën van 'crypto-anarchie' zullen de macht van fysieke staten om inwoners te belasten en te dwingen verder ondermijnen.'[^150]
 
 Dit alles werd mogelijk gemaakt door de kracht van cryptografie. Niet alleen zouden crypto-middelen gebruikers helpen hun echte identiteit te beschermen, waardoor ze beschermd werden tegen fysiek geweld, maar zouden dezelfde middelen ook toestaan dat twee personen zaken konden doen zonder dat een van hen ooit wist met wie ze te maken hadden.
 
-"[...] sterke cryptografie is het 'bouwmateriaal' van cyberspace", schreef May aan zijn mede-Cypherpunks, "de mortel, de bakstenen, de steunbalken, de muren. Niets anders kan de 'permanentie' bieden... zonder crypto zijn de muren bij de eerste aanraking door een kwaadwillend persoon of organisatie onderhevig aan instorting. Met crypto kan zelfs een 100 megaton waterstombom de muren niet doorbreken."[^151]
+'[...] sterke cryptografie is het 'bouwmateriaal' van cyberspace', schreef May aan zijn mede-Cypherpunks, 'de mortel, de bakstenen, de steunbalken, de muren. Niets anders kan de 'permanentie' bieden... zonder crypto zijn de muren bij de eerste aanraking door een kwaadwillend persoon of organisatie onderhevig aan instorting. Met crypto kan zelfs een 100 megaton waterstombom de muren niet doorbreken.'[^151]
 
-May voorzag dat Cypherpunk-tools mensen zouden helpen om hun economische activiteit voor de staat te verbergen en zo een "Galt's Gulch in cyberspace" zouden creëren. Hij keek uit naar een toekomst waarin dit uiteindelijk zou leiden tot de volledige ineenstorting van regeringen. Zonder gedwongen herverdeling van welvaart, zou deze toekomstige economie zichzelf organiseren rondom vrijwillige interactie en vrije markten. Er zou een *spontane orde* ontstaan via het internet.
+May voorzag dat Cypherpunk-tools mensen zouden helpen om hun economische activiteit voor de staat te verbergen en zo een 'Galt's Gulch in cyberspace' zouden creëren. Hij keek uit naar een toekomst waarin dit uiteindelijk zou leiden tot de volledige ineenstorting van regeringen. Zonder gedwongen herverdeling van welvaart, zou deze toekomstige economie zichzelf organiseren rondom vrijwillige interactie en vrije markten. Er zou een *spontane orde* ontstaan via het internet.
 
-"In feite heeft Hayek héél véél met de Cypherpunks te maken!" schreef May op de Cypherpunk mailinglijst. "Van 'The Road to Serfdom' tot 'Law, Legislation, and Liberty', zijn werken hebben diepgaande invloed op mij gehad en op vele anderen. [...] Ik zou zelfs zeggen dat Hayek een kandidaat zou zijn geweest om op de cover van 'Wired' te staan... natuurlijk ervan uitgaande dat hij 60 jaar jonger was, sommige van zijn lichaamsdelen had gepiercet, en beter nog, een Netchick was."[^152]
+'In feite heeft Hayek héél véél met de Cypherpunks te maken!' schreef May op de Cypherpunk mailinglijst. 'Van 'The Road to Serfdom' tot 'Law, Legislation, and Liberty', zijn werken hebben diepgaande invloed op mij gehad en op vele anderen. [...] Ik zou zelfs zeggen dat Hayek een kandidaat zou zijn geweest om op de cover van 'Wired' te staan... natuurlijk ervan uitgaande dat hij 60 jaar jonger was, sommige van zijn lichaamsdelen had gepiercet, en beter nog, een Netchick was.'[^152]
 
 ## Code
 
@@ -182,13 +182,13 @@ Tim May was er zich goed van bewust dat de crypto-anarchistische ideeën die hij
 
 Maar May weigerde de risico's die deze nieuwe technologieën introduceerden te bagatelliseren.
 
-"Privacy heeft zijn prijs", betoogde hij simpelweg. "Het vermogen van mensen om achter gesloten deuren misdaden te beramen en te plegen is evident, en toch eisen we geen verborgen camera's in woningen, appartementen en hotelkamers!"[^153]
+'Privacy heeft zijn prijs', betoogde hij simpelweg. 'Het vermogen van mensen om achter gesloten deuren misdaden te beramen en te plegen is evident, en toch eisen we geen verborgen camera's in woningen, appartementen en hotelkamers!'[^153]
 
-Voor May was crypto-anarchie bovendien geen verre utopie die brede steun voor zijn ideeën vereiste: integendeel, hij beschouwde het bijna als een voldongen feit. Hij begreep dat de weg ernaartoe bezaaid kon zijn met tegenslagen en onderdrukkende wetten, gerechtvaardigd door beleidsmakers die angst inboezemden over de "Vier Ruiters van de Infocalyps": terroristen, pedofielen, witwassers en pornografen. Maar cypherpunk tools waren goedkoop te verspreiden, makkelijk te gebruiken en konden niet on-uitgevonden worden. Op de lange termijn, geloofde May, was succes vrijwel gegarandeerd.
+Voor May was crypto-anarchie bovendien geen verre utopie die brede steun voor zijn ideeën vereiste: integendeel, hij beschouwde het bijna als een voldongen feit. Hij begreep dat de weg ernaartoe bezaaid kon zijn met tegenslagen en onderdrukkende wetten, gerechtvaardigd door beleidsmakers die angst inboezemden over de 'Vier Ruiters van de Infocalyps': terroristen, pedofielen, witwassers en pornografen. Maar cypherpunk tools waren goedkoop te verspreiden, makkelijk te gebruiken en konden niet on-uitgevonden worden. Op de lange termijn, geloofde May, was succes vrijwel gegarandeerd.
 
 Dit betekende niet dat elke Cypherpunk Mays nogal radicale visie deelde, noch hoefden ze dat te doen. Vaker wel dan niet waren Cypherpunks libertariërs, maar velen onderschreven ook een gematigder wereldbeeld dan May. Sommige Cypherpunks waren zelfs helemaal geen libertariërs, met meerdere van hen die zichzelf identificeerden als socialist.
 
-"Ik ben geen libertariër, en het is onwaarschijnlijk dat ik dat ooit zal zijn", schreef Hughes aan de mailinglijst. "Het streven naar privacy staat los van de meeste partijpolitieke standpunten. Zo sterk als de libertarische aanwezigheid op deze lijst is, is het geenszins de enige visie. Juist omdat cypherpunk kwesties dwars door het politieke spectrum snijden, zijn ze zo krachtig."[^154]
+'Ik ben geen libertariër, en het is onwaarschijnlijk dat ik dat ooit zal zijn', schreef Hughes aan de mailinglijst. 'Het streven naar privacy staat los van de meeste partijpolitieke standpunten. Zo sterk als de libertarische aanwezigheid op deze lijst is, is het geenszins de enige visie. Juist omdat cypherpunk kwesties dwars door het politieke spectrum snijden, zijn ze zo krachtig.'[^154]
 
 Wat van belang was, stemden May en Hughes mee in, was dat de Cypherpunks ongeacht hun politieke overtuiging konden werken aan een gezamenlijk doel: het ontwikkelen en verspreiden van tools voor privacy. *Cypherpunks schrijven code*.
 
@@ -226,13 +226,13 @@ Tegelijkertijd stelden de Cypherpunks dat het verplichten van het gebruik van ge
 
 Tim May was van mening dat de Cypherpunks een cruciale rol konden spelen in de naderende cryptografische conflicten. In tegenstelling tot gevestigde belangengroepen die beter georganiseerd, beter gefinancierd en beter in contact stonden met beleidsmakers en toezichthouders, zag May in het anarchistische organisatiemodel van de Cypherpunks juist een sterkte. Verspreid over de Verenigde Staten en daarbuiten, en zonder formeel leiderschap of organisatiestructuur, waren de Cypherpunks niet te coöpteren. Terwijl organisaties zoals EFF, EPIC en ACLU bereid waren tot zachtaardige onderhandelingen, weigerden de Cypherpunks elke vorm van gematigdheid te adopteren.
 
-"Op een bepaalde manier vervullen de Cypherpunks een belangrijke ecologische niche door het voeren van de radicale, buitensporige oppositie... misschien een beetje zoals de rol die de Zwarte Panters, Yippies en Weather Underground een generatie geleden speelden", schreef May. [^155]
+'Op een bepaalde manier vervullen de Cypherpunks een belangrijke ecologische niche door het voeren van de radicale, buitensporige oppositie... misschien een beetje zoals de rol die de Zwarte Panters, Yippies en Weather Underground een generatie geleden speelden', schreef May. [^155]
 
 Inderdaad, het verzet van de Cypherpunks nam allerlei vormen aan: juist omdat ze geen formele organisatie hadden, handelden de Cypherpunks uiteindelijk uit eigen beweging. Sommigen van hen verspreidden flyers met informatie over de Clipper-chip in lokale winkelcentra. Anderen analyseerden hoe de chip werkte om te proberen fouten in het ontwerp te vinden. En natuurlijk was het schrijven van code de voornaamste strategie van de Cypherpunks.
 
-"Potentiële inbreuk in de echte wereld zou het volledig verbieden van sterke crypto kunnen zijn, waarbij ciphers goedgekeurd moeten worden door de overheid", opperde May in zijn denken over verdere escalatie van de crypto-oorlogen. "Zo'n verbod zal een zwaar en verwoestend effect hebben op onze privacy, op ons vermogen om cyberspace-werelden op te bouwen die ik heb beschreven, en over het algemeen op computer-gemedieerde markten."
+'Potentiële inbreuk in de echte wereld zou het volledig verbieden van sterke crypto kunnen zijn, waarbij ciphers goedgekeurd moeten worden door de overheid', opperde May in zijn denken over verdere escalatie van de crypto-oorlogen. 'Zo'n verbod zal een zwaar en verwoestend effect hebben op onze privacy, op ons vermogen om cyberspace-werelden op te bouwen die ik heb beschreven, en over het algemeen op computer-gemedieerde markten.'
 
-Hij concludeerde: "Ons onmiddellijke doel moet zijn om ervoor te zorgen dat de 'geest uit de fles is', dat voldoende crypto-tools en kennis wijdverspreid zijn zodat zo'n overheidsverbod zinloos wordt."[^156]
+Hij concludeerde: 'Ons onmiddellijke doel moet zijn om ervoor te zorgen dat de 'geest uit de fles is', dat voldoende crypto-tools en kennis wijdverspreid zijn zodat zo'n overheidsverbod zinloos wordt.'[^156]
 
 ## Sucessen
 
@@ -250,7 +250,7 @@ Als reactie op de inbreuk, beweerde Netscape dat ze wettelijk verhinderd waren o
 
 Weer een andere Cypherpunk, Brad Huntting, kwam in 1994 met een slim idee om de exportrestricties op dergelijke crypto-protocollen uit te dagen: hij publiceerde code in fysieke vorm om aan te tonen dat verboden op software-distributies in strijd zijn met fundamentele rechten.
 
-"Het recht op vrije meningsuiting wordt beschermd door de Amerikaanse grondwet. We hoeven alleen maar aan te tonen dat encryptiesoftware gelijk staat aan spraak", schreef hij aan de mailinglijst. "Dit zou niet te moeilijk moeten zijn (misschien een beetje pijnlijk, maar niet moeilijk). De daad zou een gepubliceerd werk moeten betreffen (bij voorkeur in de gedrukte zin)."[^158]
+'Het recht op vrije meningsuiting wordt beschermd door de Amerikaanse grondwet. We hoeven alleen maar aan te tonen dat encryptiesoftware gelijk staat aan spraak', schreef hij aan de mailinglijst. 'Dit zou niet te moeilijk moeten zijn (misschien een beetje pijnlijk, maar niet moeilijk). De daad zou een gepubliceerd werk moeten betreffen (bij voorkeur in de gedrukte zin).'[^158]
 
 Ongeveer een jaar later publiceerde Zimmermann '*PGP: Broncode en Interne Werking*': hij had de volledige PGP-broncode in een boek afgedrukt. Zoals Huntting inderdaad had aangegeven, vallen boeken (inclusief de export ervan) in de VS onder de bescherming van het Eerste Amendement. Door dezelfde informatie die hem onderwerp van een strafrechtelijk onderzoek had gemaakt, vrij en legaal in harde kaft te verspreiden, legde Zimmermann de absurditeit van de regelgeving rondom crypto-export bloot.
 
@@ -260,39 +260,36 @@ Bovendien zouden de exportverboden tegen het einde van dat jaar volledig worden 
 
 De Cypherpunks hadden dit niet alleen gedaan: de beweging om cryptografie tijdens de crypto-oorlogen te verdedigen was breder dan enkel zij. Maar, zij hadden onmiskenbaar een belangrijke rol gespeeld. Het losse collectief van hackers en cryptografen, verenigd door weinig meer dan een mailinglijst op het internet, was de strijd aangegaan met de Amerikaanse overheid, en had gewonnen.
 
+[^142]: Tim May, 'Untraceable Digital Cash, Information Markets, and BlackNet ', The Computers Freedom & Privacy Conference , accessed via [https://web.archive.org/web/20130501134401/https://osaka.law.miami.edu/...oomkin/articles/tcmay.htm.]
 
-[141]: More, "Hayek's Denationalisation of Money," 20.
+[^143]: Tim May, 'The Cyphernomicon', originally distributed through the Cypherpunks mailing list, September 10, 1994, available via [https://nakamotoinstitute.org/static/docs/cyphernomicon.txt.]
 
-[142]: Tim May, "Untraceable Digital Cash, Information Markets, and BlackNet ," The Computers Freedom & Privacy Conference , accessed via [https://web.archive.org/web/20130501134401/https://osaka.law.miami.edu/...oomkin/articles/tcmay.htm.]
+[^144]: Hal Finney, 'Chaum on the wrong foot?' originally sent to the Cypherpunks mailing list, August 22, 1993 available via [https://cypherpunks.venona.com/date/1993/08/msg00652.html.]
 
-[143]: Tim May, "The Cyphernomicon," originally distributed through the Cypherpunks mailing list, September 10, 1994, available via [https://nakamotoinstitute.org/static/docs/cyphernomicon.txt.]
+[^145]: Eric Hughes, 'A Cypherpunk's Manifesto', originally sent to the Cypherpunks mailing list, March 17, 1993, available via [https://cypherpunks.venona.com/date/1993/03/msg00392.html.]
 
-[144]: Hal Finney, "Chaum on the wrong foot?" originally sent to the Cypherpunks mailing list, August 22, 1993 available via [https://cypherpunks.venona.com/date/1993/08/msg00652.html.]
+[^146]: Tim May, 'Degrees of Freedom', originally sent to the Cypherpunks mailing list, February 8, 1996, available via [https://cypherpunks.venona.com/date/1996/02/msg00637.html.]
 
-[145]: Eric Hughes, "A Cypherpunk's Manifesto," originally sent to the Cypherpunks mailing list, March 17, 1993, available via [https://cypherpunks.venona.com/date/1993/03/msg00392.html.]
+[^147]: Tim May, ''Who shall speak for us?'', originally sent to the Cypherpunks mailing list, Available via [https://cypherpunks.venona.com/date/1995/09/msg02189.html.]
 
-[146]: Tim May, "Degrees of Freedom," originally sent to the Cypherpunks mailing list, February 8, 1996, available via [https://cypherpunks.venona.com/date/1996/02/msg00637.html.]
+[^148]: The title and text was a bit of a parody of Karl Marx's and Friedrich Engels's Communist Manifesto, while the term crypto-anarchy is something of a pun referring to crypto-fascism, the secret support for fascism.
 
-[147]: Tim May, "'Who shall speak for us?'," originally sent to the Cypherpunks mailing list, Available via [https://cypherpunks.venona.com/date/1995/09/msg02189.html.]
+[^149]: Tim May, 'The Crypto Anarchist Manifesto', originally sent to the Cypherpunks mailing list, November 22, 1992, available via [https://cypherpunks.venona.com/date/1992/11/msg00204.html.]
 
-[148]: The title and text was a bit of a parody of Karl Marx's and Friedrich Engels's Communist Manifesto, while the term crypto-anarchy is something of a pun referring to crypto-fascism, the secret support for fascism.
+[^150]: Tim May, 'Libertaria in Cyberspace', originally sent to the Cypherpunks mailing list, August 9, 1993, accessed via [https://cypherpunks.venona.com/date/1993/08/msg00168.html.]
 
-[149]: Tim May, "The Crypto Anarchist Manifesto," originally sent to the Cypherpunks mailing list, November 22, 1992, available via [https://cypherpunks.venona.com/date/1992/11/msg00204.html.]
+[^151]: Tim May, 'Cyberspace, Crypto Anarchy, and Pushing Limits', originally sent to the Cypherpunks mailing list, April 3, 1994, accessed via [https://cypherpunks.venona.com/date/1994/04/msg00096.html.]
 
-[150]: Tim May, "Libertaria in Cyberspace," originally sent to the Cypherpunks mailing list, August 9, 1993, accessed via [https://cypherpunks.venona.com/date/1993/08/msg00168.html.]
+[^152]: Tim May, 'Hayek ', originally sent to the Cypherpunks mailing list, August 27, 1996, Accessed via [http://cypherpunks.venona.com/date/1996/08/msg02102.html.] As a funny aside, Tim May concluded a different email with a compliment to one of his fellow Cypherpunks: 'I just want to end on a positive note before leaving for the holidays .' See: Tim May, 'Re: The War on Some Money long', originally sent to the Cypherpunks mailing list, December 21, 1995, accessed via [https://cypherpunks.venona.com/date/1995/12/msg01044.html.]
 
-[151]: Tim May, "Cyberspace, Crypto Anarchy, and Pushing Limits," originally sent to the Cypherpunks mailing list, April 3, 1994, accessed via [https://cypherpunks.venona.com/date/1994/04/msg00096.html.]
+[^153]: Tim May, ''Stopping Crime' Necessarily Means Invasiveness', originally sent to the Cypherpunks mailing list, October 17, 1996, accessed via: [https://cypherpunks.venona.com/date/1996/10/msg01269.html.]
 
-[152]: Tim May, "Hayek ," originally sent to the Cypherpunks mailing list, August 27, 1996, Accessed via [http://cypherpunks.venona.com/date/1996/08/msg02102.html.] As a funny aside, Tim May concluded a different email with a compliment to one of his fellow Cypherpunks: "I just want to end on a positive note before leaving for the holidays ." See: Tim May, "Re: The War on Some Money long," originally sent to the Cypherpunks mailing list, December 21, 1995, accessed via [https://cypherpunks.venona.com/date/1995/12/msg01044.html.]
+[^154]: Eric Hughes, 'No digital coins ', originally sent to the Cypherpunks mailing list, August 24, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00690.html.]
 
-[153]: Tim May, "'Stopping Crime' Necessarily Means Invasiveness," originally sent to the Cypherpunks mailing list, October 17, 1996, accessed via: [https://cypherpunks.venona.com/date/1996/10/msg01269.html.]
+[^155]: Tim May, 'Crypto Activism and Respectability', originally sent to the Cypherpunks mailing list, April 21, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/04/msg00400.html.]
 
-[154]: Eric Hughes, "No digital coins ," originally sent to the Cypherpunks mailing list, August 24, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00690.html.]
+[^156]: Tim May, 'Opportunities in Cyberspace', originally sent to the Cypherpunks mailing list, September 8, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/09/msg00140.html.]
 
-[155]: Tim May, "Crypto Activism and Respectability," originally sent to the Cypherpunks mailing list, April 21, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/04/msg00400.html.]
+[^157]: Michelle Quinn, 'The Cypherpunks Who Cracked Netscape', San Francisco Chronicle, September 20, 1995, [https://people.eecs.berkeley.edu/...w/press/iang/ian1.html.]
 
-[156]: Tim May, "Opportunities in Cyberspace," originally sent to the Cypherpunks mailing list, September 8, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/09/msg00140.html.]
-
-[157]: Michelle Quinn, "The Cypherpunks Who Cracked Netscape," San Francisco Chronicle, September 20, 1995, [https://people.eecs.berkeley.edu/...w/press/iang/ian1.html.]
-
-[158]: Tim May, "Re: Stalling the crypto legislation for 2-3 more years," originally sent to the Cypherpunks mailing list, July 23, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/07/msg01245.html.]
+[^158]: Tim May, 'Re: Stalling the crypto legislation for 2-3 more years', originally sent to the Cypherpunks mailing list, July 23, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/07/msg01245.html.]

@@ -10,7 +10,7 @@ Nadat hij van dichtbij geconfronteerd was met de verschrikkingen van de Grote Oo
 
 Als leergierig persoon uit een hoogopgeleid gezin -- beide grootvaders van hem waren ook academici -- schreef Hayek zich in aan de Universiteit van Wenen, de oudste universiteit in de Duitstalige wereld en een van de meest gerenommeerde academische instituten in heel Europa. Gemotiveerd door zijn nieuwe missie, koos Hayek ervoor om politieke wetenschappen en recht te studeren, terwijl hij naast zijn hoofdstudies ook lessen in filosofie, psychologie en economie volgde.
 
-Hij schreef zich niet meteen in voor alle economielessen. Voor de socialistisch-geïnspireerde Hayek leek de economieprofessor aan de universiteit een beetje te hard te denken vanuit vrije marktprincipes. Pas toen diezelfde economieprofessor Hayek in dienst nam om een tijdelijk overheidskantoor in de stad te bemannen, besloot hij eindelijk zijn lessen een kans te geven. [^10]
+Hij schreef zich niet meteen in voor alle economielessen. Voor de socialistisch-geïnspireerde Hayek leek de economieprofessor aan de universiteit een beetje te hard te denken vanuit vrije marktprincipes. Pas toen diezelfde economieprofessor Hayek in dienst nam om een tijdelijk overheidskantoor in de stad te bemannen, besloot hij eindelijk zijn lessen een kans te geven.[^10]
 
 De naam van de professor was Ludwig von Mises. Hayek kwam al snel te weten dat Mises een vooraanstaand econoom was binnen een relatief nieuwe school van economisch denken.[^11]
 
@@ -62,7 +62,7 @@ In een socialistische samenleving zou een staatsgeleide autofabriek op bevel van
 
 Zonder vrije markt is er geen *economische berekening* mogelijk, wat de fundamentele taak van ieder economisch systeem onmogelijk maakt: de efficiënte verdeling van schaarse middelen over de samenleving.[^18]
 
-'Zonder economische berekening kan er geen economie zijn', concludeerde Mises. 'Daarom kan er in een socialistische staat, waarin het nastreven van economische berekening onmogelijk is, in onze betekenis van het woord, geen economie bestaan.'
+'Zonder economische berekening kan er geen economie zijn', concludeerde Mises. 'Daarom kan er in een socialistische staat, waarin het nastreven van economische berekening onmogelijk is, in onze betekenis van het woord, geen economie bestaan.'[^19]
 
 ## Prijzen
 
@@ -128,7 +128,7 @@ Dat is natuurlijk zo, *als* rentetarieven in feite de tijdsvoorkeuren nauwkeurig
 
 Een aantal jaren voordat zijn student afstudeerde aan de Universiteit van Wenen, hielp Mises Hayek opnieuw om een tijdelijke functie te verkrijgen als onderzoeksassistent bij de Universiteit van New York.
 
-Toen de jonge Oostenrijker in 1923 in de Verenigde Staten aankwam, waren de `*``Roaring`` ``Twenties``*` in volle gang. De Amerikaanse economie floreerde, en mensen waren maar al te blij om geld te lenen om auto's van Ford te kopen, nieuwe technologische wonderen zoals wasmachines, of vastgoed te kopen in de voorsteden van grote steden. Of ze gebruikten het geld om te investeren in aandelen: de Dow Jones-beursindex bereikte jaar na jaar nieuwe hoogtepunten.
+Toen de jonge Oostenrijker in 1923 in de Verenigde Staten aankwam, waren de *'Roaring Twenties'* in volle gang. De Amerikaanse economie floreerde, en mensen waren maar al te blij om geld te lenen om auto's van Ford te kopen, nieuwe technologische wonderen zoals wasmachines, of vastgoed te kopen in de voorsteden van grote steden. Of ze gebruikten het geld om te investeren in aandelen: de Dow Jones-beursindex bereikte jaar na jaar nieuwe hoogtepunten.
 
 Hayeks onderzoek zou zich richten op de economische rol van één instituut in het bijzonder: het relatief nieuwe centrale banksysteem van de Verenigde Staten, genaamd de Federal Reserve. De 'Fed', zoals dit centraal banksysteem vaak wordt genoemd, was in 1913 opgezet om vertrouwen en stabiliteit te brengen in het Amerikaanse bankensysteem.
 
@@ -152,7 +152,7 @@ In het oude systeem, merkte hij op, hadden commerciële banken tenminste nog een
 
 Het oprichten van een 'kredietverstrekker in uiterste nood' kan inderdaad een toeloop op de bank en paniek voorkomen. Maar Hayek stelde dat dit tegelijkertijd de prikkel voor banken wegneemt om in eerste instantie enige terughoudendheid te tonen bij het verstrekken van leningen.
 
-'Het moet dus onvermijdelijk leiden tot een gestage toename in het gebruik van krediet en daardoor de herhaling van recessies nog onvermijdelijker maken,' concludeerde Hayek.[^25]
+'Het moet dus onvermijdelijk leiden tot een gestage toename in het gebruik van krediet en daardoor de herhaling van recessies nog onvermijdelijker maken', concludeerde Hayek.[^25]
 
 Dit soort verkeerde afstemming van economische prikkels, waar bepaalde economische spelers -- in dit geval, banken -- beloond worden voor het nemen van meer risico's, maar niet de volledige kosten van deze risico's dragen, wordt in de economie *moreel risico* genoemd. Hayek vond dat de Federal Reserve dit morele risico in de economie introduceerde.
 
@@ -208,46 +208,46 @@ En er was in belangrijke opzichten een scherp contrast. Terwijl Keynes geloofde 
 
 Als Hayek het boegbeeld was van spontane orde van onderaf, dan had hij in Keynes en zijn interventiebeleid van bovenaf zijn hedendaagse, intellectuele rivaal gevonden.
 
-[8]: ​Deirdre N. McCloskey, How to be Human......ough an Economist, 33.
+[^8]: ​Deirdre N. McCloskey, How to be Human......ough an Economist, 33.
 
-[9]: ​Lawrence H. Officer, 'Exchange Rates Between the United States Dollar and Forty-one Currencies', MeasuringWorth, 2023.
+[^9]: ​Lawrence H. Officer, 'Exchange Rates Between the United States Dollar and Forty-one Currencies', MeasuringWorth, 2023.
 
-[10]: ​Eamonn Butler, Hayek: His Contribution to the Political and Economic Thought of Our Time.
+[^10]: ​Eamonn Butler, Hayek: His Contribution to the Political and Economic Thought of Our Time.
 
-[11]: ​Bruce Caldwell and Hansjoerg Klausinger, Hayek: A Life, 1899--1950, Chs. 6--9.
+[^11]: ​Bruce Caldwell and Hansjoerg Klausinger, Hayek: A Life, 1899--1950, Chs. 6--9.
 
-[12]: ​Ludwig von Mises, The Historical Setting of the Austrian School of Economics, 12.
+[^12]: ​Ludwig von Mises, The Historical Setting of the Austrian School of Economics, 12.
 
-[13]: ​Mises, Historical Setting, 12--13, 19--20.
+[^13]: ​Mises, Historical Setting, 12--13, 19--20.
 
-[14]: ​Ludwig von Mises, Human Action: A Treatise on Economics, The Scholar's Edition, 21, 38--54.
+[^14]: ​Ludwig von Mises, Human Action: A Treatise on Economics, The Scholar's Edition, 21, 38--54.
 
-[15]: ​Carl Menger, Untersuchungen über die Methode der Sozialwissenschaften und der Politischen Oekonomie insbesondere.
+[^15]: ​Carl Menger, Untersuchungen über die Methode der Sozialwissenschaften und der Politischen Oekonomie insbesondere.
 
-[16]: ​Mises, Historical Setting, 3--19.
+[^16]: ​Mises, Historical Setting, 3--19.
 
-[17]: ​Ludwig von Mises, Economic Calculation in the Socialist Commonwealth.
+[^17]: ​Ludwig von Mises, Economic Calculation in the Socialist Commonwealth.
 
-[18]: Hoewel dit argument inderdaad is aangevoerd in de context van consumptiegoederen, is een meer precieze verwoording van dit argument—uitgewerkt in latere economische debatten—dat dit vooral van toepassing is op kapitaalgoederen.
+[^18]: Hoewel dit argument inderdaad is aangevoerd in de context van consumptiegoederen, is een meer precieze verwoording van dit argument—uitgewerkt in latere economische debatten—dat dit vooral van toepassing is op kapitaalgoederen.
 
-[19]: ​Mises, Economic Calculation, 18.
+[^19]: ​Mises, Economic Calculation, 18.
 
-[20]: Friedrich A. Hayek, Prices and Production.
+[^20]: Friedrich A. Hayek, Prices and Production.
 
-[21]: Friedrich A. Hayek, 'The Use of Knowledge in Society', American Economic Review. XXXV, No. 4: 526--27.
+[^21]: Friedrich A. Hayek, 'The Use of Knowledge in Society', American Economic Review. XXXV, No. 4: 526--27.
 
-[22]: Als persoon A € 100 bij de bank stort en de bank hiervan € 90 uitleent aan persoon B, zal persoon A nog steeds denken dat hij of zij € 100 heeft, terwijl persoon B € 90 zal hebben, voor een totaal van € 190. Bovendien, als persoon B de € 90 opnieuw bij de bank stort en de bank hiervan € 81 uitleent aan persoon C, zullen drie mensen denken dat ze samen € 271 bezitten. Dit kan zo doorgaan, wat lijkt alsof er steeds meer geld in omloop komt. Dit concept staat bekend als de 'geldmultiplier'. In werkelijkheid kan de geldmultiplier zelfs nog agressiever zijn dan dit conventionele voorbeeld van fractioneel bankieren suggereert, omdat banken geen stortingen hoeven te ontvangen voordat ze leningen kunnen verstrekken; ze kunnen leningen uitgeven door eenvoudigweg krediet te creëren in de bankrekeningen van klanten.
+[^22]: Als persoon A € 100 bij de bank stort en de bank hiervan € 90 uitleent aan persoon B, zal persoon A nog steeds denken dat hij of zij € 100 heeft, terwijl persoon B € 90 zal hebben, voor een totaal van € 190. Bovendien, als persoon B de € 90 opnieuw bij de bank stort en de bank hiervan € 81 uitleent aan persoon C, zullen drie mensen denken dat ze samen € 271 bezitten. Dit kan zo doorgaan, wat lijkt alsof er steeds meer geld in omloop komt. Dit concept staat bekend als de 'geldmultiplier'. In werkelijkheid kan de geldmultiplier zelfs nog agressiever zijn dan dit conventionele voorbeeld van fractioneel bankieren suggereert, omdat banken geen stortingen hoeven te ontvangen voordat ze leningen kunnen verstrekken; ze kunnen leningen uitgeven door eenvoudigweg krediet te creëren in de bankrekeningen van klanten.
 
-[23]: Gary Richardson and Tim Sablik, 'Banking Panics of the Gilded Age: 1863--1913', Federal Reserve History, December 4, 2015, [https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.]
+[^23]: Gary Richardson and Tim Sablik, 'Banking Panics of the Gilded Age: 1863--1913', Federal Reserve History, December 4, 2015, [https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.]
 
-[24]: ​Friedrich A. Hayek, 'Monetary Policy in the United States after the Recovery from the Crisis of 1920', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge, 145.
+[^24]: ​Friedrich A. Hayek, 'Monetary Policy in the United States after the Recovery from the Crisis of 1920', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge, 145.
 
-[25]: ​Hayek, 'Monetary Policy', 146.
+[^25]: ​Hayek, 'Monetary Policy', 146.
 
-[26]: Stephen Kresge, The Collected Works of F.A. Hayek, Good Money: part I, 13.
+[^26]: Stephen Kresge, The Collected Works of F.A. Hayek, Good Money: part I, 13.
 
-[27]: Het meest uitgebreid uiteengezet in John Maynard Keynes, The General Theory of Employment, Interest and Money.
+[^27]: Het meest uitgebreid uiteengezet in John Maynard Keynes, The General Theory of Employment, Interest and Money.
 
-[28]: ​George Selgin, 'The New Deal and Recovery, Part 15: The Keynesian Myth', Cato Institute, March 16, 2022, [https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth.]
+[^28]: ​George Selgin, 'The New Deal and Recovery, Part 15: The Keynesian Myth', Cato Institute, March 16, 2022, [https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth.]
 
-[29]: ​Friedrich A. Hayek, 'The Gold Problem', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge, 184.
+[^29]: ​Friedrich A. Hayek, 'The Gold Problem', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge, 184.

@@ -4,11 +4,11 @@ De Cypherpunks hadden zich tot doel gesteld privacy in het digitale tijdperk te 
 
 De cryptograaf David Chaum en zijn eCash-systeem dienden als grote inspiratiebron en zijn waarschuwingen echoënden na. De Cypherpunks waren van mening dat dit uiteindelijk het einde van de menselijke vrijheid zou kunnen betekenen.
 
-"[...] als de overheid deze cashloze samenleving creëert, dan zal de overheid ongekende controle hebben over vrijwel elk aspect van ons leven", zo zou Tim May stellen op de Cypherpunk mailinglijst.
+'[...] als de overheid deze cashloze samenleving creëert, dan zal de overheid ongekende controle hebben over vrijwel elk aspect van ons leven', zo zou Tim May stellen op de Cypherpunk mailinglijst.
 
-"Elke transactie, hoe onbeduidend ook, zal worden vastgelegd, bewaard en geanalyseerd. Er zal een volledige audittrail bestaan van alle aankopen, voedselvoorkeuren, entertainmentkeuzes, contacten met anderen, enzovoort", schreef hij. "Bovendien kunnen transacties die als politiek incorrect worden beschouwd, en er zijn tientallen duidelijke voorbeelden om uit te kiezen, simpelweg worden ...verboden... door het typen van een paar regels instructies in de relevante databanken."[^159]
+'Elke transactie, hoe onbeduidend ook, zal worden vastgelegd, bewaard en geanalyseerd. Er zal een volledige audittrail bestaan van alle aankopen, voedselvoorkeuren, entertainmentkeuzes, contacten met anderen, enzovoort', schreef hij. 'Bovendien kunnen transacties die als politiek incorrect worden beschouwd, en er zijn tientallen duidelijke voorbeelden om uit te kiezen, simpelweg worden ...verboden... door het typen van een paar regels instructies in de relevante databanken.'[^159]
 
-May gaf in zijn bericht vrij alledaagse voorbeelden om dit punt duidelijk te maken. Iemand die ooit was gearresteerd voor rijden onder invloed zou zo bijvoorbeeld kunnen worden verboden om bier te kopen bij een slijterij, of zwangere vrouwen ("en onder Clintons geautomatiseerde zorgsysteem zal dit allemaal bekend zijn") zouden kunnen worden verhinderd sigaretten te kopen. Overheidscontrole over transacties zou niet alleen invloed hebben op gevaarlijke criminelen of extreme politieke dissidenten, benadrukte de Cypherpunk, het zou uiteindelijk leiden tot totale controle over alle burgers: "Vergis je niet, een door de overheid gerunde maatschappij zonder contant geld zal erger zijn [dan] het allerergste van Orwell."[^160]
+May gaf in zijn bericht vrij alledaagse voorbeelden om dit punt duidelijk te maken. Iemand die ooit was gearresteerd voor rijden onder invloed zou zo bijvoorbeeld kunnen worden verboden om bier te kopen bij een slijterij, of zwangere vrouwen ('en onder Clintons geautomatiseerde zorgsysteem zal dit allemaal bekend zijn') zouden kunnen worden verhinderd sigaretten te kopen. Overheidscontrole over transacties zou niet alleen invloed hebben op gevaarlijke criminelen of extreme politieke dissidenten, benadrukte de Cypherpunk, het zou uiteindelijk leiden tot totale controle over alle burgers: 'Vergis je niet, een door de overheid gerunde maatschappij zonder contant geld zal erger zijn [dan] het allerergste van Orwell.'[^160]
 
 Dit is waarom May tijdens de allereerste bijeenkomst van de Cypherpunks het concept van elektronisch geld presenteerde, en waarom de losse verzameling van hackers en cryptografen die samenkwamen in het ongemeubileerde appartement van Eric Hughes het idee direct omarmden. De creatie van een digitaal betalingssysteem met sterke privacygaranties, zo geloofden de Cypherpunks, kon helpen zo'n dystopische toekomst te voorkomen.
 
@@ -20,17 +20,17 @@ Dichter bij huis zou digitaal geld voordelen kunnen bieden voor Cypherpunk-proje
 
 Evenzo was de ontwikkeling van anonieme informatiemarkten, BlackNets, afhankelijk van het bestaan van een privacybeschermende vorm van digitaal geld. Mensen zouden pas bereid zijn geclassificeerde documenten of geheime rapporten via internet te verkopen, als ze er zeker van waren dat superieuren bij hun overheidsinstantie of bedrijf niet konden ontdekken dat zij het waren die deze gegevens voor een beetje extra geld verkochten: dit betekende dat dit beetje extra geld vrij van elke identificerende eigenschap moest zijn.
 
-En elektronisch geld was uiteindelijk een cruciale bouwsteen in Tim May's crypto-anarchistische visie voor de toekomst. Het opzetten van een parallelle samenleving in de digitale ruimte --- een "Galt's Gulch in cyberspace" --- vereiste dat mensen hun inkomen en rijkdom verborgen konden houden voor hun overheid. Een anonieme digitale valuta zou mensen in staat stellen belastingheffing te ontlopen.
+En elektronisch geld was uiteindelijk een cruciale bouwsteen in Tim May's crypto-anarchistische visie voor de toekomst. Het opzetten van een parallelle samenleving in de digitale ruimte --- een 'Galt's Gulch in cyberspace' --- vereiste dat mensen hun inkomen en rijkdom verborgen konden houden voor hun overheid. Een anonieme digitale valuta zou mensen in staat stellen belastingheffing te ontlopen.
 
-May begreep goed dat elektronisch geld op zichzelf niet meteen de belastingambtenaar overbodig zou maken. Mensen die zichtbaar deelnemen aan de economie ("de man die werkt bij Lockheed of achter de toonbank bij Safeway") zouden nog steeds de rekening betalen voor diensten van de overheid. Maar volgens May zou, als een significant deel van de economie succesvol en consequent belastingen kon ontduiken, dit uiteindelijk een verandering in het publieke sentiment veroorzaken dat dan weer een veel grotere sociale verandering zou teweegbrengen.
+May begreep goed dat elektronisch geld op zichzelf niet meteen de belastingambtenaar overbodig zou maken. Mensen die zichtbaar deelnemen aan de economie ('de man die werkt bij Lockheed of achter de toonbank bij Safeway') zouden nog steeds de rekening betalen voor diensten van de overheid. Maar volgens May zou, als een significant deel van de economie succesvol en consequent belastingen kon ontduiken, dit uiteindelijk een verandering in het publieke sentiment veroorzaken dat dan weer een veel grotere sociale verandering zou teweegbrengen.
 
-"Wanneer het nieuws zich verspreidt dat veel consultants, schrijvers, informatieverkopers en dergelijke een groot deel van hun inkomen afschermen door gebruik te maken van netwerken en sterke crypto, zal de impact een ondermijning van de steun voor belastingen zijn", schreef May. "Het belastingstelsel is al wankel, een nationale schuld van $5 biljoen, die elk jaar groeit, en het zou niet veel van een duw nodig kunnen hebben om een 'faseverandering' te veroorzaken; een belastingopstand."[^161]
+'Wanneer het nieuws zich verspreidt dat veel consultants, schrijvers, informatieverkopers en dergelijke een groot deel van hun inkomen afschermen door gebruik te maken van netwerken en sterke crypto, zal de impact een ondermijning van de steun voor belastingen zijn', schreef May. 'Het belastingstelsel is al wankel, een nationale schuld van $5 biljoen, die elk jaar groeit, en het zou niet veel van een duw nodig kunnen hebben om een 'faseverandering' te veroorzaken; een belastingopstand.'[^161]
 
 En tot slot was er nog de mogelijkheid van monetaire hervorming.
 
 In het bijzonder zagen sommige van de Cypherpunks, zoals Tim May, die ook deel uitmaakte van de Extropiaanse gemeenschap, in elektronisch geld een instrument voor de verwezenlijking van Friedrich Hayek's vrije bankeneconomie. Ze beseften dat aangezien elektronisch geld in alles wat de markt wil kan worden uitgedrukt, dit concurrentie tussen valuta's veel praktischer kon maken en veel moeilijker te stoppen. Vrije banken konden overal ter wereld gevestigd zijn, terwijl iedereen met een internetverbinding hun valuta, anoniem, zou kunnen gebruiken.
 
-"De sterke encryptie die wordt gebruikt, biedt meer flexibiliteit in het omzeilen van normale valutaregels en kan gebruikers in staat stellen om onderling overeen te komen welke valuta ze willen gebruiken", schreef May op de Cypherpunk mailinglijst. En: "een van de potentiële voordelen van sterke encryptie is de vaak besproken 'denationalisatie van geld.'"
+'De sterke encryptie die wordt gebruikt, biedt meer flexibiliteit in het omzeilen van normale valutaregels en kan gebruikers in staat stellen om onderling overeen te komen welke valuta ze willen gebruiken', schreef May op de Cypherpunk mailinglijst.[^162] En: 'een van de potentiële voordelen van sterke encryptie is de vaak besproken 'denationalisatie van geld.''[^163]
 
 In zijn geheel stelde elektronisch geld iets voor dat vergelijkbaar is met de heilige graal van de Cypherpunks.
 
@@ -38,7 +38,7 @@ In zijn geheel stelde elektronisch geld iets voor dat vergelijkbaar is met de he
 
 Toen de Cypherpunks in de vroege jaren '90 net op het toneel verschenen, was David Chaum's eCash het enige elektronische geldproject dat een sterke privacy garandeerde. In hun discussies over digitaal geld tijdens bijeenkomsten of op de Cypherpunks mailinglijst, maakten Tim May en de andere Cypherpunks vaak expliciet of impliciet verwijzingen naar Chaum's ontwerp. Hij had met zijn methode van blinde handtekeningen een cruciaal onderdeel van de privacy-puzzel opgelost.
 
-Verschillende van de Cypherpunks gingen zelfs persoonlijk naar Amsterdam, om een tijdje te werken bij Chaum's start-up voor digitale valuta. Naast mede-oprichter van de Cypherpunks Eric Hughes en computerwetenschapper (en Extropiaan) Nick Szabo, waren dit bijvoorbeeld ook beveiligingsspecialist Bryce "Zooko" Wilcox-O'Hearn en de vroege Cypherpunk Lucky Green.
+Verschillende van de Cypherpunks gingen zelfs persoonlijk naar Amsterdam, om een tijdje te werken bij Chaum's start-up voor digitale valuta. Naast mede-oprichter van de Cypherpunks Eric Hughes en computerwetenschapper (en Extropiaan) Nick Szabo, waren dit bijvoorbeeld ook beveiligingsspecialist Bryce 'Zooko' Wilcox-O'Hearn en de vroege Cypherpunk Lucky Green.
 
 Chaum daarentegen, was niet bijzonder gecharmeerd door de meer radicale crypto-anarchistische aspiraties die May en sommige van de andere Cypherpunks voorstonden. Deze cryptograaf was niet bezig met een digitaal cashsysteem om digitale zwarte markten te faciliteren en hij had geen verlangen om mensen te helpen regeringen omver te werpen door middel van massale belastingontduiking. Chaum vond privacy noodzakelijk om de democratie te redden, niet om ervan af te komen. Hoewel niet alle Cypherpunks May's meer radicale visie deelden, zou Chaum geen enkele associatie met hun beweging willen en hij heeft zich nooit aangesloten bij hun mailinglijst.
 
@@ -58,19 +58,19 @@ Hun voornaamste doel was om de bestaande privacy die contant geld al bood te beh
 
 De meeste Cypherpunks hadden daarom geen enkele wens of intentie om compromissen te sluiten op het gebied van privacy om elektronische geldtechnologie minder aantrekkelijk te maken voor criminelen. Ze waren ook niet geïnteresseerd in het ontwerpen van softwaretools om digitaal geld acceptabeler te maken voor regelgevers: overheden werden *zelf* beschouwd als de grootste mogelijke bedreiging voor hun privacy, zeker in de dystopische toekomst die ze probeerden te voorkomen. Ze waren ervan overtuigd dat elk zwak punt in privacy-systemen misbruikt zou worden.
 
-"Ieder systeem dat de overheid in staat stelt om een transactie te traceren, of om een bericht te traceren, of om toegang te krijgen tot sleutels, gooit in feite de vrijheidsbevorderende voordelen van cryptografie volledig weg", betoogde May op de mailinglijst. "Vraag jezelf eens af of de regering van Myanmar, bekend als SLORC, haar 'Overheidstoegang tot Sleutels' niet zou gebruiken om dissidenten in de jungle op te pakken. Zouden Hitler en Himmler 'sleutelherstel' hebben gebruikt om te achterhalen met wie de Joden communiceerden zodat ze allemaal konden worden opgepakt en vermoord? Zou de Oost-Duitse Stasi e-cash transacties hebben getraceerd? Voor elke regering op de planeet [...] kan men makkelijk tientallen voorbeelden bedenken waar toegang tot sleutels, toegang tot dagboeken, toegang tot uitgavenrecords, etc., misbruikt zou worden."[^164]
+'Ieder systeem dat de overheid in staat stelt om een transactie te traceren, of om een bericht te traceren, of om toegang te krijgen tot sleutels, gooit in feite de vrijheidsbevorderende voordelen van cryptografie volledig weg', betoogde May op de mailinglijst. 'Vraag jezelf eens af of de regering van Myanmar, bekend als SLORC, haar 'Overheidstoegang tot Sleutels' niet zou gebruiken om dissidenten in de jungle op te pakken. Zouden Hitler en Himmler 'sleutelherstel' hebben gebruikt om te achterhalen met wie de Joden communiceerden zodat ze allemaal konden worden opgepakt en vermoord? Zou de Oost-Duitse Stasi e-cash transacties hebben getraceerd? Voor elke regering op de planeet [...] kan men makkelijk tientallen voorbeelden bedenken waar toegang tot sleutels, toegang tot dagboeken, toegang tot uitgavenrecords, etc., misbruikt zou worden.'[^164]
 
 En hoewel het waar is dat afpersers, ontvoerders en andere criminelen ook zouden profiteren van een volledig anoniem betalingssysteem, geloofde May niet dat de soorten privacycompromissen die Chaum nastreefde ook maar iets konden oplossen in de realiteit. Hij merkte op dat de situatie waarin een ontvoerder wordt gepakt omdat zijn identiteit wordt onthuld door samenwerking tussen de betaler en de bank waarschijnlijk nooit echt zou voorkomen, omdat de ontvoerder in eerste instantie dit systeem met aangetaste privacyfuncties niet zou gebruiken.
 
 Eerder zou, zolang er ergens in de wereld *een* privé-betaaloplossing bestond, de kans groot zijn dat ontvoerders eisten dat het geld gewoon via dat systeem naar hen wordt verzonden... en er zou waarschijnlijk altijd wel *ergens* een privé-betaaloplossing bestaan.
 
-"Het kan een fysieke bank zijn, zoals de Bank van Albanië, of het kan een ondergronds betalingssysteem zijn, zoals de maffia, de Tongs, de Triades, of wat dan ook", suggereerde May. "Helaas voor [financiële toezichthouders], en jammer genoeg voor de slachtoffers van dergelijke misdaden, lijkt een wereldwijde stopzetting van dergelijke systemen niet mogelijk, zelfs met draconische politiestaatsmaatregelen. Er zijn gewoon te veel tussenruimtes waarin de bits zich kunnen verstoppen. En er is te veel economische prikkel voor sommige personen of banken om dergelijke fondsoverdrachtmethoden aan te bieden."[^165]
+'Het kan een fysieke bank zijn, zoals de Bank van Albanië, of het kan een ondergronds betalingssysteem zijn, zoals de maffia, de Tongs, de Triades, of wat dan ook', suggereerde May. 'Helaas voor [financiële toezichthouders], en jammer genoeg voor de slachtoffers van dergelijke misdaden, lijkt een wereldwijde stopzetting van dergelijke systemen niet mogelijk, zelfs met draconische politiestaatsmaatregelen. Er zijn gewoon te veel tussenruimtes waarin de bits zich kunnen verstoppen. En er is te veel economische prikkel voor sommige personen of banken om dergelijke fondsoverdrachtmethoden aan te bieden.'[^165]
 
 Chaum had, door middel van eCash, mede vorm gegeven aan hoe May en zijn collega privacy-activisten dachten over online privacy en elektronische betalingen. Maar een paar jaar na het starten van zijn digitale geldproject, maakte deze baanbrekende cryptograaf fundamenteel andere afwegingen dan de meeste van de Cypherpunks.
 
 Teleurgesteld schreef May naar de Cypherpunks mailinglijst:
 
-"Als het gaat om volledig ontraceerbaar digitaal geld, het echte e-geld, dan zijn wij misschien wel de vaandeldragers hiervan."[^166]
+'Als het gaat om volledig ontraceerbaar digitaal geld, het echte e-geld, dan zijn wij misschien wel de vaandeldragers hiervan.'[^166]
 
 ## Octrooien
 
@@ -82,13 +82,13 @@ Nick Szabo stelde een andere aanpak voor. Verkopers zouden misschien de eCash di
 
 Een derde optie werd voorgesteld door een anonieme deelnemer aan de mailinglijst die een plan bedacht waarbij de verkoper betrokken was bij de aanvankelijke creatie van de eCash. In het originele eCash-protocol zijn alleen de koper en de bank betrokken bij de generatie van blinde sleutels en blinde handtekeningen. Echter, in dit protocol zou ook de uiteindelijke ontvanger van de elektronische valuta een laag van versleuteling toevoegen.
 
-Maar voor al deze oplossingen was er één groot probleem: David Chaum bezat het patent op het algoritme voor de blinde handtekening. En de Cypherpunks waren van mening dat hij zijn product alleen zou licenseren aan "respectabele" organisaties die zijn technologie, naar zijn mening, niet in diskrediet zouden brengen. Het spreekt voor zich dat de Cypherpunks concludeerden dat hij het niet aan hun gevarieerde groep van crypto-anarchisten en privacyfundamentalisten zou licenseren.[^167]
+Maar voor al deze oplossingen was er één groot probleem: David Chaum bezat het patent op het algoritme voor de blinde handtekening. En de Cypherpunks waren van mening dat hij zijn product alleen zou licenseren aan 'respectabele' organisaties die zijn technologie, naar zijn mening, niet in diskrediet zouden brengen. Het spreekt voor zich dat de Cypherpunks concludeerden dat hij het niet aan hun gevarieerde groep van crypto-anarchisten en privacyfundamentalisten zou licenseren.[^167]
 
 Deze realiteit was een bron van frustratie voor de Cypherpunks, wellicht het best verwoord in een uitgebreide post op een mailinglijst door Tim May. Door zowel de hacker-ethiek als de Extropian-filosofie te belichamen, betoogde de medeoprichter van de groep dat technologische vooruitgang het best werd bereikt door experimenteren en concurrentie. Hij bepleitte dat softwarepatenten beide belemmerden.
 
 Fysieke producten, zelfs als ze gepatenteerd zijn, kunnen tenminste naar wens van de koper gebruikt worden na aankoop, merkte May op. Bijvoorbeeld, gepatenteerde microchips werden in de jaren '80 vrijelijk gebruikt door onafhankelijke technologen om hun eigen computers te bouwen, wat de revolutie van de persoonlijke computer in gang zette. In vergelijking daarmee leggen softwarelicentieregelingen allerlei beperkingen op hoe de software gebruikt kan worden, zelfs nadat deze is aangeschaft, wat effectief verdere innovatie doodt.
 
-"[...] het heikele punt is dat de patenten op de software-ideeën en -concepten betekenen dat experimenteerders, ontwikkelaars, en hackers geen licentie kunnen kopen voor digicash op dezelfde manier als ze zouden doen voor sommige IC's; en vervolgens experimenteren, ontwikkelen en hacken", legde May uit. "De man in zijn garage die een 'digitale postzegel' probeert te ontwikkelen, kan bijvoorbeeld de Chaumiaanse verblindingsprotocollen niet gebruiken zonder advocaten in te huren, Chaum zijn voorafgaande vergoeding te betalen, en zijn ontwerpen en bedrijfsplannen (die hij waarschijnlijk zelfs niet heeft!) te openbaren."[^168]
+'[...] het heikele punt is dat de patenten op de software-ideeën en -concepten betekenen dat experimenteerders, ontwikkelaars, en hackers geen licentie kunnen kopen voor digicash op dezelfde manier als ze zouden doen voor sommige IC's; en vervolgens experimenteren, ontwikkelen en hacken', legde May uit. 'De man in zijn garage die een 'digitale postzegel' probeert te ontwikkelen, kan bijvoorbeeld de Chaumiaanse verblindingsprotocollen niet gebruiken zonder advocaten in te huren, Chaum zijn voorafgaande vergoeding te betalen, en zijn ontwerpen en bedrijfsplannen (die hij waarschijnlijk zelfs niet heeft!) te openbaren.'[^168]
 
 Hierdoor verwachtte May dat de ontwikkeling van digitaal geld tot stilstand zou komen.
 
@@ -102,13 +102,13 @@ Het was tijd voor een elektronische vorm van geld, en de *Cypherpunks schrijven 
 
 Een manier om dit te doen was door naar alternatieven te zoeken. Chaum's voorstellen uit de jaren 80 hadden het begin gemarkeerd van een reeks publicaties in de jaren 90: binnen enkele jaren werden ongeveer 200 papers gepubliceerd over het onderwerp elektronisch geld en werden enkele tientallen nieuwe patenten ingediend. [^169] Als een van de meer opvallende voorbeelden ontwierpen Ron Rivest en Adi Shamir (bekend van RSA) in 1996 twee *micropayment*-schema's genaamd PayWord en MicroMint, terwijl in datzelfde jaar de NSA ook een elektronisch geldschema zou presenteren.[^170]
 
-Van tijd tot tijd stelden diverse Cypherpunks ook alternatieve ontwerpen voor elektronisch geld voor op de mailinglijst. Als een vroeg, en nogal origineel, voorbeeld heeft de informatica student Hadon Nash een digitaal valutaschema gepresenteerd dat hij "Digitaal Goud" noemde. In zijn bericht beschreef Nash een systeem waarbij gebruikers "eigenaar" zouden zijn van getallen; om het even welk getal, maar lagere getallen zouden een lagere waarde hebben. Een getal claimen was net zo simpel als het produceren van een cryptografische handtekening met dat getal, en de eerste persoon die het claimde zou het "bezitten". Het overdragen van het eigendom van een getal werd gedaan met een bericht dat de nieuwe eigenaar bevatte, alleen geïdentificeerd met een publieke sleutel, en een cryptografische handtekening die aantoonde dat de oorspronkelijke eigenaar de overdracht goedkeurde. De eigendomsgeschiedenis van elk getal kon dan worden gevolgd door een reeks cryptografische handtekeningen.[^171]
+Van tijd tot tijd stelden diverse Cypherpunks ook alternatieve ontwerpen voor elektronisch geld voor op de mailinglijst. Als een vroeg, en nogal origineel, voorbeeld heeft de informatica student Hadon Nash een digitaal valutaschema gepresenteerd dat hij 'Digitaal Goud' noemde. In zijn bericht beschreef Nash een systeem waarbij gebruikers 'eigenaar' zouden zijn van getallen; om het even welk getal, maar lagere getallen zouden een lagere waarde hebben. Een getal claimen was net zo simpel als het produceren van een cryptografische handtekening met dat getal, en de eerste persoon die het claimde zou het 'bezitten'. Het overdragen van het eigendom van een getal werd gedaan met een bericht dat de nieuwe eigenaar bevatte, alleen geïdentificeerd met een publieke sleutel, en een cryptografische handtekening die aantoonde dat de oorspronkelijke eigenaar de overdracht goedkeurde. De eigendomsgeschiedenis van elk getal kon dan worden gevolgd door een reeks cryptografische handtekeningen.[^171]
 
 De meeste ontwerpen voor elektronisch geld introduceerden echter niets baanbrekends. Als het over privacyfuncties gaat, waren er veel, waaronder het door de NSA voorgestelde schema, die slechts variaties waren op of iteraties van het ontwerp van Chaum. En degenen die wel een vernieuwende aanpak introduceerden, hadden vaak andere fundamentele beperkingen. Zo konden de elektronische geldschema's van Rivest en Shamir bijvoorbeeld alleen echt nuttig zijn voor tamelijk specifieke soorten betalingen van een lage waarde, omdat de geldigheid van de valuta-eenheden snel zou verlopen.
 
 Andere ideeën waren op een fundamenteler niveau gebrekkig, zoals Nash's 'Digital Gold'-oplossing, die geen rekening hield met het probleem van dubbel uitgeven. Zoals Hal Finney op de Cypherpunks mailinglijst aangaf, als hetzelfde nummer werd overgedragen aan meerdere publieke sleutels, zouden verschillende gebruikers kunnen eindigen met uiteenlopende eigendomsregistraties (Nash stelde wel een systeem voor waarin gebruikers bij 'agentschappen' zouden moeten controleren of een munt door hen zou worden geaccepteerd voordat ze deze zelf accepteerden, wat zou bewijzen dat het nummer niet dubbel werd uitgegeven, maar dit deel van het voorstel was niet erg goed uitgewerkt).
 
-"Ik moet echter wel zeggen", schreef Finney, "dat ondanks het feit dat ik niet echt denk dat het voorstel voor digitaal goud technisch haalbaar is, het idee om eigenaar te zijn van getallen enorm brutaal en behoorlijk creatief is."[^172]
+'Ik moet echter wel zeggen', schreef Finney, 'dat ondanks het feit dat ik niet echt denk dat het voorstel voor digitaal goud technisch haalbaar is, het idee om eigenaar te zijn van getallen enorm brutaal en behoorlijk creatief is.'[^172]
 
 ## De experimenten
 
@@ -118,25 +118,25 @@ Verschillende Cypherpunks zouden uiteindelijk hun eigen versies van eCash implem
 
 Midden 1994 vertegenwoordigden de speelgeldschema's een kleine trend onder de Cypherpunks. Zo lanceerde Matt Thomlinson, een bijdrager aan de mailinglijst, een implementatie van eCash die hij Ghostmarks noemde. Tegelijkertijd lanceerde Pr0duct Cypher, een pseudonieme individu die ook bijdroeg aan PGP, Magic Money. En Mike Duvos, een andere terugkerende gast op de mailinglijst, beheerde een Magic Money implementatie die hij Tacky Tokens noemde.
 
-Bovendien presenteerde iemand die zichzelf Black Unicorn noemt, zelfs het "volledig gedekte" DigiFrancs systeem:
+Bovendien presenteerde iemand die zichzelf Black Unicorn noemt, zelfs het 'volledig gedekte' DigiFrancs systeem:
 
-"DigiFrancs worden gedekt door 10 kratten Light Cola, die zich bevinden in de 'kluis' reserves van UniBank in Washington, DC. DigiFrancs kunnen worden ingeruild voor hun equivalent in ongekoelde, 16 oz Light Cola blikjes op aanvraag, in Washington, DC. Deze regeling impliceert geen overeenkomst tussen enige van de partijen en de Coca-Cola maatschappij."[^173]
+'DigiFrancs worden gedekt door 10 kratten Light Cola, die zich bevinden in de 'kluis' reserves van UniBank in Washington, DC. DigiFrancs kunnen worden ingeruild voor hun equivalent in ongekoelde, 16 oz Light Cola blikjes op aanvraag, in Washington, DC. Deze regeling impliceert geen overeenkomst tussen enige van de partijen en de Coca-Cola maatschappij.'[^173]
 
 Hoewel dit uiteraard bedoeld was als grap, zelfs de door Light Cola ondersteunde DigiFrancs waren niet daadwerkelijk bedoeld om als geld te worden gebruikt, kregen de verschillende soorten elektronisch geld toch enige bekendheid als ruilmiddel. Sommige Cypherpunks accepteerden deze speelvaluta's in ruil voor digitale snuisterijen zoals GIFs.
 
 Het waren niet bepaald grote waardeoverdrachten, maar het riep wel een interessante vraag op.
 
-"Nu, als je nog wakker bent, komt het leuke deel", kondigde Pr0duct Cypher aan, nadat hij de technische details van Magic Money op de mailinglijst had uitgelegd. "Hoe introduceer je echte waarde in je digicash systeem? Hoe krijg je mensen eigenlijk zover dat ze het willen proberen?"
+'Nu, als je nog wakker bent, komt het leuke deel', kondigde Pr0duct Cypher aan, nadat hij de technische details van Magic Money op de mailinglijst had uitgelegd. 'Hoe introduceer je echte waarde in je digicash systeem? Hoe krijg je mensen eigenlijk zover dat ze het willen proberen?'
 
 Chaum wilde zijn eCash-systeem implementeren via bestaande financiële instellingen, waar digitale geld-eenheden inwisselbaar zouden zijn voor echte dollars (of andere fiatvaluta). eCash zou in feite gedekt worden door geld op de bank, wat --- hopelijk --- mensen gerust genoeg zou stellen om te beginnen met het accepteren van dit nieuwe type geld als betaling.
 
 Maar Pr0duct Cypher stelde nu voor dat deze inlosbaarheid voor een dollar misschien niet echt nodig was. Misschien, speculeerde hij, zou digitaal geld helemaal geen dekking nodig hebben.
 
-"Wat maakt goud waardevol?" vroeg hij retorisch. "Het heeft enkele nuttige eigenschappen: het is een goede geleider, is bestand tegen corrosie en chemicaliën, enzovoorts. Maar die zijn pas recent van belang geworden. Waarom is goud al duizenden jaren waardevol? Het is mooi, het glanst, en het allerbelangrijkste, het is schaars."
+'Wat maakt goud waardevol?' vroeg hij retorisch. 'Het heeft enkele nuttige eigenschappen: het is een goede geleider, is bestand tegen corrosie en chemicaliën, enzovoorts. Maar die zijn pas recent van belang geworden. Waarom is goud al duizenden jaren waardevol? Het is mooi, het glanst, en het allerbelangrijkste, het is schaars.'
 
 Pr0duct Cypher concludeerde:
 
-"Jouw digitaal geld moet schaars zijn."[^174]
+'Jouw digitaal geld moet schaars zijn.'[^174]
 
 ## Gedekt digitaal geld
 
@@ -144,25 +144,25 @@ Gedurende de volgende paar jaar, de midden jaren negentig, kwamen onderwerpen al
 
 Het bleek dat diverse leden van de lijst hierover zeer uiteenlopende ideeën hadden.
 
-Sommigen beschouwden digitaal contant geld echt niet als iets waardevols en dachten zelfs dat het een beetje ongepast was om er in monetaire termen over te praten. Software-ontwikkelaar Perry Metzger, een van de actievere leden in discussies over digitaal geld, beweerde bijvoorbeeld dat een term zoals "anonieme digitale bankcheques" in feite een nauwkeurigere beschrijving zou zijn.
+Sommigen beschouwden digitaal contant geld echt niet als iets waardevols en dachten zelfs dat het een beetje ongepast was om er in monetaire termen over te praten. Software-ontwikkelaar Perry Metzger, een van de actievere leden in discussies over digitaal geld, beweerde bijvoorbeeld dat een term zoals 'anonieme digitale bankcheques' in feite een nauwkeurigere beschrijving zou zijn.
 
-"Hetzelfde geldt voor een cheque die kan worden GEBRUIKT voor geld, maar in feite een manier is om geld OVER TE DRAGEN, digicash is van zichzelf geen bron van waarde, het is een boekhoudsysteem voor iets dat waarde heeft", schreef hij. "Dat iets kan dollars zijn, goud, cocainefutures gecontracteerd op de Bogota Commodity Exchange, koekjes, of alles wat mensen besluiten een goed ruilmiddel te vinden."[^175]
+'Hetzelfde geldt voor een cheque die kan worden GEBRUIKT voor geld, maar in feite een manier is om geld OVER TE DRAGEN, digicash is van zichzelf geen bron van waarde, het is een boekhoudsysteem voor iets dat waarde heeft', schreef hij. 'Dat iets kan dollars zijn, goud, cocainefutures gecontracteerd op de Bogota Commodity Exchange, koekjes, of alles wat mensen besluiten een goed ruilmiddel te vinden.'[^175]
 
 Anderen, zoals Eric Hughes, hadden er geen probleem mee om digitaal contant geld als een vorm van geld te beschouwen, maar waren het ermee eens dat de bits en bytes gedekt moesten worden door *iets* van waarde; in de meeste gevallen zou een conventionele fiat-valuta zoals de dollar of het pond de voor de hand liggende keuze zijn. Hij geloofde dat voor de popularisatie van elektronisch geld, gebruikers de garantie moesten krijgen dat ze hun digitale geld kunnen inruilen voor een vastgesteld bedrag aan 'echt' geld.
 
-Een andere visie kwam van Robert Hettinga, een Cypherpunk die (in zijn eigen woorden) ooit in "de kooi van Morgan Stanley in Chicago" werkte.[^176] Als een andere zeer actieve deelnemer in discussies over geld en elektronisch geld op de Cypherpunk mailinglijst, betoogde Hettinga dat de behoefte aan inwisselbaarheid voor "echt" geld na verloop van tijd zou verdwijnen, aangezien mensen langzaam vertrouwen zouden krijgen in de nieuwe digitale munteenheid.
+Een andere visie kwam van Robert Hettinga, een Cypherpunk die (in zijn eigen woorden) ooit in 'de kooi van Morgan Stanley in Chicago' werkte.[^176] Als een andere zeer actieve deelnemer in discussies over geld en elektronisch geld op de Cypherpunk mailinglijst, betoogde Hettinga dat de behoefte aan inwisselbaarheid voor 'echt' geld na verloop van tijd zou verdwijnen, aangezien mensen langzaam vertrouwen zouden krijgen in de nieuwe digitale munteenheid.
 
 Hij maakte een analogie met de evolutionaire biologie, en schreef:
 
-"Vergeet niet dat de eerste vleugels geëvolueerd zijn door op vijvers scherende insecten zodat ze sneller over vijvers konden glijden. Na verloop van tijd, toen die beginnende vleugels uiteindelijk volledige vleugels werden, hadden de vliegende insecten geen vijvers meer nodig. Met dat idee in gedachten, zullen digitale waardepapieren voorlopig nog moeten interfacen met de wereld van fysieke boekhouding, om te kunnen worden omgezet in andere activa."
+'Vergeet niet dat de eerste vleugels geëvolueerd zijn door op vijvers scherende insecten zodat ze sneller over vijvers konden glijden. Na verloop van tijd, toen die beginnende vleugels uiteindelijk volledige vleugels werden, hadden de vliegende insecten geen vijvers meer nodig. Met dat idee in gedachten, zullen digitale waardepapieren voorlopig nog moeten interfacen met de wereld van fysieke boekhouding, om te kunnen worden omgezet in andere activa.'
 
-Maar, zo voorspelde Hettinga: "Uiteindelijk zullen die activa op een gegeven moment niet langer boekvermeldingen zijn."[^177]
+Maar, zo voorspelde Hettinga: 'Uiteindelijk zullen die activa op een gegeven moment niet langer boekvermeldingen zijn.'[^177]
 
 Ondertussen geloofde Tim May niet dat geld in de eerste plaats gedekt hoefde te zijn. In lijn met het vooruitziende principe van Hayek en zijn vrije banken, stelde hij dat het uiteindelijk allemaal neerkwam op toekomstige verwachtingen: mensen hadden slechts vertrouwen nodig dat geld zijn koopkracht zou behouden.
 
-"Ik geloof dat alle vormen van geld, of het nu harde valuta of fiat is, voortkomen uit de verwachting dat het geld in de toekomst ongeveer dezelfde waarde zal hebben", schreef hij. "Noem het de 'de theorie van de grotere dwaas van geld.' Alles wat je belangrijk vindt, is dat een grotere dwaas het geld zal aanvaarden."[^178]
+'Ik geloof dat alle vormen van geld, of het nu harde valuta of fiat is, voortkomen uit de verwachting dat het geld in de toekomst ongeveer dezelfde waarde zal hebben', schreef hij. 'Noem het de 'de theorie van de grotere dwaas van geld.' Alles wat je belangrijk vindt, is dat een grotere dwaas het geld zal aanvaarden.'[^178]
 
-Maar toch zag May elektronische valuta niet echt als geld op zich. Hij beschouwde het eerder als iets nieuws, een manier om geld over te maken van de ene bankrekening of opslagplaats naar de andere, eerder vergelijkbaar met cheques of bankoverschrijvingen. Hoewel hij dus niet geloofde dat digitale valuta op de traditionele manier 'gedekt' hoefde te worden, ging May er wel van uit dat banken of bankachtige instanties die valuta uitgeven, uiteindelijk controle zouden hebben over de daadwerkelijke munteenheid die het elektronisch geld ondersteunde: "Wat digitale valuta echt ondersteunt, is de reputatie van de instanties."[^179]
+Maar toch zag May elektronische valuta niet echt als geld op zich. Hij beschouwde het eerder als iets nieuws, een manier om geld over te maken van de ene bankrekening of opslagplaats naar de andere, eerder vergelijkbaar met cheques of bankoverschrijvingen. Hoewel hij dus niet geloofde dat digitale valuta op de traditionele manier 'gedekt' hoefde te worden, ging May er wel van uit dat banken of bankachtige instanties die valuta uitgeven, uiteindelijk controle zouden hebben over de daadwerkelijke munteenheid die het elektronisch geld ondersteunde: 'Wat digitale valuta echt ondersteunt, is de reputatie van de instanties.'[^179]
 
 En toen was er een Britse Cypherpunk die dacht dat elektronisch geld helemaal niet gedekt hoefde te zijn...
 
@@ -174,9 +174,9 @@ Back had zelf een beetje geëxperimenteerd met CyberBucks en had uit eerste hand
 
 Hoewel CyberBucks op het moment dat de server van DigiCash offline ging direct waardeloos werd, zag Back geen enkele reden waarom een nieuw en beter elektronisch geldsysteem op dezelfde manier geen waarde kon krijgen, en het zelfs beter kon doen.
 
-"Waarom koppel je je e-cash systeem niet los van US dollars door kredietkaarten / debitkaarten / cheques / cash, en zet je een volledig op zichzelf staand systeem op?" stelde hij voor op de Cypherpunks mailinglijst in april 1997.[^180]
+'Waarom koppel je je e-cash systeem niet los van US dollars door kredietkaarten / debitkaarten / cheques / cash, en zet je een volledig op zichzelf staand systeem op?' stelde hij voor op de Cypherpunks mailinglijst in april 1997.[^180]
 
-"Wat we willen, is volledig anonieme eenheden van uitwisseling, met ultra lage transactiekosten en overdraagbaarheid. Als we dat voor elkaar krijgen [...] dan zullen de banken verworden tot de verouderde [dinosaurussen] die ze verdienen te zijn", voegde Back een paar dagen later toe in een vervolg-email. "Ik denk dat dit een goede uitkomst zou zijn, en ik zie dit liever gebeuren dan dat iemand veel moeite doet om de banken erbij te betrekken."[^181]
+'Wat we willen, is volledig anonieme eenheden van uitwisseling, met ultra lage transactiekosten en overdraagbaarheid. Als we dat voor elkaar krijgen [...] dan zullen de banken verworden tot de verouderde [dinosaurussen] die ze verdienen te zijn', voegde Back een paar dagen later toe in een vervolg-email. 'Ik denk dat dit een goede uitkomst zou zijn, en ik zie dit liever gebeuren dan dat iemand veel moeite doet om de banken erbij te betrekken.'[^181]
 
 Back geloofde dat, net als elk ander product dat op de vrije markt wordt verhandeld, de krachten van vraag en aanbod de waarde van digitale valuta zouden bepalen. Gebruikers zouden het kopen en verkopen voor traditionele valuta en het accepteren in ruil voor goederen en diensten. Zodra er een marktwaarde werd vastgesteld, kon deze elektronische valuta worden gebruikt om met een simpele muisklik waarde over het internet te verzenden. En wat vooral belangrijk was, je hoefde niet te maken te hebben met financiële instellingen.
 
@@ -200,50 +200,50 @@ Desalniettemin, in echte Cypherpunk-stijl, praatte Adam Back niet alleen over el
 Hij schreef computercode...
 
 
-[159]: Tim May, "Scenario for a Ban on Cash Transactions," originally sent to the Cypherpunks mailing list, November 24, 1992, accessed via: [https://cypherpunks.venona.com/date/1992/11/msg00211.html.]
+[^159]: Tim May, 'Scenario for a Ban on Cash Transactions', originally sent to the Cypherpunks mailing list, November 24, 1992, accessed via: [https://cypherpunks.venona.com/date/1992/11/msg00211.html.]
 
-[160]: Tim May, "Scenario for a Ban."
+[^160]: Tim May, 'Scenario for a Ban.'
 
-[161]: Tim May, "Crypto Anarchy, the Government, and the National Information Infrastructure," originally sent to the Cypherpunks mailing list, November 29, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/11/msg01106.html.]
+[^161]: Tim May, 'Crypto Anarchy, the Government, and the National Information Infrastructure', originally sent to the Cypherpunks mailing list, November 29, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/11/msg01106.html.]
 
-[162]: Tim May, "DigiCash can use whatever currencies are valued," originally sent to the Cypherpunks mailing list, May 4, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/05/msg00243.html.]
+[^162]: Tim May, 'DigiCash can use whatever currencies are valued', originally sent to the Cypherpunks mailing list, May 4, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/05/msg00243.html.]
 
-[163]: Tim May, "Re: Hettinga's e€ yllogism," originally sent to the Cypherpunks mailing list, June 28, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/06/msg01637.html.]
+[^163]: Tim May, 'Re: Hettinga's e€ yllogism', originally sent to the Cypherpunks mailing list, June 28, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/06/msg01637.html.]
 
-[164]: Tim May, "'Stopping Crime' Necessarily Means Invasiveness," originally sent to the Cypherpunks mailing list, October 17, 1996, accessed via: [http://cypherpunks.venona.com/date/1996/10/msg01269.html.]
+[^164]: Tim May, ''Stopping Crime' Necessarily Means Invasiveness', originally sent to the Cypherpunks mailing list, October 17, 1996, accessed via: [http://cypherpunks.venona.com/date/1996/10/msg01269.html.]
 
-[165]: Tim May, "Untraceable Payments, Extortion, and Other Bad Things," originally sent to the Cypherpunks mailing list, December 21, 1996, accessed via: [https://cypherpunks.venona.com/date/1996/12/msg01468.html.]
+[^165]: Tim May, 'Untraceable Payments, Extortion, and Other Bad Things', originally sent to the Cypherpunks mailing list, December 21, 1996, accessed via: [https://cypherpunks.venona.com/date/1996/12/msg01468.html.]
 
-[166]: Tim May, "'Stopping Crime'."
+[^166]: Tim May, ''Stopping Crime'.'
 
-[167]: Douglas Barnes, "Re: cypherpunks digicash bank?," originally sent to the Cypherpunks mailing list, October 8, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00731.html.]
+[^167]: Douglas Barnes, 'Re: cypherpunks digicash bank?', originally sent to the Cypherpunks mailing list, October 8, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00731.html.]
 
-[168]: Tim May, "Software Patents are Freezing Evolution of Products," originally sent to the Cypherpunks mailing list, October 7, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00685.html.]
+[^168]: Tim May, 'Software Patents are Freezing Evolution of Products', originally sent to the Cypherpunks mailing list, October 7, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00685.html.]
 
-[169]: Eduard de Jong, "Electronic Money: From Cryptography and Smart Cards to Bitcoin and Beyond," Fraunhofer SmartCard Workshop 2017 .
+[^169]: Eduard de Jong, 'Electronic Money: From Cryptography and Smart Cards to Bitcoin and Beyond', Fraunhofer SmartCard Workshop 2017 .
 
-[170]: Laurie Law, Susan Sabett, and Jerry Solinas, "How To Make a Mint: The Cryptography of Anonymous Electronic Cash," National Security Agency Office of Information Security Research and Technology, Cryptology Division, June 18, 1996,              [https://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm.]
+[^170]: Laurie Law, Susan Sabett, and Jerry Solinas, 'How To Make a Mint: The Cryptography of Anonymous Electronic Cash', National Security Agency Office of Information Security Research and Technology, Cryptology Division, June 18, 1996,              [https://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm.]
 
-[171]: Hadon Nash, "Digital Gold," originally sent to the Cypherpunks mailing list, August 24, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00698.html.]
+[^171]: Hadon Nash, 'Digital Gold', originally sent to the Cypherpunks mailing list, August 24, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00698.html.]
 
-[172]: Hal Finney, "Digital Gold, a bearer instrument?," originally sent to the Cypherpunks mailing list, August 26, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00788.html.]
+[^172]: Hal Finney, 'Digital Gold, a bearer instrument?', originally sent to the Cypherpunks mailing list, August 26, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00788.html.]
 
-[173]: Black Unicorn, "DigiCash Announcement," originally sent to the Cypherpunks mailing list, May 10, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/05/msg00616.html.]
+[^173]: Black Unicorn, 'DigiCash Announcement', originally sent to the Cypherpunks mailing list, May 10, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/05/msg00616.html.]
 
-[174]: Pr0duct Cypher, "Magic Money Digicash System," originally sent to the Cypherpunks mailing list, February 4, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/02/msg00247.html.]
+[^174]: Pr0duct Cypher, 'Magic Money Digicash System', originally sent to the Cypherpunks mailing list, February 4, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/02/msg00247.html.]
 
-[175]: Perry E. Metzger, "Re: Virtual Cash," originally sent to the Cypherpunks mailing list, May 3, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/05/msg00131.html.]
+[^175]: Perry E. Metzger, 'Re: Virtual Cash', originally sent to the Cypherpunks mailing list, May 3, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/05/msg00131.html.]
 
-[176]: Robert Hettinga, "Re: digital cc transactions, digital checks vs real digital cash," originally sent to the Cypherpunks mailing list, May 3, 1997, accessed via: <https://cypherpunks.venona.com/date/1997/05/msg00147.html>
+[^176]: Robert Hettinga, 'Re: digital cc transactions, digital checks vs real digital cash', originally sent to the Cypherpunks mailing list, May 3, 1997, accessed via: <https://cypherpunks.venona.com/date/1997/05/msg00147.html>
 
-[177]: Robert Hettinga, "Re: Bypassing the Digicash Patents," originally sent to the Cypherpunks mailing list, April 29, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/04/msg00811.html.]
+[^177]: Robert Hettinga, 'Re: Bypassing the Digicash Patents', originally sent to the Cypherpunks mailing list, April 29, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/04/msg00811.html.]
 
-[178]: Tim May, "Re: alternative b-money creation," originally sent to the Cypherpunks mailing list, December 11, 1998, accessed via: [https://cypherpunks.venona.com/date/1998/12/msg00455.html.]
+[^178]: Tim May, 'Re: alternative b-money creation', originally sent to the Cypherpunks mailing list, December 11, 1998, accessed via: [https://cypherpunks.venona.com/date/1998/12/msg00455.html.]
 
-[179]: Tim May, "What backs up digital money?," originally sent to the Cypherpunks mailing list, March 27, 1996, accessed via: [https://cypherpunks.venona.com/date/1996/03/msg01576.html.]
+[^179]: Tim May, 'What backs up digital money?', originally sent to the Cypherpunks mailing list, March 27, 1996, accessed via: [https://cypherpunks.venona.com/date/1996/03/msg01576.html.]
 
-[180]: Adam Back, "Re: Bypassing the Digicash Patents," originally sent to the Cypherpunks mailing list, April 30, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/04/msg00822.html.]
+[^180]: Adam Back, 'Re: Bypassing the Digicash Patents', originally sent to the Cypherpunks mailing list, April 30, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/04/msg00822.html.]
 
-[181]: Adam Back, "digital cc transactions, digital checks vs real digital cash," originally sent to the Cypherpunks mailing list, May 2, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/05/msg00104.html.]
+[^181]: Adam Back, 'digital cc transactions, digital checks vs real digital cash', originally sent to the Cypherpunks mailing list, May 2, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/05/msg00104.html.]
 
-[182]: Adam Back, "Re: Bypassing."
+[^182]: Adam Back, 'Re: Bypassing.'

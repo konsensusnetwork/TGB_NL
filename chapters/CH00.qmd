@@ -1,8 +1,4 @@
-# Openingscitaat {.unnumbered}
-
-> Ik geloof niet dat we ooit weer een goede munteenheid zullen hebben voordat we het uit de handen van de overheid nemen. Aangezien we ze niet gewelddadig uit de handen van de overheid kunnen nemen, kunnen we alleen maar op een sluwe, indirecte manier, iets introduceren wat ze niet kunnen stoppen. - Friedrich Hayek (1984)
-
-# Inleiding
+# Inleiding {.unnumbered}
 
 E-goud was in volle bloei. Tegen 2005 waren er op het innovatieve online betalingssysteem van Douglas Jackson meer dan een miljoen accounts aangemaakt, die samen verantwoordelijk waren voor bijna € 2 miljard aan transacties per jaar. De volledig gedekte digitale tokens die e-goudklanten gebruikten om al deze transacties uit te voeren, vertegenwoordigden 3,8 ton goud, opgeborgen in kluizen over de hele wereld. Als een van de eerste werkende implementaties van elektronisch geld, was e-goud in minder dan tien jaar tijd uitgegroeid tot de populairste digitale valuta op het internet.
 
@@ -14,9 +10,9 @@ De Amerikaanse geheime dienst, bijgestaan door de IRS en de FBI, was van mening 
 
 Jackson werd aangeklaagd en beschuldigd van het witwassen van geld en het runnen van een niet-gelicentieerde betaaldienst.[^1]
 
-# Digitaal goud
+## Digitaal goud
 
-Jackson had nooit beoogd dat e-goud misbruikt zou worden voor illegale doeleinden. Hij geloofde ook niet dat dit op een serieuze schaal gebeurde. Sterker nog, hij beweerde dat e-goud een beter fraudedetectiesysteem had dan elke andere betaalverwerker die er bestond. Daarnaast was hij altijd meer dan bereid om met politie samen te werken. E-goud was ook een van de oprichtende leden van het \`National Center for Missing & Exploited Children's Financial Coalition Against Child Pornography'. De gegevens die deze coalitie verzamelde, zo stelde Jackson, gaven aan dat e-goud vrijwel niet werd gebruikt voor dergelijke doeleinden.
+Jackson had nooit beoogd dat e-goud misbruikt zou worden voor illegale doeleinden. Hij geloofde ook niet dat dit op een serieuze schaal gebeurde. Sterker nog, hij beweerde dat e-goud een beter fraudedetectiesysteem had dan elke andere betaalverwerker die er bestond. Daarnaast was hij altijd meer dan bereid om met politie samen te werken. E-goud was ook een van de oprichtende leden van het 'National Center for Missing & Exploited Children's Financial Coalition Against Child Pornography'. De gegevens die deze coalitie verzamelde, zo stelde Jackson, gaven aan dat e-goud vrijwel niet werd gebruikt voor dergelijke doeleinden.
 
 In plaats daarvan was Jackson, als succesvol en onafhankelijk oncoloog en veteraan van het medisch korps van het Amerikaanse leger, in de jaren negentig al geïnteresseerd geraakt in het monetaire beleid en de invloed daarvan op de economie. Hij ontdekte dat moderne valuta's -- dollars, ponden, yen -- niet langer door iets gedekt werden, waardoor ze in feite, uit het niets, met een druk op de knop gecreëerd konden worden. Toen hij zich verder in dit onderwerp verdiepte, raakte hij ervan overtuigd dat dit de economie op zeer schadelijke manieren beïnvloedde.
 
@@ -44,11 +40,11 @@ Bovendien beweerde Jackson dat e-goud de mogelijkheid bood om een soort geld te 
 
 Op de lange termijn had e-goud zelfs het potentieel om de ruggengraat te worden van een geheel nieuw, financieel systeem, suggereerde Jackson optimistisch.
 
-'Hoe vinden we een bankensysteem uit dat niet de oorzaak zal zijn van catastrofale verstoringen, dat zelf het minst waarschijnlijk is om schommelingen te introduceren en dat het meest waarschijnlijk de juiste aanpassingen zal maken... is het meest prangende, onopgeloste economische probleem van onze tijd', citeerde hij op een gegeven moment uit het boek \`*The Rationale of Central Banking and the Free Banking Alternative*' van econome Vera Smith.
+'Hoe vinden we een bankensysteem uit dat niet de oorzaak zal zijn van catastrofale verstoringen, dat zelf het minst waarschijnlijk is om schommelingen te introduceren en dat het meest waarschijnlijk de juiste aanpassingen zal maken... is het meest prangende, onopgeloste economische probleem van onze tijd', citeerde hij op een gegeven moment uit het boek '*The Rationale of Central Banking and the Free Banking Alternative*' van econome Vera Smith.
 
 Toe te voegen: 'Een systeem en munteenheid zoals e-goud, vooral na opkomst en integratie in de financiële mainstream als een reserve-activum dat als betaalmiddel wordt gebruikt, kunnen dit probleem zeker en vast oplossen.'[^3]
 
-# Juridische kwesties
+## Juridische kwesties
 
 Vroeg in de jaren 2000 was e-goud snel aan het groeien, en Jackson werkte onvermoeid om zijn dienst te verbeteren. Hij stelde meer soorten edelmetalen beschikbaar, en voegde tevens nieuwe betalingsfuncties toe, zoals geautomatiseerde, maandelijkse betalingen. Bovendien maakte hij toegang tot het systeem mogelijk via mobiele telefoons via het toen nieuwe WAP-protocol.[^4]
 
@@ -76,7 +72,7 @@ Uiteindelijk heeft e-goud nooit opnieuw de deuren geopend.
 
 Jackson had e-goud opgericht om het materiële welzijn van mensen te verbeteren door een alternatief te bieden voor conventionele, ongedekte valuta's zoals de Amerikaanse dollar. Opgesloten in zijn eigen huis, met meer dan een miljoen dollar aan juridische kosten op zijn naam, en zijn bedrijf noodgedwongen gesloten, had hij op de pijnlijke les geleerd dat het aanbieden van een dergelijk alternatief niet zonder slag of stoot ging.
 
-# Satoshi Nakamoto
+## Satoshi Nakamoto
 
 Het lot van Douglas Jackson en e-goud diende als een niet te miskennen waarschuwing voor iedereen met ambities om een alternatieve vorm van geld aan te bieden. Overheden (en met name de Amerikaanse overheid) konden besluiten hard op te treden, wat ernstige persoonlijke en financiële schade zou kunnen berokkenen. Voor de meesten was dit waarschijnlijk het risico niet waard.
 

@@ -106,7 +106,7 @@ Specifiek wilde Stallman de algemene trend naar *propriëtaire software* omkeren
 
 Erger nog, propriëtaire software kan doorgaans niet geïnspecteerd worden. Als mensen geen toegang hebben tot de in mensentaal leesbare broncode van de software die ze op hun computers draaien, kunnen ze niet zeker weten wat hun eigen machine eigenlijk doet. Een programma kan kwaadaardig zijn en bijvoorbeeld zijn gebruiker beperken, censureren, bespioneren of op een andere manier misbruiken.[^40]
 
-Stallman was van mening dat het gebruik van propriëtaire software in feite betekende dat je de controle overliet aan degene die het had ontwikkeld.
+Stallman was van mening dat het gebruik van propriëtaire software in feite betekende dat je de controle overliet aan degene die het had ontwikkeld.[^41]
 
 'Als gebruikers het programma niet beheersen, beheerst het programma de gebruikers', redeneerde hij. 'Met eigendomsrechtelijk beschermde software is er altijd een entiteit -- de 'eigenaar' van het programma -- die controle heeft over het programma en daarmee macht uitoefent over de gebruikers.'[^42]
 
@@ -191,50 +191,50 @@ Net zoals vrije markten, kunnen vrije en open softwareprojecten een spontane ord
 'In veel opzichten gedraagt de Linux-wereld zich als een vrije markt of een ecologie, een verzameling van individuen die hun eigenbelang nastreven. Tijdens dit proces ontstaat een zichzelf corrigerende spontane orde die veel complexer en efficiënter is dan wat elke vorm van centrale planning ooit zou kunnen bereiken.'[^53]
 
 
-[30]: Richard Stallman, 'Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius'. Interview door Michael Gross, mgross.com, 1999, [https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/.]
+[^30]: Richard Stallman, 'Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius'. Interview door Michael Gross, mgross.com, 1999, [https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/.]
 
-[31]: Deze sectie is grotendeels gebaseerd op Steven Levy, Hackers: Heroes of the Computer Revolution.
+[^31]: Deze sectie is grotendeels gebaseerd op Steven Levy, Hackers: Heroes of the Computer Revolution.
 
-[32]: ​Richard Stallman, 'Talking to the Mailman', Interview by Rob Lucas, New Left Review, Sept--Oct 2018, [https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman.]
+[^32]: ​Richard Stallman, 'Talking to the Mailman', Interview by Rob Lucas, New Left Review, Sept--Oct 2018, [https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman.]
 
-[33]: ​Richard Stallman, 'RMS Berättar', Linköping University, [http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt.]
+[^33]: ​Richard Stallman, 'RMS Berättar', Linköping University, [http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt.]
 
-[34]: ​Stallman, 'Talking to the Mailman'.
+[^34]: ​Stallman, 'Talking to the Mailman'.
 
-[35]: ​Levy, Hackers, 448.
+[^35]: ​Levy, Hackers, 448.
 
-[36]: ​Levy, Hackers, 472.
+[^36]: ​Levy, Hackers, 472.
 
-[37]: ​Stallman, 'High School Misfit'.
+[^37]: ​Stallman, 'High School Misfit'.
 
-[38]: ​Stallman, 'RMS Berättar'.
+[^38]: ​Stallman, 'RMS Berättar'.
 
-[39]: ​Steven Levy, Hackers, 441--42.
+[^39]: ​Steven Levy, Hackers, 441--42.
 
-[40]: ​Angela Watercutter, 'Why Free Software Is More Important Now Than Ever Before', Wired, September 20, 2013, [https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/.]
+[^40]: ​Angela Watercutter, 'Why Free Software Is More Important Now Than Ever Before', Wired, September 20, 2013, [https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/.]
 
-[41]: Voor de nauwkeurigheid dient opgemerkt te worden dat dit deel van het argument technisch gezien pas duidelijk naar voren kwam toen Stallman het GNU-project een jaar of zo later lanceerde; het was nog geen deel van zijn oorspronkelijke motivatie om het project überhaupt te starten. Dit kleine anachronisme is in de tekst gebleven ten behoeve van de leesbaarheid.
+[^41]: Voor de nauwkeurigheid dient opgemerkt te worden dat dit deel van het argument technisch gezien pas duidelijk naar voren kwam toen Stallman het GNU-project een jaar of zo later lanceerde; het was nog geen deel van zijn oorspronkelijke motivatie om het project überhaupt te starten. Dit kleine anachronisme is in de tekst gebleven ten behoeve van de leesbaarheid.
 
-[42]: ​Richard Stallman, 'Free Software Is Even More Important Now', gnu.org, [https://www.gnu.org/philosophy/free-software-even-more-important.en.html.]
+[^42]: ​Richard Stallman, 'Free Software Is Even More Important Now', gnu.org, [https://www.gnu.org/philosophy/free-software-even-more-important.en.html.]
 
-[43]: ​GNU Operating System, 'What is Free Software?' [https://www.gnu.org/philosophy/free-sw.html.]
+[^43]: ​GNU Operating System, 'What is Free Software?' [https://www.gnu.org/philosophy/free-sw.html.]
 
-[44]: Eigenlijk werd vrijheid 0 pas expliciet toegevoegd in de jaren 1990; daarvoor dacht Stallman dat het een automatische juridische consequentie was van de oorspronkelijke drie vrijheden.
+[^44]: Eigenlijk werd vrijheid 0 pas expliciet toegevoegd in de jaren 1990; daarvoor dacht Stallman dat het een automatische juridische consequentie was van de oorspronkelijke drie vrijheden.
 
-[45]: ​GNO Operating System, 'What is Free Software?'
+[^45]: ​GNO Operating System, 'What is Free Software?'
 
-[46]: ​Richard Stallman, 'Free Unix!' September 27, 1983, [https://www.gnu.org/gnu/initial-announcement.en.html.]
+[^46]: ​Richard Stallman, 'Free Unix!' September 27, 1983, [https://www.gnu.org/gnu/initial-announcement.en.html.]
 
-[47]: ​GNU Operating System, 'The GNU Manifesto', 1985,​[https://www.gnu.org/gnu/manifesto.html.en.]
+[^47]: ​GNU Operating System, 'The GNU Manifesto', 1985,​[https://www.gnu.org/gnu/manifesto.html.en.]
 
-[48]: Om de zware afhankelijkheid van het project van GNU te benadrukken, geven sommigen de voorkeur aan de naam 'GNU/Linux'.
+[^48]: Om de zware afhankelijkheid van het project van GNU te benadrukken, geven sommigen de voorkeur aan de naam 'GNU/Linux'.
 
-[49]: ​Eric S. Raymond, The Cathedral & The Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary.
+[^49]: ​Eric S. Raymond, The Cathedral & The Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary.
 
-[50]: Richard Stallman is ook geen fan van deze terminologie. Als er een term moet worden gebruikt die beide kanten van de kloof omvat, geeft hij de voorkeur aan 'Free/Libre and Open Source Software' omdat dit duidelijker overbrengt dat het 'vrije' deel over 'vrijheid' gaat.
+[^50]: Richard Stallman is ook geen fan van deze terminologie. Als er een term moet worden gebruikt die beide kanten van de kloof omvat, geeft hij de voorkeur aan 'Free/Libre and Open Source Software' omdat dit duidelijker overbrengt dat het 'vrije' deel over 'vrijheid' gaat.
 
-[51]: ​Raymond, The Cathedral & The Bazaar, 52.
+[^51]: ​Raymond, The Cathedral & The Bazaar, 52.
 
-[52]: ​Raymond, The Cathedral & The Bazaar, 52.
+[^52]: ​Raymond, The Cathedral & The Bazaar, 52.
 
-[53]: ​Raymond, The Cathedral & The Bazaar, 52.
+[^53]: ​Raymond, The Cathedral & The Bazaar, 52.

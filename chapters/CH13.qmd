@@ -10,7 +10,7 @@ Dat betekende niet dat de Cypherpunk-ethos verloren of volledig vergeten was. Ve
 
 Veel van de Cypherpunks bleven ook in contact via andere middelen. Online migreerden nogal wat van hen uiteindelijk naar de strikter gemodereerde Cryptografie mailinglijst, die soms werd beschouwd als de feitelijke opvolger van de Cypherpunk-lijst. Offline liepen enkele van de Cypherpunks elkaar regelmatig tegen het lijf op cryptografieconferenties of hacker-evenementen.
 
-Ondertussen ontstonden vele andere initiatieven voor elektronisch geld. Rond de overgang van het millennium werkten honderden startups aan online betalingssystemen, en veel van deze bedrijven omschreven hun oplossingen als een vorm van digitaal geld. Hoewel dat vaak gewoon betekende dat de betaalsystemen snel, goedkoop en gemakkelijk te gebruiken waren, waren ze niet per se privé. CyberCash, bijvoorbeeld, trok veel media-aandacht voor zijn digitaal geldsysteem, genaamd CyberCoin, dat zich specialiseerde in kleine betalingen in plaats van anonimiteit. Hetzelfde gold voor het systeem van elektronisch geld van Compaq, dat veel aandacht trok, genaamd Millicent.
+Ondertussen ontstonden vele andere initiatieven voor elektronisch geld. Rond de overgang van het millennium werkten honderden start-ups aan online betalingssystemen, en veel van deze bedrijven omschreven hun oplossingen als een vorm van digitaal geld. Hoewel dat vaak gewoon betekende dat de betaalsystemen snel, goedkoop en gemakkelijk te gebruiken waren, waren ze niet per se privé. CyberCash, bijvoorbeeld, trok veel media-aandacht voor zijn digitaal geldsysteem, genaamd CyberCoin, dat zich specialiseerde in kleine betalingen in plaats van anonimiteit. Hetzelfde gold voor het systeem van elektronisch geld van Compaq, dat veel aandacht trok, genaamd Millicent.
 
 Andere initiatieven die enig potentieel toonden, zoals n-Count (medeontworpen door een voormalige werknemer van DigiCash), Proton (een project van samenwerkende Europese banken), of Mondex (een initiatief van de Britse bank NatWest dat later werd verkocht aan Mastercard), waren vooral gebaseerd op het concept van fysieke smartcards. Net zoals de smartcard die in ontwikkeling was bij de start-up van David Chaum, moesten deze stukken hardware (gelijkend aan een kredietkaart) vooraf geladen worden met een waarde die fiatvaluta vertegenwoordigde, om vervolgens te worden gebruikt voor persoonlijke transacties. Hoewel de meeste van deze privacyfuncties aanboden, waren ze vooral ontworpen om fysiek geld te vervangen in plaats van te dienen als anonieme valuta voor cyberspace.
 
@@ -82,7 +82,7 @@ Ondanks zijn nuchtere en misschien wel meer realistische kijk op de mogelijkhede
 
 Op de Cypherpunks mailinglijst was hij bij gesprekken over digitale valuta altijd één van de meest actieve deelnemers en nam hij soms zelfs een soort ondersteunende rol aan. Hoewel sommige Cypherpunks hevig konden twisten over de beste benadering van elektronisch geld, stond Finney meer open voor verschillende ideeën. In plaats van vast te houden aan één oplossing, gaf hij liever een overzicht van de verschillende compromissen die elk van hen met zich meebracht.
 
-Finney leek bijvoorbeeld grotendeels onbeslist, of misschien beter gezegd, open-minded over het onderwerp van dekking. Hij merkte op dat het dekken van elektronisch geld met fiatvaluta werkte, maar speculeerde soms ook over digitale valuta's ondersteund door een mandje van goederen, of door een synthetisch gemiddelde van meerdere nationale valuta's, of helemaal niet ondersteund.
+Finney leek bijvoorbeeld grotendeels onbeslist, of misschien beter gezegd, open-minded over het onderwerp van dekking. Hij merkte op dat het dekken van elektronisch geld met fiatvaluta werkte, maar speculeerde soms ook over digitale valuta's gedekt door een mandje van goederen, of door een synthetisch gemiddelde van meerdere nationale valuta's, of helemaal niet gedekt.
 
 Elke keer wanneer een nieuw voorstel voor elektronisch geld opdook op de mailinglijst, was Finney altijd enthousiast om het te beoordelen, met een speciale nadruk op hun privacyfuncties. Na het bestuderen van het ontwerp, koppelde hij vaak terug op de mailinglijst om in zijn eigen woorden uit te leggen hoe het werkte, hoe het zich verhield tot eerdere voorstellen, en wat hij van het idee vond. Naast (meestal constructieve) feedback voor de indiener, bood Finney aan andere Cypherpunks in wezen een openbare dienst door hen te helpen de mogelijkheden en beperkingen van verschillende benaderingen te begrijpen.
 
@@ -98,7 +98,7 @@ Ook hier was het niet zo dat Finney de meer radicale beloftes van Tim May onaant
 
 ## Herbruikbare proofs-of-work
 
-In de jaren 2000, ongeveer tien jaar nadat Finney bij Extropianen begon te pleiten voor elektronisch geld, was er nog steeds geen succesvol elektronisch geldsysteem. Hoewel een reeks ideeën besproken was op de mailinglijst van de Cypherpunks, en Finney veel van de voorstellen persoonlijk had beoordeeld, was geen van hen van de grond gekomen. In sommige gevallen, zoals bij de startups van Chaum of Hettinga, was dit omdat het product uiteindelijk commercieel niet haalbaar bleek te zijn, of althans zo leek het. Maar in andere gevallen, zoals bij het Bit Gold van Nick Szabo of de b-geld voorstellen van Wei Dai, waren de systemen in de eerste plaats nooit geïmplementeerd.
+In de jaren 2000, ongeveer tien jaar nadat Finney bij Extropianen begon te pleiten voor elektronisch geld, was er nog steeds geen succesvol elektronisch geldsysteem. Hoewel een reeks ideeën besproken was op de mailinglijst van de Cypherpunks, en Finney veel van de voorstellen persoonlijk had beoordeeld, was geen van hen van de grond gekomen. In sommige gevallen, zoals bij de start-ups van Chaum of Hettinga, was dit omdat het product uiteindelijk commercieel niet haalbaar bleek te zijn, of althans zo leek het. Maar in andere gevallen, zoals bij het Bit Gold van Nick Szabo of de b-geld voorstellen van Wei Dai, waren de systemen in de eerste plaats nooit geïmplementeerd.
 
 Wellicht was het omdat zijn verwachtingen voor het potentieel van elektronisch geld meer ingetogen waren dan die van Tim May en andere crypto-anarchisten in de eerste plaats, of misschien was het gewoon vanwege zijn over het algemeen optimistische karakter, maar waar vele andere Cypherpunks tegen deze tijd ontgoocheld waren geraakt, wilde Finney het idee nog een kans geven. Hij besloot uiteindelijk om een op proof-of-work gebaseerd elektronisch geldsysteem te ontwikkelen, zelfs als het in een vereenvoudigde vorm moest.
 
@@ -142,7 +142,7 @@ De eerste RPOW-release was weliswaar nog erg ruw, maar Hal Finney had het voorne
 
 Ondertussen vond de Cypherpunk het ook leuk om te experimenteren en te sleutelen aan de RPOW-software. Zo heeft hij bijvoorbeeld een BitTorrent-client aangepast om samen te werken met zijn elektronische geldsysteem. Dit leek op het Mojo Nation concept en stelde gebruikers in staat om andere gebruikers te betalen als ze hun download wilden versnellen. In een even creatieve toepassing van de RPOW-technologie werkte hij aan een peer-to-peer pokerapplicatie. Hier konden gebruikers tegen elkaar spelen, waarbij de RPOW-tokens automatisch naar de digitale portemonnee van de winnaar werden overgemaakt.
 
-Finney kreeg al snel hulp van een jongere ontwikkelaar genaamd Gregory Maxwell, die een actieve interesse toonde in het elektronische geldsysteem. Maxwell droeg bij aan het project met code, en overwoog om geavanceerde bestedingsvoorwaarden zoals escrow betalingen te implementeren. Hij besprak met Finney ook mogelijke oplossingen voor sommige van de meer subtiele technische uitdagingen, zoals het instellen van vervaltermijnen voor tokens, of de relatief zwakke versleuteling die de veilige hardwarecomponent beveiligde.
+Finney kreeg al snel hulp van een jongere ontwikkelaar genaamd Gregory Maxwell, die een actieve interesse toonde in het elektronische geldsysteem. Maxwell droeg bij aan het project met code, en overwoog om geavanceerde bestedingsvoorwaarden zoals escrow-betalingen te implementeren. Hij besprak met Finney ook mogelijke oplossingen voor sommige van de meer subtiele technische uitdagingen, zoals het instellen van vervaltermijnen voor tokens, of de relatief zwakke versleuteling die de veilige hardwarecomponent beveiligde.
 
 Helaas voor Finney bleek Maxwell echter een zeldzame uitzondering. Omdat bijna niemand anders interesse toonde in het elektronische geldsysteem, lukte het RPOW niet om door te breken.
 
@@ -156,7 +156,7 @@ Maar waarschijnlijk slaagde het elektronische geldsysteem er ook niet in om van 
 
 'Het had het probleem dat er min of meer niets was om het voor te gebruiken', concludeerde Maxwell ook, die jaren later terugkeek op het RPOW-project, 'wat het moeilijk maakte om de aandacht erop gericht te houden.'[^255]
 
-Net als eCash en hashcash voorheen, leed ook RPOW aan een kip-of-ei probleem.
+Net als eCash en hashcash voorheen, leed ook RPOW aan een kip-en-ei-probleem.
 
 ## E-goud
 
@@ -168,7 +168,7 @@ Het project van Douglas Jackson, een digitale valuta gedekt door goud, groeide r
 
 Er was natuurlijk één vereiste waaraan e-goud niet kon voldoen. De ervaring met DigiCash's Cyberbucks had de cypherpunks geleerd wat er kon gebeuren met een digitale munteenheid als het afhankelijk was van één enkel bedrijf, en de klanten van Douglas Jackson zouden deze les binnenkort ook leren. Met de arrestatie van de CEO en federale agenten die het kantoor van het bedrijf in 2006 binnenvielen, was er weer een internetvalutaproject mislukt. Szabo's stelling klonk nogmaals luid en duidelijk: *vertrouwde derde partijen zijn veiligheidslekken*.
 
-Na meer dan twintig jaar van niet-gerealiseerde voorstellen, verlaten projecten en mislukte startups, bestond er nog steeds geen elektronisch geld.
+Na meer dan twintig jaar van niet-gerealiseerde voorstellen, verlaten projecten en mislukte start-ups, bestond er nog steeds geen elektronisch geld.
 
 Intussen werd de noodzaak om een alternatief voor fiatgeld te vinden steeds groter...
 

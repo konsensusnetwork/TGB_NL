@@ -94,7 +94,7 @@ De overheid het probleem niet laten oplossen, was ook belangrijk omdat het niet 
 
 Adam Back benadrukte dat om spammers wettelijk verantwoordelijk te kunnen houden, ze ook geïdentificeerd dienen te worden. Als een overheidsdienst tegen spam de taak krijgt om de daders te vangen, waarschuwde Back zijn mede-Cypherpunks, dan zouden remailers waarschijnlijk een groot doelwit worden, met mogelijk ernstige gevolgen voor de online privacy in het algemeen.[^191]
 
-'De gevaren het inzetten van de overheid om spammers aan te vallen, is dat dit het internet is, en we willen geen regulering van de inhoud door overheden, noch pogingen tot afdwingen van 'escrow van identiteit', 'internetrijbewijzen' of iets anders', schreef Back aan de Cypherpunk mailinglijst. 'We lossen het zelf wel op zonder de behoefte aan overheidsinterventie, hartelijk dank.'[^192]
+'De gevaren het inzetten van de overheid om spammers aan te vallen, is dat dit het internet is, en we willen geen regulering van de inhoud door overheden, noch pogingen tot afdwingen van 'escrow van identiteit', 'internetrijbewijzen' of iets anders', schreef Back aan de Cypherpunk-mailinglijst. 'We lossen het zelf wel op zonder de behoefte aan overheidsinterventie, hartelijk dank.'[^192]
 
 De cypherpunks waren het er in het algemeen over eens dat een betere oplossing zou zijn om een digitaal equivalent van postzegels te creëren. Als het verzenden van een email kosten met zich mee zou brengen, zou dit spammers ontmoedigen, vooral omdat spammers meestal tienduizenden, zo niet miljoenen, ongewenste e-mails moeten versturen om winst te maken uit hun activiteiten. Op dezelfde manier vereiste het bombarderen van remailers massa's ongewenste e-mails.
 
@@ -134,7 +134,7 @@ Gelukkig zou het concept spoedig opnieuw worden uitgevonden.
 
 *[MEDEDELING] implementatie van hash cash porto*
 
-Op 28 maart 1997 kregen de inmiddels ongeveer 2000 abonnees van de Cypherpunk mailinglijst een bericht in hun inbox.[^194] Het bericht werd verstuurd door Adam Back en bevatte een beschrijving en vroege implementatie van wat hij 'hashcash' noemde: een 'postzegelsysteem gebaseerd op gedeeltelijke hash-botsingen'. Hij had met succes een postzegel-oplossing voor e-mail ontworpen.
+Op 28 maart 1997 kregen de inmiddels ongeveer 2000 abonnees van de Cypherpunk-mailinglijst een bericht in hun inbox.[^194] Het bericht werd verstuurd door Adam Back en bevatte een beschrijving en vroege implementatie van wat hij 'hashcash' noemde: een 'postzegelsysteem gebaseerd op gedeeltelijke hash-botsingen'. Hij had met succes een postzegel-oplossing voor e-mail ontworpen.
 
 Net als het schema van Dwork en Naor, zou de Hashcash porto niet betaald worden aan operators van remailers, of aan de ontvangers van een e-mail, of aan wie dan ook. In plaats daarvan zou het alleen extra kosten met zich meebrengen voor de verzenders.
 

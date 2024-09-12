@@ -24,7 +24,7 @@ Ongeveer tien jaar nadat hij voor het eerst kennismaakte met de methode van de s
 
 Het zou goed uitpakken voor hem. Na zijn afstuderen aan de technische universiteit in 1965, accepteerde Diffie een baan bij Mitre, een defensiecontractant die slechts een paar jaren daarvoor was afgesplitst van MIT's Lincoln Laboratory. De baan hielp hem om tijdens de Vietnamoorlog onder de dienstplicht uit te komen, terwijl het werk zelf ook niets met de oorlog te maken had. Diffie zou helpen bij de ontwikkeling van het computeralgebrasysteem Macsyma.
 
-Diffie hoefde zelfs niet naar het kantoor van Mitre te komen. In plaats daarvan kon hij werken vanuit het AI Lab van MIT, waar hij zich volledig verdiepte in de nieuwe Hacker-cultuur en haar vrije en collaboratieve filosofie.
+Diffie hoefde zelfs niet naar het kantoor van Mitre te komen. In plaats daarvan kon hij werken vanuit het AI Lab van MIT, waar hij zich volledig verdiepte in de nieuwe hacker-cultuur en haar vrije en collaboratieve filosofie.
 
 Toch week Diffie op sommige punten af van de typische hacker-ethiek. Hij was niet van mening dat onbeperkte vrijheid in alle computeromgevingen gewenst was en vond dat software in bepaalde contexten ook privacy moest bieden. Naarmate mensen, bedrijven en regeringen hun activiteiten naar het digitale domein gingen verplaatsen, zag hij in dat het belangrijk zou worden om gevoelige data te beschermen, zoals persoonlijke gezondheidsgegevens, bedrijfsfinanciën of militaire geheimen.
 
@@ -76,7 +76,7 @@ Toen Diffie en Hellman elkaar voor het eerst ontmoetten in 1974 en het idee besp
 
 Toen Diffie na meer dan een jaar reizen besloot om zich te vestigen in de Bay Area, werden hij en Hellman goede vrienden en al snel collega's: Hellman nam Diffie aan als deeltijdse onderzoeker aan de universiteit.
 
-## Publieke-sleutel cryptograpfie
+## Publieke sleutel-cryptografie
 
 Op een doodgewone middag, toen Diffie op het huis van zijn voormalige werkgever John McCarthy pastte, viel het kwartje eindelijk.
 
@@ -92,7 +92,7 @@ Als Bob het bericht inderdaad kon ontcijferen met Alice's publieke sleutel, zou 
 
 Deze digitale handtekeningen zouden zelfs krachtiger zijn dan geschreven handtekeningen, aangezien een cryptografische handtekening alleen geldig zou zijn in combinatie met het precieze stuk data dat was ondertekend. Als een digitaal contract na ondertekening wordt gewijzigd, zou de cryptografische handtekening niet meer overeenkomen. Op een bepaalde manier zouden zowel de handtekening als de data zelf onmogelijk na te maken zijn.
 
-Bovendien zag Diffie in dat het omgekeerde ook kon werken. Alice zou een bericht naar Bob kunnen versleutelen met *Bob*'s publieke sleutel, waarna Bob, en alleen Bob, het zou kunnen ontcijferen met zijn privésleutel. *Publieke-sleutel cryptografie* beloofde zowel digitale authenticatie als veilige communicatie te bieden!
+Bovendien zag Diffie in dat het omgekeerde ook kon werken. Alice zou een bericht naar Bob kunnen versleutelen met *Bob*'s publieke sleutel, waarna Bob, en alleen Bob, het zou kunnen ontcijferen met zijn privésleutel. *Publieke sleutel-cryptografie* beloofde zowel digitale authenticatie als veilige communicatie te bieden!
 
 Toen het concept die avond aan Hellman werd uitgelegd, was hij het ermee eens dat Diffie potentieel iets belangrijks had bedacht, ook al bestond het idee alleen nog maar in ontwerpfase en moest de exacte wiskunde nog worden uitgewerkt. In de weken die volgden, legde het duo de vroege wiskundige basis om het idee tastbaarder te maken.
 
@@ -188,7 +188,7 @@ Terwijl de Diffie-Hellman sleuteluitwisseling privécommunicatie mogelijk maakte
 
 En tot slot, RSA-encryptie schaalde (ongeveer) exponentieel. Gewoon een paar cijfers toevoegen aan de originele priemgetallen die in dit schema werden gebruikt, zou het veel moeilijker maken om later te ontdekken welke priemgetallen werden gebruikt, en daarmee ook veel moeilijker om de encryptie te breken. Met publieke sleutels zo klein dat zelfs informele computergebruikers ze gemakkelijk konden delen, was beveiliging voor miljoenen jaren wiskundig gegarandeerd.
 
-Met RSA was Diffie's visie voor publieke-sleutelcryptografie echt werkelijkheid geworden.
+Met RSA was Diffie's visie voor publieke sleutelcryptografie echt werkelijkheid geworden.
 
 ## David Chaum
 
@@ -220,7 +220,7 @@ De grootste bijdragen van Chaum aan het veld van de cryptografie waren echter ni
 
 ## Remailers
 
-Publieke-sleutelcryptografie maakte het mogelijk voor twee mensen die elkaar nog nooit hadden ontmoet om berichten uit te wisselen die alleen zij konden lezen. Dit bood privacy in communicatie --- een baanbrekende ontwikkeling.
+Publieke sleutelcryptografie maakte het mogelijk voor twee mensen die elkaar nog nooit hadden ontmoet om berichten uit te wisselen die alleen zij konden lezen. Dit bood privacy in communicatie --- een baanbrekende ontwikkeling.
 
 Maar het was geen wondermiddel, besefte Chaum. Zelfs met de publieke sleutelcryptografie, bleef een aanzienlijke privacy-risico bestaan: verkeersanalyse kon onthullen wie met wie praatte, en wanneer.
 
@@ -234,7 +234,7 @@ Als Alice een bericht aan Bob wil sturen, zou ze eerst zijn publieke sleutel moe
 
 Maar ze zou het bericht niet rechtstreeks naar Bob sturen: een speurder die hun verbindingen monitort, zou dan kunnen zien dat de twee communiceren, wat Alice juist probeert te vermijden.
 
-In plaats daarvan zou Alice het versleutelde bericht nemen en daaraan het e-mailadres van Bob toevoegen. Vervolgens zou ze dit hele pakket (het versleutelde bericht voor Bob en zijn e-mailadres) nog een keer versleutelen, maar nu met de openbare sleutel die geassocieerd is met een speciale mixserver. Het bericht zou nu twee lagen van codering hebben: één laag voor het originele bericht en een andere laag voor het hele pakket. Alice zou dit dubbel versleutelde pakket dan naar de mixer sturen.
+In plaats daarvan zou Alice het versleutelde bericht nemen en daaraan het e-mailadres van Bob toevoegen. Vervolgens zou ze dit hele pakket (het versleutelde bericht voor Bob en zijn e-mailadres) nog een keer versleutelen, maar nu met de publieke sleutel die geassocieerd is met een speciale mixserver. Het bericht zou nu twee lagen van codering hebben: één laag voor het originele bericht en een andere laag voor het hele pakket. Alice zou dit dubbel versleutelde pakket dan naar de mixer sturen.
 
 De server van de mixer zou op zijn beurt het pakket ontcijferen met zijn privésleutel, om het originele gecodeerde bericht en Bob's e-mailadres te vinden. De mixer zou dit gebruiken om het gecodeerde bericht naar Bob te sturen, die het vervolgens zou ontcijferen om Alice's originele bericht te lezen. Als tussenpersoon brak de mixer de directe link tussen Alice en Bob, waardoor het moeilijker werd voor de speurneus om te concluderen dat ze communiceerden. Tenzij het duidelijk is uit de inhoud van het bericht, zou Bob zelf ook niet weten dat het van Alice afkomstig was.
 

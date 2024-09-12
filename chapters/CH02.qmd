@@ -98,7 +98,7 @@ Stallman had ooit gedroomd van een toekomst geïnspireerd door de vrije en colla
 
 Toch was Stallman nog niet helemaal bereid om op te geven.
 
-Stallman wees voornamelijk Noftsker aan als schuldige voor de ondergang van het AI Lab. De hacker zette zich vervolgens in om alle software-upgrades van Symbolics opnieuw te implementeren. Hij hield hun documentatie van nieuwe functies bij en schreef vervolgens code die dezelfde functies bood. In feite deed hij in zijn eentje het werk van zes ontwikkelaars van de startup. Hij deelde zijn code met LMI, waardoor het bedrijf van Greenblatt een kans had om tegen Symbolics te concurreren. Hij hield dit lang genoeg vol zodat Greenblatt nieuwe programmeurs kon aannemen en zijn bedrijf weer op de rails kon krijgen.[^37]
+Stallman wees voornamelijk Noftsker aan als schuldige voor de ondergang van het AI Lab. De hacker zette zich vervolgens in om alle software-upgrades van Symbolics opnieuw te implementeren. Hij hield hun documentatie van nieuwe functies bij en schreef vervolgens code die dezelfde functies bood. In feite deed hij in zijn eentje het werk van zes ontwikkelaars van de start-up. Hij deelde zijn code met LMI, waardoor het bedrijf van Greenblatt een kans had om tegen Symbolics te concurreren. Hij hield dit lang genoeg vol zodat Greenblatt nieuwe programmeurs kon aannemen en zijn bedrijf weer op de rails kon krijgen.[^37]
 
 Vervolgens besloot Stallman dat het tijd was voor een nieuwe start. Hij had zichzelf ervan overtuigd dat de hackercultuur de wereld nog steeds kon veranderen, maar concludeerde dat er een nieuw plan nodig was: 'een ambitieus project dat de fundamenten aanvalt van de manier waarop de commerciële, vijandige manier van leven wordt voortgezet.'[^38]
 
@@ -156,7 +156,7 @@ Maar Torvalds' voornaamste vernieuwing was mogelijk niet het Linux-kernel zelf. 
 
 Zoals uitvoerig besproken door Linux-bijdrager Eric S. Raymond in zijn essay 'The Cathedral & The Bazaar' uit 1997 en het (later) gelijknamige boek, was de grootste aanpassing die Torvalds maakte de benadering van het project omtrent beveiliging.
 
-Tot die tijd beschouwden vrije softwareontwikkelaars bugs en andere kwetsbaarheden als grote risico's die moesten worden aangepakt door toegewijde experts die hun software zorgvuldig beoordeelden. Dit omvatte ook de code die ze ontvingen van externe bijdragers. Ze zouden de code pas vrijgeven als ze er zeker van waren dat het veilig was om deze te gebruiken. Raymond bestempelde deze top-down benadering als het 'kathedraal'model.
+Tot die tijd beschouwden vrije software-ontwikkelaars bugs en andere kwetsbaarheden als grote risico's die moesten worden aangepakt door toegewijde experts die hun software zorgvuldig beoordeelden. Dit omvatte ook de code die ze ontvingen van externe bijdragers. Ze zouden de code pas vrijgeven als ze er zeker van waren dat het veilig was om deze te gebruiken. Raymond bestempelde deze top-down benadering als het 'kathedraal'model.
 
 In plaats daarvan gebruikte Torvalds wat Raymond het 'bazaar'model noemde. Dit model gebruikte een flexibelere methode om bijdragen te integreren, waardoor ontwikkelaars meer direct hun wijzigingen konden uploaden naar verschillende versies van de software. Andere bijdragers konden vervolgens deze software downloaden, testen en mogelijk de wijzigingen in hun eigen versies overnemen.
 

@@ -128,7 +128,7 @@ In het kader van de projectontwikkeling publiceerden Drexler en Miller gedurende
 
 Inderdaad, Drexler en Miller gebruikten Hayeks inzichten over de vrije markt om computernetwerken te ontwerpen.
 
-Drexler en Miller hadden het werk van Hayek bestudeerd op advies van een andere bijdrager aan Xanadu en wederzijdse vriend, Phil Salin. Salin, een futurist met economiediploma's van UCLA en Stanford, vond het leuk om inzichten van de vrije markt te vermengen met de laatste technologische ontwikkelingen. Het meest opmerkelijk was dat hij midden jaren '80 concludeerde dat de tijd rijp was voor het oprichten van een privé ruimtevaartindustrie, en lanceerde één van de meest ambitieuze startups van dat decennium in de vorm van het privé ruimtevaartbedrijf Starstruck.
+Drexler en Miller hadden het werk van Hayek bestudeerd op advies van een andere bijdrager aan Xanadu en wederzijdse vriend, Phil Salin. Salin, een futurist met economiediploma's van UCLA en Stanford, vond het leuk om inzichten van de vrije markt te vermengen met de laatste technologische ontwikkelingen. Het meest opmerkelijk was dat hij midden jaren '80 concludeerde dat de tijd rijp was voor het oprichten van een privé ruimtevaartindustrie, en lanceerde één van de meest ambitieuze start-ups van dat decennium in de vorm van het privé ruimtevaartbedrijf Starstruck.
 
 De drie mannen, Drexler, Miller en Salin, werden door het economisch tijdschrift *Market Process* uitgeroepen tot de 'high-tech Hayekianen', een bijnaam die het trio met trots aanvaardde.[^133]
 
@@ -172,7 +172,7 @@ De overgebleven, levende, Extropianen zullen in de tussentijd gewoon de vlam van
 
 De Extropiaanse beweging was, net zoals Max More zelf, van nature thuis in Californië. Silicon Valley werd begin jaren '90 steeds meer erkend als de wereldwijde hotspot voor innovatie. Dit trok enkele van de meest ambitieuze technologen, wetenschappers en ondernemers naar de Amerikaanse westkust.
 
-Maar er was een opmerkelijke uitzondering. In de vroege jaren '90 raakten sommige van de Extropianen ervan overtuigd dat een bijzonder interessante en belangrijke technologie daadwerkelijk werd ontwikkeld door een kleine startup aan de overkant van de Oceaan. Ze waren van mening dat de realisatie van elektronisch geld cruciaal was, en David Chaum leek alle kaarten in handen te hebben.
+Maar er was een opmerkelijke uitzondering. In de vroege jaren '90 raakten sommige van de Extropianen ervan overtuigd dat een bijzonder interessante en belangrijke technologie daadwerkelijk werd ontwikkeld door een kleine start-up aan de overkant van de Oceaan. Ze waren van mening dat de realisatie van elektronisch geld cruciaal was, en David Chaum leek alle kaarten in handen te hebben.
 
 Voor ten minste één Extropiaan, een computerwetenschapper genaamd Nick Szabo, was dit een reden om naar Amsterdam te verhuizen en zelf voor DigiCash te gaan werken. Tegelijkertijd begon game-ontwikkelaar Hal Finney het belang van digitaal geld aan zijn mede-Extropianen te propageren, in de hoop dat meer van hen zich erbij zouden aansluiten. Verspreid over zeven pagina's in de tiende editie van Extropy, gepubliceerd begin 1993, beschreef Finney de interne werking van Chaum's digitale geldsysteem en legde uit waarom Extropianen met hun libertaire ethos dit ter harte zouden moeten nemen.
 

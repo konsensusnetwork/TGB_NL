@@ -6,7 +6,7 @@ book:
   subtitle: "Het verhaal van de mensen en projecten die tot Bitcoin leidden"
   author: "Aaron van Wirdum"
   translator: Theo Hague
-  date: "9/11/2024"
+  date: "2024-09-12"
   cover-image: cover.png
   isbn: 978-3-16-123450-0
   license: CC-BY-4.0
@@ -75,6 +75,8 @@ format:
       - right=18mm
     epub:
       creator: Konsensus Network
+      date: "2024-09-12"
+      lang: "nl-NL"
 
 
 

@@ -199,51 +199,50 @@ Desalniettemin, in echte Cypherpunk-stijl, praatte Adam Back niet alleen over el
 
 Hij schreef computercode...
 
-
-[^159]: Tim May, 'Scenario for a Ban on Cash Transactions', originally sent to the Cypherpunks mailing list, November 24, 1992, accessed via: [https://cypherpunks.venona.com/date/1992/11/msg00211.html.]
+[^159]: Tim May, 'Scenario for a Ban on Cash Transactions', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, November 24, 1992, [online](https://cypherpunks.venona.com/date/1992/11/msg00211.html)
 
 [^160]: Tim May, 'Scenario for a Ban.'
 
-[^161]: Tim May, 'Crypto Anarchy, the Government, and the National Information Infrastructure', originally sent to the Cypherpunks mailing list, November 29, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/11/msg01106.html.]
+[^161]: Tim May, 'Crypto Anarchy, the Government, and the National Information Infrastructure', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, November 29, 1993, [online](https://cypherpunks.venona.com/date/1993/11/msg01106.html)
 
-[^162]: Tim May, 'DigiCash can use whatever currencies are valued', originally sent to the Cypherpunks mailing list, May 4, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/05/msg00243.html.]
+[^162]: Tim May, 'DigiCash can use whatever currencies are valued', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, May 4, 1994, [online](https://cypherpunks.venona.com/date/1994/05/msg00243.html)
 
-[^163]: Tim May, 'Re: Hettinga's e€ yllogism', originally sent to the Cypherpunks mailing list, June 28, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/06/msg01637.html.]
+[^163]: Tim May, 'Re: Hettinga's e$yllogism', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, June 28, 1997, [online](https://cypherpunks.venona.com/date/1997/06/msg01637.html)
 
-[^164]: Tim May, ''Stopping Crime' Necessarily Means Invasiveness', originally sent to the Cypherpunks mailing list, October 17, 1996, accessed via: [http://cypherpunks.venona.com/date/1996/10/msg01269.html.]
+[^164]: Tim May, ''Stopping Crime' Necessarily Means Invasiveness', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, October 17, 1996, [online](https://cypherpunks.venona.com/date/1996/10/msg01269.html)
 
-[^165]: Tim May, 'Untraceable Payments, Extortion, and Other Bad Things', originally sent to the Cypherpunks mailing list, December 21, 1996, accessed via: [https://cypherpunks.venona.com/date/1996/12/msg01468.html.]
+[^165]: Tim May, 'Untraceable Payments, Extortion, and Other Bad Things', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, December 21, 1996, [online](https://cypherpunks.venona.com/date/1996/12/msg01468.html)
 
 [^166]: Tim May, ''Stopping Crime'.'
 
-[^167]: Douglas Barnes, 'Re: cypherpunks digicash bank?', originally sent to the Cypherpunks mailing list, October 8, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00731.html.]
+[^167]: Douglas Barnes, 'Re: cypherpunks digicash bank?', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, October 8, 1995, [online](https://cypherpunks.venona.com/date/1995/10/msg00731.html)
 
-[^168]: Tim May, 'Software Patents are Freezing Evolution of Products', originally sent to the Cypherpunks mailing list, October 7, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00685.html.]
+[^168]: Tim May, 'Software Patents are Freezing Evolution of Products', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, October 7, 1995, [online](https://cypherpunks.venona.com/date/1995/10/msg00685.html)
 
 [^169]: Eduard de Jong, 'Electronic Money: From Cryptography and Smart Cards to Bitcoin and Beyond', Fraunhofer SmartCard Workshop 2017 .
 
-[^170]: Laurie Law, Susan Sabett, and Jerry Solinas, 'How To Make a Mint: The Cryptography of Anonymous Electronic Cash', National Security Agency Office of Information Security Research and Technology, Cryptology Division, June 18, 1996,              [https://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm.]
+[^170]: Laurie Law, Susan Sabett, and Jerry Solinas, 'How To Make a Mint: The Cryptography of Anonymous Electronic Cash', National Security Agency Office of Information Security Research and Technology, Cryptology Division, June 18, 1996, [online](https://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm)
 
-[^171]: Hadon Nash, 'Digital Gold', originally sent to the Cypherpunks mailing list, August 24, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00698.html.]
+[^171]: Hadon Nash, 'Digital Gold', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, August 24, 1993, [online](https://cypherpunks.venona.com/date/1993/08/msg00698.html)
 
-[^172]: Hal Finney, 'Digital Gold, a bearer instrument?', originally sent to the Cypherpunks mailing list, August 26, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00788.html.]
+[^172]: Hal Finney, 'Digital Gold, a bearer instrument?', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, August 26, 1993, [online](https://cypherpunks.venona.com/date/1993/08/msg00788.html)
 
-[^173]: Black Unicorn, 'DigiCash Announcement', originally sent to the Cypherpunks mailing list, May 10, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/05/msg00616.html.]
+[^173]: Black Unicorn, 'DigiCash Announcement', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, May 10, 1994, [online](https://cypherpunks.venona.com/date/1994/05/msg00616.html)
 
-[^174]: Pr0duct Cypher, 'Magic Money Digicash System', originally sent to the Cypherpunks mailing list, February 4, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/02/msg00247.html.]
+[^174]: Pr0duct Cypher, 'Magic Money Digicash System', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, February 4, 1994, [online](https://cypherpunks.venona.com/date/1994/02/msg00247.html)
 
-[^175]: Perry E. Metzger, 'Re: Virtual Cash', originally sent to the Cypherpunks mailing list, May 3, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/05/msg00131.html.]
+[^175]: Perry E. Metzger, 'Re: Virtual Cash', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, May 3, 1994, [online](https://cypherpunks.venona.com/date/1994/05/msg00131.html)
 
-[^176]: Robert Hettinga, 'Re: digital cc transactions, digital checks vs real digital cash', originally sent to the Cypherpunks mailing list, May 3, 1997, accessed via: <https://cypherpunks.venona.com/date/1997/05/msg00147.html>
+[^176]: Robert Hettinga, 'Re: digital cc transactions, digital checks vs real digital cash', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, May 3, 1997, [online](https://cypherpunks.venona.com/date/1997/05/msg00147.html)
 
-[^177]: Robert Hettinga, 'Re: Bypassing the Digicash Patents', originally sent to the Cypherpunks mailing list, April 29, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/04/msg00811.html.]
+[^177]: Robert Hettinga, 'Re: Bypassing the Digicash Patents', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, April 29, 1997, [online](https://cypherpunks.venona.com/date/1997/04/msg00811.html)
 
-[^178]: Tim May, 'Re: alternative b-money creation', originally sent to the Cypherpunks mailing list, December 11, 1998, accessed via: [https://cypherpunks.venona.com/date/1998/12/msg00455.html.]
+[^178]: Tim May, 'Re: alternative b-money creation', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, December 11, 1998, [online](https://cypherpunks.venona.com/date/1998/12/msg00455.html)
 
-[^179]: Tim May, 'What backs up digital money?', originally sent to the Cypherpunks mailing list, March 27, 1996, accessed via: [https://cypherpunks.venona.com/date/1996/03/msg01576.html.]
+[^179]: Tim May, 'What backs up digital money?', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, March 27, 1996, [online](https://cypherpunks.venona.com/date/1996/03/msg01576.html)
 
-[^180]: Adam Back, 'Re: Bypassing the Digicash Patents', originally sent to the Cypherpunks mailing list, April 30, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/04/msg00822.html.]
+[^180]: Adam Back, 'Re: Bypassing the Digicash Patents', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, April 30, 1997, [online](https://cypherpunks.venona.com/date/1997/04/msg00822.html)
 
-[^181]: Adam Back, 'digital cc transactions, digital checks vs real digital cash', originally sent to the Cypherpunks mailing list, May 2, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/05/msg00104.html.]
+[^181]: Adam Back, 'digital cc transactions, digital checks vs real digital cash', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, May 2, 1997, [online](https://cypherpunks.venona.com/date/1997/05/msg00104.html)
 
 [^182]: Adam Back, 'Re: Bypassing.'

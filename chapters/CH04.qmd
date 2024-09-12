@@ -1,8 +1,6 @@
 # Cryptografie
 
-[^73]
-
-Whitfield Diffie had altijd al een voorliefde voor codes. Al sinds zijn docent in het vijfde leerjaar hem de substitutiecipher leerde (een basistechniek in de wiskundige tak van cryptografie), was hij gefascineerd door deze methode van geheimhouding. Het feit dat tekstversleutelingsalgoritmen in die tijd -- de jaren vijftig -- de specialiteit waren van het leger, geheime agenten en spionnen, droeg alleen maar bij tot de mysterieuze aantrekkingskracht.
+Whitfield Diffie had altijd al een voorliefde voor codes. Al sinds zijn docent in het vijfde leerjaar hem de substitutiecipher leerde (een basistechniek in de wiskundige tak van cryptografie), was hij gefascineerd door deze methode van geheimhouding. Het feit dat tekstversleutelingsalgoritmen in die tijd -- de jaren vijftig -- de specialiteit waren van het leger, geheime agenten en spionnen, droeg alleen maar bij tot de mysterieuze aantrekkingskracht.[^73]
 
 De jonge Whitfield was al snel in de ban van elk cryptografieboek dat zijn vader, een universiteitsprofessor, kon vinden in de bibliotheek van het City College in New York. Hij stortte zich op standaardwerken zoals het boek *Cryptoanalysis* uit 1939 van Helen Forché Gaines, dat diverse methoden beschreef om berichten om te zetten in onleesbare versleutelde tekst, bij voorkeur zo dat alleen de beoogde ontvanger ze kon ontcijferen.
 
@@ -256,6 +254,6 @@ En zijn bijdragen aan het veld van cryptografie zouden daar niet ophouden...
 
 [^76]: ​Whitfield Diffie and Martin E. Hellman, 'New Directions in Cryptography', IEEE Transactions On Information Theory, vol. IT-22, no. 6: 644.
 
-[^77]: Steven Levy, 'E-Money ', Wired, December 1, 1994, [https://www.wired.com/1994/12/emoney/.]
+[^77]: Steven Levy, 'E-Money ', Wired, 1 december 1994, [online](https://www.wired.com/1994/12/emoney/.)
 
 [^78]: David Chaum, 'Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms', Communications of the ACM 24, 2: 84--90.

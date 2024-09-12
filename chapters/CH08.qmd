@@ -260,36 +260,36 @@ Bovendien zouden de exportverboden tegen het einde van dat jaar volledig worden 
 
 De Cypherpunks hadden dit niet alleen gedaan: de beweging om cryptografie tijdens de crypto-oorlogen te verdedigen was breder dan enkel zij. Maar, zij hadden onmiskenbaar een belangrijke rol gespeeld. Het losse collectief van hackers en cryptografen, verenigd door weinig meer dan een mailinglijst op het internet, was de strijd aangegaan met de Amerikaanse overheid, en had gewonnen.
 
-[^142]: Tim May, 'Untraceable Digital Cash, Information Markets, and BlackNet ', The Computers Freedom & Privacy Conference , accessed via [https://web.archive.org/web/20130501134401/https://osaka.law.miami.edu/...oomkin/articles/tcmay.htm.]
+[^142]: Tim May, 'Untraceable Digital Cash, Information Markets, and BlackNet ', The Computers Freedom & Privacy Conference , geraadpleegd [online](https://web.archive.org/web/20130501134401/https://osaka.law.miami.edu//~froomkin/articles/tcmay.htm)
 
-[^143]: Tim May, 'The Cyphernomicon', originally distributed through the Cypherpunks mailing list, September 10, 1994, available via [https://nakamotoinstitute.org/static/docs/cyphernomicon.txt.]
+[^143]: Tim May, 'The Cyphernomicon', oorspronkelijk verspreid via de Cypherpunk-mailinglijst, 10 september 1994, beschikbaar [online](https://cdn.nakamotoinstitute.org/docs/cyphernomicon.txt)
 
-[^144]: Hal Finney, 'Chaum on the wrong foot?' originally sent to the Cypherpunks mailing list, August 22, 1993 available via [https://cypherpunks.venona.com/date/1993/08/msg00652.html.]
+[^144]: Hal Finney, 'Chaum on the wrong foot?' oorspronkelijk via de Cypherpunk-mailinglijst, 22 augustus 1993, beschikbaar [online](https://cypherpunks.venona.com/date/1993/08/msg00652.html)
 
-[^145]: Eric Hughes, 'A Cypherpunk's Manifesto', originally sent to the Cypherpunks mailing list, March 17, 1993, available via [https://cypherpunks.venona.com/date/1993/03/msg00392.html.]
+[^145]: Eric Hughes, 'A Cypherpunk's Manifesto', oorspronkelijk via de Cypherpunk-mailinglijst, 17 maart 1993, beschikbaar [online](https://cypherpunks.venona.com/date/1993/03/msg00392.html)
 
-[^146]: Tim May, 'Degrees of Freedom', originally sent to the Cypherpunks mailing list, February 8, 1996, available via [https://cypherpunks.venona.com/date/1996/02/msg00637.html.]
+[^146]: Tim May, 'Degrees of Freedom', oorspronkelijk via de Cypherpunk-mailinglijst, 8 februari 1996, beschikbaar [online](https://cypherpunks.venona.com/date/1996/02/msg00637.html)
 
-[^147]: Tim May, ''Who shall speak for us?'', originally sent to the Cypherpunks mailing list, Available via [https://cypherpunks.venona.com/date/1995/09/msg02189.html.]
+[^147]: Tim May, 'Who shall speak for us?', oorspronkelijk via de Cypherpunk-mailinglijst, beschikbaar [online](https://cypherpunks.venona.com/date/1995/09/msg02189.html)
 
-[^148]: The title and text was a bit of a parody of Karl Marx's and Friedrich Engels's Communist Manifesto, while the term crypto-anarchy is something of a pun referring to crypto-fascism, the secret support for fascism.
+[^148]: De titel en tekst waren een soort parodie op het Communistisch Manifest van Karl Marx en Friedrich Engels, terwijl de term crypto-anarchie een soort woordspeling is die verwijst naar crypto-fascisme, de geheime steun voor fascisme.
 
-[^149]: Tim May, 'The Crypto Anarchist Manifesto', originally sent to the Cypherpunks mailing list, November 22, 1992, available via [https://cypherpunks.venona.com/date/1992/11/msg00204.html.]
+[^149]: Tim May, 'The Crypto Anarchist Manifesto', oorspronkelijk via de Cypherpunk-mailinglijst, 22 november 1992, beschikbaar [online](https://cypherpunks.venona.com/date/1992/11/msg00204.html)
 
-[^150]: Tim May, 'Libertaria in Cyberspace', originally sent to the Cypherpunks mailing list, August 9, 1993, accessed via [https://cypherpunks.venona.com/date/1993/08/msg00168.html.]
+[^150]: Tim May, 'Libertaria in Cyberspace', oorspronkelijk via de Cypherpunk-mailinglijst, 9 augustus 1993, [online](https://cypherpunks.venona.com/date/1993/08/msg00168.html)
 
-[^151]: Tim May, 'Cyberspace, Crypto Anarchy, and Pushing Limits', originally sent to the Cypherpunks mailing list, April 3, 1994, accessed via [https://cypherpunks.venona.com/date/1994/04/msg00096.html.]
+[^151]: Tim May, 'Cyberspace, Crypto Anarchy, and Pushing Limits', oorspronkelijk via de Cypherpunk-mailinglijst, 3 april 1994, [online](https://cypherpunks.venona.com/date/1994/04/msg00096.html)
 
-[^152]: Tim May, 'Hayek ', originally sent to the Cypherpunks mailing list, August 27, 1996, Accessed via [http://cypherpunks.venona.com/date/1996/08/msg02102.html.] As a funny aside, Tim May concluded a different email with a compliment to one of his fellow Cypherpunks: 'I just want to end on a positive note before leaving for the holidays .' See: Tim May, 'Re: The War on Some Money long', originally sent to the Cypherpunks mailing list, December 21, 1995, accessed via [https://cypherpunks.venona.com/date/1995/12/msg01044.html.]
+[^152]: Tim May, 'Hayek ', oorspronkelijk via de Cypherpunk-mailinglijst, 27 augustus 1996, [online](https://cypherpunks.venona.com/date/1996/08/msg02102.html) Als een grappige noot sloot Tim May een andere e-mail af met een compliment aan een van zijn mede-Cypherpunks: 'Ik wil gewoon eindigen op een positieve noot voordat ik vertrek voor de feestdagen.' Zie: Tim May, 'Re: The War on Some Money [long]', oorspronkelijk via de Cypherpunk-mailinglijst, 21 december 1995, [online](https://cypherpunks.venona.com/date/1995/12/msg01044.html)
 
-[^153]: Tim May, ''Stopping Crime' Necessarily Means Invasiveness', originally sent to the Cypherpunks mailing list, October 17, 1996, accessed via: [https://cypherpunks.venona.com/date/1996/10/msg01269.html.]
+[^153]: Tim May, ''Stopping Crime' Necessarily Means Invasiveness', oorspronkelijk via de Cypherpunk-mailinglijst, 17 oktober 1996, [online](https://cypherpunks.venona.com/date/1996/10/msg01269.html)
 
-[^154]: Eric Hughes, 'No digital coins ', originally sent to the Cypherpunks mailing list, August 24, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00690.html.]
+[^154]: Eric Hughes, 'No digital coins ', oorspronkelijk via de Cypherpunk-mailinglijst, 24 augustus 1993, [online](https://cypherpunks.venona.com/date/1993/08/msg00690.html)
 
-[^155]: Tim May, 'Crypto Activism and Respectability', originally sent to the Cypherpunks mailing list, April 21, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/04/msg00400.html.]
+[^155]: Tim May, 'Crypto Activism and Respectability', oorspronkelijk via de Cypherpunk-mailinglijst, 21 april 1993, [online](https://cypherpunks.venona.com/date/1993/04/msg00400.html)
 
-[^156]: Tim May, 'Opportunities in Cyberspace', originally sent to the Cypherpunks mailing list, September 8, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/09/msg00140.html.]
+[^156]: Tim May, 'Opportunities in Cyberspace', oorspronkelijk via de Cypherpunk-mailinglijst, 8 september 1993, [online](https://cypherpunks.venona.com/date/1993/09/msg00140.html)
 
-[^157]: Michelle Quinn, 'The Cypherpunks Who Cracked Netscape', San Francisco Chronicle, September 20, 1995, [https://people.eecs.berkeley.edu/...w/press/iang/ian1.html.]
+[^157]: Michelle Quinn, 'The Cypherpunks Who Cracked Netscape', San Francisco Chronicle, 20 september 1995, [online](https://people.eecs.berkeley.edu//~daw/press/iang/ian1.html)
 
-[^158]: Tim May, 'Re: Stalling the crypto legislation for 2-3 more years', originally sent to the Cypherpunks mailing list, July 23, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/07/msg01245.html.]
+[^158]: Tim May, 'Re: Stalling the crypto legislation for 2-3 more years', oorspronkelijk via de Cypherpunk-mailinglijst, 23 juli 1994, [online](https://cypherpunks.venona.com/date/1994/07/msg01245.html)

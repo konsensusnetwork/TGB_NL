@@ -12,7 +12,7 @@ De toen vierentachtigjarige econoom koesterde nog steeds de hoop dat geld gerepa
 
 In plaats van te proberen overheden te overtuigen hun feitelijke monopolie op geld op te geven, zouden mensen *op een of andere sluwe, indirecte manier iets moeten introduceren dat ze niet kunnen stoppen*.
 
-Toen Satoshi Nakamoto bijna vijfentwintig jaar later, op 8 januari 2009, terugkeerde naar de Cryptography-mailinglijst om een volledig vertrouwenloos en volledig peer-to-peer elektronisch geldsysteem te starten, deed hij exact wat Hayek suggereerde. Hij maakte gebruik van tientallen jaren onderzoek in privacytechnologie, de architectuur van gedecentraliseerde netwerken en digitale valutasystemen.
+Toen Satoshi Nakamoto bijna vijfentwintig jaar later, op 8 januari 2009, terugkeerde naar de Cryptography-mailinglijst om een volledig vertrouwensloos en volledig peer-to-peer elektronisch geldsysteem te starten, deed hij exact wat Hayek suggereerde. Hij maakte gebruik van tientallen jaren onderzoek in privacytechnologie, de architectuur van gedecentraliseerde netwerken en digitale valutasystemen.
 
 Satoshi Nakamoto introduceerde iets wat regeringen niet kunnen stoppen.
 
@@ -32,7 +32,7 @@ De release van de software onthulde ook belangrijke nieuwe informatie over het p
 
 Wat meteen opviel --- hoewel het geen grote verrassing was --- was dat Satoshi Nakamoto Bitcoin had vrijgegeven als gratis en open source-software. Iedereen was vrij om de code te kopiëren, te gebruiken, te delen en te wijzigen. Gepubliceerd onder de MIT-licentie, konden zelfs commerciële projecten Nakamotos werk integreren. (Dit maakt de MIT-licentie beter toegankelijk dan Richard Stallmans GPL-licentie, die deze vrijheid enkel toekent aan andere gratis softwareprojecten.)
 
-Het was essentieel dat Bitcoin een gratis en open source-software was, omdat de code noodzakelijkerwijs controleerbaar moest zijn: om het systeem echt vertrouwenloos te laten functioneren, zouden gebruikers moeten kunnen verifiëren dat het werkt zoals beloofd. Dit was wellicht nog crucialer voor Bitcoin dan voor vele andere softwareprojecten, aangezien de code letterlijk geld vertegenwoordigde. Passend bij de filosofie van Stallman voor gratis software, zouden mensen Satoshi Nakamoto niet hoeven te vertrouwen op het niet inbouwen van malware om munten te stelen of een geheime achterdeur voor het bijdrukken van geld.
+Het was essentieel dat Bitcoin een gratis en open source-software was, omdat de code noodzakelijkerwijs controleerbaar moest zijn: om het systeem echt vertrouwensloos te laten functioneren, zouden gebruikers moeten kunnen verifiëren dat het werkt zoals beloofd. Dit was wellicht nog crucialer voor Bitcoin dan voor vele andere softwareprojecten, aangezien de code letterlijk geld vertegenwoordigde. Passend bij de filosofie van Stallman voor gratis software, zouden mensen Satoshi Nakamoto niet hoeven te vertrouwen op het niet inbouwen van malware om munten te stelen of een geheime achterdeur voor het bijdrukken van geld.
 
 Meer in het algemeen maakte Nakamotos gratis en open source-code, geschreven in de programmeertaal C++ en jaren later door de eerste fulltime Bitcoinontwikkelaar beschreven als 'briljant maar slordig'[^290], voor het eerst volledig inzichtelijk hoe het elektronische grootboeksysteem intern werkte.
 

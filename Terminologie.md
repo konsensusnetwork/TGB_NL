@@ -124,6 +124,7 @@ time-stamping service = tijdstempeldienst
 time-stamping solution = tijdstempeloplossing
 time-stamping system = tijdregistratiesysteem
 trust-free system = systeem zonder vertrouwen
+trustless = vertrouwensloos
 trusted computing = betrouwbaar rekenen
 unbacked = ongedekte
 unique string of data = unieke gegevensreeks

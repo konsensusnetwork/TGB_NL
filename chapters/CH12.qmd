@@ -211,44 +211,44 @@ Misschien had deze kennis de doorgewinterde Cypherpunks aan het einde van de jar
 Waar Wei Dai, Eric Hughes, en andere Cypherpunks dachten dat elektronisch geld en andere crypto-tools alleen succesvol zouden zijn als het publieke bewustzijn over het belang van online privacy toenam, zou BitTorrent jaren later aantonen dat het ook andersom kon werken: een krachtige genoeg technologie kon, op zichzelf, helpen de heersende cultuur te veranderen.
 
 
-[^221]: Wei Dai, 'Work on Security Instead of Friendliness?' GreaterWrong, July 21, 2012, [https://www.greaterwrong.com/posts/m8FjhuELdg7iv6boW/work-on-security-instead-of-friendliness.]
+[^221]: Wei Dai, 'Work on Security Instead of Friendliness?' *GreaterWrong*, 21 juli 2012, [online](https://www.greaterwrong.com/posts/m8FjhuELdg7iv6boW/work-on-security-instead-of-friendliness)
 
-[^222]: Wei Dai, 'Law vs Technology', originally sent to the Cypherpunks mailing list, February 10, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/02/msg00508.html.]
+[^222]: Wei Dai, 'Law vs Technology', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 10 februari 1995, [online](https://cypherpunks.venona.com/date/1995/02/msg00508.html)
 
-[^223]: Wei Dai, 'PipeNet 1.1 and b-money', originally sent to the Cypherpunks mailing list, November 26, 1998, accessed via: [https://cypherpunks.venona.com/date/1998/11/msg00941.html.]
+[^223]: Wei Dai, 'PipeNet 1.1 and b-money', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 26 november 1998, [online](https://cypherpunks.venona.com/date/1998/11/msg00941.html)
 
-[^224]: Wei Dai, untitled b-money description, 1998, accessed via [https://web.archive.org/web/20090415130807/https://www.weidai.com/bmoney.txt.]
+[^224]: Wei Dai, untitled b-money description, 1998, [online](https://web.archive.org/web/20090415130807/https://www.weidai.com/bmoney.txt)
 
 [^225]: Dai, untitled b-money description.
 
-[^226]: Wei Dai, 'Re: alternative b-money creation', originally sent to the Cypherpunks mailing list, December 11, 1998, accessed via: [https://cypherpunks.venona.com/date/1998/12/msg00448.html.]
+[^226]: Wei Dai, 'Re: alternative b-money creation', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 11 december 1998, [online](https://cypherpunks.venona.com/date/1998/12/msg00448.html)
 
-[^227]: Wei Dai, comment in the discussion thread 'AALWA: Ask any LessWronger anything', LessWrong, 2014, [https://www.lesswrong.com/posts/YdfpDyRpNyypivgdu/aalwa-ask-any-lesswronger-anything.]
+[^227]: Wei Dai, comment in the discussion thread 'AALWA: Ask any LessWronger anything', *LessWrong*, 2014, [online](https://www.lesswrong.com/posts/YdfpDyRpNyypivgdu/aalwa-ask-any-lesswronger-anything)
 
 [^228]: Dai, comment.
 
-[^229]: Eric Hughes, 'Kid Gloves or Megaphones', originally sent to the Cypherpunks mailing list, March 14, 1996, accessed via: [https://cypherpunks.venona.com/date/1996/03/msg00932.html.]
+[^229]: Eric Hughes, 'Kid Gloves or Megaphones', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 14 maart 1996, [online](https://cypherpunks.venona.com/date/1996/03/msg00932.html)
 
 [^230]: Hughes, 'Kid Gloves.'
 
-[^231]: Austin Hill, draft document from 2005 shared with author, March 30, 2022.
+[^231]: Austin Hill, ontwerpdocument van 2005 gedeeld met de auteur, 30 maart 2022.
 
-[^232]: Ori Brafman and Rod A. Beckstrom, The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations , 22--27.
+[^232]: Ori Brafman and Rod A. Beckstrom, 'The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations', 22--27.
 
-[^233]: Damien Cave, 'The Mojo solution', Salon, October 9, 2000, [https://www.salon.com/2000/10/09/mojo_nation/.]
+[^233]: Damien Cave, 'The Mojo solution', *Salon*, 9 oktober 2000, [online](https://www.salon.com/2000/10/09/mojo_nation/)
 
-[^234]: As a mildly interesting detail, most Mojo transactions were actually only recorded between two peers at first, each building up credit or debit with the other peer, to only settle the debt using an actual Mojo token when a certain threshold was met.
+[^234]: Als een interessant detail werden de meeste Mojo-transacties aanvankelijk alleen tussen twee peers geregistreerd, waarbij elke peer krediet of schuld opbouwde bij de ander. De schuld werd pas vereffend met een daadwerkelijke Mojo-token wanneer een bepaalde drempel werd bereikt.
 
 [^235]: Cave, 'The Mojo solution.'
 
-[^236]: Daniel A. Nagy, comments in response to 'The Mojo Nation Story---Part 2', Financial Cryptography, October 12, 2005, <https://www.financialcryptography.com/mt/archives/000572.html>
+[^236]: Daniel A. Nagy, opmerkingen als antwoord op 'The Mojo Nation Story --- Part 2', *Financial Cryptography*, 12 oktober 2005, [online](https://www.financialcryptography.com/mt/archives/000572.html)
 
-[^237]: Bryce Wilcox-O'Hearn, 'Experiences Deploying A Large-Scale Emergent Network', Peer-to-Peer Systems : 104--110.
+[^237]: Bryce Wilcox-O'Hearn, 'Experiences Deploying A Large-Scale Emergent Network', Peer-to-Peer Systems: 104--110.
 
-[^238]: Wilcox-O'Hearn, 'Large-Scale Emergent Network.'
+[^238]: Wilcox-O`Hearn, 'Large-Scale Emergent Network'.
 
-[^239]: Liang Wang, 'BitTorrent Mainline DHT Measurement', MLDHT, 2013, accessed via: [https://www.cl.cam.ac.uk/...525/MLDHT/.]
+[^239]: Liang Wang, 'BitTorrent Mainline DHT Measurement', *MLDHT*, 2013, [online](https://www.cl.cam.ac.uk//~lw525/MLDHT/)
 
-[^240]: BitTorrent, 'BitTorrent and µTorrent Software Surpass 150 Million User Milestone; Announce New Consumer Electronics Partnerships', BitTorrent.com, January 9, 2012, accessed via [https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users.]
+[^240]: BitTorrent, 'BitTorrent and µTorrent Software Surpass 150 Million User Milestone; Announce New Consumer Electronics Partnerships', BitTorrent.com, 9 januari 2012, [online](https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users)
 
-[^241]: Hendrik Schulze and Klaus Mochalski, 'Internet Study 2008/2009', ipoque .
+[^241]: Hendrik Schulze and Klaus Mochalski, 'Internet Study 2008/2009', ipoque.

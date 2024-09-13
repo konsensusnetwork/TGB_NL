@@ -258,47 +258,47 @@ Deze pakketten zouden uiteindelijk opgesplitst worden in een specifiek aantal ee
 
 Nick Szabo had gelijk, tenminste in theorie. Waar hashcash het concept van digitale schaarste had geïntroduceerd, liet het voorstel van Bit Gold zien hoe dit kan worden omgezet in overdraagbaar elektronisch geld.
 
-[^198]: Nick Szabo, 'Why Cryptocurrency? Governments Abuse Their Power---Nick Szabo Interview Part 1', interview by Zulu Republic, Zulu Republic, YouTube, October 25, 2018, [https://youtu.be/LZw4LNLYUgc?si=...lNeaFnWxpvv9U.]
+[^198]: Nick Szabo, 'Why Cryptocurrency? Governments Abuse Their Power --- Nick Szabo Interview Part 1', interview by Zulu Republic, Zulu Republic, YouTube, 25 oktober 2018, [online](https://www.youtube.com/watch?v=LZw4LNLYUgc)
 
-[^199]: Nick Szabo , 'Some of the most important books I've read', X, January 31, 2016, [https://twitter.com/NickSzabo4/status/693682157525401601.]
+[^199]: Nick Szabo , 'Some of the most important books I've read', *X*, 31 januari 2016, [online](https://x.com/NickSzabo4/status/693682157525401601)
 
-[^200]: Nick Szabo, 'Re: Crypto + Economics + AI = Digital Money Economies', originally sent to the Cypherpunks mailing list, September 19, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/09/msg01303.html.]
+[^200]: Nick Szabo, 'Re: Crypto + Economics + AI = Digital Money Economies', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 19 september 1995, [online](https://cypherpunks.venona.com/date/1995/09/msg01303.html)
 
-[^201]: Nick Szabo, 'Smart Contracts: Building Blocks for Digital Free Markets', Extropy 16 : 50--64.
+[^201]: Nick Szabo, 'Smart Contracts: Building Blocks for Digital Free Markets', *Extropy* 16 : 50--64.
 
 [^202]: Szabo, 'Smart Contracts', 51.
 
-[^203]: Nick Szabo, 'Re: Crypto + Economics + AI = Digital Money Economies', originally sent to the Cypherpunks mailing list, September 19, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/09/msg01303.html.]
+[^203]: Nick Szabo, 'Re: Crypto + Economics + AI = Digital Money Economies', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 19 september 1995, [online](https://cypherpunks.venona.com/date/1995/09/msg01303.html)
 
-[^204]: Nick Szabo, email to author, July 10, 2018.
+[^204]: Nick Szabo, e-mail aan auteur, 10 juli 2018.
 
-[^205]: Nick Szabo, 'Trusted Third Parties are Security Holes', Satoshi Nakamoto Institute , [https://nakamotoinstitute.org/trusted-third-parties/.]
+[^205]: Nick Szabo, 'Trusted Third Parties are Security Holes', *Satoshi Nakamoto Institute* , [online](https://nakamotoinstitute.org/library/trusted-third-parties/)
 
-[^206]: Nick Szabo, 'Nick Szabo on Cypherpunks, Money and Bitcoin', interview by Peter McCormack, What Bitcoin Did, November 1, 2019, [https://www.whatbitcoindid.com/podcast/nick-szabo-on-cypherpunks-money-and-bitcoin.]
+[^206]: Nick Szabo, 'Nick Szabo on Cypherpunks, Money and Bitcoin', interview door Peter McCormack, *What Bitcoin Did*, 1 november 2019, [online](https://www.whatbitcoindid.com/podcast/nick-szabo-on-cypherpunks-money-and-bitcoin)
 
-[^207]: Nick Szabo, 'Bit Gold', Unenumerated, December 27, 2008, [https://unenumerated.blogspot.com/2005/12/bit-gold.html.]
+[^207]: Nick Szabo, 'Bit Gold', *Unenumerated*, 27 december 2008, [online](https://unenumerated.blogspot.com/2005/12/bit-gold.html)
 
-[^208]: Richard Dawkins, The Selfish Gene , 244.
+[^208]: Richard Dawkins, 'The Selfish Gene', 244.
 
-[^209]: Nick Szabo, 'Shelling Out: The Origins of Money', Satoshi Nakamoto Institute , [https://nakamotoinstitute.org/shelling-out/.]
+[^209]: Nick Szabo, 'Shelling Out: The Origins of Money', *Satoshi Nakamoto Institute*, [online](https://nakamotoinstitute.org/library/shelling-out/)
 
-[^210]: It is worth noting however that this number---named after primatologist Robin Dunbar---has been criticized, and isn't, in the scientific community today, held with the specificity that it suggests. While there is a limit on the number of stable social relationships people can maintain, the actual number isn't necessarily 150 for everyone. See for instance Patrick Lindenfors, Andreas Wartel, and Johan Lind, ''Dunbar's Number' Deconstructed', Biology Letters, May 5, 2021: <https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158>
+[^210]: Het is echter belangrijk op te merken dat dit getal—vernoemd naar primatoloog Robin Dunbar—bekritiseerd is en tegenwoordig in de wetenschappelijke gemeenschap niet met de specifieke nauwkeurigheid wordt gehanteerd die het suggereert. Hoewel er een limiet is aan het aantal stabiele sociale relaties dat mensen kunnen onderhouden, is het werkelijke aantal niet per se 150 voor iedereen. Zie bijvoorbeeld Patrick Lindenfors, Andreas Wartel, and Johan Lind, ''Dunbar's Number' Deconstructed', Biology Letters, 5 mei 2021: [online](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158)
 
-[^211]: Strictly speaking a 'public goods game' is the more precise game theory analogy.
+[^211]: Strikt genomen is een 'public goods game' de meer precieze speltheoretische analogie.
 
 [^212]: Szabo, 'Bit Gold.'
 
-[^213]: In Szabo's original proposal, Bit Gold would actually use a 'secure benchmark function', which is slightly different from a hash function, but similar enough that referring to the product as a 'hash' and the act of producing it as 'hashing' is accurate enough for the purpose of understanding Bit Gold's mechanics .
+[^213]: In Szabo's oorspronkelijke voorstel zou Bit Gold eigenlijk gebruikmaken van een 'secure benchmark function', wat iets anders is dan een hashfunctie, maar vergelijkbaar genoeg dat het product een 'hash' noemen en het proces 'hashen' noemen voldoende nauwkeurig is om de werking van Bit Gold te begrijpen.
 
-[^214]: Nick Szabo, 'Secure Property Titles with Owner Authority', Satoshi Nakamoto Institute , [https://nakamotoinstitute.org/secure-property-titles/.]
+[^214]: Nick Szabo, 'Secure Property Titles with Owner Authority', *Satoshi Nakamoto Institute*, [online](https://nakamotoinstitute.org/library/secure-property-titles/)
 
-[^215]: Nick Szabo, 'Nick Szabo --- The Quiet Master of Cryptocurrency ... Hosted by Naval Ravikant' interview by Tim Ferriss, The Tim Ferriss Show, YouTube, August 12, 2017, <https://youtu.be/3FA3UjA0igY>
+[^215]: Nick Szabo, 'Nick Szabo --- The Quiet Master of Cryptocurrency ... Gehost door Naval Ravikant' interview door Tim Ferriss, *The Tim Ferriss Show*, YouTube, 12 augustus 2017, [online](https://www.youtube.com/watch?v=3FA3UjA0igY)
 
 [^216]: Szabo, 'Secure Property Titles.'
 
-[^217]: Nick Szabo, 'Bit Gold: Towards Trust-Independent Digital Money' , accessed via [https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html.]
+[^217]: Nick Szabo, 'Bit Gold: Towards Trust-Independent Digital Money', [online](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html)
 
-[^218]: Nick Szabo, 'Bit Gold Markets', Unenumerated, December 27, 2008, [https://unenumerated.blogspot.com/2008/04/bit-gold-markets.html.]
+[^218]: Nick Szabo, 'Bit Gold Markets', *Unenumerated*, 27 december 2008, [online](https://unenumerated.blogspot.com/2008/04/bit-gold-markets.html)
 
 [^219]: Szabo, 'Bit Gold Markets.'
 

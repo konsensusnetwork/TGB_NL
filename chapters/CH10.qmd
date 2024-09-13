@@ -194,38 +194,37 @@ Bovendien zouden gebruikers de bank moeten vertrouwen dat deze geen geld uit het
 
 Back geloofde, echter, dat vrije marktcompetitie mogelijk kon helpen dit probleem op te lossen.
 
-'Wellicht zou je dus meerdere banken kunnen hebben en reputatie het werk laten doen, als je de protocollen zo kunt regelen dat het duidelijk zou zijn of een bank meer geld aan het drukken was dan het aan hash-botsingen had ontvangen. [. . .] Maar als je meerdere banken hebt dan moet je een uitwisselingsmechanisme hebben. De markt zou hier waarschijnlijk zorg voor kunnen dragen, door wisselkoersen te bepalen op basis van de reputaties van banken', suggereerde hij, in wat nu heel erg leek op een vrijbankiersysteem zoals beschreven door Friedrich Hayek.
+'Wellicht zou je dus meerdere banken kunnen hebben en reputatie het werk laten doen, als je de protocollen zo kunt regelen dat het duidelijk zou zijn of een bank meer geld aan het drukken was dan het aan hash-botsingen had ontvangen. [...] Maar als je meerdere banken hebt dan moet je een uitwisselingsmechanisme hebben. De markt zou hier waarschijnlijk zorg voor kunnen dragen, door wisselkoersen te bepalen op basis van de reputaties van banken', suggereerde hij, in wat nu heel erg leek op een vrijbankiersysteem zoals beschreven door Friedrich Hayek.
 
 Desalniettemin geloofde de jonge Cypherpunk uit Exeter dat ze het misschien zelfs nog beter konden doen dan dat:
 
 'Het zou beter zijn om iets te hebben dat geen vertrouwen vereist en dat geen mogelijkheid heeft voor bedrog, in plaats van te vertrouwen op reputatie om ze te sorteren.'[^197]
 
+[^183]: Leslie Lamport, Robert Shostak, and Marshall Pease, 'The Byzantine Generals Problem', ACM Transactions on Programming Languages and Systems: 382--401.
 
-[^183]: Leslie Lamport, Robert Shostak, and Marshall Pease, 'The Byzantine Generals Problem', ACM Transactions on Programming Languages and Systems : 382--401.
+[^184]: Adam Back, 'Re: 'why privacy' revisited', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 22 maart 1997, [online](https://cypherpunks.venona.com/date/1997/03/msg00586.html)
 
-[^184]: Adam Back, 'Re: 'why privacy' revisited', originally sent to the Cypherpunks mailing list, March 22, 1997, available via: [https://cypherpunks.venona.com/date/1997/03/msg00586.html.]
+[^185]: Adam Back, 'The Bitcoin Game #59: Dr. Adam Back', interview door Rob Mitchell, The Bitcoin Game, YouTube, 25 oktober 2018, [online](https://www.youtube.com/watch?v=xxYsRjanphA&t=647s) 10:47--11:19.
 
-[^185]: Adam Back, 'The Bitcoin Game #59: Dr. Adam Back', interview by Rob Mitchell, The Bitcoin Game, YouTube, October 25, 2018, <https://youtu.be/xxYsRjanphA?si=XVdLXPWGUk6oVPXg&t=647> 10:47--11:19.
+[^186]: Adam Back, 'Re: cypherpunks digicash bank?', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 8 oktober 1995, [online](https://cypherpunks.venona.com/date/1995/10/msg00734.html)
 
-[^186]: Adam Back, 'Re: cypherpunks digicash bank?', originally sent to the Cypherpunks mailing list, October 8, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00734.html.]
-
-[^187]: Adam Back, 'cypherpunks digicash bank?', originally sent to the Cypherpunks mailing list, October 7, 1995, accessed via: [https://cypherpunks.venona.com/date/1995/10/msg00690.html.]
+[^187]: Adam Back, 'cypherpunks digicash bank?', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 7 oktober 1995, [online](https://cypherpunks.venona.com/date/1995/10/msg00690.html)
 
 [^188]: Barnes, 'cypherpunks digicash.'
 
-[^189]: Adam Back, 'distributed virtual bank', originally sent to the Cypherpunks mailing list, August 27, 1997, accessed via: <https://cypherpunks.venona.com/date/1997/08/msg01289.html>.
+[^189]: Adam Back, 'distributed virtual bank', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 27 augustus 1997, [online](https://cypherpunks.venona.com/date/1997/08/msg01289.html)
 
-[^190]: Tim May, 'Re: More on digital postage', originally sent to the Cypherpunks mailing list, February 15, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/02/msg02295.html.]
+[^190]: Tim May, 'Re: More on digital postage', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 15 februari 1997, [online](https://cypherpunks.venona.com/date/1997/02/msg02295.h)
 
-[^191]: Adam Back, 'Re: bulk postage fine ', originally sent to the Cypherpunks mailing list, August 3, 1997 accessed via: [https://cypherpunks.venona.com/date/1997/08/msg00070.html.]
+[^191]: Adam Back, 'Re: bulk postage fine ', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 3 augustus 1997, [online](https://cypherpunks.venona.com/date/1997/08/msg00070.html)
 
-[^192]: Adam Back, 'no government regulation of the net ', originally sent to the Cypherpunks mailing list, August 3, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/08/msg00087.html.]
+[^192]: Adam Back, 'no government regulation of the net ', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 3 augustus 1997, [online](https://cypherpunks.venona.com/date/1997/08/msg00087.html)
 
-[^193]: Cynthia Dwork and Moni Naor, 'Pricing via Processing or Combatting Junk Mail', Advances in Cryptology---Crypto '92 : 139--147.
+[^193]: Cynthia Dwork and Moni Naor, 'Pricing via Processing or Combatting Junk Mail', Advances in Cryptology --- *Crypto* '92: 139--147.
 
-[^194]: Adam Back, 'ANNOUNCE hash cash postage implementation', originally sent to the Cypherpunks mailing list, March 28, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/03/msg00774.html.]
+[^194]: Adam Back, 'ANNOUNCE hash cash postage implementation', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 28 maart 1997, [online](https://cypherpunks.venona.com/date/1997/03/msg00774.html)
 
-[^195]: Adam Back, 'Re: Remailer problem solution?' March 23, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/03/msg00631.html.]
+[^195]: Adam Back, 'Re: Remailer problem solution?' 23 maart 1997, [online](https://cypherpunks.venona.com/date/1997/03/msg00631.html)
 
 [^196]: Back, 'Re: Bypassing.'
 

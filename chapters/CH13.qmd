@@ -172,31 +172,30 @@ Na meer dan twintig jaar van niet-gerealiseerde voorstellen, verlaten projecten 
 
 Intussen werd de noodzaak om een alternatief voor fiatgeld te vinden steeds groter...
 
+[^242]: Tim May, 'My Departure, Moderation, and 'Ownership of the List', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 2 februari 1997, [online](https://cypherpunks.venona.com/date/1997/02/msg02898.html)
 
-[^242]: Tim May, 'My Departure, Moderation, and 'Ownership of the List', originally sent to the Cypherpunks mailing list, February 2, 1997, accessed via: [https://cypherpunks.venona.com/date/1997/02/msg02898.html]
+[^243]: ​Mark Frauenfelder, 'Homeless Cypherpunks Turn to Usenet', *Wired*, 17 februari 1997, [online](https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/)
 
-[^243]: ​Mark Frauenfelder, 'Homeless Cypherpunks Turn to Usenet', Wired, February 17, 1997, [https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/.]
+[^244]: Declan McCullagh, 'Digging Those Digicash Blues', *Wired*, 14 juni 2001, [online](https://www.wired.com/2001/06/digging-those-digicash-blues/)
 
-[^244]: Declan McCullagh, 'Digging Those Digicash Blues', Wired, June 14, 2001, [https://www.wired.com/2001/06/digging-those-digicash-blues/.]
+[^245]: Nicole Weinstock, 'Member Profile: Hal Finney', *Cryonics 40*, issue 2: 9.
 
-[^245]: Nicole Weinstock, 'Member Profile: Hal Finney', Cryonics 40, issue 2 : 9.
+[^246]: Hal Finney, 'Re: Physical to digital cash, and back again', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, August 19, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00581.html]
 
-[^246]: Hal Finney, 'Re: Physical to digital cash, and back again', originally sent to the Cypherpunks mailing list, August 19, 1993, accessed via: [https://cypherpunks.venona.com/date/1993/08/msg00581.html]
+[^247]: Hal Finney, 'Why remailers...', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 15 november 1992, [online](https://cypherpunks.venona.com/date/1993/08/msg00581.html)
 
-[^247]: Hal Finney, 'Why remailers...', originally sent to the Cypherpunks mailing list, November 15, 1992, accessed via: [https://cypherpunks.venona.com/date/1992/11/msg00108.html.]
+[^248]: Hal Finney, 'Re: Voluntary Governments?' oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 4 augustus 1994, [online](https://cypherpunks.venona.com/date/1994/08/msg00239.html)
 
-[^248]: Hal Finney, 'Re: Voluntary Governments?' originally sent to the Cypherpunks mailing list, August 4, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/08/msg00239.html.]
+[^249]: Hal Finney, 'POLI: Politics vs Technology', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 2 januari 1994, [online](https://cypherpunks.venona.com/date/1994/01/msg00014.html)
 
-[^249]: Hal Finney, 'POLI: Politics vs Technology', originally sent to the Cypherpunks mailing list, January 2, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/01/msg00014.html.]
-
-[^250]: Hal Finney, 'Re: Re: re: re: digital cash', originally sent to the Cypherpunks mailing list, March 16, 1994, accessed via: [https://cypherpunks.venona.com/date/1994/03/msg00694.html.]
+[^250]: Hal Finney, 'Re: Re: re: re: digital cash', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 16 maart 1994, [online](https://cypherpunks.venona.com/date/1994/03/msg00694.html)
 
 [^251]: Finney, 'Re: Re: re: re: digital cash.'
 
-[^252]: Hal Finney, 'Reusable Proofs of Work', RPOW website index page, accessed via: [https://web.archive.org/web/20090217090451/http://rpow.net/index.html.]
+[^252]: Hal Finney, 'Reusable Proofs of Work', RPOW website index pagina, [online](https://web.archive.org/web/20090217090451/http://rpow.net/index.html)
 
-[^253]: Hal Finney, 'RPOW Theory', RPOW website theory page, accessed via [https://web.archive.org/web/20040815154951/http://rpow.net/theory.html.]
+[^253]: Hal Finney, 'RPOW Theory', RPOW website theorie pagina, [online](https://web.archive.org/web/20040815154951/http://rpow.net/theory.html)
 
-[^254]: Hal Finney, 'RPOW FAQs', RPOW website FAQ page, accessed via [https://web.archive.org/web/20090217090439/http://rpow.net/faqs.html#inflation.]
+[^254]: Hal Finney, 'RPOW FAQs', RPOW website FAQ pagina, [online](https://web.archive.org/web/20090217090439/http://rpow.net/faqs.html#inflation)
 
-[^255]: Gregory Maxwell, IRC message to author, August 13, 2020.
+[^255]: Gregory Maxwell, IRC message to author, 13 augustus 2020.

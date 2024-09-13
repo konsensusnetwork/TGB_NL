@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>10&nbsp; Hashcash – Het Genesis Boek</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapters/CH11.html" rel="next">
+<link href="../chapters/CH09.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<meta property="og:title" content="10&nbsp; Hashcash – Het Genesis Boek">
+<meta property="og:description" content="">
+<meta property="og:image" content="../cover.png">
+<meta property="og:site_name" content="Het Genesis Boek">
+<meta name="twitter:title" content="10&nbsp; Hashcash – Het Genesis Boek">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="../cover.png">
+<meta name="twitter:site" content="@konsensusn">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body class="nav-sidebar floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../cover.png" alt="Cover" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Het Genesis Boek</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/konsensusnetwork/TGB_NL"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://bitcoinbook.shop/"> <i class="bi bi-shop" role="img" aria-label="Shop">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/CH08.html">Deel II: Cypherpunks</a></li><li class="breadcrumb-item"><a href="../chapters/CH10.html"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Hashcash</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Over dit boek</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH00.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Inleiding</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Deel I: Grondslagen</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH01.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Spontane orde</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH02.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Vrije en open source software</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH03.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Neutraal geld</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH04.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Cryptografie</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH05.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Denationalisatie van geld</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH06.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">eCash (en vertrouwensloze tijdstempels)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH07.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">De Extropianen</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Deel II: Cypherpunks</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH08.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">De Cypherpunk-beweging</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH09.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Cypherpunk-valuta</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH10.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Hashcash</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH11.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Bit Gold</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH12.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">B-geld (en BitTorrent)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH13.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">RPOW</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Deel III: Bitcoin</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH14.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Fiat in de 21ste eeuw</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH15.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Het witboek</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH16.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">De release</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CHXX.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Erkenningen</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CHYY.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Over de auteur</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#de-cypherpunk" id="toc-de-cypherpunk" class="nav-link active" data-scroll-target="#de-cypherpunk">De Cypherpunk</a></li>
+  <li><a href="#in-actie-komen" id="toc-in-actie-komen" class="nav-link" data-scroll-target="#in-actie-komen">In actie komen</a></li>
+  <li><a href="#spam" id="toc-spam" class="nav-link" data-scroll-target="#spam">Spam</a></li>
+  <li><a href="#de-eerste-elektronische-postzegel" id="toc-de-eerste-elektronische-postzegel" class="nav-link" data-scroll-target="#de-eerste-elektronische-postzegel">De eerste elektronische postzegel</a></li>
+  <li><a href="#hashcash" id="toc-hashcash" class="nav-link" data-scroll-target="#hashcash">Hashcash</a></li>
+  <li><a href="#digitale-schaarste" id="toc-digitale-schaarste" class="nav-link" data-scroll-target="#digitale-schaarste">Digitale schaarste</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/CH08.html">Deel II: Cypherpunks</a></li><li class="breadcrumb-item"><a href="../chapters/CH10.html"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Hashcash</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Hashcash</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Adam Back groeide op in de East Midlands van Engeland en had op dertienjarige leeftijd genoeg gespaard om de populaire Sinclair ZX81 thuiscomputer te kopen. Dit apparaat, dat voor het eerst uitkwam in januari 1981, was ongeveer de omvang van een faxmachine, had een ingebouwd toetsenbord en kon worden aangesloten op de televisie van het gezin. Hierdoor kon de jongen de 8-bits wonderen van dit apparaat ontdekken, gewoon in het comfort van zijn eigen woonkamer.</p>
+<p>Toen hij na schooltijd met de computer speelde, naast daadwerkelijke videogames soms gewoon door berekeningen te maken om een bepaald effect te bereiken dat hij interessant vond, raakte de jonge Adam Back gefascineerd door de mogelijkheden van de computerwereld.</p>
+<p>En hij had er een talent voor, ook. Omdat er geen <em>native assembler</em> beschikbaar was om mens-leesbare broncode om te zetten naar machine-leesbare binaire code (enen en nullen), bedacht de jongen hoe hij zelf een assembler kon coderen voor de ZX81. Dit vereiste van hem dat hij de meest basale interne werking van de computer <em>reverse-engineerde</em>, waarbij hij zelfs binaire codering moest terugvertalen naar broncode om te begrijpen hoe andere programma’s werkten.</p>
+<p>Toen Back op ongeveer zestienjarige leeftijd naar de universiteit ging, had hij al een geavanceerd begrip van de werking van computers en wist hij dat hij deze discipline wilde blijven verkennen. Hoewel informatica op dat moment geen officieel vak was op zijn school, was er wel een computerlab op de campus. Back maakte dankbaar gebruik van deze faciliteit en besteedde vaak lange dagen in het lab om zelfstandig meer geavanceerde programmeertalen te leren.</p>
+<p>Na het college ging Back computerwetenschappen studeren aan de Universiteit van Exeter, gelegen in het zuidwesten van Engeland. Tijdens zijn studies raakte hij bijzonder geïnteresseerd in gedistribueerd computergebruik, waarbij meerdere computers via een netwerk samenwerken aan hetzelfde probleem, meestal door het probleem op te delen in kleinere delen (<em>parallell computing</em>).</p>
+<p>Gedreven door zijn verlangen om het curriculum te beheersen, scoorde Back gedurende zijn drie jaar als bachelorstudent regelmatig het hoogst in zijn klas. Dit zette hem begin jaren ’90 in een positie waardoor hij zijn interesse diepgaand kon nastreven. Op eenentwintigjarige leeftijd stond de Universiteit van Exeter Back toe om zijn Master over te slaan, en accepteerde ze hem direct in een PhD-programma gefocust op gedistribueerd computergebruik. Gedurende de volgende vier jaar zou hij verschillende coördinatiemethoden voor netwerkcomputers bestuderen, en de mogelijke foutmodi ervan.</p>
+<p>Hier werd Back geconfronteerd met langlopende uitdagingen in gedistribueerd computergebruik, zoals het Byzantijnse Generaalsprobleem, waarmee computerwetenschappers al worstelden sinds de late jaren ’70. De kern van dit probleem was dat coördinatie over meerdere computers lastig kon zijn op open netwerken, waar kwaadwillende (of zelfs per ongeluk onbetrouwbare) knooppunten zich konden aansluiten en de pogingen van eerlijke deelnemers om een consensus te bereiken konden frustreren.</p>
+<p>Het klassieke metaforische verhaal, voor het eerst beschreven door computergoeroe Leslie Lamport, ging over een groep (inderdaad) Byzantijnse generaals die een stad omsingelden.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> Terwijl elk van hen de situatie inschatte, zouden ze via boodschappers communiceren om te coördineren of ze zouden aanvallen of zich terugtrekken. Hoewel beide opties acceptabel waren, zouden ze allemaal moeten overeenkomen met de gekozen optie; het zou een ramp zijn als sommige generaals zouden aanvallen, terwijl anderen besluiten zich terug te trekken.</p>
+<p>Het probleem is echter dat er ook verraderlijke generaals (en/of boodschappers, afhankelijk van de versie van de allegorie) zijn, die tegenstrijdige boodschappen (‘aanval’ of ‘terugtrekken’) aan verschillende generaals konden sturen, wat tot onenigheid kon leiden. Omdat directe communicatie tussen verschillende partijen onmogelijk is, zouden sommigen eerst de ene instructie (‘aanval’) te zien krijgen, terwijl anderen aanvankelijk de andere instructie (‘terugtrekken’) zouden zien.</p>
+<p>De uitdaging was dus om een protocol te ontwerpen dat elke eerlijke deelnemer onafhankelijk zou kunnen volgen, zodat ze allemaal tot dezelfde conclusie kwamen. Of dit nu de beslissing was om een stad wel of niet aan te vallen, of om consensus te bereiken over hoe een gedeelde computertaak te coördineren.</p>
+<p>Dit waren precies het soort uitdagingen waar Adam Back graag zijn hersenen over kraakte.</p>
+<section id="de-cypherpunk" class="level2">
+<h2 class="anchored" data-anchor-id="de-cypherpunk">De Cypherpunk</h2>
+<p>Als PhD-kandidaat kwam Back aan dezelfde universiteit in contact met een masterstudent die probeerde het RSA-encryptieprotocol te optimaliseren voor parallele berekening. Dit leek Back een interessant project, en het lag dicht bij zijn eigen onderzoeksgebied. Hij besloot dus om te helpen. Dit betekende dat hij zich moest verdiepen in het RSA-algoritme, wat hem op zijn beurt ook leidde naar het bestuderen van Phil Zimmermann’s nieuwe PGP-project.</p>
+<p>Inmiddels had Back ook een interesse in vrije markten ontwikkeld, en had hij enige sympathie voor anarcho-kapitalisme. De hyperlibertaire ideologie waarin alle functies van de staat volledig worden vervangen door op de markt gebaseerde oplossingen leek op de toekomstige samenleving beschreven in een van zijn favoriete boeken: de cyberpunk-klassieker <em>Snow Crash</em>.</p>
+<p>Zo vond Back de cryptografische hulpmiddelen waar hij over leerde op sociologisch vlak zeer interessant.</p>
+<p>‘Minder privacy is negatief voor de vrije markteconomie, omdat een afname van privacy leidt tot een toename van overheidsinterventies, grotere overheidsapparaten, fascisme, etc. waardoor de vrije markteconomie naar de knoppen gaat’, zou hij later verklaren. ‘Hierdoor zullen armoede en voedseltekorten ontstaan, vergelijkbaar met wat er gebeurde in de voormalige USSR, die nog steeds langzaam herstelt van de ondergang die veroorzaakt werd door fascistisch overheidsbeleid.’<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
+<p>Daarnaast realiseerde de student zich snel dat dit soort technologieën individuen de middelen konden bieden om fundamentele rechten uit te oefenen zoals vrijheid van meningsuiting en vrijheid van vergadering. In wezen ontdekte Back dat cryptografie aanzienlijke implicaties kon hebben voor het evenwicht van macht tussen individuen en de staat.</p>
+<p>Toen hij op het internet naar plaatsen zocht om deze onderwerpen te bespreken, ontdekte de jonge PhD-kandidaat uit Exeter dat hij niet de enige was die tot dit inzicht was gekomen.</p>
+<p>Halverwege de wereld hadden de Cypherpunks net hun reguliere bijeenkomsten georganiseerd en, nog belangrijker, de Cypherpunk-mailinglijst gelanceerd. Back, al programmeur van in zijn kindertijd, was erg geïnspireerd door hun doel om software te schrijven die een positieve sociale impact had en hij meldde zich snel aan voor de mailinglijst.</p>
+<p>‘Dat was een interessante uitlaatklep’, herinnerde Back zich later aan zijn eerste interacties met de Cypherpunks-mailinglijst, ‘want mensen waren bezig met andere dingen dan PGP, andere dingen die je kon bouwen met encryptie en cryptografie. Ik heb een groot deel van mijn doctoraat eigenlijk niet besteed aan werken aan gedistribueerde systemen, maar aan leren over cryptografische protocollen, voornamelijk met als toegepaste interesse om te denken over wat een bepaald cryptografie-artikel je zou toestaan om te bouwen.’<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<p>In de loop der jaren werd Back een van de meest actieve deelnemers aan deze lijst. Soms droeg hij zelfs tientallen e-mails bij in een maand. Hij had een sterke interesse in filosofische onderwerpen zoals privacy, vrije meningsuiting en libertarisme, en nam deel aan diepgaande technische discussies over onderwerpen zoals anonieme remailers of versleutelde bestandssystemen, technologieën waaraan hij ook heeft bijgedragen.</p>
+<p>Back raakte ook betrokken bij de ‘crypto-oorlogen’ die niet al te lang na zijn toetreding tot de mailinglijst uitbraken, en werd op veel manieren zeer direct beïnvloed door deze strijd. Toen de Amerikaanse overheid cryptografie reguleerde onder de US Munitions List, was het Amerikanen wettelijk niet langer toegestaan om, bijvoorbeeld, het RSA-algoritme te delen met Back, of met een van zijn landgenoten (in het geval van RSA kende Back natuurlijk al het algoritme).</p>
+<p>Het verbod raakte een gevoelige snaar bij de jonge Cypherpunk. Hij was van mening dat de betwiste cryptografische protocollen in werkelijkheid individuen alleen maar toestonden om rechten uit te oefenen die zij juridisch gezien al moesten hebben: als privégesprekken zijn toegestaan, waarom zou publieke sleutel-cryptografie dan niet toegestaan zijn? En wellicht nog belangrijker, cryptografie was in feite gewoon wiskunde. Back vond het zowel absurd als zorgwekkend dat de VS in feite het delen van bepaalde getallen en vergelijkingen illegaal maakten.</p>
+<p>Het leidde de Britse Cypherpunk ertoe om op een unieke manier zijn punt te bewijzen. Volgens de activistische ethos van de groep, maakte Back ‘munitie’-shirts: zwarte t-shirts met in witte letters het RSA-protocol erop gedrukt. Volgens de wet was iedereen die Back’s kleding droeg bij het verlaten van de Verenigde Staten, technisch gezien, een wapenexporteur. Hij zou de shirts verkopen aan zijn mede-Cypherpunks en, passend, DigiCash’s proefvaluta CyberBucks als betaling accepteren.</p>
+<p>Passend genoeg, want mogelijk meer dan wat dan ook, was Adam Back bijzonder geïnteresseerd in elektronisch geld.</p>
+</section>
+<section id="in-actie-komen" class="level2">
+<h2 class="anchored" data-anchor-id="in-actie-komen">In actie komen</h2>
+<p>Toen Adam Back zich bij de mailinglijst van de Cypherpunks aansloot, was DigiCash werkelijk onbetwistbaar op gebied van anonieme digitale valuta. Maar de voortgang van eCash verliep minder snel dan hij en vele anderen hadden gewenst.</p>
+<p>Back deelde de beoordeling van de Cypherpunks dat dit grotendeels kwam omdat David Chaum zijn patenten gebruikte om zijn technologie exclusief te houden. Hij vond dat het beleid van DigiCash, met zijn ingewikkelde licentieschema’s en beperkingen op wat gebruikers wel en niet met de eCash-technologie konden doen, ervoor zorgde dat hackers en knutselaars geen kans kregen om met de technologie te experimenteren en deze te verbeteren. Door dit beleid was de technische vooruitgang vrijwel tot stilstand gekomen.</p>
+<p>Back verpersoonlijkte de Cypherpunk-filosofie en was niet het type dat rustig zou afwachten tot de zaken veranderden.</p>
+<p>In de hoop dat het de zaken zou versnellen, schreef Back initieel software-<em>libraries</em> (broncode die door andere ontwikkelaars kon worden gebruikt) voor zowel eCash als Brands Cash. Laatstgenoemde is een op eCash geïnspireerd elektronisch geldsysteem ontworpen door voormalig DigiCash-medewerker Stefan Brands. Terwijl hij hiermee bezig was, ontdekte Back ook hoe hij Brands’s systeem kon uitbreiden om offline transacties te vergemakkelijken, zonder de noodzaak om bij elke betaling bij de bank te controleren op dubbele uitgaven (hoewel toen Back zijn oplossing met Brands besprak, bleek dat iemand anders dat probleem al eerder had opgelost).</p>
+<p>Toen eCash te midden de jaren 90 nog steeds niet echt van de grond kwam, begon Adam Back pas echt ongeduldig te worden.</p>
+<p>‘Technologie voor blinde handtekeningen bestaat al geruime tijd, maar er is niet één voorbeeld van een praktisch, echt wereldwijd gebruik van deze technologie’, schreef Back gefrustreerd naar de Cypherpunk-mailinglijst in oktober 1995.<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+<p>Hij merkte op dat niet-anonieme internetbetaalsystemen snel marktaandeel veroverden, wat betekende dat de toekomst van digitale transacties een gevaarlijke richting insloeg. Als deze privacy-schendende alternatieven zich eenmaal zouden verankeren in de gewoonten van mensen als hun standaard online betalingsoplossingen, geloofde hij dat het aanzienlijk moeilijker zou zijn om internetgebruikers over te laten stappen naar anoniem digitaal geld.</p>
+<p>Het was tijd om actie te ondernemen. Aangezien Back niet veel vertrouwen had in de voortgang van DigiCash, en het leek alsof niemand anders aan haalbare alternatieven voor eCash werkte, concludeerde hij dat de snelste weg naar succes misschien wel was om samen te werken met Chaum. Hij stelde voor dat een groep Cypherpunks een start-up bank zou oprichten en eigenlijk de technologie van DigiCash zou licentiëren om zelf door fiatgeld gedekte eCash uit te geven.</p>
+<p>‘Ik meen het serieus en zou erin willen investeren’, maakte Back duidelijk op de mailinglijst. ‘Wat denken jullie ervan? De eerste DigiCash-bank, ’gerund’ en eigendom van een groep cypherpunks?’<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
+<p>De enige persoon die reageerde op zijn voorstel wees erop dat dit plan waarschijnlijk ook niet zou werken: tenslotte wilde Chaum zijn technologie niet in licentie geven aan een bende Cypherpunks.<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a> Het idee stierf een stille dood.</p>
+<p>Twee jaar later, in de zomer van 1997, keerde Back terug naar de mailinglijst om het idee van een gedistribueerde bank voor te stellen. Nu hij met succes zijn doctoraatsprogramma had afgerond en als postdoc-onderzoeker aan de universiteit werkte, maakte hij deze keer echt gebruik van zijn expertisegebied. Hij legde uit dat de operaties van een bank over een netwerk van verschillende mensen of entiteiten verspreid konden worden. Ze zouden in staat zijn om een virtuele computer te simuleren door berichten uit te wisselen en gecodeerde functies te berekenen, opperde Back, waarbij de virtuele computer in feite zou functioneren als een reguliere bank.</p>
+<p>Door de bank op te splitsen in meerdere, onderling afhankelijke, partijen, zou er geen enkele entiteit volledig vertrouwd hoeven te worden met de bankoperaties. En hoewel het Byzantijnse Generaalsprobleem nog steeds niet volledig was opgelost, kon het systeem alleen worden misleid als een bepaald aantal deelnemers samenspanden.</p>
+<p>‘De bank zou bestaan binnen het netwerk, in deze virtuele CPU’, schreef Back. ‘Individuele deelnemers kunnen komen en gaan, maar de beveiligde software-entiteit, die de bank en de accountinformatie is, zou blijven voortbestaan.’<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a></p>
+<p>Hij kreeg geen antwoord op zijn e-mail.</p>
+</section>
+<section id="spam" class="level2">
+<h2 class="anchored" data-anchor-id="spam">Spam</h2>
+<p>In de tweede helft van de jaren ’90 moest elke e-mailservice op het internet omgaan met ogenschijnlijk steeds toenemende hoeveelheden ongewenste mail, of <em>spam</em>: ongevraagde berichten die in bulk werden verzonden, doorgaans door adverteerders. De Cypherpunks werden hierbij niet gespaard; promoties voor afslankpillen, producten voor penisvergroting en aanbiedingen om snel rijk mee te worden veroorzaakten alsmaar meer vervuiling op de mailinglijst.</p>
+<p>Het probleem was vooral ernstig voor de remailers. De anoniem makende diensten die door verschillende Cypherpunks werden beheerd, werden gemakkelijk en vaak misbruikt om spam te versturen. Sommige van de beheerders vermoedden zelfs dat hun remailers specifiek het doelwit waren van zogenoemde <em>denial-of-service</em> (DOS) aanvallen; het doel zou zijn geweest om de remailers te overladen met nutteloze e-mails om hun dienst onbruikbaar te maken voor legitiem gebruik.</p>
+<p>Adam Back, die zelf ook een remailer beheerde, was lid van een groep Cypherpunks die zich toelegde op het oplossen van dit probleem. En nog belangrijker, ze probeerden dit probleem op te lossen zonder terug te vallen op oplossingen die internetgebruikers verplichtten zich te identificeren. Want voor remailers was privacy het belangrijkste punt.</p>
+<p>Ze wilden ook niet afhankelijk zijn van wetten en regelgeving. Hoewel er stemmen opgingen om eenvoudigweg spam e-mails illegaal te maken, was het niet de manier van de cypherpunks om de overheid in te schakelen om hun problemen op te lossen.</p>
+<p>De overheid het probleem niet laten oplossen, was ook belangrijk omdat het niet altijd duidelijk was wat precies als spam beschouwd kon worden. Als de staat de autoriteit krijgt om dat onderscheid te maken, zou dat effectief regeringen toestaan om te bepalen welke vormen van communicatie tussen internetgebruikers acceptabel zijn en welke niet. Dit zou de deur kunnen openen voor politiek gemotiveerde censuur, waarschuwden Cypherpunks zoals Tim May.<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a></p>
+<p>Adam Back benadrukte dat om spammers wettelijk verantwoordelijk te kunnen houden, ze ook geïdentificeerd dienen te worden. Als een overheidsdienst tegen spam de taak krijgt om de daders te vangen, waarschuwde Back zijn mede-Cypherpunks, dan zouden remailers waarschijnlijk een groot doelwit worden, met mogelijk ernstige gevolgen voor de online privacy in het algemeen.<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a></p>
+<p>‘De gevaren het inzetten van de overheid om spammers aan te vallen, is dat dit het internet is, en we willen geen regulering van de inhoud door overheden, noch pogingen tot afdwingen van ’escrow van identiteit’, ‘internetrijbewijzen’ of iets anders’, schreef Back aan de Cypherpunk-mailinglijst. ‘We lossen het zelf wel op zonder de behoefte aan overheidsinterventie, hartelijk dank.’<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a></p>
+<p>De cypherpunks waren het er in het algemeen over eens dat een betere oplossing zou zijn om een digitaal equivalent van postzegels te creëren. Als het verzenden van een email kosten met zich mee zou brengen, zou dit spammers ontmoedigen, vooral omdat spammers meestal tienduizenden, zo niet miljoenen, ongewenste e-mails moeten versturen om winst te maken uit hun activiteiten. Op dezelfde manier vereiste het bombarderen van remailers massa’s ongewenste e-mails.</p>
+<p>Digitale postzegels konden verschillende manieren functioneren. Remailers konden bijvoorbeeld postzegels in rekening brengen voor het doorsturen van e-mails. Dit zou niet alleen spam ontmoedigen die via deze diensten worden verzonden, maar het zou ook, als leuk extraatje, een financiële prikkel introduceren om remailers te runnen. Als alternatief, of daarnaast, zou een vergoeding kunnen worden toegekend aan de ontvanger wiens e-mailsoftware geprogrammeerd kan worden om berichten met onvoldoende vergoeding af te wijzen.</p>
+<p>De eigenlijke postzegel kon op verschillende manieren worden ontworpen, maar de meeste ideeën hielden een uitgever van elektronische zegels in. Deze uitgever zou bijvoorbeeld unieke grote getallen kunnen genereren en deze kunnen verkopen (wellicht voor digitaal geld). Het unieke nummer zou dan in een e-mail moeten worden opgenomen, en zodra een remailer of het e-mailprogramma van de ontvanger het bericht ontvangt, zou het bij de uitgever controleren of het nummer inderdaad een geldige postzegel is. Als dat zo is, kan de remailer of ontvanger misschien wat geld (digitaal geld?) terugkrijgen van de uitgever, afhankelijk van de specifieke ontwerpkenmerken van het systeem. Als de postzegel niet geldig was, zou de e-mail simpelweg geweigerd worden.</p>
+<p>Een andere optie zou zijn om gewoon digitale contanten direct als postzegel te gebruiken. Een e-mail kan in dit geval een heel klein beetje digitale valuta bevatten in een speciaal veld, dat de beoogde ontvanger er dan kan uithalen. Er was een tijd waarin het leek alsof dit een goede toepassing voor eCash zou kunnen zijn.</p>
+<p>Helaas bleek het in de praktijk ingewikkelder te zijn. Ten eerste waren de vroege eCash versies nog niet in staat om zeer specifieke soorten overboekingen die nodig waren voor postzegels te verwerken. Bovendien zou het gebrek aan anonimiteit van de ontvanger in het elektronische contantsysteem van Chaum betekenen dat de verzender van een bericht kon worden gedwongen om samen te werken met de bank om de echte identiteit van een remailer-operator en/of de e-mailontvanger te onthullen.</p>
+<p>Het maakte DigiCash’s eCash grotendeels ongeschikt voor postzegels.</p>
+</section>
+<section id="de-eerste-elektronische-postzegel" class="level2">
+<h2 class="anchored" data-anchor-id="de-eerste-elektronische-postzegel">De eerste elektronische postzegel</h2>
+<p>Wat Adam Back niet wist was dat het postzegelprobleem al een paar jaar eerder was opgelost, en op een heel andere manier dan de Cypherpunks hadden overwogen.</p>
+<p>In de vroege jaren ’90 realiseerden Cynthia Dwork en Moni Naor, twee computerwetenschappers bij IBM, zich dat een elektronisch mailsysteem veel voordelen had ten opzichte van de traditionele post: e-mail was veel sneller, veel goedkoper, en bood veel meer mogelijkheden dan de postdienst ooit zou kunnen bieden. Maar ze realiseerden zich ook dat e-mail zijn eigen uitdagingen met zich meebracht. Ze voorzagen dat met de toenemende populariteit van e-mail, ook spam zou toenemen.</p>
+<p>‘Met name de eenvoud en lage kosten om elektronische post te versturen, en dan vooral het gemak om eenzelfde bericht naar veel verschillende partijen te sturen, nodigen in principe uit tot misbruik’, legden ze uit in hun paper uit 1992, getiteld ‘Pricing via Processing of Combatting Junk Mail.’<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a>.</p>
+<p>Er was een oplossing nodig, stelden ze vast, en dat was precies wat het artikel leverde. Dwork en Naor stelden een systeem voor waarbij afzenders een beetje extra data aan hun e-mail moeten toevoegen. Deze data zou de oplossing zijn voor een wiskundig probleem, afgeleid van de eigenschappen van de e-mail zelf, en dus uniek voor die e-mail. Zonder de correcte oplossing toegevoegd, zouden e-mail<em>clients</em> de e-mail volledig moeten afwijzen.</p>
+<p>In hun artikel stelden Dwork en Naor drie mogelijke puzzels voor, allen gebaseerd op cryptografische algoritmen zoals handtekeningsschema’s. In alle gevallen zou het toevoegen van de juiste oplossing aan een e-mail niet al te moeilijk zijn (voor een computer): het zou wellicht een paar seconden aan rekenkracht vereisen. Toch zou dit een kleine kostenpost betekenen. Controleren of de oplossing correct is, zou daarentegen zeer makkelijk zijn en nauwelijks enige rekenkracht kosten.</p>
+<p>De kerngedachte achter dit systeem was dat het oplossen van een juiste oplossing voor een puzzel niet veel moeite zou kosten voor individuele gebruikers die af en toe een e-mail willen sturen naar collega’s, familie of vrienden. Maar voor spammers zou het snel oplopen. Om duizenden of zelfs miljoenen berichten op een enkele dag te sturen, zouden zij evenveel puzzels moeten oplossen, wat in totaal aanzienlijke hoeveelheden rekenkracht zou vereisen.</p>
+<p>‘Het idee is om een gebruiker een matig moeilijke, maar niet onoplosbare, functie te laten berekenen om toegang te krijgen tot de hulpbron, en zo lichtzinnig gebruik te voorkomen’, legden Dwork en Naor uit. Ze stelden voor om spammen te veranderen in een dure aangelegenheid.</p>
+<p>Hoewel Dwork en Naor de term zelf niet hebben voorgesteld, zou de soort oplossing die zij introduceerden later bekend komen te staan als een ‘proof-of-work’-systeem. Het oplossen van het wiskundeprobleem zou bewijzen dat er daadwerkelijk <em>werk</em> is verricht.</p>
+<p>Het was een handige oplossing. Maar of het nu kwam omdat het idee iets te vooruitstrevend was voor die tijd, of omdat het simpelweg niet breed genoeg werd geadverteerd, kreeg het voorstel uit de vroege jaren 90 buiten een vrij kleine groep academici niet veel aandacht. Het postzegelsysteem van Dwork en Naor is nooit in de praktijk gebracht, laat staan gebruikt, en veel van de Cypherpunks waren waarschijnlijk onbekend met dit idee.</p>
+<p>Gelukkig zou het concept spoedig opnieuw worden uitgevonden.</p>
+</section>
+<section id="hashcash" class="level2">
+<h2 class="anchored" data-anchor-id="hashcash">Hashcash</h2>
+<p><em>[MEDEDELING] implementatie van hash cash porto</em></p>
+<p>Op 28 maart 1997 kregen de inmiddels ongeveer 2000 abonnees van de Cypherpunk-mailinglijst een bericht in hun inbox.<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a> Het bericht werd verstuurd door Adam Back en bevatte een beschrijving en vroege implementatie van wat hij ‘hashcash’ noemde: een ‘postzegelsysteem gebaseerd op gedeeltelijke hash-botsingen’. Hij had met succes een postzegel-oplossing voor e-mail ontworpen.</p>
+<p>Net als het schema van Dwork en Naor, zou de Hashcash porto niet betaald worden aan operators van remailers, of aan de ontvangers van een e-mail, of aan wie dan ook. In plaats daarvan zou het alleen extra kosten met zich meebrengen voor de verzenders.</p>
+<p>Een week eerder had Back al nagedacht over het tegengaan van spam door de kosten van massa-mail te verhogen, hoewel nog vrij oppervlakkig: ‘Een nevenvoordeel van het gebruik van PGP is dat PGP-versleuteling enige meerkost zou betekenen voor de spammer: hij kan waarschijnlijk minder berichten per seconde versleutelen dan hij kan spammen via een T3-link’, merkte hij op in een discussie over het toevoegen van extra privacy aan remailers.<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a></p>
+<p>Back’s nieuwe voorstel maakte dit algemene idee nog explicieter: het zou vereisen dat afzenders een bewijs van geleverd werk aan hun e-mails toevoegen. Inderdaad, hashcash was op verschillende manieren vergelijkbaar met het postzegelschema van Dwork en Naor: het <em>proof-of-work</em> zou uniek zijn voor de e-mail, en het zou een beetje rekenkracht vereisen om te produceren.</p>
+<p>Zoals de naam al doet vermoeden, was het voorstel van Back echter gebaseerd op hashing.</p>
+<p>Hashing – de cryptografische truc die alle data omzet in een unieke en schijnbaar willekeurige reeks getallen van een specifieke lengte – is een volkomen onvoorspelbaar proces. Hoewel dezelfde data altijd hetzelfde hashresultaat oplevert, is de enige manier om te ontdekken hoe de hash van een stuk data er in de eerste plaats uit zal zien, om het daadwerkelijk te hashen. Het is deze onvoorspelbaarheid waar hashcash op slimme wijze gebruik van maakte.</p>
+<p>Om ‘hashcash’ te genereren, moest een gebruiker een hash creëren uit de metadata van een e-mail (zoals het adres van de verzender, het adres van de ontvanger, de tijd enz.) en een willekeurig nummer, een zogenaamde ‘nonce’. Maar hier zat een addertje onder het gras: niet elke resulterende hash werd als ‘geldig’ beschouwd. In plaats daarvan moest de binaire versie van een geldige hash beginnen met een vastgesteld aantal nullen. En er was maar één manier om een hash te genereren die met voldoende nullen begon: de gebruiker moest verschillende nonces proberen en nieuwe hashes maken totdat hij er één vond die toevallig aan de norm voldeed. Simpel <em>trial and error</em>.</p>
+<p>Het aantal voorafgaande nullen dat vereist is, bepaalt hoe moeilijk het zou zijn om een geldige hash te vinden. Meer nullen zouden het moeilijker maken, omdat computers gemiddeld meer pogingen zouden moeten doen.</p>
+<p>‘Het idee van het gebruik van partiële hashes is dat ze naar willekeur duur in berekening kunnen worden gemaakt’, legde Back het voordeel van het gebruik van hashes uit, ‘en toch kunnen ze onmiddellijk geverifieerd worden.’</p>
+<p>Net als bij de oplossing van Dwork en Naor was het idee dat gewone gebruikers vrij snel, binnen enkele seconden, een geldige hash moeten kunnen vinden om met een e-mail te versturen. Tegelijkertijd zouden spammers niet in staat moeten zijn om dit duizenden of miljoenen keren te doen en nog steeds winstgevend te blijven.</p>
+<p>‘[…] als het geen 20 bit hash heeft […] heb je een programma dat het terugstuurt met een bericht waarin de vereiste porto wordt uitgelegd, en waar de software te vinden is’, legde Back uit op de Cypherpunk-mailinglijst. ‘Dit zou spammers van de ene op de andere dag wegwerken, aangezien 1.000.000 x 20 = 100 MIP jaren, wat meer rekenkracht is dan ze hebben.’</p>
+<p>Een subtiele verandering ten opzichte van Dwork en Naor’s oplossing was dat hun ‘proof-of-work’ systeem niet onderhevig was aan toeval. Hun postzegelschema vereist in principe het oplossen van een vrij eenvoudige puzzel, wat betekent dat een krachtigere computer de puzzel altijd sneller zou oplossen dan een zwakkere computer.</p>
+<p>Het genereren van een geldige hash, daarentegen, is een kwestie van gokken. Hoewel een krachtigere computer meer gokjes per seconde zou kunnen doen, zou een zwakkere computer nog steeds af en toe geluk kunnen hebben en sneller een geldige hash vinden (hoewel spammers hoe dan ook duizenden of miljoenen geldige hashwaarden zouden moeten genereren per spamsessie, zou het kleine beetje variatie bij het genereren van een enkele hashcash proof-of-work niet echt een verschil maken, althans niet binnen de context van het stoppen van ongewenste mail).</p>
+<p>‘Hashcash kan een tussentijdse oplossing bieden totdat digicash breder wordt toegepast’, concludeerde Back in zijn aankondiging. ‘Hashcash is gratis, het enige dat je hoeft te doen is wat processorkracht van je PC gebruiken. Het sluit aan bij de online cultuur van vrije communicatie, waarin de financieel minder bedeelden op gelijke voet kunnen concurreren met miljonairs, gepensioneerde overheidsfunctionarissen en dergelijke.’</p>
+<p>En: ‘Hashcash kan ons een alternatieve methode bieden voor het beheersen van spam als digicash misloopt (verboden wordt of vereist dat gebruikersidentiteiten in escrow worden gehouden).’</p>
+</section>
+<section id="digitale-schaarste" class="level2">
+<h2 class="anchored" data-anchor-id="digitale-schaarste">Digitale schaarste</h2>
+<p>Hashcash werd in de jaren na de aankondiging van Adam Back enigszins geadopteerd. Apache’s open source SpamAssassin platform implementeerde de oplossing, terwijl Microsoft het idee in zijn incompatibele Postmark systeem uitprobeerde. Adam Back, samen met enkele andere academici, kwamen ondertussen op alternatieve toepassingen voor het proof-of-work systeem, waaronder oplossingen tegen DoS-aanvallen.</p>
+<p>Maar de hashcash postzegel is nooit echt mainstream gegaan. De innovatieve aard van de oplossing was waarschijnlijk niet voldoende om de opstarthindernis te overwinnen: iemand kon niet echt beginnen met het eisen van hashcash voor binnenkomende e-mails als niemand anders het gebruikte, omdat dit zou leiden tot afwijzing van alle binnenkomende berichten door hun e-mailclient. Tegelijkertijd was er geen aanmoediging om hashcash te gebruiken voor uitgaande e-mails als niemand het eiste. Net als David Chaum’s eCash, leed ook het elektronische porto-systeem van Back aan een kip-en-ei-probleem, waarvoor geen gemakkelijke oplossing leek te zijn.</p>
+<p>Adam Back maakte zich hier echter niet zoveel zorgen om. Back, die inmiddels onderzoeker was bij de Universiteit van Exeter en aan een gecodeerd berichtensysteem voor medische data werkte, dacht vrijwel onmiddellijk na de publicatie van zijn voorstel al verder dan enkel hashcash. Het oplossen van het postzegelprobleem was een goede uitdaging, maar de computeringenieur was vooral gefascineerd door de gedachte om digitaal geld voor algemene doeleinden te creëren.</p>
+<p>En hoewel veel Cypherpunks nog steeds aannamen dat een elektronisch geldsysteem zou moeten worden geïntegreerd in de bestaande financiële infrastructuur, zoals eCash, had Back een andere visie. Hij geloofde dat hashcash een geheel nieuwe richting van onderzoek kon bieden om die visie te verwezenlijken.</p>
+<p>De sleutelinnovatie van hashcash was dat het puur digitale data (in wezen getallen) aan echte hulpbronnen in de fysieke realiteit koppelde. Het creëren van een proof-of-work vereiste rekenkracht, en deze rekenkracht zelf verbruikt elektriciteit, die op zijn beurt energie kost om te produceren. Terwijl de meeste digitale dingen kosteloos en bijna eindeloos gekopieerd kunnen worden, kon het proof-of-work op een bepaalde manier de fundamentele schaarste aan energie in de fysieke realiteit naar de digitale wereld overbruggen.</p>
+<p>Inderdaad, hashcash was digitaal, maar toch schaars. Het totale aantal hashcash ‘valuta-eenheden’ (bij gebrek aan een beter woord) was in zekere mate beperkt: er zou nooit meer hashcash zijn dan er zou kunnen worden geproduceerd met de hoeveelheid energie die mensen bereid en in staat zouden zijn om eraan te spenderen.</p>
+<p>Dit was een cruciaal inzicht, omdat ingebouwde schaarste een van de zes eigenschappen was die Adam Back op zijn lijstje voor een ideaal elektronisch geldsysteem had gezet. Tot voor kort kon digitale schaarste slechts gecreëerd worden als een belofte, zoals DigiCash’s belofte om een harde limiet te stellen aan het totale aantal CyberBucks dat ze zouden creëren. Maar beloftes kunnen natuurlijk gebroken worden. Back geloofde dat proof-of-work de mogelijkheid bood om schaarste te garanderen op een veel fundamenteler niveau.</p>
+<p>Tegelijkertijd wist hij dat hashcash niet kon functioneren als volwaardig digitaal geld. Hoewel het anoniem kon worden gebruikt, moeilijk te stoppen was, geen vertrouwen in een individu vereiste en ook enige mate van schaarste had, voldeed dit eigenlijk slechts aan drie van de zes criteria op de shortlist van Back.</p>
+<p>Het grootste probleem was dat hashcash niet herbruikbaar was. Elke munteenheid was op maat gemaakt om bij een specifieke email te passen, en kon dus niet elders opnieuw worden uitgegeven en leverde geen extra voordeel op voor de ontvangers.</p>
+<p>Back overwoog daarom dat hashcash, of meer algemeen het proof-of-work principe, de basis zou kunnen vormen voor een ander soort elektronisch geldsysteem.</p>
+<p>Eén van zijn eerste suggesties was een <em>Chaumiaans</em> systeem. Hierin zou de bank elektronisch geld uitgeven bij ontvangst van hashcash: gebruikers zouden proof-of-work creëren en daarvoor ongedekt digitaal geld terugkrijgen. Dit geld zou anoniem, herbruikbaar en enigszins schaars zijn — hoewel de schaarste in de praktijk eerlijk gezegd vrij zwak zou zijn, omdat mensen altijd meer bewijzen zouden kunnen creëren als ze dat zouden willen. En met computerprocessors die elk jaar krachtiger worden, zou het produceren van geldig proof-of-work in de loop van de tijd steeds goedkoper worden.<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a></p>
+<p>Inderdaad, de fundamentele schaarste van hashcash was meer technisch van aard. Als het echt de basis zou vormen voor een elektronische valuta, zouden nieuwere en krachtigere computers uiteindelijk de markt overspoelen met verse valuta-eenheden en zou de valuta hyperinflateren.</p>
+<p>Bovendien zouden gebruikers de bank moeten vertrouwen dat deze geen geld uit het niets creëert. Net als elk elektronisch geldsysteem dat Chaum’s ontwerp volgt, zou de entiteit die de digitale valuta uitgeeft en dubbele uitgaven voorkomt, <em>zelf</em> ook vertrouwd moeten worden om niet onterecht zichzelf te verrijken.</p>
+<p>Back geloofde, echter, dat vrije marktcompetitie mogelijk kon helpen dit probleem op te lossen.</p>
+<p>‘Wellicht zou je dus meerdere banken kunnen hebben en reputatie het werk laten doen, als je de protocollen zo kunt regelen dat het duidelijk zou zijn of een bank meer geld aan het drukken was dan het aan hash-botsingen had ontvangen. […] Maar als je meerdere banken hebt dan moet je een uitwisselingsmechanisme hebben. De markt zou hier waarschijnlijk zorg voor kunnen dragen, door wisselkoersen te bepalen op basis van de reputaties van banken’, suggereerde hij, in wat nu heel erg leek op een vrijbankiersysteem zoals beschreven door Friedrich Hayek.</p>
+<p>Desalniettemin geloofde de jonge Cypherpunk uit Exeter dat ze het misschien zelfs nog beter konden doen dan dat:</p>
+<p>‘Het zou beter zijn om iets te hebben dat geen vertrouwen vereist en dat geen mogelijkheid heeft voor bedrog, in plaats van te vertrouwen op reputatie om ze te sorteren.’<a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a></p>
+
+
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>Leslie Lamport, Robert Shostak, and Marshall Pease, ‘The Byzantine Generals Problem’, ACM Transactions on Programming Languages and Systems: 382–401.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Adam Back, ‘Re: ’why privacy’ revisited’, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 22 maart 1997, <a href="https://cypherpunks.venona.com/date/1997/03/msg00586.html">online</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>Adam Back, ‘The Bitcoin Game #59: Dr.&nbsp;Adam Back’, interview door Rob Mitchell, The Bitcoin Game, YouTube, 25 oktober 2018, <a href="https://www.youtube.com/watch?v=xxYsRjanphA&amp;t=647s">online</a> 10:47–11:19.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>Adam Back, ‘Re: cypherpunks digicash bank?’, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 8 oktober 1995, <a href="https://cypherpunks.venona.com/date/1995/10/msg00734.html">online</a><a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Adam Back, ‘cypherpunks digicash bank?’, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 7 oktober 1995, <a href="https://cypherpunks.venona.com/date/1995/10/msg00690.html">online</a><a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>Barnes, ‘cypherpunks digicash.’<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>Adam Back, ‘distributed virtual bank’, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 27 augustus 1997, <a href="https://cypherpunks.venona.com/date/1997/08/msg01289.html">online</a><a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>Tim May, ‘Re: More on digital postage’, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 15 februari 1997, <a href="https://cypherpunks.venona.com/date/1997/02/msg02295.h">online</a><a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>Adam Back, ‘Re: bulk postage fine’, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 3 augustus 1997, <a href="https://cypherpunks.venona.com/date/1997/08/msg00070.html">online</a><a href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10"><p>Adam Back, ‘no government regulation of the net’, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 3 augustus 1997, <a href="https://cypherpunks.venona.com/date/1997/08/msg00087.html">online</a><a href="#fnref10" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn11"><p>Cynthia Dwork and Moni Naor, ‘Pricing via Processing or Combatting Junk Mail’, Advances in Cryptology — <em>Crypto</em> ’92: 139–147.<a href="#fnref11" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn12"><p>Adam Back, ‘ANNOUNCE hash cash postage implementation’, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 28 maart 1997, <a href="https://cypherpunks.venona.com/date/1997/03/msg00774.html">online</a><a href="#fnref12" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn13"><p>Adam Back, ‘Re: Remailer problem solution?’ 23 maart 1997, <a href="https://cypherpunks.venona.com/date/1997/03/msg00631.html">online</a><a href="#fnref13" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn14"><p>Back, ‘Re: Bypassing.’<a href="#fnref14" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn15"><p>Back, ‘Re: Bypassing.’<a href="#fnref15" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../chapters/CH09.html" class="pagination-link" aria-label="Cypherpunk-valuta">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Cypherpunk-valuta</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../chapters/CH11.html" class="pagination-link" aria-label="Bit Gold">
+        <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Bit Gold</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link active" href="../index.html" aria-current="page">
+<p>License</p>
+</a>
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

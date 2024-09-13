@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>8&nbsp; De Cypherpunk-beweging – Het Genesis Boek</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapters/CH09.html" rel="next">
+<link href="../chapters/CH07.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<meta property="og:title" content="8&nbsp; De Cypherpunk-beweging – Het Genesis Boek">
+<meta property="og:description" content="">
+<meta property="og:image" content="../cover.png">
+<meta property="og:site_name" content="Het Genesis Boek">
+<meta name="twitter:title" content="8&nbsp; De Cypherpunk-beweging – Het Genesis Boek">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="../cover.png">
+<meta name="twitter:site" content="@konsensusn">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body class="nav-sidebar floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../cover.png" alt="Cover" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Het Genesis Boek</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/konsensusnetwork/TGB_NL"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://bitcoinbook.shop/"> <i class="bi bi-shop" role="img" aria-label="Shop">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/CH08.html">Deel II: Cypherpunks</a></li><li class="breadcrumb-item"><a href="../chapters/CH08.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">De Cypherpunk-beweging</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Over dit boek</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH00.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Inleiding</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Deel I: Grondslagen</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH01.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Spontane orde</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH02.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Vrije en open source software</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH03.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Neutraal geld</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH04.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Cryptografie</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH05.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Denationalisatie van geld</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH06.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">eCash (en vertrouwensloze tijdstempels)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH07.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">De Extropianen</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Deel II: Cypherpunks</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH08.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">De Cypherpunk-beweging</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH09.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Cypherpunk-valuta</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH10.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Hashcash</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH11.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Bit Gold</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH12.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">B-geld (en BitTorrent)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH13.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">RPOW</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Deel III: Bitcoin</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH14.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Fiat in de 21ste eeuw</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH15.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Het witboek</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CH16.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">De release</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CHXX.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Erkenningen</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/CHYY.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Over de auteur</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#blacknet" id="toc-blacknet" class="nav-link active" data-scroll-target="#blacknet">BlackNet</a></li>
+  <li><a href="#eric-hughes" id="toc-eric-hughes" class="nav-link" data-scroll-target="#eric-hughes">Eric Hughes</a></li>
+  <li><a href="#de-vergadering" id="toc-de-vergadering" class="nav-link" data-scroll-target="#de-vergadering">De vergadering</a></li>
+  <li><a href="#de-cypherpunks" id="toc-de-cypherpunks" class="nav-link" data-scroll-target="#de-cypherpunks">De Cypherpunks</a></li>
+  <li><a href="#de-mailinglijst" id="toc-de-mailinglijst" class="nav-link" data-scroll-target="#de-mailinglijst">De mailinglijst</a></li>
+  <li><a href="#crypto-anarchie" id="toc-crypto-anarchie" class="nav-link" data-scroll-target="#crypto-anarchie">Crypto-anarchie</a></li>
+  <li><a href="#code" id="toc-code" class="nav-link" data-scroll-target="#code">Code</a></li>
+  <li><a href="#de-crypto-oorlogen" id="toc-de-crypto-oorlogen" class="nav-link" data-scroll-target="#de-crypto-oorlogen">De crypto-oorlogen</a></li>
+  <li><a href="#sucessen" id="toc-sucessen" class="nav-link" data-scroll-target="#sucessen">Sucessen</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/CH08.html">Deel II: Cypherpunks</a></li><li class="breadcrumb-item"><a href="../chapters/CH08.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">De Cypherpunk-beweging</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">De Cypherpunk-beweging</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Tim May kon een glimp van de toekomst zien. Hij had een gave om het potentieel van nieuwe technologieën te herkennen en kon voorspellen hoe ze de samenleving zouden beïnvloeden voordat bijna iemand anders dat kon.</p>
+<p>Het meest opvallend was dat May al vroeg inzag hoe belangrijk persoonlijke computers en het internet zouden worden. Zo vroeg als 1973 bemachtigde hij een primitieve DARPA-account op de campus van de UC Santa Barbara, waar hij natuurkunde studeerde. Een jaar later, op 22-jarige leeftijd, kreeg hij een baan bij Intel, waar hij zou werken in de Memory Products Division.</p>
+<p>De jonge natuurkundige leverde een belangrijke bijdrage in de vroege geschiedenis van het bedrijf door het alfadeeltjesprobleem op te lossen: May ontdekte dat de geïntegreerde schakelingen van Intel onbetrouwbaar waren vanwege licht radioactief verpakkingsmateriaal. Dit zette hem op weg naar een geweldige carrière bij de snelgroeiende fabrikant van halfgeleiderchips.</p>
+<p>Omdat hij een deel van zijn salaris in de vorm van aandelenopties ontving, had de natuurkundige van Intel ongeveer een decennium later, tegen midden jaren 80, een klein fortuin vergaard: op slechts vierendertigjarige leeftijd concludeerde May dat hij genoeg rijkdom had verzameld om de rest van zijn leven te onderhouden. Hij besloot vroegtijdig met pensioen te gaan en verhuisde naar Santa Cruz, een kustplaats zo’n dertig mijl ten zuiden van San Jose, Californië. Het grootste deel van het daaropvolgende jaar bracht hij door in een comfortabele strandstoel om boeken over economie, technische papers en cyberpunkromans te lezen.</p>
+<p>Cyberpunkverhalen, een relatief nieuw genre in die tijd, speelden zich meestal af in high-tech dystopieën. De boeken schilderden over het algemeen een grimmige versie van de toekomst, maar eentje waarin het internet (of een geëvolueerde versie ervan) een toevluchtsoord bood voor hun vrijheidsgezinde hoofdpersonen. In <em>True Names</em> van Vernor Vinge, verbergen een groep hackers zich voor de sterke mannen van de regering door hun pseudonieme avatars vrijelijk te laten rondzwerven door een kleurrijke en driedimensionale representatie van het internet zelf. In <em>Snow Crash</em> van Neil Stephenson verloren naties grotendeels hun macht aan grote bedrijven en de maffia, terwijl mensen aan hun miezerig bestaan ontsnapten door alternatieve levens te leiden in een virtuele wereld. En <em>Neuromancer</em> van William Gibson presenteert evenzo een wereldwijd verbonden, virtuele realiteitsomgeving als een kleurrijk alternatief voor een vijandige onderwereldmaatschappij.</p>
+<p>May was van plan om uiteindelijk zelf een cyberpunkroman te schrijven, gemodelleerd naar Ayn Rand’s <em>Atlas Shrugged</em>. In Rand’s verhaal, dat oorspronkelijk in 1957 werd gepubliceerd, omarmt een Amerika in verval socialistische doctrines, terwijl het Amerikaanse volk zich afkeert van de meest succesvolle ondernemers van het land. Sommige van deze ondernemers besluiten uiteindelijk om ‘in staking’ te gaan: een kleine gemeenschap van doorgewinterde vernieuwers vestigt zich in een afgelegen bergketen genaamd ‘Galt’s Gulch’, en gebruiken een scherm van warmtestralingsschermen en reflectoren om zich te verbergen voor de buitenwereld. De subtiele boodschap van het boek is dat Amerika’s meest ijverige ondernemers niet gedemoniseerd, maar gekoesterd en gevierd zouden moeten worden.</p>
+<p>Na het lezen van Rand’s meesterwerk ‘Atlas Shrugged’ als tiener, had dit boek May op het spoor gezet om meer te leren over vrije markten en libertarisme. Uiteindelijk zou hij zich toeleggen op de studie van de Oostenrijkse economie, en in het bijzonder, op de theorieën van Friedrich Hayek.</p>
+<p>Dit alles maakte dat de aspirant-schrijver zich als vanzelfsprekend thuis voelde in een niche subcultuur in Californië die in de jaren ’80 opkwam. Via enkele van zijn lokale vrienden leerde May de Extropianen kennen en vond hij een ideologische thuis. Hoewel hij niet volledig mee was met enkele van de meer buitensporige toekomstvisies van de transhumanisten (ideeën zoals eeuwig leven, het uploaden van de hersenen of een AI singulariteit) was hij wel toegewijd aan vrijheid en technologische vooruitgang.</p>
+<p>In deze context raakte Tim May bevriend met Phil Salin, de ‘high-tech Hayekiaan’ die tevergeefs had geprobeerd om een privé ruimtetransportindustrie op te zetten met zijn start-up Starstruck. May en Salin deelden een passie voor zowel de Oostenrijkse economie als technologie. Beiden geloofden dat de voormalige verder kon worden ontwikkeld door de laatste te benutten.</p>
+<section id="blacknet" class="level2">
+<h2 class="anchored" data-anchor-id="blacknet">BlackNet</h2>
+<p>May had ongeveer een jaar op het strand doorgebracht met boeken toen Salin hem vertelde over AMIX, het ambitieuze internetproject waar hij aan werkte.</p>
+<p>AMIX, legde Salin aan zijn vriend uit, zou een online marktplaats zijn voor het kopen en verkopen van informatie. Hij vertelde May hoe dit de transactiekosten sterk zou kunnen verlagen, wat enorme voordelen zou opleveren voor de vrije markt. Hij vroeg May wat hij van het idee vond; Salin wilde graag de feedback van zijn vriend horen.</p>
+<p>Het concept leek May inderdaad interessant. Maar na er even over na te denken, kwam hij tot de conclusie dat zijn interesse voor heel andere redenen werd gewekt dan die van Salin. May vertelde zijn vriend dat hij dacht dat deskundig advies of winkeltips, de soorten informatie waar Salin aan had gedacht, waarschijnlijk niet echt waardevol zouden zijn. Maar hij geloofde wel dat er een hoge vraag zou zijn naar een heel andere categorie van informatie.</p>
+<p>Geheime informatie.</p>
+<p>Mensen zouden bereid zijn om veel geld te betalen voor bedrijfsgeheimen, geclassificeerde overheidsdocumenten, militaire inlichtingen, kredietgegevens, medische dossiers, verboden religieus materiaal of illegale pornografie, stelde May voor.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> En belangrijk, sommige mensen die toegang hebben tot dit soort informatie zouden bijna zeker bereid zijn om het te verkopen voor de juiste prijs, als ze dat anoniem kunnen doen.</p>
+<p>Natuurlijk wist May dat het kopen en verkopen van dit soort informatie in veel gevallen illegaal zou zijn. Als het op AMIX zou worden gezet, zou Salin naar alle waarschijnlijkheid gedwongen worden om de handel ervan te verbieden. Maar May voorzag dat dit uiteindelijk geen echt verschil zou maken. De ontwikkelingen op het gebied van cryptografie die hij in academische tijdschriften had gelezen, zouden uiteindelijk in handen van mensen komen, legde hij aan Salin uit, dus het was slechts een kwestie van tijd totdat er een volledig anonieme variant van AMIX zou ontstaan waar gebruikers alleen bekend zijn bij hun pseudoniemen, en aankopen werden gedaan met anoniem digitaal geld.</p>
+<p>May gaf deze vorm van informatiemarkt de naam <em>BlackNet</em>.</p>
+<p>In de maanden na zijn eerste gesprek met Salin, bleef May nadenken over de bredere implicaties die een dienst als BlackNet met zich mee zou brengen. Door zijn eigen ideeën verder uit te werken, kwam hij tot de conclusie dat anonieme informatiemarkten uiteindelijk het fundamenteel onveilig konden maken voor grote bedrijven om hun medewerkers überhaupt met gevoelige informatie te laten omgaan. Deze medewerkers zouden immers altijd in de verleiding kunnen komen om een extra zakcentje te verdienen door de data online te verkopen.</p>
+<p>Volgens May zou dit een soort catch-22 situatie kunnen introduceren. Bedrijfsgeheimen zouden bedrijven vermoedelijk een voorsprong op hun concurrenten geven als ze op grote schaal binnen het bedrijf worden gebruikt, maar in dat geval zou het waarschijnlijk slechts een tijdelijke voorsprong zijn voordat de informatie naar de concurrenten lekte. Of, de bedrijfsgeheimen zouden op een zeer beperkte schaal gebruikt kunnen worden om lekken te voorkomen, in welk geval de voorsprong op de concurrenten ook niet zo groot zou zijn.</p>
+<p>Mogelijk, zo stelde May voor, zou het simpele bestaan van een BlackNet de economische prikkels die grote bedrijven in de eerste plaats levensvatbaar maken, fundamenteel kunnen dooreen schudden. In plaats van miljardenbedrijven zouden we door radicale transparantie een meer verspreide en levendige economie kunnen zien, gekenmerkt door een veel diverser aanbod aan kleinere bedrijven.</p>
+<p>En May realiseerde zich uiteindelijk dat deze dynamiek niet alleen grote bedrijven zou beïnvloeden. Het zou ook net zo goed regeringen en hun strijdkrachten kunnen beïnvloeden, evenals andere openbare instellingen die vertrouwelijke informatie verwerken. Een enkele corrupte overheidsmedewerker met financieel gewin als motief zou voldoende zijn om allerlei geclassificeerde dossiers te verspreiden naar de best betalende kopers op het internet. Niet in staat om gevoelige gegevens te beveiligen, zou de macht van de overheid aanzienlijk kunnen afzwakken. May was dol op dit idee.</p>
+<p>En ook een andere lokale vriend van hem…</p>
+</section>
+<section id="eric-hughes" class="level2">
+<h2 class="anchored" data-anchor-id="eric-hughes">Eric Hughes</h2>
+<p>Toen Eric Hughes in de late jaren 80, toen hij halfweg de twintig was, wiskunde studeerde aan Berkeley, had de cryptografische revolutie zijn weg al in het curriculum gevonden. Tegen de tijd dat hij afstudeerde, was hij goed op de hoogte van recente innovaties van mensen zoals Whitfield Diffie, Martin Hellman, Ralph Merkle en David Chaum. En net zoals zij, begreep Hughes intuïtief het veelbelovende potentieel van hun doorbraken in de context van een steeds meer gedigitaliseerde samenleving.</p>
+<p>Hughes ontdekte dat fundamentele mensenrechten, zoals het recht op privacy, constant onder druk stonden van overheden. Zelfs al waren sommige van deze rechten juridisch gewaarborgd, leek het erop dat overheden altijd een manier vonden om inbreuk te maken als ze daartoe de mogelijkheid kregen.</p>
+<p>Voor Hughes bood moderne cryptografie een methode om individuele privacy te beschermen, zonder te moeten vertrouwen op wetten, de interpretatie ervan door politici of rechters. Het recht op privécommunicatie kon in plaats daarvan gewaarborgd worden door technologieën zoals publieke sleutel-cryptografie en mixnetwerken.</p>
+<p>Hughes besefte dat het niveau van privacy dat bereikt kon worden met sterke cryptografie, uiteindelijk volledige immuniteit tegen fysieke bedreigingen en dwang kon bieden. Zolang anonieme internetgebruikers hun werkelijke identiteit geheim konden houden, kon niets dat ze online zouden doen of zeggen hen mogelijk in fysiek gevaar brengen.</p>
+<p>Toen de jonge wiskundige hoorde dat Chaum een bedrijf had opgericht in Nederland om een elektronisch geldsysteem te implementeren, besloot de afgestudeerde van Berkeley om er te solliciteren. Net als Chaum geloofde hij dat geld hoe dan ook digitaal zou worden, en een privacybehoudende vorm van valuta kon het verschil betekenen tussen een vrije samenleving en een totalitaire dystopie. Bovendien geloofde Hughes dat de cryptografische protocollen van Chaum het potentieel hadden om dat verschil te maken. Chaum, op zijn beurt, geloofde dat Hughes een goede aanvulling zou zijn voor zijn bedrijf; hij werd aangenomen.</p>
+<p>Toen Hughes in 1991 in Amsterdam aankwam om zijn nieuwe avontuur te beginnen, raakte hij vrij snel gedesillusioneerd door wat hij in de kantoren van DigiCash aantrof. Hij ontdekte tot zijn ontsteltenis dat Chaum smartcards, de fraudebestendige creditcard-achtige computers speciaal ontworpen voor betalingen, tot hoeksteen van zijn ontwerp had gemaakt. In plaats van zich puur te richten op de kracht van wiskunde en het perfectioneren van de cryptografische protocollen die nodig waren om elektronisch geld voor het internet te implementeren, zag hij dat DigiCash zich concentreerde op dure en niet-controleerbare hardwareproducten om offline betalingen mogelijk te maken.</p>
+<p>Hughes was van mening dat Chaum een ernstige strategische fout maakte door pragmatiek en kostenefficiëntie te onderschatten ten gunste van experimentele features. Uiteindelijk kwam de jonge wiskundige tot de conclusie dat DigiCash toch niet de plek voor hem was. Na slechts zes weken in Amsterdam vertrok hij bij de start-up.</p>
+<p>Eenmaal terug in Californië, overwoog Hughes op zoek te gaan naar een woning die iets dichter bij de zee lag. Hij besloot een paar dagen in Santa Cruz door te brengen om een huis te zoeken. Hij kon er verblijven bij een oude vriend die daar een paar jaar eerder naartoe was verhuisd: Tim May.</p>
+<p>Toen Eric Hughes in 1991 in Santa Cruz aankwam, deelde May zijn visie voor anonieme informatie markten met hem. Hij legde uit hoe BlackNets gebruik zouden maken van het soort privacy tools die Hughes had bestudeerd en wilde bouwen, en hoe deze de macht van grote bedrijven en overheidsinstellingen konden verminderen, of zelfs volledig beperken.</p>
+<p>Hoewel Hughes zichzelf niet zozeer als een libertariër van de vrije markt beschouwde zoals Tim May dat deed, intrigeerde het concept van anonieme informatiemarkten hem net zo goed. De komende paar dagen konden ze het alleen maar hebben over het enorme potentieel van moderne cryptografie. Terwijl ze filosofeerden over de implicaties van anonieme netwerken, de levensvatbaarheid van pseudonieme reputatiesystemen, en de vooruitzichten van grenzeloze betalingen, moest de huizenjacht even wachten.</p>
+<p>Maar na enkele dagen te hebben gediscussieerd over mogelijk baanbrekende toepassingen voor publieke sleutel-encryptie, remailers en digitaal geld, leidden hun gesprekken steeds weer terug naar dezelfde knagende vraag.</p>
+<p><em>Waarom was er nog steeds geen software die deze protocollen implementeerden?</em></p>
+<p>Geen van de baanbrekende crypto-innovaties die sinds de jaren 70 werden voorgesteld, werden in de praktijk gebracht door echte mensen, omdat er geen computerprogramma’s beschikbaar waren die deze protocollen implementeerden. Terwijl academische papers in detail uitlegden hoe Alice en Bob privé konden communiceren dankzij de Diffie-Hellman sleuteluitwisseling of RSA-encryptie, was dit aan het eind van de dag volledig nutteloos zolang er geen software bestond die deze taken voor Alice en Bob uitvoerde.</p>
+<p>Toegegeven, er waren wel een paar projecten in ontwikkeling. In feite werkte Chaum aan een elektronisch betaalsysteem, hoewel hij dat niet helemaal ontwikkelde op de manier die Hughes graag zou zien. Daarnaast werkte een van May’s collega-Extropianen, de lokale Bay Area computerwetenschapper en cryptograaf Phil Zimmermann, aan een op RSA-gebaseerde publieke sleutelencryptiesoftware genaamd <em>Pretty Good Privacy</em> (PGP).</p>
+<p>Toch leken dit erg magere resultaten, als je bedenkt hoe groot de doorbraken waren die May en Hughes zo enthousiast maakten voor de toekomst. Hoewel de nieuwe golf van crypto zich ongeveer vijftien jaar door het academia had verspreid, en een serie succesvolle Crypto-conferenties een reeks baanbrekende concepten hadden voorgesteld, bleef de daadwerkelijke softwareontwikkeling ver achter.</p>
+</section>
+<section id="de-vergadering" class="level2">
+<h2 class="anchored" data-anchor-id="de-vergadering">De vergadering</h2>
+<p>Eric Hughes verhuisde uiteindelijk niet naar Santa Cruz. Maar de reis was zeker niet verspild. Gedurende zijn bezoek aan het stadje aan het strand kwamen Hughes en May overeen dat het tijd was om het gat tussen de academische wereld en de echte wereld te dichten, en zij concludeerden dat zij zelf het initiatief moesten nemen om dit te laten gebeuren. May en Hughes zetten zich in voor het bijeenbrengen van een groep van enkele van de slimste en meest bekwame cryptografen en hackers uit de Bay Area, en gingen aan het werk.</p>
+<p>De eerste persoon die ze bij hun plan betrokken was John Gilmore, een vroege medewerker van Sun Microsystems en medeoprichter van de digitale rechtenorganisatie <em>Electronic Frontier Foundation</em> (EFF). Hij had binnen lokale hackerskringen al geruime tijd gesproken over het brengen van cryptografie naar het grote publiek. De drie van hen (May, Hughes en Gilmore) begonnen vervolgens meer gelijkgestemde individuen uit te nodigen die volgens hen niet zouden terugdeinzen voor enig <em>hands-on</em> technologie-activisme.</p>
+<p>Een paar maanden verstreken, tot op een zaterdag in september een groep van ongeveer twee dozijn gelijkgestemde individuen zich verzamelde in Hughes’ nieuwe en op dat moment nog ongemeubileerde appartement in Oakland. De meeste aanwezigen waren afkomstig uit de hacker-gemeenschap in de Bay Area, terwijl May ook een kleine Extropian-delegatie had geregeld. Dit zorgde voor een bijzonder technologiebewuste groep mensen.</p>
+<p>May opende de bijeenkomst met een inleiding over cryptografie. Hij bracht de aanwezigen op de hoogte van het veelbelovende potentieel van publieke sleutel-cryptografie evenals enige van de innovatieve schema’s die waren voorgesteld sinds de doorbraak van Diffie en Hellman. Hierna deelde hij een door hemzelf samengesteld boekje uit waarin de basisprincipes werden uitgelegd en belangrijke termen werden gedefinieerd. De groep begon vervolgens te discussiëren over de mogelijke gevolgen voor de samenleving als cryptografische hulpmiddelen op grote schaal beschikbaar zouden worden, maar daar tegenover ook de onrustbarende implicaties van een toekomst zonder dergelijke hulpmiddelen.</p>
+<p>In de namiddag begon de hele bende, vanwege een gebrek aan meubels zittend op de vloer, op speelse wijze te experimenteren met analoge representaties van cryptoprotocollen. Ze creëerden het op papier gebaseerde ‘crypto-anarchie-spel’, waarbij enveloppen fungeerden als een protocol voor het anonimiseren van berichten, een prikbord fungeerde als een informatiebeurs en Monopolie-geld werd rondgegeven alsof het digitale contanten waren. Op een leuke manier kreeg iedereen een gevoel van hoe deze systemen zouden functioneren.</p>
+<p>De bijeenkomst was een succes. Aan het einde van een dag vol mini-seminars, brainstormsessies en spelletjes, was iedereen die het appartement van Hughes had bereikt voor deze speciale gelegenheid, aangestoken met hetzelfde gevoel van enthousiasme dat May, Hughes en Gilmore had aangezet om deze unieke groep mensen bij elkaar te brengen. Belangrijker nog, ze deelden nu de visie van de organisatoren dat de crypto-protocollen waarover ze hadden geleerd, geïmplementeerd moesten worden als werkende software en zo ver mogelijk verspreid moesten worden. Om de zaak verder te bevorderen, gingen ze ermee akkoord om de bijeenkomst een maandelijks evenement te maken.</p>
+<p>Op dit moment concludeerde de groep ook dat ze een pakkende naam nodig hadden om zichzelf mee te omschrijven. Hughes had het tot dan toe de Cryptologie Amateurs voor Sociale Onverantwoordelijkheid (of kortweg CASO) genoemd, maar nu overwogen ze suggesties zoals ‘De Crypto Vrijheid Liga’, ‘Privacy Hackers’, en ‘De Crypto Cabal’. Middenin al dit gepraat riep Hughes’ vriendin van dat moment, hacker Jude Milhon, gekscherend uit: ‘Jullie zijn gewoon een stel cypherpunks!’<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
+<p>Met de slimme samentrekking van ‘cipher’ en ‘cyberpunk’, had de groep hun naam te pakken.</p>
+</section>
+<section id="de-cypherpunks" class="level2">
+<h2 class="anchored" data-anchor-id="de-cypherpunks">De Cypherpunks</h2>
+<p>De bijeenkomsten die volgden, werden op wisselende locaties gehouden, vaak bij iemand thuis of in iemands werkruimte, en vormden een centraal punt voor het delen van informatie, discussie en projectcoördinatie. Natuurlijk bood het iedereen ook de kans om elkaar wat beter te leren kennen, terwijl nieuwe mensen welkom waren om zich aan te sluiten en meer te leren over het initiatief en hoe ze konden deelnemen.</p>
+<p>De Cypherpunks schetsten tijdens deze vroege bijeenkomsten toekomstige doelen en werkten hun strategieën uit om deze doelen te bereiken.</p>
+<p>Allereerst hadden de Cypherpunks zich tot dusverre tot doel gesteld om een dystopische toekomst te voorkomen, een toekomst waarin digitale communicatie kan worden gemonitord, geanalyseerd en uiteindelijk misbruikt. Net zoals de cryptografen die hen inspireerden, waren ze bezorgd dat zo’n verlies aan privacy despoten en tirannen zou kunnen versterken, ten koste van de individuele vrijheden: May kondigde op een gegeven moment half-grappend aan dat George Orwell’s <em>1984</em> verplichte lectuur was voor iedereen binnen de groep.</p>
+<p>Maar de Cypherpunks waren niet alleen van plan om privacy te promoten of te eisen. Ze zouden zich niet beperken tot het lobbyen bij verkozen ambtenaren, of werken via het politieke en juridische proces, zoals sommige bestaande belangenorganisaties (zoals de EFF) al deden.</p>
+<p>Een belangrijk onderdeel van hun strategie was dat de Cypherpunks zelf de behoeder van hun privacy gingen worden.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<p>‘We moeten onze eigen privacy verdedigen als we verwachten er nog enige te hebben’, schreef Hughes in ‘Het Manifest van de Cypherpunk’, dat de mede-oprichter van de groep hardop voorlas tijdens een Cypherpunk-bijeenkomst begin 1993. ‘We moeten samenkomen en systemen creëren die anonieme transacties mogelijk maken. Mensen hebben eeuwenlang hun eigen privacy verdedigd met gefluister, duisternis, enveloppen, gesloten deuren, geheime handdrukken en koeriers. De technologieën van het verleden boden geen sterke privacy, maar elektronische technologieën doen dat wel.’</p>
+<p>Ze hadden plannen om deze elektronische technologieën te ontwikkelen en deze als gratis software te verspreiden. In overeenstemming met de hacker-ethiek, hadden ze niet de intentie om iemand om toestemming te vragen om dit te doen.</p>
+<p>‘Cypherpunks schrijven code’, verklaarde Hughes. ‘We weten dat iemand software moet schrijven om privacy te verdedigen, en wij gaan dat doen.’<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+<p>‘Cypherpunks schrijven code’. Dit werd de informele strijdkreet van de groep.</p>
+</section>
+<section id="de-mailinglijst" class="level2">
+<h2 class="anchored" data-anchor-id="de-mailinglijst">De mailinglijst</h2>
+<p>De maandelijkse bijeenkomsten van de Cypherpunks waren vrij en open van aard. Naast de vaste kern van reguliere deelnemers, kwamen er ook nieuwsgierige nieuwkomers om een indruk te krijgen van wat er gaande was. Om de coördinatie hiervan te vergemakkelijken, richtte Hughes een e-maillijst op, gehost op de computer van Gilmore, waar hij aankomende evenementen aankondigde. Elke abonnee ontving handig een bericht in hun inbox met daarin de datum en locatie.</p>
+<p>Maar de mailinglijst van de Cypherpunks zou al snel een groter doel gaan dienen. Het duurde niet lang voordat de lijst werd gebruikt om discussies van de fysieke vergaderingen voort te zetten. Niet veel later werden er volledig nieuwe onderwerpen op de mailinglijst geïntroduceerd, die niets te maken hadden met wat er besproken was tijdens de persoonlijke bijeenkomsten. Toen het aantal berichten toenam, begon de mailinglijst van de Cypherpunks een eigen leven te leiden.</p>
+<p>E-mail had natuurlijk als extra voordeel dat iedereen kon deelnemen, ongeacht de geografische afstand, en vanuit het comfort van hun eigen huis. Vrij voorspelbaar, groeide de Cypherpunks mailinglijst snel en overtrof die de aantallen van de feitelijke Cypherpunk evenementen. Slechts weken na de lancering had de lijst al 100 abonnees, beduidend meer dan de paar dozijn hackers en cryptografen die de maandelijkse bijeenkomsten bijwoonden.</p>
+<p>En de populariteit van de mailinglijst explodeerde pas echt toen het technologietijdschrift Wired in mei 1993 zijn cover-verhaal wijdde aan de Cypherpunks. ‘Rebellen met een doel (jouw privacy)’ stond er op de cover, net boven een foto van drie gemaskerde mannen die de Amerikaanse vlag vasthielden (De uitdrukkingsloze witte maskers met computercodecode erop gekrabbeld verborgen de gezichten van May, Hughes en Gilmore). Dankzij dit cover-verhaal had nu vrijwel iedereen met interesse in computers gehoord van de groep privacy-activisten en door hun wereldwijde bereik, stroomden honderden mensen van over heel de Verenigde Staten en de rest van de wereld toe om zich aan te melden voor hun e-maillijst.</p>
+<p>In de daaropvolgende jaren werd de Cypherpunks mailinglijst een klein fenomeen op het vroege internet. Met tot wel 2.000 abonnees en soms bijna evenveel e-mails per maand, bespraken de Cypherpunks een breed scala aan onderwerpen: van cryptoprotocollen, tot overheidsbeleid, tot implementaties van software, en tips voor boeken of films, evenals periodieke klaagzangen en verhitte discussies. De lijst bood een platform voor publieke discussie tussen enkele van de meest getalenteerde hackers op de planeet, terwijl Silicon Valley’s CEO’s en mainstream journalisten ook graag meelazen.</p>
+<p>Tim May onderscheidde zich op de mailinglijst dankzij zijn vele mails: niemand was actiever dan hij, en niemand leverde een groter aanbod aan bijdragen. Hij schetste toekomstscenario’s, deelde ideeën, nam deel aan discussies, gaf technische uiteenzettingen, stelde strategieën voor, gaf commentaar op actuele gebeurtenissen, linkte naar relevante artikelen en deelde regelmatig ‘snel geschreven’ essays, soms zelfs verscheidene op een dag.</p>
+<p>Maar hij onderscheidde zich ook door zijn unieke gevoel voor humor. Soms voerde hij sarcastisch het woord tegen de Cypherpunk-agenda vanuit het perspectief van een Ingsociaanse overheid en kafferde hij andere deelnemers aan de lijst uit als ‘burgereenheden’. Andere keren maakte hij opzettelijk politiek incorrecte grappen om de grenzen uit te dagen van wat als sociaal acceptabel werd beschouwd. Zo veranderde hij op een gegeven moment bijvoorbeeld zijn e-mailhandtekening in ‘een bijbeltekst in afwachting van beoordeling onder de Communications Decency Act’, waarbij de begeleidende tekst een incestueuze orgie beschrijft.<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a> Of misschien overschreed hij de sociaal aanvaardbare grenzen ronduit, afhankelijk van wie je het zou vragen. May leek er hoe dan ook niet veel om te geven.</p>
+<p>En zijn aanwezigheid op de mailinglijst diende ook nog een ander waardevolle doel. Hoewel de lijst volledig ongemodereerd was, speelde May vaak de rol van een onofficiële moderator, en begeleidde gesprekken waar nodig. Als een discussie dreigde te ontsporen, had hij de gewoonte om zijn kenmerkende analytische perspectief in te brengen, waarbij hij uitlegde waarom hij geloofde dat bepaalde opmerkingen of onderwerpen al dan niet geschikt waren voor de lijst, maar zonder daadwerkelijk iets te verbieden; hij wilde niet dat iemand die macht had, zelfs hijzelf niet. In plaats van anderen op te leggen hoe ze zich moeten gedragen, had May een manier om het voortouw te nemen door voorbeeld, en wanneer andere abonnees klaagden over de inhoud op de mailinglijst, moedigde hij hen ook aan om het voortouw te nemen door voorbeeld.</p>
+<p>Voor veel van zijn abonnees was May in de maanden en jaren dat de lijst actief was waarschijnlijk de belichaming van wat de Cypherpunk-filosofie voorstelde. Door zijn sterke aanwezigheid, zowel qua inhoud als in zijn sturende rol, was hij een leidende en kenmerkende stem van de beweging geworden.</p>
+<p>May zelf, daarentegen, benadrukte vaak dat hij niet de hele Cypherpunk-gemeenschap vertegenwoordigde. Net zoals hij geen enkele moderator in controle wilde hebben over de mailinglijst, verwierp hij ten stelligste het idee dat hij, of wie dan ook, als een formele leider of woordvoerder van de beweging beschouwd moest worden. Hij stond erop dat hij slechts één stem was van de velen.</p>
+<p>‘Hoewel ieder van ons wellicht zijn of haar persoonlijke (hiërarchische) rangorde van anderen heeft, is het belangrijk dat we nooit hebben geprobeerd deze rangordes te formaliseren of erover te ’stemmen’. Of te stemmen om een Grote Leider te kiezen’, betoogde May op een gegeven moment. ‘Onze kracht zit in onze aantallen en in onze ideeën, niet in de man die we op een kantoor in Washington hebben geïnstalleerd zodat hij persconferenties kan geven en <em>oneliners</em> kan leveren voor journalisten. Onze kracht zit in ons meerkoppige (durf ik ’Medusa’ te zeggen?), multinationale, informeel gebrek aan structuur.’<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a></p>
+<p>Inderdaad, de Cypherpunks waren geen organisatie in de traditionele zin van het woord. Het was een bewust informele, ongestructureerde en open groep. De Cypherpunks hadden geen stemprocedure, geen vertegenwoordigers, en ze gaven zelfs geen gezamenlijke verklaringen. Iedereen kon een Cypherpunk worden, maar alle Cypherpunks zetten zich uiteindelijk in als individuen. Ze hadden geen specifieke taken of regels, noch kon iemand anderen verantwoordelijk houden voor hun eigen acties.</p>
+<p>Toch werd actie aangemoedigd. Als iemand vond dat de Cypherpunks een specifieke technologie moesten ontwikkelen, aan een bepaald evenement moesten deelnemen of op een andere manier tot de zaak konden bijdragen, was het aan die persoon om het initiatief te nemen en te kijken of anderen ook wilden helpen.</p>
+<p>In feite werkte de Cypherpunk-beweging niet alleen aan een ander type toekomst. Voor May vertegenwoordigde het die toekomst al.&nbsp;Hij zag de open, toestemmingloze en non-hiërarchische manier waarop de Cypherpunks en hun e-maillijst opereerden als een model voor een opkomende <em>crypto-anarchistische</em> samenleving.</p>
+</section>
+<section id="crypto-anarchie" class="level2">
+<h2 class="anchored" data-anchor-id="crypto-anarchie">Crypto-anarchie</h2>
+<p>De Extropians speculeerden soms over het creëren van vrije gebieden om te ondermijnen, zich te verbergen, of te ontsnappen aan staatscontrole over hun levens. Sommigen van hen stelden voor om steden te bouwen op grote drijvende eilanden in de zee – het zogenaamde <em>seasteading</em> – als de weg voorwaarts. Anderen geloofden dat het misschien mogelijk zou zijn om een klein eiland op te kopen om er een libertaire samenleving te stichten. Weer anderen suggereerden dat ze allemaal naar een specifieke jurisdictie moesten verhuizen en proberen lokale politieke structuren te beïnvloeden om zoveel mogelijk wetten en regulaties aan de kant te zetten.</p>
+<p>Maar Tim May had eigenlijk niet echt zin om te verhuizen. Hij had een beter idee.</p>
+<p>Sinds May de stukjes bij elkaar had gevoegd om het ontwrichtende potentieel van anonieme informatiemarkten te zien, was hij een toekomst gaan visualiseren die leek op de werelden uit zijn cyberpunk boeken, terwijl hij tegelijkertijd analogieën maakte met <em>Atlas Shrugged</em>. Hij besefte dat het soort samenleving dat hij wilde beschrijven in zijn aankomende roman, werkelijkheid kon worden.</p>
+<p>In de roman van Rand maken de productieve ondernemers hun ontsnapping mogelijk met behulp van futuristische technologie. Hoewel May erkende dat warmtestralingsschermen nog steeds tot het domein van de sciencefiction behoorden, was de medeoprichter van de Cypherpunk-beweging gaan inzien dat het internet en sterke cryptografie uiteindelijk een vergelijkbare ontsnapping uit de macht van de staat konden faciliteren, net als in de verhalen van de cyberpunk-genre.</p>
+<p>May schetste deze visie in ‘Het crypto-anarchistisch manifest’.<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a> Hij schreef het oorspronkelijk voor de editie van de Crypto-conferentie in 1988, las het korte manifest voor tijdens de allereerste bijeenkomst van de Cypherpunks in Hughes’s appartement en deelde het later ook via hun mailinglijst.</p>
+<p>‘Een spook waart rond in de moderne wereld, het spook van de crypto-anarchie’, begon het manifest met een knipoog naar het Communistisch Manifest van Karl Marx en Friedrich Engels, voordat het voorspelde dat computertechnologie en cryptografische protocollen ‘de aard van de overheidsregulering volledig zullen veranderen, het vermogen om de economische interacties te belasten en te controlen, het vermogen om informatie geheim te houden, en zelfs de aard van vertrouwen en reputatie zullen veranderen.’</p>
+<p>Om een paar paragrafen verder te concluderen:</p>
+<p>‘Net zoals de technologie van drukken de macht van de middeleeuwse gilden en de sociale machtsstructuur heeft veranderd en verminderd, zo zullen cryptologische methoden de aard van bedrijven en de inmenging van de overheid in economische transacties fundamenteel veranderen.’<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a></p>
+<p>Het internet was nog niet getransformeerd naar de kleurrijke 3D-wereld zoals die in de romans van Vinge, Stephenson en Gibson werd voorgesteld. Maar als je deze verhalen meer als metaforische representaties van online domeinen beschouwde, had May ze toch als visionair leren waarderen. Terwijl het internet verder zijn onvermijdelijke pad naar massa-adoptie vervolgde, en mensen stapje voor stapje zouden leren om zichzelf online te organiseren, geloofde May dat de instellingen van de reële wereld uiteindelijk zouden worden vervangen door hun cyber-equivalenten. Het internet zou in toenemende mate dienen als facilitator voor een parallelle, digitale samenleving, met eigen gemeenschappen, ondernemingen en uiteindelijk ook eigen economieën.</p>
+<p>‘Dit maakt snelle experimentatie, zelfselectie en evolutie mogelijk’, stelde May voor op de Cypherpunks mailinglijst. ‘Als mensen een bepaalde virtuele gemeenschap beu raken, kunnen ze deze verlaten. De cryptografische aspecten zorgen ervoor dat hun lidmaatschap van een bepaalde gemeenschap onbekend blijft voor anderen (vis-a-vis de fysieke of buitenwereld, oftewel, hun ’echte namen’) en fysieke dwang vermindert.’</p>
+<p>Verdergaand: ‘De elektronische wereld is geenszins volledig, aangezien we nog steeds een groot deel van ons leven in de fysieke wereld zullen doorbrengen. Maar de economische activiteit in het domein van het Net neemt sterk toe en deze ideeën van ’crypto-anarchie’ zullen de macht van fysieke staten om inwoners te belasten en te dwingen verder ondermijnen.’<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a></p>
+<p>Dit alles werd mogelijk gemaakt door de kracht van cryptografie. Niet alleen zouden crypto-middelen gebruikers helpen hun echte identiteit te beschermen, waardoor ze beschermd werden tegen fysiek geweld, maar zouden dezelfde middelen ook toestaan dat twee personen zaken konden doen zonder dat een van hen ooit wist met wie ze te maken hadden.</p>
+<p>‘[…] sterke cryptografie is het ’bouwmateriaal’ van cyberspace’, schreef May aan zijn mede-Cypherpunks, ‘de mortel, de bakstenen, de steunbalken, de muren. Niets anders kan de ’permanentie’ bieden… zonder crypto zijn de muren bij de eerste aanraking door een kwaadwillend persoon of organisatie onderhevig aan instorting. Met crypto kan zelfs een 100 megaton waterstombom de muren niet doorbreken.’<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a></p>
+<p>May voorzag dat Cypherpunk-tools mensen zouden helpen om hun economische activiteit voor de staat te verbergen en zo een ‘Galt’s Gulch in cyberspace’ zouden creëren. Hij keek uit naar een toekomst waarin dit uiteindelijk zou leiden tot de volledige ineenstorting van regeringen. Zonder gedwongen herverdeling van welvaart, zou deze toekomstige economie zichzelf organiseren rondom vrijwillige interactie en vrije markten. Er zou een <em>spontane orde</em> ontstaan via het internet.</p>
+<p>‘In feite heeft Hayek héél véél met de Cypherpunks te maken!’ schreef May op de Cypherpunk-mailinglijst. ‘Van ’The Road to Serfdom’ tot ‘Law, Legislation, and Liberty’, zijn werken hebben diepgaande invloed op mij gehad en op vele anderen. […] Ik zou zelfs zeggen dat Hayek een kandidaat zou zijn geweest om op de cover van ‘Wired’ te staan… natuurlijk ervan uitgaande dat hij 60 jaar jonger was, sommige van zijn lichaamsdelen had gepiercet, en beter nog, een Netchick was.’<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a></p>
+</section>
+<section id="code" class="level2">
+<h2 class="anchored" data-anchor-id="code">Code</h2>
+<p>Tim May was er zich goed van bewust dat de crypto-anarchistische ideeën die hij verspreidde niet precies aantrekkelijk waren voor een breed publiek; niet iedereen hoopt op een ineenstorting van regeringen. Waarschijnlijk zou het nog erger worden als men erachter zou komen dat onkraakbare encryptie en anonieme mixnetwerken grootschalige verspreiding van kinderpornografie mogelijk maakten en veilige communicatie voor terroristische cellen faciliteerden. Veel mensen zouden deze nieuwe instrumenten waarschijnlijk met angst en woede bekijken.</p>
+<p>Maar May weigerde de risico’s die deze nieuwe technologieën introduceerden te bagatelliseren.</p>
+<p>‘Privacy heeft zijn prijs’, betoogde hij simpelweg. ‘Het vermogen van mensen om achter gesloten deuren misdaden te beramen en te plegen is evident, en toch eisen we geen verborgen camera’s in woningen, appartementen en hotelkamers!’<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a></p>
+<p>Voor May was crypto-anarchie bovendien geen verre utopie die brede steun voor zijn ideeën vereiste: integendeel, hij beschouwde het bijna als een voldongen feit. Hij begreep dat de weg ernaartoe bezaaid kon zijn met tegenslagen en onderdrukkende wetten, gerechtvaardigd door beleidsmakers die angst inboezemden over de ‘Vier Ruiters van de Infocalyps’: terroristen, pedofielen, witwassers en pornografen. Maar cypherpunk tools waren goedkoop te verspreiden, makkelijk te gebruiken en konden niet on-uitgevonden worden. Op de lange termijn, geloofde May, was succes vrijwel gegarandeerd.</p>
+<p>Dit betekende niet dat elke Cypherpunk Mays nogal radicale visie deelde, noch hoefden ze dat te doen. Vaker wel dan niet waren Cypherpunks libertariërs, maar velen onderschreven ook een gematigder wereldbeeld dan May. Sommige Cypherpunks waren zelfs helemaal geen libertariërs, met meerdere van hen die zichzelf identificeerden als socialist.</p>
+<p>‘Ik ben geen libertariër, en het is onwaarschijnlijk dat ik dat ooit zal zijn’, schreef Hughes aan de mailinglijst. ‘Het streven naar privacy staat los van de meeste partijpolitieke standpunten. Zo sterk als de libertarische aanwezigheid op deze lijst is, is het geenszins de enige visie. Juist omdat cypherpunk kwesties dwars door het politieke spectrum snijden, zijn ze zo krachtig.’<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a></p>
+<p>Wat van belang was, stemden May en Hughes mee in, was dat de Cypherpunks ongeacht hun politieke overtuiging konden werken aan een gezamenlijk doel: het ontwikkelen en verspreiden van tools voor privacy. <em>Cypherpunks schrijven code</em>.</p>
+<p>Inderdaad, de groep was nauwelijks gestart toen Hughes een vroege versie ontwikkelde van de eerste remailer ooit, gebaseerd op het mixnetwerkvoorstel van David Chaum. De eerste uitvoering van deze remailer zou emails accepteren, details die naar de afzender verwezen verwijderen en vervolgens doorsturen naar, of de volgende remailer, of naar de bedoelde ontvanger van de email. Deze uitvoering van Hughes omvatte echter nog geen encryptietools; het was nog altijd in ontwikkeling.</p>
+<p>Gelukkig kreeg Hughes al snel hulp van een andere Cypherpunk. Hal Finney, een van de Extropianen die zich bij Tim May hadden aangesloten voor de Cypherpunk-bijeenkomsten, was net begonnen met het bijdragen aan de implementatie van Phil Zimmermann’s PGP. Met zijn nieuw verworven kennis van publieke sleutel-cryptografie duurde het niet lang voordat Finney PGP integreerde in de remailer-code van Hughes.</p>
+<p>Slechts enkele weken na de eerste samenkomst hadden de Cypherpunks al een volledig werkende remailer ontwikkeld. En die gingen ze ook zelf gebruiken. Finney en een aantal andere Cypherpunks namen het initiatief om de remailer-programma’s uit te voeren, en ze verspreidden software en beginnershandleidingen zodat anderen zich bij hen konden aansluiten. Op deze manier werden remailers operationeel. Tegen het einde van 1992 kon iedereen met een computer en internetverbinding e-mails versturen zonder hun metadata te onthullen.</p>
+<p>Zo rond diezelfde tijd was Zimmermann van plan om PGP 2.0 te lanceren. De bijdragen van Finney aan deze nieuwe versie hadden geleid tot aanzienlijke verbeteringen ten opzichte van de eerste versie, en de software beschikte nu over een <em>web-of-trust</em> systeem. Dit stelt gebruikers in staat om cryptografisch te garanderen dat een publieke sleutel werkelijk aan een bepaald persoon toebehoort.</p>
+<p>Met de gloednieuwe remailer-software van Hughes en de verbeterde encryptietool van Zimmermann, gingen de Cypherpunks goed van start.</p>
+<p>Maar het zou niet lang duren voordat ze in het defensief gedwongen werden…</p>
+</section>
+<section id="de-crypto-oorlogen" class="level2">
+<h2 class="anchored" data-anchor-id="de-crypto-oorlogen">De crypto-oorlogen</h2>
+<p>Toen Bill Clinton in januari 1993 het ambt van de 42e President van de Verenigde Staten op zich nam, waren er door zijn nieuwe administratie snel zorgen geuit omtrent het mogelijk onheilspellende gebruik van persoonlijke computers en het internet. Ze kondigden aan dat wetshandhavingsinstanties nieuwe tools nodig zouden hebben om mee te kunnen gaan met het recente tempo van technologische vernieuwing.</p>
+<p>Dit bleek een voorbode te zijn van de ‘crypto-oorlogen’ van de jaren negentig: de Amerikaanse overheid zou proberen het gebruik van cryptografie te beperken.</p>
+<p>De eerste klap viel toen Zimmermann het onderwerp werd van een strafrechtelijk onderzoek. In deze periode werden cryptografische protocollen die sleutels gebruikten die groter waren dan 40 bits in de Verenigde Staten geclassificeerd als munitie onder de definitie van de <em>Arms Export Control Act</em>. Het verzenden of meenemen van een sterk cryptosysteem naar het buitenland vereiste een vergunning, vergelijkbaar met de vergunning die nodig is voor internationaal vervoer van vuurwapens, munitie of explosieven.</p>
+<p>Zimmermann bezat geen dergelijke licentie, maar hij verspreidde zijn gratis software wel via het internet. Omdat het internet geen landsgrenzen kent, insinueerde de overheid dat Zimmermann zijn software en de daarin opgenomen cryptoprotocollen illegaal geëxporteerd had.</p>
+<p>En toen was er de Clipper-chip, een chipset ontwikkeld door de NSA en ondersteund door de regering Clinton. De Clipper-chip gebruikte cryptografie met publieke sleutels om data te versleutelen, maar de NSA had een speciale ontcijfersleutel toegevoegd aan het protocol. Het plan was dat telecombedrijven zoals AT&amp;T de chipset zouden adopteren, zodat gebruikers hun telefoongesprekken konden versleutelen. De telecombedrijven zouden echter een ontcijfersleutel bewaren, die op verzoek aan de regering kon worden overhandigd. Dergelijke <em>sleutelbewaring</em> was noodzakelijk voor nationale veiligheidsredenen, stond de regering Clinton erop: de autoriteiten moesten in staat zijn om de telefoongesprekken van potentiële en verdachte terroristen te beluisteren.</p>
+<p>De Clipper-chip werd tegengewerkt door voorstanders van privacy en belangenorganisaties voor burgerlijke vrijheden in het hele land, waaronder de Electronic Frontier Foundation (EFF), het Electronic Privacy Information Center (EPIC) en de American Civil Liberties Union (ACLU). Ook technologietijdschriften zoals <em>Wired</em>, cryptografie-start-ups zoals RSA van Ron Rivest, Adi Shamir en Leonard Adleman, en enkele politici (zowel Democraten als Republikeinen) voerden oppositie. Critici waren van mening dat de zogenaamde sleutelbewaring de kans vergrootte dat burgers onderworpen zouden worden aan verhoogde en mogelijk onwettige overheidssurveillance.</p>
+<p>Uiteraard wezen de Cypherpunks de Clipper-chip ook af. De weerstand tegen de NSA-chip werd een van de eerste regelmatig terugkerende onderwerpen op de mailinglijst. Het was duidelijk dat het overhandigen van decryptiesleutels aan telecombedrijven (en, in verlengde daarvan, aan overheidsdiensten die de telecoms reguleren) deze cryptografische protocollen bijna nutteloos zou maken.</p>
+<p>Voor de Cypherpunks betekende privacy in grote mate vrijheid van overheidsinmenging. Aalen zo konden ze een Orwelliaanse toekomst voorkomen. Uiteraard zou de crypto-anarchistische visie waarschijnlijk niet ver komen met hun eigen ‘Galt’s Gulch’ in cyberspace als de cryptografische bouwstenen die hen beschermden tegen de staat poreus bleken te zijn.</p>
+<p>Tegelijkertijd stelden de Cypherpunks dat het verplichten van het gebruik van gecompromitteerde of zwakke encryptieprotocollen de wereld in geen enkele zin betekenisvol veiliger zou maken. Kwaadwillende actoren zouden nog steeds degelijke encryptie kunnen gebruiken onder de zwakke laag van Clipper-chip encryptie om de inhoud van hun communicatie te verbergen. Dus zelfs als overheidsagenten hun toegewezen decryptiesleutel zouden gebruiken, zouden ze enkel meer versleutelde tekst tegenkomen.</p>
+<p>Tim May was van mening dat de Cypherpunks een cruciale rol konden spelen in de naderende cryptografische conflicten. In tegenstelling tot gevestigde belangengroepen die beter georganiseerd, beter gefinancierd en beter in contact stonden met beleidsmakers en toezichthouders, zag May in het anarchistische organisatiemodel van de Cypherpunks juist een sterkte. Verspreid over de Verenigde Staten en daarbuiten, en zonder formeel leiderschap of organisatiestructuur, waren de Cypherpunks niet te coöpteren. Terwijl organisaties zoals EFF, EPIC en ACLU bereid waren tot zachtaardige onderhandelingen, weigerden de Cypherpunks elke vorm van gematigdheid te adopteren.</p>
+<p>‘Op een bepaalde manier vervullen de Cypherpunks een belangrijke ecologische niche door het voeren van de radicale, buitensporige oppositie… misschien een beetje zoals de rol die de Zwarte Panters, Yippies en Weather Underground een generatie geleden speelden’, schreef May. <a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a></p>
+<p>Inderdaad, het verzet van de Cypherpunks nam allerlei vormen aan: juist omdat ze geen formele organisatie hadden, handelden de Cypherpunks uiteindelijk uit eigen beweging. Sommigen van hen verspreidden flyers met informatie over de Clipper-chip in lokale winkelcentra. Anderen analyseerden hoe de chip werkte om te proberen fouten in het ontwerp te vinden. En natuurlijk was het schrijven van code de voornaamste strategie van de Cypherpunks.</p>
+<p>‘Potentiële inbreuk in de echte wereld zou het volledig verbieden van sterke crypto kunnen zijn, waarbij ciphers goedgekeurd moeten worden door de overheid’, opperde May in zijn denken over verdere escalatie van de crypto-oorlogen. ‘Zo’n verbod zal een zwaar en verwoestend effect hebben op onze privacy, op ons vermogen om cyberspace-werelden op te bouwen die ik heb beschreven, en over het algemeen op computer-gemedieerde markten.’</p>
+<p>Hij concludeerde: ‘Ons onmiddellijke doel moet zijn om ervoor te zorgen dat de ’geest uit de fles is’, dat voldoende crypto-tools en kennis wijdverspreid zijn zodat zo’n overheidsverbod zinloos wordt.’<a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a></p>
+</section>
+<section id="sucessen" class="level2">
+<h2 class="anchored" data-anchor-id="sucessen">Sucessen</h2>
+<p>De Cypherpunks waren gemotiveerd en gedreven, maar stonden tegenover de volle kracht van de Amerikaanse overheid. Weinigen hadden verwacht dat ze als overwinnaars uit de crypto-oorlogen zouden komen.</p>
+<p>Toch boekten ze het ene succes na het andere.</p>
+<p>Een van de meest opmerkelijke overwinningen kan worden toegeschreven aan Matt Blaze, een beveiligingsonderzoeker bij Bell Labs en een frequente deelnemer aan de Cypherpunks mailgroep. In 1994, deelde Blaze een pijnlijke klap uit aan de Clipper-chip door een paper te publiceren die een fout aantoonde in het ontwerp van de chip, die gebruikers toestond om de speciale decryptiesleutel uit te schakelen. Terwijl de reputatieschade van de Clipper-chip al groeide door de hevige tegenstand die het te verduren had, blijkt nu dat de Clipper-chip zelfs niet deed waarvoor hij verondersteld werd ontworpen te zijn.</p>
+<p>Het was voldoende om telecombedrijven ervan te overtuigen de NSA technologie niet te adopteren. Het project zou geheel ter ziele gaan tegen 1996.</p>
+<p>Zo wisten Cypherpunks Ian Goldberg en David Wagner in 1995 ook de gesloten broncode, en <em>export-grade</em> encryptiestandaard van Netscape te kraken. Dit deden ze in het kader van een wedstrijd, ontworpen door Hal Finney, en ze hadden hier slechts enkele uren voor nodig. Het schaadde het imago van een van de vooraanstaande bedrijven van Silicon Valley.</p>
+<p>Als reactie op de inbreuk, beweerde Netscape dat ze wettelijk verhinderd waren om sterkere encryptiestandaarden aan te bieden in het buitenland. Hoewel dit maar een deel van het probleem was, bood het weinig geruststelling aan potentiële klanten buiten de VS. Het incident benadrukte ook een ander probleem als gevolg van de classificatie van encryptie als munitie: Amerikaanse technologiebedrijven liepen het risico marktaandeel te verliezen aan buitenlandse concurrenten.<a href="#fn16" class="footnote-ref" id="fnref16" role="doc-noteref"><sup>16</sup></a></p>
+<p>Weer een andere Cypherpunk, Brad Huntting, kwam in 1994 met een slim idee om de exportrestricties op dergelijke crypto-protocollen uit te dagen: hij publiceerde code in fysieke vorm om aan te tonen dat verboden op software-distributies in strijd zijn met fundamentele rechten.</p>
+<p>‘Het recht op vrije meningsuiting wordt beschermd door de Amerikaanse grondwet. We hoeven alleen maar aan te tonen dat encryptiesoftware gelijk staat aan spraak’, schreef hij aan de mailinglijst. ‘Dit zou niet te moeilijk moeten zijn (misschien een beetje pijnlijk, maar niet moeilijk). De daad zou een gepubliceerd werk moeten betreffen (bij voorkeur in de gedrukte zin).’<a href="#fn17" class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a></p>
+<p>Ongeveer een jaar later publiceerde Zimmermann ‘<em>PGP: Broncode en Interne Werking</em>’: hij had de volledige PGP-broncode in een boek afgedrukt. Zoals Huntting inderdaad had aangegeven, vallen boeken (inclusief de export ervan) in de VS onder de bescherming van het Eerste Amendement. Door dezelfde informatie die hem onderwerp van een strafrechtelijk onderzoek had gemaakt, vrij en legaal in harde kaft te verspreiden, legde Zimmermann de absurditeit van de regelgeving rondom crypto-export bloot.</p>
+<p>Hoewel het nooit werd bevestigd dat het iets te maken had met de publicatie van zijn boek, liet de Amerikaanse overheid Zimmermann’s zaak vroeg in 1996 vallen.</p>
+<p>Bovendien zouden de exportverboden tegen het einde van dat jaar volledig worden opgeheven. Een combinatie van juridische uitdagingen, economisch schadelijke beperkingen op de Amerikaanse technologie-industrie, en de onomkeerbaar wijdverbreide verspreiding van crypto-protocollen buiten de Verenigde Staten bewoog de Clinton administratie om commerciële encryptie volledig van de Munitielijst te schrappen.</p>
+<p>De Cypherpunks hadden dit niet alleen gedaan: de beweging om cryptografie tijdens de crypto-oorlogen te verdedigen was breder dan enkel zij. Maar, zij hadden onmiskenbaar een belangrijke rol gespeeld. Het losse collectief van hackers en cryptografen, verenigd door weinig meer dan een mailinglijst op het internet, was de strijd aangegaan met de Amerikaanse overheid, en had gewonnen.</p>
+
+
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>Tim May, ‘Untraceable Digital Cash, Information Markets, and BlackNet’, The Computers Freedom &amp; Privacy Conference , geraadpleegd <a href="https://web.archive.org/web/20130501134401/https://osaka.law.miami.edu//~froomkin/articles/tcmay.htm">online</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Tim May, ‘The Cyphernomicon’, oorspronkelijk verspreid via de Cypherpunk-mailinglijst, 10 september 1994, beschikbaar <a href="https://cdn.nakamotoinstitute.org/docs/cyphernomicon.txt">online</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>Hal Finney, ‘Chaum on the wrong foot?’ oorspronkelijk via de Cypherpunk-mailinglijst, 22 augustus 1993, beschikbaar <a href="https://cypherpunks.venona.com/date/1993/08/msg00652.html">online</a><a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>Eric Hughes, ‘A Cypherpunk’s Manifesto’, oorspronkelijk via de Cypherpunk-mailinglijst, 17 maart 1993, beschikbaar <a href="https://cypherpunks.venona.com/date/1993/03/msg00392.html">online</a><a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Tim May, ‘Degrees of Freedom’, oorspronkelijk via de Cypherpunk-mailinglijst, 8 februari 1996, beschikbaar <a href="https://cypherpunks.venona.com/date/1996/02/msg00637.html">online</a><a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>Tim May, ‘Who shall speak for us?’, oorspronkelijk via de Cypherpunk-mailinglijst, beschikbaar <a href="https://cypherpunks.venona.com/date/1995/09/msg02189.html">online</a><a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>De titel en tekst waren een soort parodie op het Communistisch Manifest van Karl Marx en Friedrich Engels, terwijl de term crypto-anarchie een soort woordspeling is die verwijst naar crypto-fascisme, de geheime steun voor fascisme.<a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>Tim May, ‘The Crypto Anarchist Manifesto’, oorspronkelijk via de Cypherpunk-mailinglijst, 22 november 1992, beschikbaar <a href="https://cypherpunks.venona.com/date/1992/11/msg00204.html">online</a><a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>Tim May, ‘Libertaria in Cyberspace’, oorspronkelijk via de Cypherpunk-mailinglijst, 9 augustus 1993, <a href="https://cypherpunks.venona.com/date/1993/08/msg00168.html">online</a><a href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10"><p>Tim May, ‘Cyberspace, Crypto Anarchy, and Pushing Limits’, oorspronkelijk via de Cypherpunk-mailinglijst, 3 april 1994, <a href="https://cypherpunks.venona.com/date/1994/04/msg00096.html">online</a><a href="#fnref10" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn11"><p>Tim May, ‘Hayek’, oorspronkelijk via de Cypherpunk-mailinglijst, 27 augustus 1996, <a href="https://cypherpunks.venona.com/date/1996/08/msg02102.html">online</a> Als een grappige noot sloot Tim May een andere e-mail af met een compliment aan een van zijn mede-Cypherpunks: ‘Ik wil gewoon eindigen op een positieve noot voordat ik vertrek voor de feestdagen.’ Zie: Tim May, ‘Re: The War on Some Money [long]’, oorspronkelijk via de Cypherpunk-mailinglijst, 21 december 1995, <a href="https://cypherpunks.venona.com/date/1995/12/msg01044.html">online</a><a href="#fnref11" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn12"><p>Tim May, ‘’Stopping Crime’ Necessarily Means Invasiveness’, oorspronkelijk via de Cypherpunk-mailinglijst, 17 oktober 1996, <a href="https://cypherpunks.venona.com/date/1996/10/msg01269.html">online</a><a href="#fnref12" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn13"><p>Eric Hughes, ‘No digital coins’, oorspronkelijk via de Cypherpunk-mailinglijst, 24 augustus 1993, <a href="https://cypherpunks.venona.com/date/1993/08/msg00690.html">online</a><a href="#fnref13" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn14"><p>Tim May, ‘Crypto Activism and Respectability’, oorspronkelijk via de Cypherpunk-mailinglijst, 21 april 1993, <a href="https://cypherpunks.venona.com/date/1993/04/msg00400.html">online</a><a href="#fnref14" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn15"><p>Tim May, ‘Opportunities in Cyberspace’, oorspronkelijk via de Cypherpunk-mailinglijst, 8 september 1993, <a href="https://cypherpunks.venona.com/date/1993/09/msg00140.html">online</a><a href="#fnref15" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn16"><p>Michelle Quinn, ‘The Cypherpunks Who Cracked Netscape’, San Francisco Chronicle, 20 september 1995, <a href="https://people.eecs.berkeley.edu//~daw/press/iang/ian1.html">online</a><a href="#fnref16" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn17"><p>Tim May, ‘Re: Stalling the crypto legislation for 2-3 more years’, oorspronkelijk via de Cypherpunk-mailinglijst, 23 juli 1994, <a href="https://cypherpunks.venona.com/date/1994/07/msg01245.html">online</a><a href="#fnref17" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../chapters/CH07.html" class="pagination-link" aria-label="De Extropianen">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">De Extropianen</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../chapters/CH09.html" class="pagination-link" aria-label="Cypherpunk-valuta">
+        <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Cypherpunk-valuta</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link active" href="../index.html" aria-current="page">
+<p>License</p>
+</a>
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

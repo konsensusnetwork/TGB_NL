@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "Het Genesis Boek"
-  subtitle: "Het verhaal van de mensen en projecten die tot Bitcoin leidden"
+  title: "Genesis"
+  subtitle: "Het verhaal van de mensen en projecten die Bitcoin mogelijk maakten"
   author: "Aaron van Wirdum"
   translator: Theo Hague
   date: "2024-09-12"

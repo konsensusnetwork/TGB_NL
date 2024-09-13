@@ -12,9 +12,9 @@ In plaats daarvan gaven ze hem een baan.
 
 Dit weerspiegelde de tamelijk anarchistische cultuur in het AI Lab. De leiders van het onderzoekscentrum hadden niet veel interesse in ervaring of kwalificaties, maar waardeerden vaardigheid en potentieel. Het was duidelijk dat dit wonderkind van Harvard, die het lab bezocht om hun computerdocumentatie te bestuderen, goed bij hen zou passen.[^30]
 
-## 'De cultuur van hackers[^31]'
+## De hackercultuur
 
-De anarchistische cultuur in het AI Lab was ongeveer een decennium eerder voor het eerst ontstaan.
+De anarchistische cultuur in het AI Lab was ongeveer een decennium eerder voor het eerst ontstaan.[^31]
 
 Het begon toen het Lincoln Lab, een militair onderzoeks- en ontwikkelingscentrum voor geavanceerde technologie verbonden aan het MIT, rond 1960 een kleine revolutie ontketende door de universiteit de TX-0 te schenken, een vroege, volledig getransistoriseerde computer. In tegenstelling tot eerdere computers op de universiteit die altijd een speciale operator nodig hadden, was deze machine voor het eerst toegankelijk voor studenten.
 

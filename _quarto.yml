@@ -73,11 +73,8 @@ format:
       - bottom=28mm
       - left=18mm
       - right=18mm
-    epub:
-      creator: Konsensus Network
-      date: "2024-09-12"
-      lang: "nl-NL"
-
-
-
-
+  epub:
+    creator: Konsensus Network
+    date: "2024-09-12"
+    lang: "nl-NL"
+    publisher: Konsensus Network

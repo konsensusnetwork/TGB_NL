@@ -140,7 +140,7 @@ Toch betraden de centrale banken met de invoering van QE bijna volledig onbekend
 
 Oorspronkelijk opgericht als een leningverstrekker in absolute nood, ongeveer een eeuw geleden, was de Federal Reserve al bijna even lang de rentevoeten aan het manipuleren. Nu begon het ook winnaars en verliezers in de markt te kiezen met reddingspakketten en begon het zelfs middelen toe te wijzen doorheen de vermogensmarkten via QE. Het mandaat van de centrale bank was na verloop van tijd uitgebreid om taken te omvatten die even goed de verantwoordelijkheden zouden kunnen beschrijven die doorgaans aan centrale planners van de Sovjet-Unie werden toegeschreven.
 
-Ondertussen bood de crisis --- net als de crisis van de jaren 1930 --- een klimaat waarin Keynesiaanse ideeën een heropleving konden maken: een groep economen, bekend als de 'Nieuwe Keynesianen'[^266], drongen er bij overheden wereldwijd op aan om het begrotingstekort te verhogen om zo nationale economieën te stimuleren. Toen IMF-directeur Dominique Strauss-Kahn in 2008 deze 'Keynesiaanse heropleving' aanbeveelde, stemden wereldleiders, onder wie de Amerikaanse president George W. Bush en de Britse premier Gordon Brown, in met het steunen van de plannen. Financiële stimuleringspakketten werden al snel over de hele wereld uitgerold.
+Ondertussen bood de crisis --- net als de crisis van de jaren 1930 --- een klimaat waarin Keynesiaanse ideeën een heropleving konden maken: een groep economen, bekend als de 'Neo-Keynesianen'[^266], drongen er bij overheden wereldwijd op aan om het begrotingstekort te verhogen om zo nationale economieën te stimuleren. Toen IMF-directeur Dominique Strauss-Kahn in 2008 deze 'Keynesiaanse heropleving' aanbeveelde, stemden wereldleiders, onder wie de Amerikaanse president George W. Bush en de Britse premier Gordon Brown, in met het steunen van de plannen. Financiële stimuleringspakketten werden al snel over de hele wereld uitgerold.
 
 Het grootste deel van Hayeks leven waren zijn ideeën gemarginaliseerd. Hayek had al in de jaren 1920 kritiek geuit op de rol van centrale banken, en sinds de jaren 1930 waarschuwde hij dat Keynesiaanse maatregelen weinig deden buiten het verlengen van onhoudbare economische oplevingen. Toch leken de zaken in de loop van de tijd alleen maar erger te worden. Geld was geëvolueerd tot een geopolitiek schaakstuk voor nationalisten, een machtsmiddel voor economische planners van centrale banken en vooral, een bron van economische onrust --- dat op zijn beurt de heropleving van de Keynesiaanse doctrine bevorderde.
 
@@ -148,11 +148,11 @@ Het monetaire systeem was in de vroege eenentwintigste eeuw zo ver verwijderd va
 
 Tenzij je toevallig geabonneerd was op een technologiemailinglijst in een bijna vergeten hoekje van het internet...
 
-[^256]: Andrea Wong, 'The Untold Story Behind Saudi Arabia's 41-Year U.S. Debt Secret', Bloomberg, May 31, 2016, [https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret#xj4y7vzkg.]
+[^256]: Andrea Wong, 'The Untold Story Behind Saudi Arabia's 41-Year U.S. Debt Secret', *Bloomberg*, 31 mei 2016, [online](https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret)
 
-[^257]: Energy Exploration & Exploitation, 'World Oil Reserves 1948--2001: Annual Statistics and Analysis', Energy Exploration & Exploitation, vol. 19, no. 2 & 3 , <https://journals.sagepub.com/doi/pdf/10.1260/0144598011492561>
+[^257]: Energy Exploration & Exploitation, 'World Oil Reserves 1948--2001: Annual Statistics and Analysis', *Energy Exploration & Exploitation*, vol. 19, no. 2 & 3, [online](https://journals.sagepub.com/doi/pdf/10.1260/0144598011492561)
 
-[^258]: Alex Gladstein, 'Uncovering The Hidden Costs of the Petrodollar', Bitcoin Magazine, April 28, 2021, <https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar>
+[^258]: Alex Gladstein, 'Uncovering The Hidden Costs of the Petrodollar', *Bitcoin Magazine*, 28 april 2021, [online](https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar)
 
 [^259]: Wapshott, Keynes Hayek, 258--59.
 
@@ -160,12 +160,12 @@ Tenzij je toevallig geabonneerd was op een technologiemailinglijst in een bijna 
 
 [^261]: Wapshott, Keynes Hayek, 211--214.
 
-[^262]: Milton Friedman and Anna Schwartz, A Monetary History of the United States .
+[^262]: Milton Friedman and Anna Schwartz, A Monetary History of the United States.
 
-[^263]: The Economist, 'Why don't rising house prices count towards inflation?' The Economist, July 29, 2021, [https://www.economist.com/the-economist-explains/2021/07/29/why-dont-rising-house-prices-count-towards-inflation.]
+[^263]: The Economist, 'Why don't rising house prices count towards inflation?' *The Economist*, 29 juli 2021, [online](https://www.economist.com/the-economist-explains/2021/07/29/why-dont-rising-house-prices-count-towards-inflation)
 
-[^264]: US Department of the Treasury, 'Troubled Asset Relief Program ', available via: <https://home.treasury.gov/data/troubled-asset-relief-program>; Federico Mor, Bank Rescues of 2007-09: Outcomes and Cost, House of Commons Research Briefing, October 8, 2018, available via: <https://commonslibrary.parliament.uk/research-briefings/sn05748/>
+[^264]: US Department of the Treasury, 'Troubled Asset Relief Program ', [online](https://home.treasury.gov/data/troubled-asset-relief-program); Federico Mor, 'Bank Rescues of 2007-09: Outcomes and Cost', *House of Commons Research Briefing*, 8 oktober 2018, [online](https://commonslibrary.parliament.uk/research-briefings/sn05748/)
 
-[^265]: Rupal Patel and Jack Meaning, Can't We Just Print More Money? Economics in Ten Simple Questions, The Bank of England , 238.
+[^265]: Rupal Patel and Jack Meaning, 'Can't We Just Print More Money? Economics in Ten Simple Questions', The Bank of England, 238.
 
-[^266]: New Keynesians integrated more of the neoclassical ideas on free markets, but also assumed more potential market failures, in particular due to an inability of some prices to adjust to new circumstances quickly, justifying government intervention. This most notably includes the price of labor due to psychological factors.
+[^266]: De Neo-Keynesianen integreerden meer van de neoklassieke ideeën over vrije markten, maar namen ook meer mogelijke marktfalen aan, met name door het onvermogen van sommige prijzen om zich snel aan te passen aan nieuwe omstandigheden, wat overheidsingrijpen rechtvaardigt. Dit geldt vooral voor de arbeidsprijs, vanwege psychologische factoren.

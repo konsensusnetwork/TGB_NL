@@ -2,11 +2,11 @@
 \documentclass[smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes,hidelinks]{memoir}
 
 % PACKAGE DEFINITION
-\usepackage{tcolorbox}
-\usepackage{tabularx}
-\usepackage{array}
-\usepackage{colortbl}
-\usepackage{float}
+%\usepackage{tcolorbox}
+%\usepackage{tabularx}
+%\usepackage{array}
+%\usepackage{colortbl}
+%\usepackage{float}
 
 \usepackage{microtype} % for micro-typographical adjustments
 \usepackage{setspace} % for line spacing
@@ -17,11 +17,11 @@
 \usepackage[dutch]{babel}	% language
 \selectlanguage{dutch}
 
-\usepackage{multicol}
-\usepackage{times}
+%\usepackage{multicol}
+%\usepackage{times}
 
-\usepackage{graphicx}
-\graphicspath{{./}{./figures/}}
+%\usepackage{graphicx}
+%\graphicspath{{./}{./figures/}}
 
 \usepackage{lettrine}
 \setcounter{DefaultLines}{3}
@@ -32,32 +32,32 @@
 \setlength{\DefaultNindent}{0em}
 
 
-\usepackage{fancyhdr}
-\usepackage{pgfplots}
-\pgfplotsset{compat=1.18}
+%\usepackage{fancyhdr}
+%\usepackage{pgfplots}
+%\pgfplotsset{compat=1.18}
 \usepackage{import}
-\usepackage{enumitem}
+%\usepackage{enumitem}
 \usepackage[footskip=8mm]{geometry}
 
 % Insert preamble here:
 
 \usepackage{amsmath,amssymb}
 \usepackage{iftex}
-\ifPDFTeX
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provide euro and other symbols
-\else % if luatex or xetex
-  \usepackage{unicode-math}
-  \defaultfontfeatures{Scale=MatchLowercase}
-  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-\usepackage{lmodern}
-\ifPDFTeX\else  
-    % xetex/luatex font selection
-\fi
+%\ifPDFTeX
+%  \usepackage[T1]{fontenc}
+%  \usepackage[utf8]{inputenc}
+%  \usepackage{textcomp} % provide euro and other symbols
+%\else % if luatex or xetex
+%  \usepackage{unicode-math}
+%  \defaultfontfeatures{Scale=MatchLowercase}
+%  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+%\fi
+%\usepackage{lmodern}
+%\ifPDFTeX\else  
+%    % xetex/luatex font selection
+%\fi
 % Use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+%\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \IfFileExists{microtype.sty}{% use microtype if available
   \usepackage[]{microtype}
   \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
@@ -72,8 +72,8 @@
 }{% if KOMA class
   \KOMAoptions{parskip=half}}
 \makeatother
-\usepackage{xcolor}
-\setcounter{secnumdepth}{0}
+%\usepackage{xcolor}
+%\setcounter{secnumdepth}{0}
 
 
 
@@ -158,14 +158,14 @@
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same} % disable monospaced font for URLs
-\hypersetup{
-  pdftitle={Het Genesis Boek},
-  pdfauthor={Aaron van Wirdum},
-  linkcolor={black},
-  filecolor={Maroon},
-  citecolor={Blue},
-  urlcolor={Blue},
-  pdfcreator={LaTeX via pandoc}}
+%\hypersetup{
+%  pdftitle={Het Genesis Boek},
+%  pdfauthor={Aaron van Wirdum},
+%  linkcolor={black},
+%  filecolor={Maroon},
+%  citecolor={Blue},
+%  urlcolor={Blue},
+%  pdfcreator={LaTeX via pandoc}}
 
 \title{Het Genesis Boek}
 
@@ -194,12 +194,12 @@
 
 
 %captions in tables and figures
-\usepackage{caption}
+%\usepackage{caption}
 
-\usepackage[style=latin, latin=americanquotes]{csquotes}
+%\usepackage[style=latin, latin=americanquotes]{csquotes}
 
-\usepackage{calc}
-\usepackage{hologo}
+%\usepackage{calc}
+%\usepackage{hologo}
 
 
 % PHYSICAL DOCUMENT SETUP
@@ -294,7 +294,7 @@
 \checkandfixthelayout
 
 \usepackage{fontspec}
-\setmainfont{EB Garamond}
+%\setmainfont{EB Garamond}
 
 % typographical settings for the body text
 \setlength{\parskip}{0em}
@@ -338,27 +338,29 @@
 
 
 % Enviroment for blockquotes
-\usepackage{mdframed}
+%\usepackage{mdframed}
 % Redefine the blockquote environment
-\newmdenv[
-  leftline=true,
-  rightline=false,
-  topline=false,
-  bottomline=false,
-  linewidth=1.30pt,
-  innerleftmargin=1em,
-  innerrightmargin=0em,
-  innertopmargin=0pt,
-  innerbottommargin=0pt,
-  skipabove=\baselineskip,
-  skipbelow=\baselineskip
-]{blockquotebox}
+%\newmdenv[
+%  leftline=true,
+%  rightline=false,
+%  topline=false,
+%  bottomline=false,
+%  linewidth=1.30pt,
+%  innerleftmargin=1em,
+%  innerrightmargin=0em,
+%  innertopmargin=0pt,
+%  innerbottommargin=0pt,
+%  skipabove=\baselineskip,
+%  skipbelow=\baselineskip
+%]{blockquotebox}
 
 % Footnotes in blockquoteboxes
-\newcommand{\footautocite}[1]{\footnotetext{\normalfont{\cite{#1}}}}
+%\newcommand{\footautocite}[1]{\footnotetext{\normalfont{\cite{#1}}}}
 
 % layout check and fix
 \checkandfixthelayout
+
+% ACTUAL DOCUMENT
 
 \begin{document}
 

@@ -74,11 +74,11 @@ Jackson had e-goud opgericht om het materiële welzijn van mensen te verbeteren 
 
 ## Satoshi Nakamoto
 
-Het lot van Douglas Jackson en e-goud diende als een niet te miskennen waarschuwing voor iedereen met ambities om een alternatieve vorm van geld aan te bieden. Overheden (en met name de Amerikaanse overheid) konden besluiten hard op te treden, wat ernstige persoonlijke en financiële schade zou kunnen berokkenen. Voor de meesten was dit waarschijnlijk het risico niet waard.
+Het lot van Douglas Jackson en e-goud diende als een niet te miskennen waarschuwing voor iedereen met ambities om een alternatieve vorm van geld aan te bieden. Overheden (en met name de Amerikaanse overheid) konden besluiten hard op te treden, met ernstige persoonlijke en financiële schade tot gevolg. Voor de meesten was dit waarschijnlijk het risico niet waard.
 
-Echter, dit hield een onbekend persoon of groep, alleen bekend als 'Satoshi Nakamoto', niet tegen. Rond dezelfde tijd dat Jackson zijn dagen thuis doorbracht met een enkelband om, was Nakamoto bezig met het voorbereiden van de lancering van een eigen elektronisch geldsysteem.
+Maar dit hield een onbekend persoon of groep, alleen bekend als 'Satoshi Nakamoto', niet tegen. Rond dezelfde tijd dat Jackson zijn dagen thuis doorbracht met een enkelband om, bereidde Nakamoto de lancering van een eigen elektronisch geldsysteem voor.
 
-Het ontwerp van Nakamoto's digitale valutasysteem was echter zeer verschillend van e-goud. En hoewel er niet veel bekend is over de achtergrond of beweegredenen van Satoshi Nakamoto, is het duidelijk dat deze mysterieuze entiteit (de naam is vrijwel zeker een pseudoniem) zijn eigen systeem bewust zodanig ontwierp om een soortgelijk lot als e-goud te vermijden.
+Het ontwerp van Nakamoto's digitale valutasysteem was echter zeer verschillend van e-goud. Hoewel er niet veel bekend is over de achtergrond of beweegredenen van Satoshi Nakamoto, is het duidelijk dat deze mysterieuze entiteit (de naam is vrijwel zeker een pseudoniem) zijn eigen systeem bewust zodanig ontwierp om een soortgelijk lot als e-goud te vermijden.
 
 Dit ontwerp was waarschijnlijk ook niet het resultaat van een spontane ingeving. Al jaren, zelfs ruim voor Jackson e-goud lanceerde, probeerde een kleine maar toegewijde groep technici een digitale vorm van contant geld te creëren: ze wisselden ideeën uit, ontwikkelden technieken, en ontworpen diverse voorstellen. Dit alles in de hoop dichter bij een werkende oplossing te komen. Maar het succes bleef uit.
 
@@ -86,13 +86,13 @@ Totdat Nakamoto eindelijk de puzzelstukjes op hun plek wist te krijgen.
 
 In dit boek gaan we terug naar de ideeën en technologieën die Satoshi Nakamoto (waarschijnlijk) hebben geïnspireerd in het ontwikkelen van dit elektronisch geldsysteem.
 
-In Deel I onderzoekt het boek de gevarieerde oorsprong van sommige van deze grondleggende ideeën en technologieën die de basis vormden voor elektronisch geld. Deze lopen uiteen van heterodoxe zienswijzen over monetaire economie tot een opstandige revolutie in de cryptografie, en van de opkomst van de hackercultuur in de jaren '60 en '70 tot techno-utopische visies op ruimtekolonisatie, moleculaire nanotechnologie en eeuwig leven.
+In Deel I onderzoeken we de gevarieerde oorsprong van sommige van deze grondleggende ideeën en technologieën die de basis vormden voor elektronisch geld. Deze lopen uiteen van heterodoxe zienswijzen over monetaire economie tot een opstandige revolutie in de cryptografie, en van de opkomst van de hackercultuur in de jaren '60 en '70 tot techno-utopische visies op ruimtekolonisatie, moleculaire nanotechnologie en eeuwig leven.
 
-Deel II vertelt het verhaal van de Cypherpunks: een verzameling cryptografen, hackers en privacyactivisten die gedurende de jaren '90 privacyhulpmiddelen ontwikkelden en verspreidden voor het internet, en die probeerden een elektronische versie van contant geld te creëren. Dit deel van het boek focust ook op enkele specifieke pogingen om dergelijke elektronische betalingssystemen te ontwikkelen.
+Deel II vertelt het verhaal van de Cypherpunks: een verzameling cryptografen, hackers en privacyactivisten die gedurende de jaren 1990 privacyhulpmiddelen voor het internet ontwikkelden en verspreidden, en die probeerden een elektronische versie van contant geld te creëren. We focusen ook op enkele specifieke pogingen om dergelijke elektronische betalingssystemen te ontwikkelen.
 
 Tot slot beschrijft Deel III van het boek hoe Satoshi Nakamoto zijn elektronische geldsysteem ontwierp en ontwikkelde, wat de inspiratiebron was voor dit ontwerp, en hoe het zich verhoudt tot andere vormen van (digitaal) geld.
 
-Samen vormen zij het verhaal van de monetaire hervormers, computerwetenschappers, activisten voor privacy, futurologen, ondernemers en andere pioniers die, elk op hun eigen manier, bijdroegen aan de opkomst van het eerste succesvolle peer-to-peer elektronische geldsysteem ter wereld: Bitcoin.
+Samen vormen zij het verhaal van de monetaire hervormers, computerwetenschappers, privacyactivisten, futurologen, ondernemers en andere pioniers die, elk op hun eigen manier, bijdroegen aan de opkomst van het eerste succesvolle peer-to-peer elektronische geldsysteem ter wereld: Bitcoin.
 
 [^1]: ​Lawrence H. White, 'The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold', Cato Journal, 34, No. 2: 281--301.
 

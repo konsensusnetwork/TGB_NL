@@ -122,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/CH14.html">Deel III: Bitcoin</a></li><li class="breadcrumb-item"><a href="../chapters/CH15.html"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Het witboek</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/CH14.html">Bitcoin</a></li><li class="breadcrumb-item"><a href="../chapters/CH15.html"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Het witboek</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Deel I: Grondslagen</span></a>
+ <span class="menu-text">Grondslagen</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -202,7 +202,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">Deel II: Cypherpunks</span></a>
+ <span class="menu-text">Cypherpunks</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -249,7 +249,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text">Deel III: Bitcoin</span></a>
+ <span class="menu-text">Bitcoin</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -287,6 +287,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Over de auteur</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Bibliografie</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
@@ -312,7 +318,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/CH14.html">Deel III: Bitcoin</a></li><li class="breadcrumb-item"><a href="../chapters/CH15.html"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Het witboek</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/CH14.html">Bitcoin</a></li><li class="breadcrumb-item"><a href="../chapters/CH15.html"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Het witboek</span></a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Het witboek</span></h1>
 </div>
@@ -376,7 +382,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Hier komt het proof-of-work-systeem van Adam Back bij kijken, met zijn originele hashcashvoorstel dat de volgende referentie is in het Bitcoin-witboek. proof-of-work vormde op dat moment al de basis voor verschillende digitale muntontwerpen van Cypherpunks, waaronder b-money, Bit Gold en RPOW. Maar waar deze ontwerpen gewoonlijk de proof-of-work-hashes <em>zelf</em> gebruikten als een vorm van geld, had Nakamoto, in wat een van zijn belangrijkste inzichten was, er een vernuftig nieuw gebruik voor bedacht.</p>
 <p>proof-of-work wordt in Bitcoin gebruikt als consensusmechanisme.</p>
 <p>Naast een set van transacties en de hash van het voorgaande blok, zouden Bitcoinblokken een derde ingrediënt bevatten: een nonce. Dit willekeurige getal zou samen met de rest van de inhoud van een blok gehasht worden om de blok-hash te genereren. De truc van het proof-of-work-systeem was dan ook dat niet elk blok als geldig zou worden beschouwd. Alleen blokken met een blok-hash die begint met een vooraf bepaald aantal nullen zouden worden geaccepteerd door het netwerk van gebruikers.</p>
-<p>Net zoals bij de productie van hashcash, zou de enige manier om een geldig blok te vinden, via vallen en opstaan zijn: een proces dat Satoshi Nakamoto later ‘<em>mining</em>’ zou noemen. De mensen die aan het <em>minen</em> zijn (of <em>de miners</em>) zouden willekeurig veel verschillende nonces in een gewenst blok moeten proberen op te nemen, totdat één van hen een geldige blok-hash zou genereren. Een geldig blok — dat door niemand zou kunnen worden aangepast nadat het geproduceerd was, omdat dat de blok-hash ook zou veranderen — zou dan over het netwerk worden verzonden, waarbij elke gebruiker hun eigendomsregister zou bijwerken met de transacties in dit blok.</p>
+<p>Net zoals bij de productie van hashcash, zou de enige manier om een geldig blok te vinden, via vallen en opstaan zijn: een proces dat Satoshi Nakamoto later <em>mining</em> zou noemen. De mensen die aan het <em>minen</em> zijn (of <em>de miners</em>) zouden willekeurig veel verschillende nonces in een gewenst blok moeten proberen op te nemen, totdat één van hen een geldige blok-hash zou genereren. Een geldig blok — dat door niemand zou kunnen worden aangepast nadat het geproduceerd was, omdat dat de blok-hash ook zou veranderen — zou dan over het netwerk worden verzonden, waarbij elke gebruiker hun eigendomsregister zou bijwerken met de transacties in dit blok.</p>
 <p>Miners zouden ondertussen hun inspanningen aanpassen om de nieuwe blok-hash op te nemen in een mogelijk volgend blok, dat op zijn beurt zijn eigen geldige blok-hash zou vereisen. Vergelijkbaar met hoe Bit Goldgebruikers (en vermoedelijk b-moneygebruikers) een cryptografische ketting van hashes zouden produceren om valuta te creëren, waarbij elke geldige hash diende als potentiële tekenreeks voor de volgende, zouden Bitcoinminers een cryptografische ketting van blok-hashes produceren.</p>
 <p>En wat cruciaal is: de lengte van deze ketting zou als beslissende factor dienen in het geval van een conflict.</p>
 <p>Als twee conflicterende blokken over het Bitcoinnetwerk zouden circuleren, zou elke gebruiker in eerste instantie het blok accepteren dat ze eerst ontvangen, en miners zouden de hash van dat blok opnemen in het volgende blok dat ze zouden proberen te vinden. In zekere zin zou het Bitcoinnetwerk inderdaad splitsen. Maar deze splitsing zou tijdelijk zijn. Zodra de ene kant van de splitsing sneller het volgende blok delft dan de andere kant van de splitsing, en hun versie van de block chain langer wordt dan het alternatief, zouden Bitcoingebruikers en -miners van beide kanten van de splitsing deze langste ketting accepteren, waarbij ze de kortere ketting verlaten en daarmee de splitsing oplossen.</p>

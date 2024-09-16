@@ -86,19 +86,19 @@
 
 %\usepackage{amsmath,amssymb}
 \usepackage{iftex}
-\ifPDFTeX
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provide euro and other symbols
-\else % if luatex or xetex
-  \usepackage{unicode-math}
-  \defaultfontfeatures{Scale=MatchLowercase}
-  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-\usepackage{lmodern}
-\ifPDFTeX\else  
-    % xetex/luatex font selection
-\fi
+%\ifPDFTeX
+%  \usepackage[T1]{fontenc}
+%  \usepackage[utf8]{inputenc}
+%  \usepackage{textcomp} % provide euro and other symbols
+%\else % if luatex or xetex
+%  \usepackage{unicode-math}
+%  \defaultfontfeatures{Scale=MatchLowercase}
+%  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+%\fi
+%\usepackage{lmodern}
+%\ifPDFTeX\else  
+%    % xetex/luatex font selection
+%\fi
 % Use upquote if available, for straight quotes in verbatim environments
 %\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 %\IfFileExists{microtype.sty}{% use microtype if available
@@ -350,6 +350,7 @@
 %]{blockquotebox}
 
 % Footnotes in blockquoteboxes
+%\newcommand{\footautocite}[1]{\footnotetext{\normalfont{\cite{#1}}}}
 %\newcommand{\footautocite}[1]{\footnotetext{\normalfont{\cite{#1}}}}
 
 

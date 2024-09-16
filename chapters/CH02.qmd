@@ -197,7 +197,7 @@ Net zoals vrije markten, kunnen vrije en open softwareprojecten een spontane ord
 
 [^32]: ​Richard Stallman, 'Talking to the Mailman', Interview door Rob Lucas, New Left Review, Sept--Oct 2018, [online](https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman)
 
-[^33]: ​Richard Stallman, 'RMS Berättar', Linköping University, [http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt.]
+[^33]: ​Richard Stallman, 'RMS Berättar', Linköping University, [online](http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt)
 
 [^34]: ​Stallman, 'Talking to the Mailman'.
 
@@ -211,13 +211,13 @@ Net zoals vrije markten, kunnen vrije en open softwareprojecten een spontane ord
 
 [^39]: ​Steven Levy, 'Hackers', 441--42.
 
-[^40]: ​Angela Watercutter, 'Why Free Software Is More Important Now Than Ever Before', Wired, 20 september 2013, [https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/.]
+[^40]: ​Angela Watercutter, 'Why Free Software Is More Important Now Than Ever Before', Wired, 20 september 2013, [online](https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/)
 
 [^41]: Voor de nauwkeurigheid dient opgemerkt te worden dat dit deel van het argument technisch gezien pas duidelijk naar voren kwam toen Stallman het GNU-project een jaar of zo later lanceerde: het was nog geen deel van zijn oorspronkelijke motivatie om het project überhaupt te starten. Dit kleine anachronisme is in de tekst gebleven ten behoeve van de leesbaarheid.
 
-[^42]: ​Richard Stallman, 'Free Software Is Even More Important Now', gnu.org, [https://www.gnu.org/philosophy/free-software-even-more-important.en.html.]
+[^42]: ​Richard Stallman, 'Free Software Is Even More Important Now', gnu.org, [online](https://www.gnu.org/philosophy/free-software-even-more-important.en.html)
 
-[^43]: ​GNU Operating System, 'What is Free Software?' [https://www.gnu.org/philosophy/free-sw.html.]
+[^43]: ​GNU Operating System, 'What is Free Software?' [online](https://www.gnu.org/philosophy/free-sw.html)
 
 [^44]: Eigenlijk werd vrijheid 0 pas expliciet toegevoegd in de jaren 1990. Daarvoor dacht Stallman dat het een automatische juridische consequentie was van de oorspronkelijke drie vrijheden.
 

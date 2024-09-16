@@ -33,7 +33,7 @@ book:
   chapters:
     - index.qmd
     - chapters/CH00.qmd
-    - part: "Deel I: Grondslagen"
+    - part: "Grondslagen"
       chapters:
       - chapters/CH01.qmd
       - chapters/CH02.qmd
@@ -42,7 +42,7 @@ book:
       - chapters/CH05.qmd
       - chapters/CH06.qmd
       - chapters/CH07.qmd
-    - part: "Deel II: Cypherpunks"
+    - part: "Cypherpunks"
       chapters:
       - chapters/CH08.qmd
       - chapters/CH09.qmd
@@ -50,13 +50,14 @@ book:
       - chapters/CH11.qmd
       - chapters/CH12.qmd
       - chapters/CH13.qmd
-    - part: "Deel III: Bitcoin"
+    - part: "Bitcoin"
       chapters:
       - chapters/CH14.qmd
       - chapters/CH15.qmd
       - chapters/CH16.qmd
     - chapters/CHXX.qmd
     - chapters/CHYY.qmd
+    - references.qmd
 
 format:
   html:

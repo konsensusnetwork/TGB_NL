@@ -252,7 +252,7 @@ Weer een andere Cypherpunk, Brad Huntting, kwam in 1994 met een slim idee om de 
 
 'Het recht op vrije meningsuiting wordt beschermd door de Amerikaanse grondwet. We hoeven alleen maar aan te tonen dat encryptiesoftware gelijk staat aan spraak', schreef hij aan de mailinglijst. 'Dit zou niet te moeilijk moeten zijn (misschien een beetje pijnlijk, maar niet moeilijk). De daad zou een gepubliceerd werk moeten betreffen (bij voorkeur in de gedrukte zin).'[^158]
 
-Ongeveer een jaar later publiceerde Zimmermann '*PGP: Broncode en Interne Werking*': hij had de volledige PGP-broncode in een boek afgedrukt. Zoals Huntting inderdaad had aangegeven, vallen boeken (inclusief de export ervan) in de VS onder de bescherming van het Eerste Amendement. Door dezelfde informatie die hem onderwerp van een strafrechtelijk onderzoek had gemaakt, vrij en legaal in harde kaft te verspreiden, legde Zimmermann de absurditeit van de regelgeving rondom crypto-export bloot.
+Ongeveer een jaar later publiceerde Zimmermann *PGP: Broncode en Interne Werking*: hij had de volledige PGP-broncode in een boek afgedrukt. Zoals Huntting inderdaad had aangegeven, vallen boeken (inclusief de export ervan) in de VS onder de bescherming van het Eerste Amendement. Door dezelfde informatie die hem onderwerp van een strafrechtelijk onderzoek had gemaakt, vrij en legaal in harde kaft te verspreiden, legde Zimmermann de absurditeit van de regelgeving rondom crypto-export bloot.
 
 Hoewel het nooit werd bevestigd dat het iets te maken had met de publicatie van zijn boek, liet de Amerikaanse overheid Zimmermann's zaak vroeg in 1996 vallen.
 

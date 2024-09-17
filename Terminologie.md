@@ -37,6 +37,7 @@ deposit claims = deposito-eisen
 difficulty adjustment algorithm = moeilijkheidsaanpassingsalgoritme
 distributed computing = gedistribueerde berekening
 double-spend transactions = dubbele uitgavetransacties
+double coincidence of wants = dubbele toevalligheid van behoeften 
 eCash = e-Cash
 electronic cash = elektronisch geld
 elliptic curve cryptography = elliptische curve-cryptografie

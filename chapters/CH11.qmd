@@ -4,7 +4,7 @@ De vader van Nick Szabo was een van de 200.000 Hongaren die hun land verlieten n
 
 Hoewel dit bijna een decennium voor zijn geboorte gebeurde, zou de ervaring van zijn vader Nick vormen. Als zoon van een vluchteling, opgroeiend ver weg van het onderdrukkende Sovjetgezag over Oost-Europa, werd bij de Amerikaanse jongen van de tweede generatie al vroeg een diep wantrouwen tegen alles wat ook maar enigszins leek op communisme of overheidsinmenging ingeplant.[^198]
 
-Uiteindelijk vond Szabo een grote bron van inspiratie in de werken van Friedrich Hayek. Het boek *The Road to Serfdom* leek de transformatie van de Sovjet-Unie naar een totalitaire staat nauwkeurig te hebben beschreven, met de onderdrukking van de Hongaarse revolutie als een van de eerste grote voorbeelden hiervan buiten het Russische thuisland. Szabo zou later Hayek's boek uit 1988, *The Fatal Conceit* --- een andere, meer politieke, weerlegging van het socialisme, dat de historische belangrijkheid van privé-eigendom benadrukte --- noemen als een van de belangrijkste boeken die hij ooit heeft gelezen.[^199]
+Uiteindelijk vond Szabo een grote bron van inspiratie in de werken van Friedrich Hayek. Het boek *The Road to Serfdom* leek de transformatie van de Sovjet-Unie naar een totalitaire staat nauwkeurig te hebben beschreven, met de onderdrukking van de Hongaarse revolutie als een van de eerste grote voorbeelden hiervan buiten het Russische thuisland. Szabo zou later Hayeks boek uit 1988, *The Fatal Conceit* --- een andere, meer politieke, weerlegging van het socialisme, dat de historische belangrijkheid van privé-eigendom benadrukte --- noemen als een van de belangrijkste boeken die hij ooit heeft gelezen.[^199]
 
 Ondertussen raakte de jonge Szabo geïnteresseerd in computers, een nieuwe technologie die in die tijd snel evolueerde in de VS en de rest van de Westerse wereld, terwijl het communistische Oosten ver achterbleef. Toen in de late jaren '70 en vroege jaren '80 de eerste computers hun weg vonden naar Amerikaanse huizen en kantoren (zijn moeder nam regelmatig haar Apple II mee naar huis van haar werk) zag hij al snel de mogelijkheden van deze machines. Tegen het midden van de jaren '80 bracht dit hem ertoe om informatica te gaan studeren aan de Universiteit van Washington in Seattle.
 
@@ -26,21 +26,21 @@ Toen Szabo een paar weken later de groep privacy-activisten ontmoette, wist hij 
 
 Gedurende de volgende paar jaar hielp Szabo, waar hij kon, aan de zaak van de Cypherpunks. Het meeste opvallend was zijn voortrekkersrol in het verzet tegen de Clipper Chip van de NSA, zowel op de mailinglijst van de Cypherpunks als in het echte leven: hij gaf tijdens verschillende evenementen lezingen over het onderwerp en deelde soms flyers uit om mensen te informeren over de risico's verbonden aan dit soort surveillancetechnologie. Hij had een manier om de verontrustende implicaties van de opdoemende inbreuken op de privacy over te brengen naar een niet-technisch publiek, en was blij om zijn aanpak te delen met de andere Cypherpunks, zodat zij hetzelfde konden leren doen.
 
-Maar Szabo's interesse in digitale privacy was uiteindelijk slechts een deel van een veel groter geheel. Hij omarmde het idee van een 'Galt's Gulch in cyberspace.' Zoals uitvoerig beschreven in de vele posts op de mailinglijst door zijn vriend Tim May, had Szabo zich gerealiseerd dat de benodigde instrumenten om individuen te beschermen tegen staatsmacht niet langer alleen voorbehouden waren aan fictieliteratuur. De computerwetenschapper met Hongaarse roots was het eens met het feit dat cryptografie het ideaal van echte vrije markten, ongevoelig voor het gebruik van fysieke macht of staatsdwang, dichter bij kon brengen.
+Maar Szabo's interesse in digitale privacy was uiteindelijk slechts een deel van een veel groter geheel. Hij omarmde het idee van een *Galt's Gulch in cyberspace*. Zoals uitvoerig beschreven in de vele posts op de mailinglijst door zijn vriend Tim May, had Szabo zich gerealiseerd dat de benodigde instrumenten om individuen te beschermen tegen staatsmacht niet langer alleen voorbehouden waren aan fictieliteratuur. De computerwetenschapper met Hongaarse roots was het eens met het feit dat cryptografie het ideaal van echte vrije markten, ongevoelig voor het gebruik van fysieke macht of staatsdwang, dichter bij kon brengen.
 
-'Als we een stap terug nemen en kijken naar wat veel cypherpunks proberen te bereiken, dan is er een hoofdthema van een Ghandiaanse cyberspace waar geweld slechts een illusie kan zijn, of het nu in Mortal [Kombat] of 'flame wars' is', schreef hij in de Cypherpunk-mailinglijst. 'Cypherpunks willen dat onze telefoonnetwerken, internetbedrijven, etc., zowel beschermd zijn tegen geweld en niet afhankelijk zijn van geweld voor hun bestaan. Onze informatiesystemen uit de 20e eeuw, van uitgeverijen tot kredietkaarten, zijn vaak sterk afhankelijk geweest van de dreiging van geweld, meestal via wetshandhaving, om intellectuele eigendomsrechten te beschermen, fraude te voorkomen, schulden in te vorderen, enzovoort.'
+'Als we een stap terug nemen en kijken naar wat veel cypherpunks proberen te bereiken, dan is er een hoofdthema van een Ghandiaanse cyberspace waar geweld slechts een illusie kan zijn, of het nu in Mortal [Kombat] of *flame wars* is', schreef hij in de Cypherpunk-mailinglijst. 'Cypherpunks willen dat onze telefoonnetwerken, internetbedrijven, etc., zowel beschermd zijn tegen geweld en niet afhankelijk zijn van geweld voor hun bestaan. Onze informatiesystemen uit de 20e eeuw, van uitgeverijen tot kredietkaarten, zijn vaak sterk afhankelijk geweest van de dreiging van geweld, meestal via wetshandhaving, om intellectuele eigendomsrechten te beschermen, fraude te voorkomen, schulden in te vorderen, enzovoort.'
 
 Zijn voorstel was:
 
-'Er is geen utopie in zicht waar dergelijke bedreigingen volledig kunnen worden geëlimineerd, maar we kunnen erkennen dat ze bestaan en zorgvuldig werken aan het verminderen van onze afhankelijkheid ervan.'[^200]
+> 'Er is geen utopie in zicht waar dergelijke bedreigingen volledig kunnen worden geëlimineerd, maar we kunnen erkennen dat ze bestaan en zorgvuldig werken aan het verminderen van onze afhankelijkheid ervan.'[^200]
 
 ## Slimme contracten
 
-Misschien wel meer dan wie dan ook, was Szabo zich er sterk van bewust dat voor het realiseren van May's visie op crypto-anarchie, private communicatie slechts een eerste stap was.
+Misschien wel meer dan wie dan ook, was Szabo zich er sterk van bewust dat voor het realiseren van Mays visie op crypto-anarchie, private communicatie slechts een eerste stap was.
 
-Als leerling van Hayek's werk (inclusief diens latere, meer politieke geschriften) was de Cypherpunk tot het inzicht gekomen dat welvarende samenlevingen zo goed presteerden omdat ze bepaalde regels hadden aangenomen, in de vorm van wetten, die menselijk gedrag reguleerden. Hij vergeleek het met het gelaagde ontwerp van computerprotocollen, en erkende dat de wetten die de basis van de samenleving vormden (zoals grondwetten) de meest basale, maar ook de belangrijkste regels van allemaal waren. Alle andere regels zijn gebaseerd op deze fundamenten.
+Als leerling van Hayeks werk (inclusief diens latere, meer politieke geschriften) was de Cypherpunk tot het inzicht gekomen dat welvarende samenlevingen zo goed presteerden omdat ze bepaalde regels hadden aangenomen, in de vorm van wetten, die menselijk gedrag reguleerden. Hij vergeleek het met het gelaagde ontwerp van computerprotocollen, en erkende dat de wetten die de basis van de samenleving vormden (zoals grondwetten) de meest basale, maar ook de belangrijkste regels van allemaal waren. Alle andere regels zijn gebaseerd op deze fundamenten.
 
-Szabo stelde dat twee van de fundamentele bouwstenen in de 'basislaag' van elke welvarende samenleving inderdaad eigendomsrechten en contractrecht waren. Eigendomsrechten vergemakkelijken en stimuleren investeringen, productie en uitbreiding, terwijl contractrecht handel en specialisatie mogelijk maakt. Hij geloofde dat een samenleving die eigendomsrechten en contractrecht handhaaft, uiteindelijk kan evolueren tot een moderne kapitalistische samenleving.
+Szabo stelde dat twee van de fundamentele bouwstenen in de *basislaag* van elke welvarende samenleving inderdaad eigendomsrechten en contractrecht waren. Eigendomsrechten vergemakkelijken en stimuleren investeringen, productie en uitbreiding, terwijl contractrecht handel en specialisatie mogelijk maakt. Hij geloofde dat een samenleving die eigendomsrechten en contractrecht handhaaft, uiteindelijk kan evolueren tot een moderne kapitalistische samenleving.
 
 Maar Szabo was zich ervan bewust dat eigendomsrechten en contractrecht in moderne kapitalistische samenlevingen worden gehandhaafd door de staat. Eigendom en de overdracht van eigendom worden uiteindelijk afgedwongen door rechtbanken en de politie, die gebruikmaken van het staatsmonopolie op geweld. Dit kan impliciet gebeuren door (de dreiging van) boetes of gevangenisstraf, of expliciet door iemands eigendom met geweld te beschermen of terug te geven.
 
@@ -54,7 +54,7 @@ Een mogelijke oplossing was het gebruik van arbitrage om geschillen te beslechte
 
 Maar halverwege de jaren 90 meende Szabo dat hij een beter idee had. Hij bedacht een oplossing die niet door een van de handelspartijen kon worden bedrogen en geen betrouwbare scheidsrechter nodig had. Szabo stelde *slimme contracten* voor; digitale contracten die uit zichzelf hun eigen voorwaarden zouden afdwingen, zoals vastgelegd in computercodes.[^201]
 
-Stel dat Alice, bij wijze van vereenvoudigd voorbeeld, een geheime code van Bob wil kopen voor € 10. Een slim contract kan dan zo worden geprogrammeerd dat zodra Bob de geheime code invoert op een vooraf afgesproken plek waar Alice hem kan vinden (misschien door het toe te voegen aan het contract zelf, niet ongelijk aan een digitale handtekening), de code van het contract dit herkent en verifieert, om vervolgens *automatisch* € 10 van Alice's account af te trekken en over te maken naar Bob (Szabo gebruikte een frisdrankautomaat als een primitieve analogie: het 'contract' tussen een consument en een frisdrankautomaat stelt dat als de consument een muntje in de automaat stopt, de machine --- door een geautomatiseerde respons --- een blikje frisdrank of een reep chocolade teruggeeft, zonder verdere menselijke tussenkomst).
+Stel dat Alice, bij wijze van vereenvoudigd voorbeeld, een geheime code van Bob wil kopen voor $ 10. Een slim contract kan dan zo worden geprogrammeerd dat zodra Bob de geheime code invoert op een vooraf afgesproken plek waar Alice hem kan vinden (misschien door het toe te voegen aan het contract zelf, niet ongelijk aan een digitale handtekening), de code van het contract dit herkent en verifieert, om vervolgens *automatisch* $ 10 van Alice's account af te trekken en over te maken naar Bob (Szabo gebruikte een frisdrankautomaat als een primitieve analogie: het *contract* tussen een consument en een frisdrankautomaat stelt dat als de consument een muntje in de automaat stopt, de machine --- door een geautomatiseerde respons --- een blikje frisdrank of een reep chocolade teruggeeft, zonder verdere menselijke tussenkomst).
 
 In theorie zouden *smart contracts* (slimme contracten) buitengewoon complex kunnen worden opgesteld, en kunnen ze in principe alle soorten contractuele clausules bevatten, waaronder pandrechten, obligaties, of omschrijving van eigendomsrechten. Dit zou zelfs volledig nieuwe zakelijke regelingen mogelijk maken, opperde Szabo, waarbij hij het voorbeeld gaf van een smart contract voor een autolening die, bij het niet terugbetalen van de lening, automatisch de controle over de digitale autosleutels terug zou geven aan de bank.
 
@@ -72,7 +72,7 @@ Voor slimme contracten is elektronisch geld noodzakelijk.
 
 ## Vertrouwde derde partijen
 
-Als digitale equivalenten van eigendomsrechten en contractrecht twee van de fundamentele bouwstenen waren die nodig zijn om een 'Galt's Gulch in cyberspace' te realiseren, was een digitaal equivalent voor geld de derde.
+Als digitale equivalenten van eigendomsrechten en contractrecht twee van de fundamentele bouwstenen waren die nodig zijn om een *Galt's Gulch in cyberspace* te realiseren, was een digitaal equivalent voor geld de derde.
 
 Nick Szabo was één van de eersten onder Extropianen en Cypherpunks die deze inzichten herkende. Toen Hal Finney voor het eerst de voordelen van elektronisch geld begon te bepleiten in het *Extropy*-magazine, was Szabo de Extropiaan die naar Amsterdam verhuisde om voor David Chaum te werken. Rond dezelfde tijd dat de eerste webshops hun virtuele deuren openden, trad Szabo toe tot DigiCash als internetprogrammeur.
 
@@ -88,19 +88,19 @@ Net als Scott Stornetta en Stuart Haber een aantal jaar eerder, wakkerde dit bij
 
 Het typische voorbeeld is een certificaatautoriteit die een register bijhoudt van de werkelijke identiteiten gekoppeld aan hun publieke sleutels. Hoewel dit een handige manier is om iemands publieke sleutel te vinden, zijn deze publieke sleutels eigenlijk maar zo veilig te gebruiken als de certificaatautoriteit zelf. Als een publieke sleutel die door een certificaatautoriteit wordt vermeld, eigenlijk toebehoort aan een aanvaller, zou Szabo benadrukken, kan deze aanvaller elk bericht ontcijferen dat bedoeld is voor wie dan ook die geassocieerd is met de publieke sleutel in het register.
 
-In zijn essay over dit onderwerp, toepasselijk genaamd 'Trusted Third Parties are Security Holes' [^205], legde Szabo later uit dat vertrouwde derde partijen vaak niet werden opgenomen in de kosten van een ontwerp, en waarom hij geloofde dat dit een vergissing was. Vertrouwde derde partijen zijn veiligheidsgaten, beargumenteerde de Cypherpunk, *zelfs* als ze zelf daadwerkelijk eerlijk zijn: ze kunnen aantrekkelijke doelwitten worden voor kwaadwillige hackers, of misschien zelfs voor naties en hun regelgevende instanties tijdens periodes van politieke instabiliteit of onderdrukking.
+In zijn essay over dit onderwerp, toepasselijk genaamd *Trusted Third Parties are Security Holes* [^205], legde Szabo later uit dat vertrouwde derde partijen vaak niet werden opgenomen in de kosten van een ontwerp, en waarom hij geloofde dat dit een vergissing was. Vertrouwde derde partijen zijn veiligheidsgaten, beargumenteerde de Cypherpunk, *zelfs* als ze zelf daadwerkelijk eerlijk zijn: ze kunnen aantrekkelijke doelwitten worden voor kwaadwillige hackers, of misschien zelfs voor naties en hun regelgevende instanties tijdens periodes van politieke instabiliteit of onderdrukking.
 
 Een gecompromitteerde vertrouwde derde partij kan dus enorm duur blijken. Szabo beargumenteerde dat de kosten van een mogelijke inbreuk moeten worden meegenomen bij het ontwerpen van protocollen, wat volgens hem zou leiden tot het feit dat veel protocollen opnieuw ontworpen moeten worden om de vertrouwde derde partijen volledig te elimineren.
 
 Szabo stelde nogmaals dat mogelijke oplossingen misschien wel te vinden zijn in de wereld van gedistribueerde berekening.
 
-'De beste 'TTP' van allemaal is er een die niet bestaat, maar waarvan de noodzaak [ertoe] is geëlimineerd door het protocolontwerp, of die geautomatiseerd en verdeeld is over de deelnemers van een protocol', concludeert hij in zijn paper.
+'De beste *TTP* van allemaal is er een die niet bestaat, maar waarvan de noodzaak [ertoe] is geëlimineerd door het protocolontwerp, of die geautomatiseerd en verdeeld is over de deelnemers van een protocol', concludeert hij in zijn paper.
 
 ## Vrij bankieren
 
 Net als Chaum waren de meeste Cypherpunks vooral geïnteresseerd in elektronisch geld vanwege de mogelijkheden tot privacy die het kon bieden. Maar Szabo, May, en enkele andere Cypherpunks die zich bij de beweging hadden aangesloten vanuit de *Extropian*-community, waren ook gedreven door monetaire hervorming. Ze waren voornamelijk geïnteresseerd in de ideeën van Hayek over vrij bankieren, zoals ook beschreven door Max More in de digitale geldeditie van *Extropy*.
 
-Bovendien had Szabo het werk van George Selgin bestudeerd, wiens boek 'The Theory of Free Banking' in datzelfde tijdschrift was besproken, en dat van Selgin's collega Lawrence H. White, die zelf een artikel aan het tijdschrift had bijgedragen. Aangezien Hayek net voor de oprichting van de Cypherpunkbeweging overleed, dacht Szabo dat de medeoprichters van de door Hayek geïnspireerde moderne school voor vrij bankieren wellicht konden helpen bij het ontwerp van een elektronisch geldsysteem.
+Bovendien had Szabo het werk van George Selgin bestudeerd, wiens boek *The Theory of Free Banking* in datzelfde tijdschrift was besproken, en dat van Selgins collega Lawrence H. White, die zelf een artikel aan het tijdschrift had bijgedragen. Aangezien Hayek net voor de oprichting van de Cypherpunkbeweging overleed, dacht Szabo dat de medeoprichters van de door Hayek geïnspireerde moderne school voor vrij bankieren wellicht konden helpen bij het ontwerp van een elektronisch geldsysteem.
 
 Ergens midden jaren '90 besloot hij een nieuwe, meer themagerichte mailinglijst te maken: de Libtech-lijst. Hier zouden vrije bankiers als Selgin en White, evenals geïnteresseerde Extropianen en Cypherpunks, gerichte discussies voeren over bankieren, monetaire economie en het allerbelangrijkste: de ontwerpen voor digitale valuta.[^206]
 
@@ -110,7 +110,7 @@ Toen twee zeer verschillende werelden elkaar ontmoetten op de Libtech lijst, kee
 
 'Het probleem, kort gezegd, is dat ons geld voor zijn waarde momenteel afhankelijk is van het vertrouwen in een derde partij', betoogde Szabo later. 'Zoals vele inflatoire en hyperinflatoire episodes in de 20e eeuw hebben aangetoond, is dit geen ideale situatie.'[^207]
 
-Door deze fundamentele zwakte centraal te stellen, bevestigde Szabo op een bepaalde manier Hayek's analyse, althans voor zichzelf.
+Door deze fundamentele zwakte centraal te stellen, bevestigde Szabo op een bepaalde manier Hayeks analyse, althans voor zichzelf.
 
 Maar tegelijkertijd betwistte hij enigszins het monetaire ecosysteem dat Selgin voorspelde dat zou ontstaan in een vrije bankomgeving. Als het probleem van het moderne monetaire systeem was dat iedereen een centrale bank moest vertrouwen, dan zou vrij bankieren gewoon particuliere banken tot de nieuwe vertrouwde derde partijen maken. Zelfs als concurrentie hen eerlijk kon houden, vertegenwoordigden deze TTP's (Trusted Third Parties) een bredere reeks veiligheidsrisico's, variërend van losgeslagen werknemers tot draconische overheden, die marktdynamieken niet noodzakelijkerwijs volledig zouden oplossen.
 
@@ -126,13 +126,13 @@ De Cypherpunk was natuurlijk niet de eerste die de natuur van geld bestudeerde, 
 
 In zijn zoektocht graafde Szabo in de prehistorie van de mensheid en deed hij onderzoek naar pre-industriële samenlevingen zoals die van de *Native Americans*. Hij ontdekte dat geld zelfs ouder was dan tekst: vroege vormen van geld werden al gebruikt door jager-verzamelaarstammen. Dit leidde uiteindelijk tot zijn hypothese dat geld letterlijk zo oud zou kunnen zijn als de mensheid zelf. Zoals eerst gesuggereerd door evolutiebioloog Richard Dawkins in zijn baanbrekende werk *The Selfish Gene*,[^208] zou het vermogen om geld te gebruiken diep ingebed kunnen zijn in het menselijk DNA en zou het de overleving van de soort ten voordele gekomen kunnen zijn.
 
-In zijn latere essay 'Shelling Out: The Origins of Money',[^209] legt Szabo uit hoe.
+In zijn latere essay *Shelling Out: The Origins of Money*,[^209] legt Szabo uit hoe.
 
 Een van de grote voordelen van de mensheid in de meedogenloze overlevingsstrijd van moeder natuur, ontdekte Szabo, is dat de meeste leden van de soort bereid en in staat zijn om samen te werken om hun krachten te bundelen of om arbeid te verdelen en zich te specialiseren om vervolgens de opbrengst te delen. Dit is waarschijnlijk altijd zo geweest: prehistorische jagers die succesvol een wild zwijn doodden, zouden het vlees delen met hun stamleden. Hun medestamleden zouden een andere keer de gunst retourneren, misschien door de blauwe bessen of eetbare paddenstoelen te delen die ze de volgende dag verzamelden.
 
 Deze vorm van altruïstisch gedrag zou iedereen kunnen ten goede komen, zolang alle stamleden elkaar kenden en min of meer konden bijhouden wat ieders bijdragen waren. Alle stamleden hadden een publieke reputatie. Omdat profiteurs, degenen die nooit iets bijdroegen aan de stam, uiteindelijk konden worden uitgesloten van de deelrondes of zelfs uit de stam konden worden verbannen, was iedereen sterk gemotiveerd om bij te dragen en hun deel te doen.
 
-Maar dit model zou onhoudbaar worden als een stam (of vaker: een groep stammen) te groot werd. Menselijke hersenen kunnen slechts een beperkt aantal sociale relaties onderhouden (populair bekend als 'Dunbar's nummer', wat 150[^210] is), dus het wordt moeilijk om iedereens reputatie bij te houden als er meer mensen dan dit nummer zijn. Als niemand zich kan herinneren wie met de anderen heeft gedeeld en wie niet, brokkelt het 'publieke reputatiesysteem' af, en krijgen profiteurs vrij spel op kosten van iedereen.
+Maar dit model zou onhoudbaar worden als een stam (of vaker: een groep stammen) te groot werd. Menselijke hersenen kunnen slechts een beperkt aantal sociale relaties onderhouden (populair bekend als *Dunbars nummer*, wat 150[^210] is), dus het wordt moeilijk om iedereens reputatie bij te houden als er meer mensen dan dit nummer zijn. Als niemand zich kan herinneren wie met de anderen heeft gedeeld en wie niet, brokkelt het *publieke reputatiesysteem* af, en krijgen profiteurs vrij spel op kosten van iedereen.
 
 Om te voorkomen dat er misbruik van ze wordt gemaakt, zou het zelfs rationeel worden voor elk individu om zelf ook te stoppen met delen en een profiteur te worden, ook al zou iedereen beter af zijn als iedereen zou delen. Met andere woorden, er zou iets van een groot *gevangenendilemma*[^211] ontstaan.
 
@@ -144,7 +144,7 @@ Voor het grootste deel van de menselijke geschiedenis was dit echter een heel an
 
 Doorheen de eeuwen en over verschillende culturen heen, droegen mensen juwelen, zoals kettingen, iets wat geen enkel ander dier doet. De oppervlakkige uitleg hiervoor is dat mensen simpelweg plezier beleven aan het dragen van dergelijke sieraden. Maar Szabo begreep dat er een fundamenteelere vraag schuilging achter deze simpele verklaring, het soort vraag dat een evolutionair bioloog zou stellen. *Waarom* hebben mensen zich zo ontwikkeld dat ze plezier beleven aan het dragen van sieraden?
 
-Net als Dawkins vermoedde Szabo dat mensen in de loop van de eeuwen een voorliefde voor ornamenten hadden ontwikkeld omdat dit een evolutionair voordeel bood: het stelde hen in staat om te coöpereren en middelen te 'delen' op een grotere schaal dan alleen binnen hun eigen stam.
+Net als Dawkins vermoedde Szabo dat mensen in de loop van de eeuwen een voorliefde voor ornamenten hadden ontwikkeld omdat dit een evolutionair voordeel bood: het stelde hen in staat om te coöpereren en middelen te *delen* op een grotere schaal dan alleen binnen hun eigen stam.
 
 Szabo ontdekte bijvoorbeeld dat halskettingen en andere verzamelobjecten verhandeld werden tussen stammen in ruil voor voedsel, wapens of bruiden. De ornamenten konden later teruggeruild worden of met een andere stam geruild worden voor andere hulpbronnen. In plaats van te onthouden wie wat gedeeld had, dienden de sieraden als een soort proto-geld en bevorderden ze wat evolutionaire psychologen *wederzijds altruïsme* noemen.
 
@@ -160,7 +160,7 @@ Allereerst waren de verzamelobjecten relatief makkelijk te beschermen tegen onop
 
 Ten tweede, de verzamelobjecten vertegenwoordigden een niet-te-vervalsen schaarste. Dat wil zeggen, ze zouden kostenlijk zijn om te maken of moeilijk te vinden: een mammoettand was schaars omdat een mammoet doden niet gemakkelijk is, terwijl struisvogel eieren moeilijk te bemachtigen zijn.
 
-'Op het eerste gezicht lijkt de productie van een goed uitsluitend omdat het duur is, volledig verspillend', werkte Szabo later uit in 'Shelling Out'. 'De onvervalsbaar dure grondstof voegt echter voortdurend waarde toe door welvarende overdrachten mogelijk te maken. Steeds meer van de kosten worden terugverdiend bij elke transactie die mogelijk wordt gemaakt of goedkoper wordt gemaakt. De kosten, aanvankelijk volledig verspild, worden omgeslagen over vele transacties.'
+'Op het eerste gezicht lijkt de productie van een goed uitsluitend omdat het duur is, volledig verspillend', werkte Szabo later uit in *Shelling Out*. 'De onvervalsbaar dure grondstof voegt echter voortdurend waarde toe door welvarende overdrachten mogelijk te maken. Steeds meer van de kosten worden terugverdiend bij elke transactie die mogelijk wordt gemaakt of goedkoper wordt gemaakt. De kosten, aanvankelijk volledig verspild, worden omgeslagen over vele transacties.'
 
 En ten derde, het was doorgaans vrij eenvoudig om vast te stellen dat het proto-geld inderdaad onvervalsbaar zeldzaam was, door simpelweg observaties of metingen te doen. De zeldzame slakkenhuisjes bijvoorbeeld, zou iedereen in deze stammen eenvoudig herkend hebben, terwijl het namaken ervan onmogelijk zou zijn geweest met de gereedschappen die ze ter beschikking hadden.
 
@@ -172,13 +172,13 @@ Szabo benadrukte dat het zwevende fiatvalutasysteem dat al tientallen jaren de w
 
 Veel Oostenrijkse economen waren uiteraard tot vergelijkbare conclusies gekomen als Szabo. Degenen die een terugkeer naar de goudstandaard voorstaan, geloven specifiek dat het edelmetaal de beste vorm van geld is, grotendeels vanwege de onvervalsbare schaarste ervan.
 
-Szabo was echter niet overtuigd dat goud de beste vervanging was: hoewel het edelmetaal inderdaad moeilijk te verkrijgen was, was het ook moeilijk te beveiligen.
+Szabo was echter niet overtuigd dat goud de beste vervanging was: hoewel het edelmetaal inderdaad moeilijk te verkrijgen was, was het ook moeilijk te beveiligen. Hij schreef:
 
-'Dure metalen en verzamelobjecten hebben een onvervalsbare schaarste vanwege de hoge creatiekosten. Dit gaf geld ooit een waarde die grotendeels onafhankelijk was van een vertrouwde derde partij. Edelmetalen hebben echter problemen. Het is te kostbaar om metalen steeds opnieuw te testen voor gewone transacties. Daarom werd een vertrouwde derde partij (meestal geassocieerd met een belastingontvanger die de munten accepteerde als betaling) gevraagd om een standaard hoeveelheid van het metaal in een munt te stempelen. Het vervoeren van grote hoeveelheden waardevol metaal kan zeer onzeker zijn, zoals de Britten ontdekten toen ze tijdens de Eerste Wereldoorlog goud naar Canada vervoerden over een door U-boten geïnfecteerde Atlantische Oceaan om hun goudstandaard te ondersteunen', schreef Szabo.
+> 'Dure metalen en verzamelobjecten hebben een onvervalsbare schaarste vanwege de hoge creatiekosten. Dit gaf geld ooit een waarde die grotendeels onafhankelijk was van een vertrouwde derde partij. Edelmetalen hebben echter problemen. Het is te kostbaar om metalen steeds opnieuw te testen voor gewone transacties. Daarom werd een vertrouwde derde partij (meestal geassocieerd met een belastingontvanger die de munten accepteerde als betaling) gevraagd om een standaard hoeveelheid van het metaal in een munt te stempelen. Het vervoeren van grote hoeveelheden waardevol metaal kan zeer onzeker zijn, zoals de Britten ontdekten toen ze tijdens de Eerste Wereldoorlog goud naar Canada vervoerden over een door U-boten geïnfecteerde Atlantische Oceaan om hun goudstandaard te ondersteunen.'
 
-Hij voegde toe:
+Hij daar voegde hij aan toe:
 
-'Erger nog, je kunt online niet betalen met metaal.'[^212]
+> 'Erger nog, je kunt online niet betalen met metaal.'[^212]
 
 De Cypherpunk wilde de wenselijke monetaire eigenschappen van goud reproduceren in een elektronisch geldsysteem --- een digitale valuta met onvervalsbare kostbaarheid.
 
@@ -188,9 +188,9 @@ Toen Adam Back in 1997 hashcash aankondigde, leek dit eindelijk mogelijk te zijn
 
 Minder dan een jaar later, in 1998, had Szabo zijn eigen voorstel voor een digitale munteenheid ontworpen: *Bit Gold*. Hoewel hij Bit Gold nog niet in code had geïmplementeerd (het was tot dan toe slechts een idee) deelde hij een beschrijving ervan op de Libtech lijst.
 
-Net als Hashcash, was Bit Gold ontworpen rondom het 'proof-of-work' concept. De vereiste rekenkracht om deze 'proof-of-work' te genereren koppelde de creatie van de valuta aan de kosten voor energie, met iets wat lijkt op digitale schaarste als gevolg. Vanuit Szabo's visie vertegenwoordigde de 'proof-of-work' een onvervalsbare kostbaarheid.
+Net als Hashcash, was Bit Gold ontworpen rondom het *proof-of-work* concept. De vereiste rekenkracht om deze *proof-of-work* te genereren koppelde de creatie van de valuta aan de kosten voor energie, met iets wat lijkt op digitale schaarste als gevolg. Vanuit Szabo's visie vertegenwoordigde de *proof-of-work* een onvervalsbare kostbaarheid.
 
-Het proof-of-work systeem van Bit Gold zou beginnen met een 'kandidaat-reeks', wat in feite een willekeurig getal is. De gedachte hierachter was dat iedereen deze string kon pakken en samenvoegen met hun eigen nonce om zo iets te creëren dat op een hash lijkt. Gezien de kenmerken van hashen, zou de daaruit voortkomende hash een nieuwe, op het eerste gezicht willekeurige, reeks cijfers zijn.[^213]
+Het proof-of-work systeem van Bit Gold zou beginnen met een *kandidaat-reeks*, wat in feite een willekeurig getal is. De gedachte hierachter was dat iedereen deze string kon pakken en samenvoegen met hun eigen nonce om zo iets te creëren dat op een hash lijkt. Gezien de kenmerken van hashen, zou de daaruit voortkomende hash een nieuwe, op het eerste gezicht willekeurige, reeks cijfers zijn.[^213]
 
 Het trucje, dat ook door hashcash wordt gebruikt, was dat niet alle hashes volgens het Bit Gold protocol als geldig werden beschouwd. In plaats daarvan moest een geldige hash beginnen met een vooraf bepaald aantal nullen. Door de onvoorspelbare aard van hashing, was de enige manier om zo'n hash te vinden door middel van *trial and error*, waarbij bij elke poging een nieuwe nonce werd gebruikt.
 
@@ -198,9 +198,9 @@ Wanneer iemand een geldige hash vond, zou deze hash de nieuwe kandidaat-reeks wo
 
 Het systeem van Bit Gold zou na verloop van tijd een lange reeks hashes genereren, waarbij de meest recente hash altijd fungeert als nieuwe kandidaat-reeks.
 
-Het geldgedeelte leek in grote lijnen op dat van de eerdere voorstel tot het bezit van cijfers van Hadon Nash aan de Cypherpunk-mailinglijst. Wie een geldige hash produceerde zou letterlijk dit hash 'bezitten'. Eigendom van hashes zou worden vastgelegd in een digitaal eigendomsregister, waar alle hashes zouden worden toegewezen aan de publieke sleutels van hun eigenaren.[^214] Aangezien het register alleen publieke sleutels zou gebruiken, geen namen, kon Bit Gold vrij anoniem worden gebruikt.
+Het geldgedeelte leek in grote lijnen op dat van de eerdere voorstel tot het bezit van cijfers van Hadon Nash aan de Cypherpunk-mailinglijst. Wie een geldige hash produceerde zou letterlijk dit hash *bezitten*. Eigendom van hashes zou worden vastgelegd in een digitaal eigendomsregister, waar alle hashes zouden worden toegewezen aan de publieke sleutels van hun eigenaren.[^214] Aangezien het register alleen publieke sleutels zou gebruiken, geen namen, kon Bit Gold vrij anoniem worden gebruikt.
 
-Om een hash 'uit te geven', zou de eigenaar een bericht moeten ondertekenen waarin wordt aangegeven wie de nieuwe eigenaar is (opnieuw, door naar deze persoon te verwijzen alleen door hun publieke sleutel). Als de digitale handtekening overeenkomt met de publieke sleutel die in het eigendomsregister staat vermeld, zou de overdracht geldig zijn en zou het register worden bijgewerkt om de nieuwe eigenaar van de hash te reflecteren. Zonder een geldige handtekening, zou de overdracht afgewezen moeten worden en zou de hash in het bezit blijven van de huidige eigenaar.
+Om een hash *uit te geven*, zou de eigenaar een bericht moeten ondertekenen waarin wordt aangegeven wie de nieuwe eigenaar is (opnieuw, door naar deze persoon te verwijzen alleen door hun publieke sleutel). Als de digitale handtekening overeenkomt met de publieke sleutel die in het eigendomsregister staat vermeld, zou de overdracht geldig zijn en zou het register worden bijgewerkt om de nieuwe eigenaar van de hash te reflecteren. Zonder een geldige handtekening, zou de overdracht afgewezen moeten worden en zou de hash in het bezit blijven van de huidige eigenaar.
 
 Het proof-of-work zou ervoor zorgen dat Szabo's elektronische geld aantoonbaar moeilijk te verkrijgen is, terwijl publieke sleutel-cryptografie het veilig zou maken.
 
@@ -212,17 +212,17 @@ Dus wie zou het register onderhouden?
 
 Szabo begreep dat elke enkele entiteit die het register zou bijhouden, een vertrouwde derde partij zou zijn. Hoewel zelfs deze derde partij niet in staat zou zijn om bewijzen te vervalsen, iedereen kon onmiddellijk herkennen dat de hashes ongeldig zijn, kon het potentieel nog steeds hashes dubbel uitgeven, of transacties censureren, of misschien zelfs hashes stelen van andere gebruikers.
 
-In Szabo's voorstel zou het eigendomsregister dus onderhouden worden door een Bit Gold 'eigendomsclub'. Deze club bestond uit 'clubleden' (oftewel internetservers) die het eigendomsregister tussen hen zouden dupliceren en gezamenlijk bijhouden wie wat bezit. Als een van de clubleden zou proberen vals te spelen of te stelen, zouden de andere clubleden dit opmerken en de overdracht afwijzen, waardoor het vertrouwen tussen hen wordt verdeeld.
+In Szabo's voorstel zou het eigendomsregister dus onderhouden worden door een Bit Gold *eigendomsclub*. Deze club bestond uit *clubleden* (oftewel internetservers) die het eigendomsregister tussen hen zouden dupliceren en gezamenlijk bijhouden wie wat bezit. Als een van de clubleden zou proberen vals te spelen of te stelen, zouden de andere clubleden dit opmerken en de overdracht afwijzen, waardoor het vertrouwen tussen hen wordt verdeeld.
 
-Szabo stelde voor om dit te implementeren met behulp van dezelfde soorten gedistribueerde computerprotocollen die hij voorzag voor slimme contracten. Zoals uitgelegd in zijn paper 'Veilige Eigendomstitels met Eigenaarsautoriteit', waren deze ontwerpen het best te begrijpen als geavanceerde stemmingen: zolang de meeste servers eerlijk bleven, zouden ze consensus bereiken over de toestand van het register. Als slechts een minderheid van de servers zou falen of uit de pas zou lopen, zou het systeem als geheel prima moeten blijven functioneren.
+Szabo stelde voor om dit te implementeren met behulp van dezelfde soorten gedistribueerde computerprotocollen die hij voorzag voor slimme contracten. Zoals uitgelegd in zijn paper *Secure Property Titles with Owner Authority*, waren deze ontwerpen het best te begrijpen als geavanceerde stemmingen: zolang de meeste servers eerlijk bleven, zouden ze consensus bereiken over de toestand van het register. Als slechts een minderheid van de servers zou falen of uit de pas zou lopen, zou het systeem als geheel prima moeten blijven functioneren.
 
-Dit was echter niet perfect: het zogeheten Byzantijnse Generaalsprobleem was niet volledig opgelost. Er konden vooral vervelende problemen ontstaan als het register het doelwit zou worden van een Sybil-aanval. In dit soort computer aanval slaagt één kwaadwillig persoon erin zich voor te doen als meerdere verschillende deelnemers, waardoor de stemprocedures worden overrompeld. Szabo zou dit later omschrijven als het 'Sokpop probleem'.[^215]
+Dit was echter niet perfect: het zogeheten Byzantijnse Generaalsprobleem was niet volledig opgelost. Er konden vooral vervelende problemen ontstaan als het register het doelwit zou worden van een Sybil-aanval. In dit soort computer aanval slaagt één kwaadwillig persoon erin zich voor te doen als meerdere verschillende deelnemers, waardoor de stemprocedures worden overrompeld. Szabo zou dit later omschrijven als het *sockpuppet-probleem*.[^215]
 
 Toch geloofde Szabo dat dit zichzelf zou kunnen oplossen. Hij opperde dat zelfs in een scenario waarin een meerderheid van de clubleden zou proberen vals te spelen, het register openbaar zou zijn. Dus cryptografische bewijzen zoals (het ontbreken van) geldige handtekeningen konden worden gebruikt om Bit Gold-gebruikers op de hoogte te stellen van dit wangedrag. De eerlijke minderheid van registerbeheerders kon dan afsplitsen om een concurrerend eigendomsregister te creëren. Wanneer ze de keuze hadden tussen een aantoonbaar oneerlijk meerderheidsregister of een eerlijk minderheidsregister, achtte Szabo het waarschijnlijk dat gebruikers de laatste zouden prefereren.
 
 'Als de regels worden overtreden door de winnende stemmers, kunnen de correcte verliezers de groep verlaten en een nieuwe groep vormen, waarbij ze de oude titels erven', legde hij uit. 'Gebruikers van de titels (vertrouwende partijen) die correcte titels willen behouden, kunnen zelf veilig verifiëren welke afsplitsing de regels correct heeft gevolgd en overschakelen naar de juiste groep.'[^216]
 
-Szabo was zich ervan bewust dat het niet de meest elegante oplossing was en enkele belangrijke vragen bleven nog onbeantwoord: in het geval van een dubbele uitgave-aanval, hoe zouden offline gebruikers weten welke transactie eerst kwam? En in het verlengde daarvan, als deze dubbele uitgave zou resulteren in het creëren van een concurrerend register omdat verschillende leden van de eigendomsclub verschillende transacties eerst zagen, hoe zouden deze gebruikers dan weten welke 'correct' is?
+Szabo was zich ervan bewust dat het niet de meest elegante oplossing was en enkele belangrijke vragen bleven nog onbeantwoord: in het geval van een dubbele uitgave-aanval, hoe zouden offline gebruikers weten welke transactie eerst kwam? En in het verlengde daarvan, als deze dubbele uitgave zou resulteren in het creëren van een concurrerend register omdat verschillende leden van de eigendomsclub verschillende transacties eerst zagen, hoe zouden deze gebruikers dan weten welke *correct* is?
 
 Desondanks zag Szabo dit in zijn ogen als een betere oplossing dan vertrouwen op een derde partij.
 
@@ -230,7 +230,7 @@ Desondanks zag Szabo dit in zijn ogen als een betere oplossing dan vertrouwen op
 
 Het laatste probleem dat Szabo moest oplossen was inflatie.
 
-Naast de onmogelijkheid om eigendom van het proof-of-work over te dragen, had het 'hashcash'-systeem van Adam Back nog een groot probleem. Het genereren van geldige hashes zou na verloop van tijd eenvoudiger worden, aangezien computers elk jaar krachtiger werden. Daarom konden de hashes niet goed functioneren als geld: hyperinflatie (of zelfs alleen al de vooruitzichten van hyperinflatie) zou waarschijnlijk betekenen dat zo'n munteenheid niet van de grond zou komen.
+Naast de onmogelijkheid om eigendom van het proof-of-work over te dragen, had het *hashcash*-systeem van Adam Back nog een groot probleem. Het genereren van geldige hashes zou na verloop van tijd eenvoudiger worden, aangezien computers elk jaar krachtiger werden. Daarom konden de hashes niet goed functioneren als geld: hyperinflatie (of zelfs alleen al de vooruitzichten van hyperinflatie) zou waarschijnlijk betekenen dat zo'n munteenheid niet van de grond zou komen.
 
 Szabo bedacht ook hiervoor een oplossing.
 
@@ -240,17 +240,17 @@ Szabo legde uit dat deze tijdstempels een goed idee zouden geven van hoe moeilij
 
 Dit verschil moet dan volgens Szabo meegenomen worden in de waarde van een hash:
 
-'De kosten van de reeks zijn evenredig met de onwaarschijnlijkheid van de reeks. We hebben empirisch bewijs dat aantoonbaar onwaarschijnlijke documenten, zeldzame drukfouten op postzegels bijvoorbeeld, behoorlijk waardevol worden: hoe zeldzamer en hoe verifieerbaarder, hoe waardevoller.'[^217]
+> 'De kosten van de reeks zijn evenredig met de onwaarschijnlijkheid van de reeks. We hebben empirisch bewijs dat aantoonbaar onwaarschijnlijke documenten, zeldzame drukfouten op postzegels bijvoorbeeld, behoorlijk waardevol worden: hoe zeldzamer en hoe verifieerbaarder, hoe waardevoller.'[^217]
 
-Met andere woorden, een geldige '1998 hash' zou meer waard moeten zijn dan een geldige '2008 hash'.
+Met andere woorden, een geldige *1998 hash* zou meer waard moeten zijn dan een geldige *2008 hash*.
 
 Om de waarde van de hashes vast te stellen, wilde Szabo gebruikmaken van een beproefde en oude oplossing: de markt. Hij wilde een speciale marktplaats creëren waar Bit Gold hashes tegen elkaar verhandeld konden worden. Kopers en verkopers kunnen op die manier een eerlijke relatieve prijs voor elk van hen vinden. Misschien zou één hash uit 1998 zo'n tien hashes uit 2008 waard zijn, waarbij de exacte wisselkoers vermoedelijk zou worden bepaald door de gedaalde kosten van rekenkracht gedurende dat decennium.
 
-Maar dit zou nog een ander probleem creëren, wist Szabo: 'de bits (de puzzeloplossingen) van de ene periode [...] zijn niet inwisselbaar met die van de volgende periode'.[^218]
+Maar dit zou nog een ander probleem creëren, wist Szabo: 'de bits (de puzzeloplossingen) van de ene periode [...] zijn niet inwisselbaar met die van de volgende periode.'[^218]
 
 De Cypherpunk begreep dat fungibiliteit, waarbij elke eenheid van een valuta gelijk is in waarde aan elke andere eenheid van dezelfde denominatie, een cruciale eigenschap is van geld. Een winkelier moet een betaling kunnen accepteren zonder te hoeven nadenken over de exacte waarde van het ene bankbiljet ten opzichte van het andere; elk dollarbiljet zou moeten volstaan. Als hashes verschillend gewaardeerd zouden worden, zou het de fungibiliteit van Bit Gold in de weg staan.
 
-Nick Szabo, de bedenker van 'Bit Gold', had ook hiervoor een oplossing bedacht: hij zag een op 'vrij bankieren' geïnspireerde 'tweede laag' bovenop de 'basisslaag' van Bit Gold voor zich.[^219] Deze tweede laag zou bestaan uit een speciaal soort banken, die veilig controleerbaar zouden moeten zijn vanwege het openbare karakter van het Bit Gold-register. Deze banken zouden verschillende hashes uit verschillende tijdperioden verzamelen en, op basis van hun relatieve marktwaarde, deze bundelen tot pakketten met een standaardwaarde. Een pakket van bijvoorbeeld '1998' zou slechts één hash kunnen bevatten, terwijl een pakket van '2008' er tien zou bevatten.
+Nick Szabo, de bedenker van *Bit Gold*, had ook hiervoor een oplossing bedacht: hij zag een op vrij bankieren geïnspireerde *tweede laag* bovenop de *basisslaag* van Bit Gold voor zich.[^219] Deze tweede laag zou bestaan uit een speciaal soort banken, die veilig controleerbaar zouden moeten zijn vanwege het openbare karakter van het Bit Gold-register. Deze banken zouden verschillende hashes uit verschillende tijdperioden verzamelen en, op basis van hun relatieve marktwaarde, deze bundelen tot pakketten met een standaardwaarde. Een pakket van bijvoorbeeld *1998* zou slechts één hash kunnen bevatten, terwijl een pakket van *2008* er tien zou bevatten.
 
 Deze pakketten zouden uiteindelijk opgesplitst worden in een specifiek aantal eenheden, wellicht uniek per bank. Alice Bank kon bijvoorbeeld 10,000 Alicebucks per bundel uitgeven, of deze bundel nu een 1998 pakket of een 2008 pakket was. Het zijn deze eenheden die uiteindelijk als het onderling inwisselbare geld gebruikt zouden worden door reguliere gebruikers voor dagelijkse uitgaven, idealiter in de vorm van privé, Chaumiaanse eCash. Tegelijkertijd zouden gebruikers van Alice Bank altijd in staat moeten zijn om hun Alicebucks in te wisselen voor de daadwerkelijke hashes die deze onderbouwen.
 
@@ -258,48 +258,48 @@ Deze pakketten zouden uiteindelijk opgesplitst worden in een specifiek aantal ee
 
 Nick Szabo had gelijk, tenminste in theorie. Waar hashcash het concept van digitale schaarste had geïntroduceerd, liet het voorstel van Bit Gold zien hoe dit kan worden omgezet in overdraagbaar elektronisch geld.
 
-[^198]: Nick Szabo, 'Why Cryptocurrency? Governments Abuse Their Power --- Nick Szabo Interview Part 1', interview by Zulu Republic, Zulu Republic, YouTube, 25 oktober 2018, [online](https://www.youtube.com/watch?v=LZw4LNLYUgc)
+[^198]: Nick Szabo, *Why Cryptocurrency? Governments Abuse Their Power --- Nick Szabo Interview Part 1*, interview by Zulu Republic, Zulu Republic, YouTube, 25 oktober 2018, [online](https://www.youtube.com/watch?v=LZw4LNLYUgc)
 
-[^199]: Nick Szabo , 'Some of the most important books I've read', *X*, 31 januari 2016, [online](https://x.com/NickSzabo4/status/693682157525401601)
+[^199]: Nick Szabo , *Some of the most important books I've read*, *X*, 31 januari 2016, [online](https://x.com/NickSzabo4/status/693682157525401601)
 
-[^200]: Nick Szabo, 'Re: Crypto + Economics + AI = Digital Money Economies', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 19 september 1995, [online](https://cypherpunks.venona.com/date/1995/09/msg01303.html)
+[^200]: Nick Szabo, *Re: Crypto + Economics + AI = Digital Money Economies*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 19 september 1995, [online](https://cypherpunks.venona.com/date/1995/09/msg01303.html)
 
-[^201]: Nick Szabo, 'Smart Contracts: Building Blocks for Digital Free Markets', *Extropy* 16 : 50--64.
+[^201]: Nick Szabo, *Smart Contracts: Building Blocks for Digital Free Markets*, *Extropy* 16 : 50--64.
 
-[^202]: Szabo, 'Smart Contracts', 51.
+[^202]: Szabo, *Smart Contracts*, 51.
 
-[^203]: Nick Szabo, 'Re: Crypto + Economics + AI = Digital Money Economies', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 19 september 1995, [online](https://cypherpunks.venona.com/date/1995/09/msg01303.html)
+[^203]: Nick Szabo, *Re: Crypto + Economics + AI = Digital Money Economies*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 19 september 1995, [online](https://cypherpunks.venona.com/date/1995/09/msg01303.html)
 
 [^204]: Nick Szabo, e-mail aan auteur, 10 juli 2018.
 
-[^205]: Nick Szabo, 'Trusted Third Parties are Security Holes', *Satoshi Nakamoto Institute* , [online](https://nakamotoinstitute.org/library/trusted-third-parties/)
+[^205]: Nick Szabo, *Trusted Third Parties are Security Holes*, *Satoshi Nakamoto Institute* , [online](https://nakamotoinstitute.org/library/trusted-third-parties/)
 
-[^206]: Nick Szabo, 'Nick Szabo on Cypherpunks, Money and Bitcoin', interview door Peter McCormack, *What Bitcoin Did*, 1 november 2019, [online](https://www.whatbitcoindid.com/podcast/nick-szabo-on-cypherpunks-money-and-bitcoin)
+[^206]: Nick Szabo, *Nick Szabo on Cypherpunks, Money and Bitcoin*, interview door Peter McCormack, *What Bitcoin Did*, 1 november 2019, [online](https://www.whatbitcoindid.com/podcast/nick-szabo-on-cypherpunks-money-and-bitcoin)
 
-[^207]: Nick Szabo, 'Bit Gold', *Unenumerated*, 27 december 2008, [online](https://unenumerated.blogspot.com/2005/12/bit-gold.html)
+[^207]: Nick Szabo, *Bit Gold*, *Unenumerated*, 27 december 2008, [online](https://unenumerated.blogspot.com/2005/12/bit-gold.html)
 
-[^208]: Richard Dawkins, 'The Selfish Gene', 244.
+[^208]: Richard Dawkins, *The Selfish Gene*, 244.
 
-[^209]: Nick Szabo, 'Shelling Out: The Origins of Money', *Satoshi Nakamoto Institute*, [online](https://nakamotoinstitute.org/library/shelling-out/)
+[^209]: Nick Szabo, *Shelling Out: The Origins of Money*, *Satoshi Nakamoto Institute*, [online](https://nakamotoinstitute.org/library/shelling-out/)
 
-[^210]: Het is echter belangrijk op te merken dat dit getal—vernoemd naar primatoloog Robin Dunbar—bekritiseerd is en tegenwoordig in de wetenschappelijke gemeenschap niet met de specifieke nauwkeurigheid wordt gehanteerd die het suggereert. Hoewel er een limiet is aan het aantal stabiele sociale relaties dat mensen kunnen onderhouden, is het werkelijke aantal niet per se 150 voor iedereen. Zie bijvoorbeeld Patrick Lindenfors, Andreas Wartel, and Johan Lind, ''Dunbar's Number' Deconstructed', Biology Letters, 5 mei 2021: [online](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158)
+[^210]: Het is echter belangrijk op te merken dat dit getal—vernoemd naar primatoloog Robin Dunbar—bekritiseerd is en tegenwoordig in de wetenschappelijke gemeenschap niet met de specifieke nauwkeurigheid wordt gehanteerd die het suggereert. Hoewel er een limiet is aan het aantal stabiele sociale relaties dat mensen kunnen onderhouden, is het werkelijke aantal niet per se 150 voor iedereen. Zie bijvoorbeeld Patrick Lindenfors, Andreas Wartel, and Johan Lind, *Dunbar's Number Deconstructed*, Biology Letters, 5 mei 2021: [online](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158)
 
-[^211]: Strikt genomen is een 'public goods game' de meer precieze speltheoretische analogie.
+[^211]: Strikt genomen is een *public goods game* de meer precieze speltheoretische analogie.
 
-[^212]: Szabo, 'Bit Gold.'
+[^212]: Szabo, *Bit Gold.*
 
-[^213]: In Szabo's oorspronkelijke voorstel zou Bit Gold eigenlijk gebruikmaken van een 'secure benchmark function', wat iets anders is dan een hashfunctie, maar vergelijkbaar genoeg dat het product een 'hash' noemen en het proces 'hashen' noemen voldoende nauwkeurig is om de werking van Bit Gold te begrijpen.
+[^213]: In Szabo's oorspronkelijke voorstel zou Bit Gold eigenlijk gebruikmaken van een *secure benchmark function*, wat iets anders is dan een hashfunctie, maar vergelijkbaar genoeg dat het product een *hash* noemen en het proces *hashen* noemen voldoende nauwkeurig is om de werking van Bit Gold te begrijpen.
 
-[^214]: Nick Szabo, 'Secure Property Titles with Owner Authority', *Satoshi Nakamoto Institute*, [online](https://nakamotoinstitute.org/library/secure-property-titles/)
+[^214]: Nick Szabo, *Secure Property Titles with Owner Authority*, *Satoshi Nakamoto Institute*, [online](https://nakamotoinstitute.org/library/secure-property-titles/)
 
 [^215]: Nick Szabo, 'Nick Szabo --- The Quiet Master of Cryptocurrency ... Gehost door Naval Ravikant' interview door Tim Ferriss, *The Tim Ferriss Show*, YouTube, 12 augustus 2017, [online](https://www.youtube.com/watch?v=3FA3UjA0igY)
 
-[^216]: Szabo, 'Secure Property Titles.'
+[^216]: Szabo, *Secure Property Titles.*
 
-[^217]: Nick Szabo, 'Bit Gold: Towards Trust-Independent Digital Money', [online](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html)
+[^217]: Nick Szabo, *Bit Gold: Towards Trust-Independent Digital Money*, [online](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html)
 
-[^218]: Nick Szabo, 'Bit Gold Markets', *Unenumerated*, 27 december 2008, [online](https://unenumerated.blogspot.com/2008/04/bit-gold-markets.html)
+[^218]: Nick Szabo, *Bit Gold Markets*, *Unenumerated*, 27 december 2008, [online](https://unenumerated.blogspot.com/2008/04/bit-gold-markets.html)
 
-[^219]: Szabo, 'Bit Gold Markets.'
+[^219]: Szabo, *Bit Gold Markets.*
 
-[^220]: Szabo, 'Bit Gold.'
+[^220]: Szabo, *Bit Gold.*

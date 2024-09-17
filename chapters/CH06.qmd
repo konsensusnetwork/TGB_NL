@@ -10,11 +10,11 @@ Maar Chaum realiseerde zich dat ook deze trend tot duistere situaties kon leiden
 
 Chaum zag de mogelijkheid van massasurveillance van betalingen als even zorgwekkend als de massasurveillance van elke andere vorm van communicatie. En niet zonder reden: iemands transactieverleden onthult mogelijk net zoveel persoonlijke informatie als hun tekstcommunicatie, zo niet meer.
 
-'Er wordt een basis gelegd voor een dossiermaatschappij, waarin computers gebruikt kunnen worden om op basis van gegevens uit alledaagse consumententransacties de leefstijlen, gewoonten, locaties en relaties van individuen af te leiden', waarschuwde Chaum. 'Onzekerheid over of gegevens veilig blijven tegen misbruik door degenen die ze onderhouden of ervan gebruik maken kan een 'afschrikwekkend effect' hebben, wat mensen ertoe kan brengen hun zichtbare activiteiten te veranderen. Naarmate de computerisering meer verspreid raakt, zal het potentieel voor deze problemen aanzienlijk toenemen'. [^101]
+'Er wordt een basis gelegd voor een dossiermaatschappij, waarin computers gebruikt kunnen worden om op basis van gegevens uit alledaagse consumententransacties de leefstijlen, gewoonten, locaties en relaties van individuen af te leiden', waarschuwde Chaum. 'Onzekerheid over of gegevens veilig blijven tegen misbruik door degenen die ze onderhouden of ervan gebruik maken kan een *afschrikwekkend effect* hebben, wat mensen ertoe kan brengen hun zichtbare activiteiten te veranderen. Naarmate de computerisering meer verspreid raakt, zal het potentieel voor deze problemen aanzienlijk toenemen.' [^101]
 
 Maar, zo stelde hij voor, er was een alternatieve toekomst mogelijk.
 
-David Chaum legde uit: 'Elke keer dat een regering of bedrijf besluit om nog een set transacties te automatiseren, wordt de keuze gemaakt om informatie in handen van individuen of van organisaties te houden. Aan de ene kant ligt een ongekende controle en inspectie van mensenlevens, aan de andere kant een veilige gelijkwaardigheid tussen individuen en organisaties. De vorm van de samenleving in de volgende eeuw kan afhangen van welke aanpak de overhand heeft'.[^102]
+David Chaum legde uit: 'Elke keer dat een regering of bedrijf besluit om nog een set transacties te automatiseren, wordt de keuze gemaakt om informatie in handen van individuen of van organisaties te houden. Aan de ene kant ligt een ongekende controle en inspectie van mensenlevens, aan de andere kant een veilige gelijkwaardigheid tussen individuen en organisaties. De vorm van de samenleving in de volgende eeuw kan afhangen van welke aanpak de overhand heeft.'[^102]
 
 Volgens Chaum zou een maatschappij waarin anonieme transacties wel of niet mogelijk zijn uiteindelijk het verschil maken tussen democratie en dictatuur. Hij concludeerde daarom dat er een soort digitaal geld nodig was dat gebruikers een vergelijkbaar niveau van privacy bood als fysiek contant geld.
 
@@ -24,7 +24,7 @@ De wereld had behoefte aan *elektronisch geld*.
 
 Toen Chaum begon na te denken over ontwerpen voor een elektronisch geldsysteem, kwam hij al snel de eerste uitdaging tegen die iedereen die een digitale vorm van geld wil creëren, tegenkomt: *het probleem van dubbele uitgaven*.[^103]
 
-Eenvoudig gezegd, als valuta uitsluitend bestaat uit digitale informatie, enen en nullen, is het een fluitje van een cent om te kopiëren. Een enkele 'digitale dollar' kan worden gerepliceerd en naar twee verschillende ontvangers worden gestuurd... of zelfs naar een miljoen verschillende ontvangers, tot het punt dat het geld last heeft van hyperinflatie. Het spreekt voor zich dat dit soort vervalsing de integriteit van de valuta fundamenteel zou schaden en het waardeloos zou maken.
+Eenvoudig gezegd, als valuta uitsluitend bestaat uit digitale informatie, enen en nullen, is het een fluitje van een cent om te kopiëren. Een enkele *digitale dollar* kan worden gerepliceerd en naar twee verschillende ontvangers worden gestuurd... of zelfs naar een miljoen verschillende ontvangers, tot het punt dat het geld last heeft van hyperinflatie. Het spreekt voor zich dat dit soort vervalsing de integriteit van de valuta fundamenteel zou schaden en het waardeloos zou maken.
 
 Traditionele digitale geldsystemen lossen dit probleem van dubbele uitgaven op door middel van een vertrouwde partij, zoals een bank of betalingsverwerker.
 
@@ -34,21 +34,21 @@ Als de betaler niet genoeg geld heeft om de betaling uit te voeren, wordt de tra
 
 Dit lost het probleem van dubbele uitgaven op... maar het illustreert ook het privacyprobleem waar Chaum zich zorgen over maakte: de bank zou precies weten wie aan wie betaalt, hoeveel en wanneer. Bovendien zou de bank totale controle hebben over ieders saldi, en zou het mogelijk betalingen kunnen blokkeren of terugdraaien, en zelfs geld kunnen confisceren of verwijderen.
 
-Daarom begon Chaum aan een zoektocht naar een manier waarop zo'n derde partij (de bank) dubbele uitgaven kon detecteren, zonder de mogelijkheid om te traceren hoe elke 'digitale dollar' zich door de economie beweegt.
+Daarom begon Chaum aan een zoektocht naar een manier waarop zo'n derde partij (de bank) dubbele uitgaven kon detecteren, zonder de mogelijkheid om te traceren hoe elke digitale dollar zich door de economie beweegt.
 
 ## Blinde handtekeningen
 
-De bekwaamde cryptoloog loste het probleem op in 1983. Nauwelijks nadat hij zijn doctoraat in informatica aan de Berkeley-universiteit had verdiend, werd Chaum aangesteld als professor aan diezelfde universiteit. Hij publiceerde zijn ontwerp voor een elektronisch geldsysteem in zijn paper getiteld 'Blinde handtekeningen voor ontraceerbare betalingen'.
+De bekwaamde cryptoloog loste het probleem op in 1983. Nauwelijks nadat hij zijn doctoraat in informatica aan de Berkeley-universiteit had verdiend, werd Chaum aangesteld als professor aan diezelfde universiteit. Hij publiceerde zijn ontwerp voor een elektronisch geldsysteem in zijn paper getiteld *Blind Signatures for Untraceable Payments*.
 
 Zoals de titel van het artikel al aangeeft, was zijn uitvinding van *blinde handtekeningen* de sleutel tot zijn ontwerp voor een privacy-respecterend betaalsysteem.
 
-Chaum's blinde handtekeningen waren een uitbreiding van de publieke sleutel-cryptografie en meer specifiek van het RSA cryptografische handtekening algoritme. Om even te herhalen, een cryptografische handtekening is in feite een stukje data (zoals een bericht) dat versleuteld is met een *privésleutel* en ontsleuteld kan worden met een *publieke sleutel*. Wanneer Alice een bericht en een bijbehorende cryptografische handtekening naar Bob stuurt, moet Bob in staat zijn het bericht te ontcijferen met Alice's publieke sleutel. Hierdoor wordt het omgezet in hetzelfde bericht, waardoor wiskundig wordt bewezen dat de handtekening inderdaad is gemaakt met haar privésleutel.
+Chaums blinde handtekeningen waren een uitbreiding van de publieke sleutel-cryptografie en meer specifiek van het RSA cryptografische handtekening algoritme. Om even te herhalen, een cryptografische handtekening is in feite een stukje data (zoals een bericht) dat versleuteld is met een *privésleutel* en ontsleuteld kan worden met een *publieke sleutel*. Wanneer Alice een bericht en een bijbehorende cryptografische handtekening naar Bob stuurt, moet Bob in staat zijn het bericht te ontcijferen met Alice's publieke sleutel. Hierdoor wordt het omgezet in hetzelfde bericht, waardoor wiskundig wordt bewezen dat de handtekening inderdaad is gemaakt met haar privésleutel.
 
 Een blinde handtekening voegt dus één laag van encryptie toe aan de mix.
 
 Om Alice een blinde handtekening te laten maken, zou Bob eerst een speciaal soort encryptiesleutel genereren, de zogenaamde *verblindende sleutel*, waarmee hij een bericht zou coderen (versleutelen). Bob zou het versleutelde bericht vervolgens aan Alice geven, die het met haar privésleutel cryptografisch zou ondertekenen. Wanneer ze het gecodeerde bericht ondertekent, weet ze niet wat het originele bericht eigenlijk is: ze *ondertekent blind*.
 
-De resulterende handtekening is wiskundig verbonden aan Alice's publieke sleutel, zoals elke handtekening zou zijn. Dat wil zeggen, haar publieke sleutel kan worden gebruikt om het exacte versleutelde bericht dat zij ondertekende te reproduceren (het bericht zelf zou nog steeds versleuteld zijn; het zou hetzelfde versleutelde 'blob' reproduceren dat zij van Bob ontving.).
+De resulterende handtekening is wiskundig verbonden aan Alice's publieke sleutel, zoals elke handtekening zou zijn. Dat wil zeggen, haar publieke sleutel kan worden gebruikt om het exacte versleutelde bericht dat zij ondertekende te reproduceren (het bericht zelf zou nog steeds versleuteld zijn; het zou hetzelfde versleutelde *blob* reproduceren dat zij van Bob ontving).
 
 Maar Bob kan ook *als eerste* de verblindende sleutel gebruiken om de laag encryptie die hiermee gecreëerd is, te verwijderen. In principe zou dit moeten resulteren in een nieuwe, geldige handtekening van Alice, die dit keer overeenkomt met het originele bericht. Deze handtekening wordt de blinde handtekening genoemd. Met de eerste laag encryptie verwijderd door Bob, kan nu iedereen de publieke sleutel van Alice gebruiken om het originele bericht te reproduceren vanuit de blinde handtekening.
 
@@ -62,21 +62,21 @@ Om het blinde-handtekeningenschema te gebruiken voor een elektronisch geldsystee
 
 Nu wil Bob iets kopen van Carol met elektronisch geld.
 
-Ten eerste zou Bob elektronisch geld nodig hebben. Hiervoor zou hij een 'opname' bij Alice Bank aanvragen (idealiter had hij deze opname al gedaan voordat hij Carol wilde betalen, maar dat is een detail). Vreemd genoeg, om de opname te doen, creëert Bob eigenlijk zelf de 'digitale dollars' in de vorm van unieke serienummers. Vervolgens versleutelt hij deze digitale dollars (serienummers) met een verblindende sleutel en stuurt ze naar Alice Bank.
+Ten eerste zou Bob elektronisch geld nodig hebben. Hiervoor zou hij een *opname* bij Alice Bank aanvragen (idealiter had hij deze opname al gedaan voordat hij Carol wilde betalen, maar dat is een detail). Vreemd genoeg, om de opname te doen, creëert Bob eigenlijk zelf de digitale dollars in de vorm van unieke serienummers. Vervolgens versleutelt hij deze digitale dollars (serienummers) met een verblindende sleutel en stuurt ze naar Alice Bank.
 
-Alice Bank zou dan elke versleutelde dollar blindelings ondertekenen, en de handtekeningen terug sturen naar Bob. Voor elke versleutelde dollar die Alice Bank, blind ondertekend, terug naar Bob stuurt, trekt Alice Bank een reguliere dollar af van Bob's bankrekening.
+Alice Bank zou dan elke versleutelde dollar blindelings ondertekenen, en de handtekeningen terug sturen naar Bob. Voor elke versleutelde dollar die Alice Bank, blind ondertekend, terug naar Bob stuurt, trekt Alice Bank een reguliere dollar af van Bobs bankrekening.
 
 Bob zou vervolgens een laag van de encryptie verwijderen met behulp van zijn verblindende sleutel, zodat Alice's handtekeningen worden omgezet in blinde handtekeningen. Om Carol te betalen, zou hij simpelweg de digitale dollars en de bijbehorende blinde handtekeningen naar haar sturen. Carol gebruikt dan de publieke sleutel van Alice Bank om deze handtekeningen te verifiëren en als deze kloppen, stuurt ze onmiddellijk de digitale dollars en blinde handtekeningen door naar Alice Bank.
 
 Alice Bank zou deze digitale dollars nog nooit eerder gezien hebben, aangezien ze de eerste keer dat ze deze ontving nog versleuteld waren. Maar, belangrijk is dat Alice Bank in staat zou zijn te bevestigen dat deze met haar eigen privésleutel waren ondertekend. Alice Bank zou vervolgens de serienummers controleren met een lokale database om er zeker van te zijn dat dezelfde digitale dollars niet al door iemand anders waren gedeponeerd, om zo dubbele uitgaven te voorkomen.[^104]
 
-Als de digitale dollars een geldige handtekening bevatten en voorheen ongebruikt zijn, passeren ze beide controles. Vervolgens maakt Alice Bank aantekening van deze digitale dollars in haar lokale database om dubbele uitgaven in de toekomst te voorkomen. Daarna voegt ze het equivalent van normale dollars toe aan Carol's bankrekening en bevestigt dit aan haar. Met deze bevestiging weet Carol dat ze een geldige digitale dollar van Bob heeft ontvangen en geeft ze hem wat hij bij haar gekocht heeft.[^105]
+Als de digitale dollars een geldige handtekening bevatten en voorheen ongebruikt zijn, passeren ze beide controles. Vervolgens maakt Alice Bank aantekening van deze digitale dollars in haar lokale database om dubbele uitgaven in de toekomst te voorkomen. Daarna voegt ze het equivalent van normale dollars toe aan Carols bankrekening en bevestigt dit aan haar. Met deze bevestiging weet Carol dat ze een geldige digitale dollar van Bob heeft ontvangen en geeft ze hem wat hij bij haar gekocht heeft.[^105]
 
-Omdat Alice Bank de ondertekende bankbiljetten pas voor het eerst zou hebben gezien toen Carol ze stortte, zou Alice Bank geen enkele manier hebben om te weten dat ze oorspronkelijk van Bob kwamen. Ze hadden net zo goed van Dan of Erin kunnen komen. Bij uitbreiding, nadat Alice Bank de 'digitale dollars' aan Bob had uitgegeven, kon ze hem niet hebben gestopt ze uit te geven, aangezien ze geen idee zou hebben welke digitale dollars ongeldig te verklaren.[^106]
+Omdat Alice Bank de ondertekende bankbiljetten pas voor het eerst zou hebben gezien toen Carol ze stortte, zou Alice Bank geen enkele manier hebben om te weten dat ze oorspronkelijk van Bob kwamen. Ze hadden net zo goed van Dan of Erin kunnen komen. Bij uitbreiding, nadat Alice Bank de digitale dollars aan Bob had uitgegeven, kon ze hem niet hebben gestopt ze uit te geven, aangezien ze geen idee zou hebben welke digitale dollars ongeldig te verklaren.[^106]
 
 Inderdaad, Chaum had een vorm van elektronisch geld ontworpen.[^107]
 
-In de jaren na de publicatie van zijn eerste werk over ontraceerbare betalingen, breidde Chaum de mogelijkheden van elektronisch geld verder uit in presentaties tijdens de Crypto-conferenties en in verschillende andere papers. Deze vervolgartikelen werkten precies uit hoe een elektronische geldregeling te implementeren, waarbij het beste gedetailleerde voorbeeld hiervan zijn paper uit 1985 was met de beschrijvende titel 'Veiligheid zonder identificatie: transactiesystemen die Big Brother overbodig maken'.[^108]
+In de jaren na de publicatie van zijn eerste werk over ontraceerbare betalingen, breidde Chaum de mogelijkheden van elektronisch geld verder uit in presentaties tijdens de Crypto-conferenties en in verschillende andere papers. Deze vervolgartikelen werkten precies uit hoe een elektronische geldregeling te implementeren, waarbij het beste gedetailleerde voorbeeld hiervan zijn paper uit 1985 was met de beschrijvende titel *Security Without Identification: Transaction Systems to Make Big Brother Obsolete*.[^108]
 
 'De grootschalige geautomatiseerde transactiesystemen van de nabije toekomst kunnen zo worden ontworpen dat de privacy en de veiligheid van zowel individuen als organisaties beschermd blijven', zo verklaarde de introductie van één zin triomfantelijk.
 
@@ -96,19 +96,19 @@ Met deze initiële klus op zak, besloot de cryptograaf om DigiCash op te richten
 
 Het was begin jaren 90 steeds duidelijker geworden dat het internet mainstream zou worden, en Chaum was ervan overtuigd dat elektronische betalingen uiteindelijk een essentieel onderdeel van deze opkomende digitale wereld zouden zijn. Net als veel internetexperts in die tijd, verwachtte hij dat micro-betalingen alomtegenwoordig zouden worden: webdiensten moesten op de een of andere manier geld verdienen, en de voor de hand liggende oplossing was inderdaad om mensen kleine bedragen te laten betalen om ze te gebruiken.
 
-'Naarmate betalingen op het netwerk volwassen worden, ga je voor allerlei kleine dingen betalen, meer betalingen dan je vandaag de dag doet', voorspelde Chaum. 'Elk artikel dat je leest, elke vraag die je hebt, je zult ervoor moeten betalen'.[^110]
+'Naarmate betalingen op het netwerk volwassen worden, ga je voor allerlei kleine dingen betalen, meer betalingen dan je vandaag de dag doet', voorspelde Chaum. 'Elk artikel dat je leest, elke vraag die je hebt, je zult ervoor moeten betalen.'[^110]
 
 Het prestigeproject van DigiCash was een digitaal betalingssysteem dat mensen in staat zou stellen om dergelijke betalingen privé te maken, met behulp van elektronisch geld --- *eCash*.
 
 ## CyberBucks
 
-DigiCash begon snel internationaal onder de aandacht te komen. In een tijd waarin bedrijven als Netscape en Yahoo! bevestigden dat het grote geld zich verplaatste naar beginnende internetstart-ups, werd Chaum's start-up door veel techondernemers in de vroege jaren 90 gezien als een rijzende ster in deze snelgroeiende industrie.
+DigiCash begon snel internationaal onder de aandacht te komen. In een tijd waarin bedrijven als Netscape en Yahoo! bevestigden dat het grote geld zich verplaatste naar beginnende internetstart-ups, werd Chaums start-up door veel techondernemers in de vroege jaren 90 gezien als een rijzende ster in deze snelgroeiende industrie.
 
 Het zou Chaum en zijn team, dat enkele van de studenten omvatte waarmee hij het project begon, meerdere jaren kosten om hun eerste proof-of-concept om te zetten in een volwaardig betalingssysteem. Met als uiteindelijk doel hun eCash-technologie te verkopen aan banken, was een niveau van beveiliging nodig vereist door banken.
 
-In de tussentijd hebben ze wel een vroege versie van hun technologie uitgebracht. De eerste implementatie van Chaum's elektronische geldontwerp door DigiCash werd uitgerold vanuit het eigen bedrijfskantoor, maar in plaats van Amerikaanse dollars, Nederlandse guldens of een andere fiatvaluta, gebruikte dit vroege elektronische geldsysteem *CyberBucks*.
+In de tussentijd hebben ze wel een vroege versie van hun technologie uitgebracht. De eerste implementatie van Chaums elektronische geldontwerp door DigiCash werd uitgerold vanuit het eigen bedrijfskantoor, maar in plaats van Amerikaanse dollars, Nederlandse guldens of een andere fiatvaluta, gebruikte dit vroege elektronische geldsysteem *CyberBucks*.
 
-CyberBucks was een 'verzinsel', niet gedekt door echte waarde, denk aan speelgeld, als je wilt. Maar het bedrijf beloofde wel nooit meer dan een miljoen eenheden in omloop te brengen. De virtuele munten werden meestal gratis weggegeven, en iedereen kon het digitale geld op zijn computer opslaan, of het laden op een smartcard om een frisdrank of wat beltegoed te kopen in het DigiCash-gebouw zelf. Deze smartcards waren in feite onkraakbare, creditcard-achtige computers die speciaal waren ontworpen om dit soort betalingen te doen, en ze werden een belangrijke focus voor DigiCash: Chaum geloofde dat de smartcards essentieel waren voor de privacy van betalingen, omdat betalingen in persoon met een creditcard zelfs nog grotere privacyproblemen met zich meebrachten dan online betalingen.
+CyberBucks was een verzinsel, niet gedekt door echte waarde, denk aan speelgeld, als je wilt. Maar het bedrijf beloofde wel nooit meer dan een miljoen eenheden in omloop te brengen. De virtuele munten werden meestal gratis weggegeven, en iedereen kon het digitale geld op zijn computer opslaan, of het laden op een smartcard om een frisdrank of wat beltegoed te kopen in het DigiCash-gebouw zelf. Deze smartcards waren in feite onkraakbare, creditcard-achtige computers die speciaal waren ontworpen om dit soort betalingen te doen, en ze werden een belangrijke focus voor DigiCash: Chaum geloofde dat de smartcards essentieel waren voor de privacy van betalingen, omdat betalingen in persoon met een creditcard zelfs nog grotere privacyproblemen met zich meebrachten dan online betalingen.
 
 Het idee achter CyberBucks was dat DigiCash-medewerkers konden experimenteren met de eCash-technologie, terwijl bezoekers konden proeven van de toekomst. Toen Chaum en zijn collega's besloten om 100 CyberBucks te schenken aan elke handelaar die bereid was om de internetmunteenheid als betaalmiddel te accepteren, begon een kleine groep enthousiastelingen CyberBucks ook buiten de kantoren van DigiCash te gebruiken. Hoewel het doorgaans alleen kon worden uitgegeven aan gadgetachtige producten zoals digitale afbeeldingen of kleine puzzelspellen voor Apple's Macintosh-computer, genoot de bedrijfsmunteenheid toch enige bredere acceptatie.
 
@@ -142,7 +142,7 @@ Het maakt niet uit welke versie van het verhaal de waarheid dichter benadert, he
 
 ## Faillissement
 
-Uiteindelijk kwam de verandering vanuit Chaum's thuisland.
+Uiteindelijk kwam de verandering vanuit Chaums thuisland.
 
 Op zoek naar nieuwe fondsen richtte zijn bedrijf zich tot Amerikaanse durfkapitalisten, aangezien de investeringscultuur in de VS immers beter bekend was, en een grotere honger naar dit soort hightech-start-ups met een hoog risico. DigiCash kreeg een financiële injectie, terwijl MIT-hoogleraar Nicholas Negroponte tot voorzitter van de raad van bestuur werd benoemd en Chaum als CEO vervangen werd door Michael Nash, een veteraan van Visa.[^116] Illustratief voor de nieuwe koers van het bedrijf verhuisde het hoofdkantoor van Amsterdam naar Palo Alto, Californië, in het hart van Silicon Valley, waar de waarderingen van technologie-start-ups door het dak gingen. Chaum bleef wel deel uitmaken van DigiCash, maar dan nu als CTO.
 
@@ -152,7 +152,7 @@ En misschien nog belangrijker, het bleek uiteindelijk niet veel verschil te make
 
 eCash sloeg gewoonweg niet aan bij het publiek. De banken die de technologie uitprobeerden, promootten het niet echt bij hun klanten, en het hielp waarschijnlijk ook niet dat eCash relatief duur in gebruik was, waarbij het meestal enkele procenten van de transactiewaarde aan kosten in rekening bracht. Mark Twain bank had in een paar jaar tijd slechts 300 handelaren en 5.000 gebruikers ingeschreven, terwijl andere banken het niet veel beter deden.
 
-En, wellicht Chaum's lezing van DigiCash's geschiedenis kracht bijzettend, was het nieuwe leiderschap van het bedrijf ook niet in staat om grote deals te sluiten. Hoewel een samenwerking met CitiBank bijna rond was, wat DigiCash wellicht het broodnodige momentum had kunnen geven, liep het uiteindelijk spaak en de grote Amerikaanse financiële instelling trok zich terug.
+En, wellicht Chaums lezing van DigiCash's geschiedenis kracht bijzettend, was het nieuwe leiderschap van het bedrijf ook niet in staat om grote deals te sluiten. Hoewel een samenwerking met CitiBank bijna rond was, wat DigiCash wellicht het broodnodige momentum had kunnen geven, liep het uiteindelijk spaak en de grote Amerikaanse financiële instelling trok zich terug.
 
 Tegen eind 1997 had DigiCash het merendeel van zijn fondsen opgebrand. Na een laatste herschikking van de organisatie en leiderschap van het bedrijf, vroeg de start-up van Chaum in 1998 het faillissement aan.
 
@@ -160,7 +160,7 @@ Na acht jaar van bedrijvigheid, had DigiCash het niet kunnen waarmaken om aan de
 
 Bovendien worstelde DigiCash met een kip-en-ei-probleem. eCash was alleen nuttig als mensen het ergens konden uitgeven: zonder plekken om het digitale geld te besteden, was er geen reden om het in de eerste plaats te bemachtigen. Tegelijkertijd was het voor handelaren alleen zinvol om eCash te accepteren, als er genoeg mensen waren die het wilden uitgeven.
 
-'Het was moeilijk om voldoende handelaren te vinden die het wilden accepteren, zodat je genoeg consumenten kon vinden die het wilden gebruiken, of vice versa', herinnert Chaum zich in 1999. Ook zei hij: 'Naarmate het web groeide, nam de sofisticatie van de gebruikers af. Het was moeilijk om het belang van privacy aan hen uit te leggen'.[^117]
+'Het was moeilijk om voldoende handelaren te vinden die het wilden accepteren, zodat je genoeg consumenten kon vinden die het wilden gebruiken, of vice versa', herinnert Chaum zich in 1999. Ook zei hij: 'Naarmate het web groeide, nam de sofisticatie van de gebruikers af. Het was moeilijk om het belang van privacy aan hen uit te leggen.'[^117]
 
 De elektronisch geld-start-up van Chaum ging ten onder. De CyberBucks-server voor dubbele uitgaven ging ook offline. Zonder deze server was er geen manier om te weten welke valutaeenheden nog geldig waren. Het betekende, simpel gezegd, het einde van het experiment. Degenen die nog steeds CyberBucks bezaten, bleven achter met niets anders dan een stel waardeloze nummers op hun computer.
 
@@ -196,7 +196,7 @@ Eén van hun meest belovende ideeën maakte gebruik van een hash-functie,[^118] 
 
 Stornetta en Haber opperden dat documenten konden worden voorzien van een tijdstempel door een speciale tijdstempeldienst. Een document zou samen met een tijdcode gehashed worden die aangaf wanneer de tijdstempeldienst het ontvangen had, en deze hash zou cryptografisch ondertekend worden door de tijdstempelserver als een soort bewijs. Om aan te tonen dat een document op een bepaald moment bestond, kon de eigenaar van het document het originele document en de tijdstempel verstrekken, en iedereen kon die vervolgens invoeren in een hashfunctie en verifiëren dat er daadwerkelijk een identieke hash door de tijdstempelserver was ondertekend.
 
-Daarnaast speculeerden Stornetta en Haber dat verschillende documenten chronologisch gekoppeld konden worden in een hash-keten. Dat wil zeggen, elk nieuw document dat de tijdstempeldienst ontving, zou niet alleen samen met een tijdscode gehasht worden, maar ook met de hash van het vorige document. Deze nieuwe hash zou op zijn beurt weer samen met het volgende document worden gehasht om de volgende hash te creëren, enzovoort. De resulterende 'keten' van hashes kon exact bewijzen welke documenten in welke volgorde waren getijdstempeld, en zou op die manier een chronologisch 'ruggengraatrecord' vormen van alle verwerkte documenten.
+Daarnaast speculeerden Stornetta en Haber dat verschillende documenten chronologisch gekoppeld konden worden in een hash-keten. Dat wil zeggen, elk nieuw document dat de tijdstempeldienst ontving, zou niet alleen samen met een tijdscode gehasht worden, maar ook met de hash van het vorige document. Deze nieuwe hash zou op zijn beurt weer samen met het volgende document worden gehasht om de volgende hash te creëren, enzovoort. De resulterende 'keten' van hashes kon exact bewijzen welke documenten in welke volgorde waren getijdstempeld, en zou op die manier een chronologisch *ruggengraatrecord* vormen van alle verwerkte documenten.
 
 Dit betekende echter wel dat de tijdstempeldienst zelf vertrouwd zou moeten worden om niet te rommelen met het centrale archief. Theoretisch gezien, zou deze dienst vervalsingen kunnen maken door dezelfde documenten te hashen en te ondertekenen met verschillende tijdstempels, en het zou een nieuwe hash-keten kunnen creëren om de chronologische volgorde van de documenten te veranderen, of zelfs documenten volledig uit het archief kunnen verwijderen.
 
@@ -218,11 +218,11 @@ Stornetta en Haber hadden geconcludeerd dat het toevoegen van meer entiteiten om
 
 Maar Stornetta kwam nu tot het inzicht dat er een uitzondering op deze regel is: als iedereen de tijdstempeldienst controleert, kan niemand samenspannen: er zou niemand meer over zijn om tegen te samenzweren. Zolang iedereen iedereen in de gaten houdt, is er helemaal geen vertrouwde partij meer nodig!
 
-Stornetta stelde: 'Als we in essentie een samenzwering kunnen creëren die zo groot is dat het de hele wereld omvat, dan zouden we in feite het probleem hebben omgekeerd en een systeem zonder vertrouwen hebben gecreëerd'.[^119]
+Stornetta stelde: 'Als we in essentie een samenzwering kunnen creëren die zo groot is dat het de hele wereld omvat, dan zouden we in feite het probleem hebben omgekeerd en een systeem zonder vertrouwen hebben gecreëerd.'[^119]
 
 Het is uiteraard onwaarschijnlijk dat de groep die op vervalsingen controleert zo groot wordt dat letterlijk iedereen op aarde erbij hoort. Desalniettemin, deze nieuwe inzichten betekenden een echte doorbraak in het denken van Stornetta en Haber.
 
-Dit resulteerde uiteindelijk in de publicatie van hun onderzoek uit 1990: 'Hoe plaatst men een tijdstempel op een digitaal document?'.[^120] De paper stelde nieuwe normen in het domein van digitale tijdstempels en presenteerde twee enigszins verschillende benaderingen.
+Dit resulteerde uiteindelijk in de publicatie van hun onderzoek uit 1990: 'Hoe plaatst men een tijdstempel op een digitaal document?'[^120] De paper stelde nieuwe normen in het domein van digitale tijdstempels en presenteerde twee enigszins verschillende benaderingen.
 
 Het eerste voorstel leek sterk op hun idee van een hash-keten ruggengraatrecord, waarbij de tijdstempeldienst elk update cryptografisch zou ondertekenen en chronologisch aan het record zou linken. Dit zou bewijzen dat het daadwerkelijk de tijdstempeldienst was die het nieuwe document toevoegde, en in welke volgorde. Maar belangrijk was dat in plaats van enkel de tijdstempeldienst te vertrouwen met het ruggengraatrecord, dit record nu met alle deelnemers gedeeld zou worden.
 
@@ -254,13 +254,13 @@ Het zou een waardevol middel blijken te zijn in de strijd tegen digitale fraude.
 
 ## Een keten van wortels
 
-Goed bekend met de vele cryptografische voorstellen die in de anderhalf decennium vóór de publicatie van Stornetta en Haber's eerste paper zijn geïntroduceerd, stelde Bayer aan de onderzoekers van Bellcore voor dat ze Merkle's hash-structuur konden gebruiken voor tijdstempels, wat het duo met plezier accepteerde. Hun tweede paper, 'Het verbeteren van de efficiëntie en betrouwbaarheid van digitale tijdstempels', werd gepubliceerd in 1993, en Bayer werd opgenomen als derde auteur. [^122]
+Goed bekend met de vele cryptografische voorstellen die in de anderhalf decennium vóór de publicatie van Stornetta en Habers eerste paper zijn geïntroduceerd, stelde Bayer aan de onderzoekers van Bellcore voor dat ze Merkle's hash-structuur konden gebruiken voor tijdstempels, wat het duo met plezier accepteerde. Hun tweede paper, *Improving the Efficiency and Reliability of Digital Time-Stamping*, werd gepubliceerd in 1993, en Bayer werd opgenomen als derde auteur. [^122]
 
 Stornetta, Haber en Bayer stelden voor om talrijke documenten tegelijkertijd te tijdstempelen door ze allemaal te bundelen in één grote Merkle-boom, waarvan er dagelijks één wordt aangemaakt. Gebruikers zouden dan niet voor elk getijdstempeld document een hash hoeven bij te houden. Integendeel, ze zouden alleen de dagelijkse Merkle-wortel als basisregistratie nodig hebben en enkel hun eigen Merkle-bewijzen om de hash van hun getijdstempelde documenten in de betreffende boom te vinden.
 
 Het resulteerde in een opmerkelijke verbetering van de efficiëntie, waardoor meer gebruikers deel konden nemen aan het tijdstempelproces. Het zou zelfs mogelijk zijn om de dagelijkse Merkle-wortel te publiceren in een krant, waar het zeer openbaar zou zijn en bewaard zou worden in fysieke krantenarchieven (Stornetta en Haber richtten later de tijdstempel-start-up Surety op, die inderdaad Merkle-wortels opnam in de geclassificeerde advertenties van de New York Times).
 
-Daarnaast, en zoals uitgediept in Stornetta en Haber's derde paper 'Secure Names for Bit-Strings'[^123], kan elke nieuwe Merkle-boom ook de vorige Merkle-wortel bevatten. Zo ontstaat een reeks van Merkle-wortels die zelf een chronologische hash-keten vormen. Als er per dag één Merkle-boom wordt gecreëerd, dan wordt de Merkle-wortel van gisteren opgenomen in de Merkle-boom van vandaag, terwijl de Merkle-wortel van vandaag opgenomen zou worden in de Merkle-boom van morgen, en zo verder.
+Daarnaast, en zoals uitgediept in Stornetta en Habers derde paper *Secure Names for Bit-Strings*[^123], kan elke nieuwe Merkle-boom ook de vorige Merkle-wortel bevatten. Zo ontstaat een reeks van Merkle-wortels die zelf een chronologische hash-keten vormen. Als er per dag één Merkle-boom wordt gecreëerd, dan wordt de Merkle-wortel van gisteren opgenomen in de Merkle-boom van vandaag, terwijl de Merkle-wortel van vandaag opgenomen zou worden in de Merkle-boom van morgen, en zo verder.
 
 Op deze manier zou ook de volgorde van de Merkle-bomen cryptografisch met elkaar verbonden zijn. Dit zou vervalsing nog moeilijker maken: zelfs als iemand erin zou slagen om bijvoorbeeld één editie van de *New York Times* in het fysieke archief te vervalsen om op de een of andere manier een andere Merkle-wortel op te nemen, zou dit niet overeenkomen met de Merkle-wortels die in alle kranten zijn gepubliceerd sinds die tijd, en natuurlijk ook niet met de persoonlijke archieven van mensen. Deze methode zou dus vervalsing van de gegevens bijna onmogelijk maken.
 
@@ -269,11 +269,11 @@ Inderdaad, als iemand zou proberen een document te antidateren, zou het niet all
 De sleutel tot hun succes, was de verdeling van vertrouwen.
 
 
-[^101]: David Chaum, 'Security Without Identification: Transaction Systems to Make Big Brother Obsolete', Communications of the ACM 28, no. 10: 1030--1044.
+[^101]: David Chaum, *Security Without Identification: Transaction Systems to Make Big Brother Obsolete*, Communications of the ACM 28, no. 10: 1030--1044.
 
-[^102]: David Chaum, 'Achieving Electronic Privacy', Scientific American 267, 2: 96--101.
+[^102]: David Chaum, *Achieving Electronic Privacy*, Scientific American 267, 2: 96--101.
 
-[^103]: David Chaum, 'Blind Signatures for Untraceable Payments', Advances in Cryptology: Proceedings of Crypto 82: 199--203.
+[^103]: David Chaum, *Blind Signatures for Untraceable Payments*, Advances in Cryptology: Proceedings of Crypto 82: 199--203.
 
 [^104]: Chaum zou later ook een oplossing voorstellen waarbij dubbel uitgeven de anonimiteit van de dader zou kunnen opheffen, waardoor de noodzaak om elke binnenkomende betaling direct te controleren aan de hand van de bankgegevens enigszins wordt beperkt, aangezien de dader van een dubbele-uitgavenaanval kan worden geïdentificeerd.
 
@@ -281,36 +281,36 @@ De sleutel tot hun succes, was de verdeling van vertrouwen.
 
 [^106]: Dat gezegd zijnde, zijn er nog enkele andere, mogelijk meer drastische maatregelen die Alice Bank had kunnen nemen. Naast het weigeren om digitale dollars aan Bob uit te geven, had ze ook alle elektronische contante betalingen kunnen blokkeren. Evenzo zou ze bepaalde gebruikers kunnen blokkeren van het accepteren van betalingen; zelfs als betalingen niet kunnen worden getraceerd, kunnen sommige gebruikers nog steeds worden uitgesloten van deelname aan het systeem.
 
-[^107]: Er kan worden gesteld dat Chaum een tamelijk losse definitie van 'contant geld' gebruikte, aangezien contant geld meestal meer onderscheidende eigenschappen heeft. Chaums vorm van digitaal contant geld bood bijvoorbeeld beperkte overdraagbaarheid van persoon tot persoon --- een kenmerk dat fysiek contant geld wel heeft, omdat het vrij kan worden doorgegeven. Niettemin heeft Chaum een vorm van digitaal geld uitgevonden die ten minste een vergelijkbaar niveau van privacy bood als fysiek contant geld, wat zijn hoofddoel was.
+[^107]: Er kan worden gesteld dat Chaum een tamelijk losse definitie van *contant geld* gebruikte, aangezien contant geld meestal meer onderscheidende eigenschappen heeft. Chaums vorm van digitaal contant geld bood bijvoorbeeld beperkte overdraagbaarheid van persoon tot persoon --- een kenmerk dat fysiek contant geld wel heeft, omdat het vrij kan worden doorgegeven. Niettemin heeft Chaum een vorm van digitaal geld uitgevonden die ten minste een vergelijkbaar niveau van privacy bood als fysiek contant geld, wat zijn hoofddoel was.
 
-[^108]: David Chaum, 'Security Without Identification'.
+[^108]: David Chaum, *Security Without Identification*.
 
-[^109]: Uiteindelijk werd het tolproject niet aangenomen: het idee bleek te controversieel in Nederland. De technologie zou echter later worden gelicentieerd onder de naam 'DyniCash' aan een onderneming in Dallas, Texas die gespecialiseerd was in communicatie op microgolf-frequenties voor treinen.
+[^109]: Uiteindelijk werd het tolproject niet aangenomen: het idee bleek te controversieel in Nederland. De technologie zou echter later worden gelicentieerd onder de naam *DyniCash* aan een onderneming in Dallas, Texas die gespecialiseerd was in communicatie op microgolf-frequenties voor treinen.
 
-[^110]: Peter H. Lewis, 'Attention Internet Shoppers: E-Cash Is Here', The New York Times, 19 oktober 1994, [online](https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html)
+[^110]: Peter H. Lewis, *Attention Internet Shoppers: E-Cash Is Here*, The New York Times, 19 oktober 1994, [online](https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html)
 
-[^111]: DigiCash, 'Bank Austria and Den norske Bank to Issue ecash: the Electronic Cash for the Internet', DigiCash, 14 april 1997, geraadpleegd [online](https://web.archive.org/web/19970605025912/http://www.digicash.com:80/publish/ec_pres8.html)
+[^111]: DigiCash, *Bank Austria and Den norske Bank to Issue ecash: the Electronic Cash for the Internet*, DigiCash, 14 april 1997, geraadpleegd [online](https://web.archive.org/web/19970605025912/http://www.digicash.com:80/publish/ec_pres8.html)
 
-[^112]: DigiCash, 'Advance Bank First to Provide DigiCash's ecash System in Australia', DigiCash, October, 1996, geraadpleegd [online](https://web.archive.org/web/19961102121407/https://www.digicash.com/publish/ec_pres6.html)
+[^112]: DigiCash, *Advance Bank First to Provide DigiCash's ecash System in Australia*, DigiCash, October, 1996, geraadpleegd [online](https://web.archive.org/web/19961102121407/https://www.digicash.com/publish/ec_pres6.html)
 
-[^113]: DigiCash, 'DigiCash's Ecash to be Issued by Deutsche Bank', DigiCash, 7 mei 1996, geraadpleegd [online](https://web.archive.org/web/19961102121355/https://www.digicash.com/publish/ec_pres5.html)
+[^113]: DigiCash, *DigiCash's Ecash to be Issued by Deutsche Bank*, DigiCash, 7 mei 1996, geraadpleegd [online](https://web.archive.org/web/19961102121355/https://www.digicash.com/publish/ec_pres5.html)
 
-[^114]: Jeffrey Kutler, 'Credit Suisse, Digicash in E-Commerce Test', American Banker, 16 juni 1998, [online](https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test)
+[^114]: Jeffrey Kutler, *Credit Suisse, Digicash in E-Commerce Test*, American Banker, 16 juni 1998, [online](https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test)
 
-[^115]: Next! Magazine 'Hoe DigiCash alles verknalde', Next!, January 1999, geraadpleegd [online](https://web.archive.org/web/19990427142412/https://www.nextmagazine.nl/ecash.htm)
+[^115]: Next! Magazine *Hoe DigiCash alles verknalde*, Next!, January 1999, geraadpleegd [online](https://web.archive.org/web/19990427142412/https://www.nextmagazine.nl/ecash.htm)
 
-[^116]: American Banker, 'Digicash Sends Signal by Hiring Visa Veteran', American Banker, 6 mei 1997, [online](https://www.americanbanker.com/news/digicash-sends-signal-by-hiring-visa-veteran)
+[^116]: American Banker, *Digicash Sends Signal by Hiring Visa Veteran*, American Banker, 6 mei 1997, [online](https://www.americanbanker.com/news/digicash-sends-signal-by-hiring-visa-veteran)
 
-[^117]: Julie Pitta, 'Requiem for a Bright Idea', Forbes, 1 november 1999, [online](https://www.forbes.com/forbes/1999/1101/6411390a.html)
+[^117]: Julie Pitta, *Requiem for a Bright Idea*, Forbes, 1 november 1999, [online](https://www.forbes.com/forbes/1999/1101/6411390a.html)
 
-[^118]: Hash-functies werden voor het eerst voorgesteld door de wiskundige George B. Purdy van de University of Illinois at Urbana-Champaign in zijn artikel 'A High Security Log-in Procedure', Communications of the ACM 17, no. 8: 442--445.
+[^118]: Hash-functies werden voor het eerst voorgesteld door de wiskundige George B. Purdy van de University of Illinois at Urbana-Champaign in zijn artikel *A High Security Log-in Procedure*, Communications of the ACM 17, no. 8: 442--445.
 
-[^119]: Scott Stornetta, 'The Missing Link between Satoshi & Bitcoin: Cypherpunk Scott Stornetta', interview by Naomi Brockwell, NBTV, with Naomi Brockwell, YouTube, 6 september 2018, [online](https://www.youtube.com/watch?v=fYr-keVOQ18)
+[^119]: Scott Stornetta, *The Missing Link between Satoshi & Bitcoin: Cypherpunk Scott Stornetta*, interview by Naomi Brockwell, NBTV, with Naomi Brockwell, YouTube, 6 september 2018, [online](https://www.youtube.com/watch?v=fYr-keVOQ18)
 
-[^120]: Stuart Haber and Scott W. Stornetta, 'How to Time-Stamp a Digital Document', Journal of Cryptology 3: 99--111.
+[^120]: Stuart Haber and Scott W. Stornetta, *How to Time-Stamp a Digital Document*, Journal of Cryptology 3: 99--111.
 
-[^121]: Ralph C. Merkle, 'A Certified Signature', Advances in Cryptology --- CRYPTO '89: Proceedings: 218--238.
+[^121]: Ralph C. Merkle, *A Certified Signature*, Advances in Cryptology --- CRYPTO '89: Proceedings: 218--238.
 
-[^122]: Dave Bayer, Stuart Haber and Scott W. Stornetta, 'Improving the Efficiency and Reliability of Digital Time-Stamping', Conference Paper, Sequences II: Methods in Communication, Security, and Computer Science: 329--34.
+[^122]: Dave Bayer, Stuart Haber and Scott W. Stornetta, *Improving the Efficiency and Reliability of Digital Time-Stamping*, Conference Paper, Sequences II: Methods in Communication, Security, and Computer Science: 329--34.
 
-[^123]: Stuart Haber and Scott W. Stornetta, 'Secure Names for Bit-strings', CCS '97: Proceedings of the 4th ACM Conference on Computer and Communications Security,: 28--35.
+[^123]: Stuart Haber and Scott W. Stornetta, *Secure Names for Bit-strings*, CCS '97: Proceedings of the 4th ACM Conference on Computer and Communications Security,: 28--35.

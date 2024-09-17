@@ -2,7 +2,7 @@
 
 Net als zijn vader wilde Friedrich August von Hayek hoogleraar in de biologie worden, maar de Eerste Wereldoorlog veranderde zijn levenspad volledig.[^8] Hij werd geboren in 1899 en groeide op tijdens de laatste jaren van het Oostenrijks-Hongaarse Rijk. Op zijn achtiende verjaardag werd hij opgeroepen om te vechten aan het Italiaanse front. Het laatste deel van de oorlog bracht hij door als waarnemer in vliegtuigen.
 
-Toen hij in 1918 na het einde van de oorlog thuis kwam, vond Hayek (het aristocratische voorvoegsel 'von' werd na de ineenstorting van de dubbele monarchie weggelaten) zijn woonplaats Wenen in totale verwoesting terug. De oorlog was verloren, de economie vernietigd en het rijk was niet meer. Het moreel in de stad was gebroken.
+Toen hij in 1918 na het einde van de oorlog thuis kwam, vond Hayek (het aristocratische voorvoegsel *von* werd na de ineenstorting van de dubbele monarchie weggelaten) zijn woonplaats Wenen in totale verwoesting terug. De oorlog was verloren, de economie vernietigd en het rijk was niet meer. Het moreel in de stad was gebroken.
 
 Om de zaken nog erger te maken, spendeerde de nieuwe Oostenrijkse regering zoveel om de naoorlogse kosten te dekken dat de waarde van hun nationale munteenheid enorm kelderde. Hoewel de krone tijdens de oorlog al meer dan 90 procent van zijn koopkracht had verloren, liep dit in de naoorlogse jaren pas echt uit de hand. Terwijl een Amerikaanse dollar voor ongeveer negen kronen verkocht werd in 1917, kon diezelfde dollar tegen 1923 meer dan 70.000 van de Oostenrijkse munteenheden opbrengen. Het nationale geld was in feite vernietigd.[^9]
 
@@ -20,13 +20,13 @@ De Eerste Wereldoorlog was het gewelddadige hoogtepunt van een tijdperk dat ster
 
 Het nationalisme had in de negentiende eeuw ook invloed op de economische wetenschap. Waar de *klassieke economie*, met haar sterke nadruk op vrije markten zoals voorgesteld door baanbrekende economen zoals David Hume, Adam Smith, en David Ricardo, dominant was in de late achttiende eeuw, begonnen Europese universiteiten gedurende de jaren 1800 de methoden van de *historische school van economie* te omarmen. De meest invloedrijke experts pleitten voor staatsinterventies in de economie, zoals arbeidswetten, beschermde heffingen, en progressieve belastingen.[^12]
 
-De methodologie van de historische economische school -- de verzameling methoden die gebruikt worden om de economie te bestuderen -- sloot algemene economische theorieën uit en stelde dat de 'regels' waaraan economieën voldoen verschillen per cultuur en tijd. In tegenstelling tot het opstellen van modellen of theorema's, verzamelden historische economen grote hoeveelheden historische data voor empirische analyse.
+De methodologie van de historische economische school -- de verzameling methoden die gebruikt worden om de economie te bestuderen -- sloot algemene economische theorieën uit en stelde dat de *regels* waaraan economieën voldoen verschillen per cultuur en tijd. In tegenstelling tot het opstellen van modellen of theorema's, verzamelden historische economen grote hoeveelheden historische data voor empirische analyse.
 
 Maar professor Carl Menger van de Universiteit van Wenen had deze aanpak in de jaren 1870 al afgewezen. Hij geloofde dat mensen en menselijke interacties te complex waren om enkel op basis van empirische gegevens waardevolle wetenschappelijke inzichten te kunnen afleiden. Een ontelbare hoeveelheid factoren beïnvloedt de gedachten en acties van een typisch persoon, redeneerde hij --- het is onbegonnen werk om het aantal factoren die een hele samenleving beïnvloeden te bestuderen. Geen enkele hoeveelheid empirische data zou groot genoeg kunnen zijn om al deze factoren te omvatten, geloofde Menger. Elke conclusie die uit zo'n dataset wordt getrokken, zou nooit overtuigend zijn.
 
-In plaats daarvan betoogde Menger dat economen zouden moeten proberen om economische verschijnselen te begrijpen en uit te leggen door deductieve redenering. Door te beginnen met basisprincipes, kon logisch redeneren leiden tot onweerlegbare inzichten die het wetenschappelijke begrip van economische processen *a priori* zouden uitbreiden (De Latijnse term *a priori* verwijst naar kennis die onafhankelijk is van ervaring, zoals wiskunde, in tegenstelling tot *a posteriori* kennis die afhankelijk is van empirisch bewijs, zoals meer typisch is in de meeste andere wetenschappelijke vakgebieden.).
+In plaats daarvan betoogde Menger dat economen zouden moeten proberen om economische verschijnselen te begrijpen en uit te leggen door deductieve redenering. Door te beginnen met basisprincipes, kon logisch redeneren leiden tot onweerlegbare inzichten die het wetenschappelijke begrip van economische processen *a priori* zouden uitbreiden (De Latijnse term *a priori* verwijst naar kennis die onafhankelijk is van ervaring, zoals wiskunde, in tegenstelling tot *a posteriori* kennis die afhankelijk is van empirisch bewijs, zoals meer typisch is in de meeste andere wetenschappelijke vakgebieden).
 
-Menger bracht deze aanpak in de praktijk in zijn boek uit 1871 getiteld *Grundsätze der Volkswirtschaftslehre* ('Grondbeginselen van de Economie'). Hierin schetste hij de theorie van het marginale nut, die stelt dat de prijs van goederen en diensten deels afhangt van hoeveel extra voldoening men krijgt door er meer van te hebben.[^13]
+Menger bracht deze aanpak in de praktijk in zijn boek uit 1871 getiteld *Grundsätze der Volkswirtschaftslehre*. Hierin schetste hij de theorie van het marginale nut, die stelt dat de prijs van goederen en diensten deels afhangt van hoeveel extra voldoening men krijgt door er meer van te hebben.[^13]
 
 Het boek en de methode van Menger betekende een fundamentele verschuiving in denkwijze. Tot dan toe hadden economen, zowel uit de klassieke als uit de historische school, altijd aangenomen dat de waarde van een product werd afgeleid van zijn productiekosten. Zij stelden dat een paar schoenen waardevol is omdat de productie ervan kosten met zich meebrengt --- met name de kosten van arbeid, leer en benodigdheden. De reden dat het leer en de benodigdheden kosten met zich meebrengen, is op hun beurt omdat het produceren van het leer en de benodigdheden eveneens arbeid vereist (en mogelijk ook andere kosten). Dit werd de arbeidswaardetheorie genoemd.
 
@@ -38,7 +38,7 @@ Met deze *subjectieve theorie van waarde*, plaatste Menger het individu opnieuw 
 
 Met zijn benadering, wellicht het best beschreven als een herleving van de klassieke economie gericht op individuele subjectieve ervaring, won Carl Menger de steun van verschillende van zijn collega's aan de Universiteit van Wenen. Door de publicatie in de jaren 1880 van zijn tweede boek,[^15] had Menger een filosofisch debat aangewakkerd over de methodologie van de economische wetenschap binnen Duitstalige universiteiten.
 
-Tijdens deze soms vijandige *Methodenstreit*, begonnen Duitse economen -- die sterk neigden naar de historische school -- ietwat minachtend naar Mengers aanpak te verwijzen als de 'Oostenrijkse school van economie'. Hoewel oorspronkelijk bedoeld als een sneer (in die tijd associeerden de Duitsers het predicaat 'Oostenrijks' met het verlies van Oostenrijk in de Oostenrijks-Pruisische oorlog van 1866), bleef de naam in gebruik. Economen die Mengers methodologie aannamen, werden sindsdien aangeduid als Oostenrijkse economen, zelfs wanneer ze niet uit Oostenrijk afkomstig waren.[^16]
+Tijdens deze soms vijandige *Methodenstreit*, begonnen Duitse economen -- die sterk neigden naar de historische school -- ietwat minachtend naar Mengers aanpak te verwijzen als de 'Oostenrijkse school van economie'. Hoewel oorspronkelijk bedoeld als een sneer (in die tijd associeerden de Duitsers het predicaat *Oostenrijks* met het verlies van Oostenrijk in de Oostenrijks-Pruisische oorlog van 1866), bleef de naam in gebruik. Economen die Mengers methodologie aannamen, werden sindsdien aangeduid als Oostenrijkse economen, zelfs wanneer ze niet uit Oostenrijk afkomstig waren.[^16]
 
 De vijandige sfeer tijdens de methodenstrijd in de late negentiende eeuw bereikte zijn hoogtepunt met de *de facto* verbanning van de Oostenrijkse economie uit Duitse universiteiten. De boycott zou decennia van kracht blijven, en verhinderdde in grote mate dat Mengers ideeën zich door de nieuwe, verenigde natiestaat verspreidden. In plaats daarvan bleef het nationalisme domineren, terwijl een andere collectivistische ideologie zich zonder veel wezenlijk tegengas ook begon te verspreiden doorheen de Duitse universiteiten: het socialisme was in opkomst.
 
@@ -56,7 +56,7 @@ Ongeveer drie jaar na deze gebeurtenissen bracht Mises, de professor die Hayek z
 
 Laten we een autofabriek nemen om dit argument te illustreren. In een vrije markt voegt een fabriek die auto's produceert en winst maakt duidelijk waarde toe aan de maatschappij: mensen zijn bereid meer te betalen voor auto's dan de fabriek moet betalen voor de benodigde hulpbronnen -- staal, machines, arbeidskrachten -- om ze te produceren. Winst wijst erop dat de productie van de fabriek meer wordt gewaardeerd dan de input.
 
-Een autofabriek die verlies draait daarentegen, voegt duidelijk geen waarde toe aan de maatschappij, aangezien mensen de gebruikte middelen meer waarderen dan het eindproduct. Uiteindelijk zal zo'n fabriek de deuren moeten sluiten. De middelen die de fabriek gebruikte, kunnen nu worden gekocht (of in het geval van arbeid, ingehuurd) door winstgevendere bedrijven om beter ingezet te worden (De Oostenrijkse econoom Joseph Schumpeter zou dit later 'creatieve destructie' noemen.).
+Een autofabriek die verlies draait daarentegen, voegt duidelijk geen waarde toe aan de maatschappij, aangezien mensen de gebruikte middelen meer waarderen dan het eindproduct. Uiteindelijk zal zo'n fabriek de deuren moeten sluiten. De middelen die de fabriek gebruikte, kunnen nu worden gekocht (of in het geval van arbeid, ingehuurd) door winstgevendere bedrijven om beter ingezet te worden (De Oostenrijkse econoom Joseph Schumpeter zou dit later *creatieve destructie* noemen).
 
 In een socialistische samenleving zou een staatsgeleide autofabriek op bevel van een centrale planner auto's produceren. Wanneer de auto's op bevel geproduceerd worden, is er geen terugkoppeling van de maatschappij in de vorm van winst of verlies. De autofabriek kan mogelijk middelen verspillen aan het maken van auto's die mensen niet waarderen, of niet zo hoog waarderen als andere producten die gemaakt hadden kunnen worden met dezelfde middelen.
 
@@ -104,21 +104,21 @@ Deze tijdsvoorkeuren, bepleitte von Böhm-Bawerk, worden weerspiegeld op de mark
 
 Stel je voor dat zowel Marie als Joris graag een nieuwe auto willen hebben. Ze hebben beiden liever vandaag dan volgend jaar een nieuwe auto. Maar Marie, wier auto net kapot is gegaan en die elke dag naar haar werk moet rijden, hechte veel meer waarde aan een nieuwe auto vandaag dan aan een nieuwe auto volgend jaar. Joris daarentegen heeft nog steeds een redelijk goede auto en werkt van thuis uit, dus heeft hij niet zo'n haast om een nieuwe te krijgen. Marie heeft een hogere tijdsvoorkeur dan Joris.
 
-Stel je voor dat een nieuwe auto € 20.000 kost. Marie heeft helaas geen geld, terwijl Joris € 20.000 aan spaargeld heeft. Op het eerste zicht zou dit suggereren dat Joris eerder dan Marie een nieuwe auto zal kopen: Joris kan het zich vandaag al veroorloven, terwijl Marie eerst nog geld moet sparen voordat ze een nieuwe auto kan betalen.
+Stel je voor dat een nieuwe auto $ 20.000 kost. Marie heeft helaas geen geld, terwijl Joris $ 20.000 aan spaargeld heeft. Op het eerste zicht zou dit suggereren dat Joris eerder dan Marie een nieuwe auto zal kopen: Joris kan het zich vandaag al veroorloven, terwijl Marie eerst nog geld moet sparen voordat ze een nieuwe auto kan betalen.
 
-Maar er is een andere optie. Joris zou Marie € 20.000 kunnen lenen.
+Maar er is een andere optie. Joris zou Marie $ 20.000 kunnen lenen.
 
-Of dit een goede deal is voor hen beiden, kan eenvoudig worden ontdekt door middel van rentetarieven. Laten we zeggen dat Marie, omdat ze een hoge tijdsvoorkeur heeft, vandaag in principe een auto 10 procent meer zou waarderen dan een auto volgend jaar. Dat wil zeggen dat ze zou bereid zijn om € 22.000 voor een auto van € 20.000 te betalen als ze deze vandaag kan hebben in plaats van een jaar vanaf nu. Ze is daarom bereid om 10 procent rente te betalen op een lening van € 20.000. Joris, die een lage tijdsvoorkeur heeft, zou een nieuwe auto vandaag slechts 1 procent meer waarderen dan een auto volgend jaar, een verschil van slechts € 200.
+Of dit een goede deal is voor hen beiden, kan eenvoudig worden ontdekt door middel van rentetarieven. Laten we zeggen dat Marie, omdat ze een hoge tijdsvoorkeur heeft, vandaag in principe een auto 10 procent meer zou waarderen dan een auto volgend jaar. Dat wil zeggen dat ze zou bereid zijn om $ 22.000 voor een auto van $ 20.000 te betalen als ze deze vandaag kan hebben in plaats van een jaar vanaf nu. Ze is daarom bereid om 10 procent rente te betalen op een lening van $ 20.000. Joris, die een lage tijdsvoorkeur heeft, zou een nieuwe auto vandaag slechts 1 procent meer waarderen dan een auto volgend jaar, een verschil van slechts $ 200.
 
-Joris zou dus kunnen besluiten om zijn aankoop uit te stellen en in plaats daarvan € 20.000 te lenen aan Marie. Na een jaar zal hij het geleende bedrag plus een extra € 2.000 aan rente terugkrijgen. Dit zorgt ervoor dat Marie de auto vandaag al kan kopen, terwijl de extra € 2.000 voor Joris de 'kosten' van het uitstellen van de aankoop van € 200 ruimschoots goedmaakt. Beide partijen zouden er voordeel uit halen. Rentetarieven stellen hen in staat onderling hun middelen in de tijd te verdelen, zodat ze het beste overeenkwamen met hun individuele tijdsvoorkeuren.
+Joris zou dus kunnen besluiten om zijn aankoop uit te stellen en in plaats daarvan $ 20.000 te lenen aan Marie. Na een jaar zal hij het geleende bedrag plus een extra $ 2.000 aan rente terugkrijgen. Dit zorgt ervoor dat Marie de auto vandaag al kan kopen, terwijl de extra $ 2.000 voor Joris de *kosten* van het uitstellen van de aankoop van $ 200 ruimschoots goedmaakt. Beide partijen zouden er voordeel uit halen. Rentetarieven stellen hen in staat onderling hun middelen in de tijd te verdelen, zodat ze het beste overeenkwamen met hun individuele tijdsvoorkeuren.
 
 Hoewel dit natuurlijk een zeer vereenvoudigd voorbeeld is, doen kredietmarkten iets vergelijkbaars op grotere schaal. Geldverstrekkers en -ontleners komen een rentetarief overeen waar het aanbod en de vraag naar geld elkaar treffen, gebaseerd op de gezamenlijke tijdsvoorkeuren. Als zodanig zijn rentetarieven in feite ook prijzen. Ze weerspiegelen de prijs van geld.
 
 En net zoals alle prijzen, communiceert de prijs van geld relevante informatie. Hayek was van mening dat de gemiddelde rente iets onthult over de hele economie. Als de rentetarieven hoog zijn, wijst dit erop dat veel mensen een hoge tijdsvoorkeur hebben en niet erg bereid zijn om geld uit te lenen. Ze geven er de voorkeur aan om goederen en diensten eerder dan later aan te schaffen. Omgekeerd, als de rentetarieven laag zijn, suggereert dit dat veel mensen een relatief lage tijdsvoorkeur hebben en bereid zijn hun aankopen uit te stellen als dat betekent dat ze ondertussen wat rente kunnen verdienen.
 
-Hayek was dus van mening dat rentetarieven producenten informeerden over de productiefase waar ze hun middelen aan moesten besteden. Lage rentetarieven signaleerden aan producenten dat ze dit 'goedkope geld' moesten benutten om productieprocessen op lange termijn te verbeteren door te investeren in goederen van een hogere orde, zoals een nieuwe oven om staal te produceren, die later kan worden gebruikt in de productie van auto's (of keukenapparatuur). Daarentegen maken hoge rentevoeten het lenen van geld duur, wat producenten aanmoedigt om reeds beschikbare middelen te gebruiken en zich te concentreren op het voltooien van de productie in een laat stadium (het laatste deel van het proces waar de uiteindelijke consumptiegoederen zoals auto's worden gemaakt en tentoongesteld in toonzalen voor mensen om te kopen).
+Hayek was dus van mening dat rentetarieven producenten informeerden over de productiefase waar ze hun middelen aan moesten besteden. Lage rentetarieven signaleerden aan producenten dat ze dit *goedkope geld* moesten benutten om productieprocessen op lange termijn te verbeteren door te investeren in goederen van een hogere orde, zoals een nieuwe oven om staal te produceren, die later kan worden gebruikt in de productie van auto's (of keukenapparatuur). Daarentegen maken hoge rentevoeten het lenen van geld duur, wat producenten aanmoedigt om reeds beschikbare middelen te gebruiken en zich te concentreren op het voltooien van de productie in een laat stadium (het laatste deel van het proces waar de uiteindelijke consumptiegoederen zoals auto's worden gemaakt en tentoongesteld in toonzalen voor mensen om te kopen).
 
-Het mooie hiervan, zag Hayek in, is dat de tijdsvoorkeuren van mensen netjes overeenkomen met de productiecapaciteit van de economie. Als tijdsvoorkeuren laag zijn, investeren mensen hun geld (of in de meeste gevallen zouden ze het 'sparen' op een bankrekening en de bank investeert het voor hen), en producenten worden gestimuleerd om te investeren in hun langetermijnproductieprocessen. Dus wanneer tijdsvoorkeuren in de toekomst toenemen, kunnen mensen hun geld en de rente die ze verdienen uitgeven aan de vruchten van al deze verhoogde productiviteit.
+Het mooie hiervan, zag Hayek in, is dat de tijdsvoorkeuren van mensen netjes overeenkomen met de productiecapaciteit van de economie. Als tijdsvoorkeuren laag zijn, investeren mensen hun geld (of in de meeste gevallen zouden ze het *sparen* op een bankrekening en de bank investeert het voor hen), en producenten worden gestimuleerd om te investeren in hun langetermijnproductieprocessen. Dus wanneer tijdsvoorkeuren in de toekomst toenemen, kunnen mensen hun geld en de rente die ze verdienen uitgeven aan de vruchten van al deze verhoogde productiviteit.
 
 Rentevoeten, legde Hayek uit, bevorderen spontane orde door de tijd heen!
 
@@ -130,7 +130,7 @@ Een aantal jaren voordat zijn student afstudeerde aan de Universiteit van Wenen,
 
 Toen de jonge Oostenrijker in 1923 in de Verenigde Staten aankwam, waren de *Roaring Twenties* in volle gang. De Amerikaanse economie floreerde, en mensen waren maar al te blij om geld te lenen om auto's van Ford te kopen, nieuwe technologische wonderen zoals wasmachines, of vastgoed te kopen in de voorsteden van grote steden. Of ze gebruikten het geld om te investeren in aandelen: de Dow Jones-beursindex bereikte jaar na jaar nieuwe hoogtepunten.
 
-Hayeks onderzoek zou zich richten op de economische rol van één instituut in het bijzonder: het relatief nieuwe centrale banksysteem van de Verenigde Staten, genaamd de Federal Reserve. De 'Fed', zoals dit centraal banksysteem vaak wordt genoemd, was in 1913 opgezet om vertrouwen en stabiliteit te brengen in het Amerikaanse bankensysteem.
+Hayeks onderzoek zou zich richten op de economische rol van één instituut in het bijzonder: het relatief nieuwe centrale banksysteem van de Verenigde Staten, genaamd de Federal Reserve. De *Fed*, zoals dit centraal banksysteem vaak wordt genoemd, was in 1913 opgezet om vertrouwen en stabiliteit te brengen in het Amerikaanse bankensysteem.
 
 Er werd gedacht dat een anker voor vertrouwen en stabiliteit noodzakelijk was, omdat commerciële banken werkten op basis van *fractionele reserves*: ze hadden minder echt geld in hun kluizen dan wat spaarders op hun bankrekeningen hadden toegeschreven. Het verschil werd uitgeleend aan kredietnemers en bracht rente op voor zowel banken als hun spaarders. Maar dit kon ook economische instabiliteit veroorzaken, want als te veel spaarders het vertrouwen in een bank verloren en ervoor kozen om tegelijkertijd hun geld op te nemen, zou de bank krap bij kas kunnen komen te zitten, waardoor ze niet alle opnameverzoeken konden honoreren.
 
@@ -138,19 +138,19 @@ In het scenario van zo'n *bankrun*, kon de Federal Reserve nu optreden als *kred
 
 Maar Hayek, die helemaal uit Oostenrijk was gekomen om de rol van de Fed als kredietverstrekker in uiterste nood te onderzoeken, en haar invloed op de Amerikaanse economie, was kritisch.
 
-Hayek vond dat de garanties van de nieuwe instelling economische prikkels verstoorden. Hij vreesde dat gunstige economische vooruitzichten de commerciële banken konden aansporen om leningen ruimer te verstrekken dan voorheen, waardoor de geldhoeveelheid in wezen toenam. Meer bankleningen betekent meer geld om in de economie uit te geven.[^22] Dit 'nieuwe geld' zou de algemene prijzen omhoog drijven -- *inflatie* -- waardoor bedrijfswinsten over de hele lijn hoger uitvallen en op hun beurt de gunstige economische vooruitzichten bevestigen. De mogelijkheid van commerciële banken om in wezen nieuw geld aan te maken door middel van leningen, zou een feedback-loop van uitbundige kredietcreatie kunnen veroorzaken.
+Hayek vond dat de garanties van de nieuwe instelling economische prikkels verstoorden. Hij vreesde dat gunstige economische vooruitzichten de commerciële banken konden aansporen om leningen ruimer te verstrekken dan voorheen, waardoor de geldhoeveelheid in wezen toenam. Meer bankleningen betekent meer geld om in de economie uit te geven.[^22] Dit *nieuwe geld* zou de algemene prijzen omhoog drijven -- *inflatie* -- waardoor bedrijfswinsten over de hele lijn hoger uitvallen en op hun beurt de gunstige economische vooruitzichten bevestigen. De mogelijkheid van commerciële banken om in wezen nieuw geld aan te maken door middel van leningen, zou een feedback-loop van uitbundige kredietcreatie kunnen veroorzaken.
 
 Echter, wanneer deze kredietcreatie onvermijdelijk vertraagt, zou de muziek stoppen. Als de hoeveelheid nieuw geld die in de economie wordt geïnjecteerd vermindert, zouden de algehele prijzen dalen -- deflatie -- en bedrijven zouden worden geconfronteerd met hun te optimistische inschatting van economische vooruitzichten. Ze zouden hun producten niet voor zoveel geld kunnen verkopen als ze hadden verwacht. Sommige bedrijven zouden moeten inkrimpen, en de werkloosheid zou toenemen, wat de economie nog meer zou vertragen, omdat mensen minder geld te besteden zouden hebben. Andere bedrijven zouden failliet gaan, waardoor ze hun leningen niet kunnen terugbetalen, wat op zijn beurt commerciële banken in de problemen zou brengen om aan alle deposito-eisen te voldoen. Ze zouden moeten stoppen met het verstrekken van nieuwe leningen, wat de economie alleen maar verder zou vertragen, resulterend in meer ontslagen en leningen die niet terugbetaald worden, en zo verder.
 
-Economen zouden later naar een dergelijke dynamiek verwijzen als een *deflatoire schuldenspiraal*. Deze lagen aan de basis van enkele bankencrises die de oprichting van de Federal Reserve in eerste instantie motiveerden. [^23]
+Economen zouden later naar een dergelijke dynamiek verwijzen als een *deflatoire schuldenspiraal*. Deze lagen aan de basis van enkele bankencrises die de oprichting van de Federal Reserve in eerste instantie motiveerden.[^23]
 
-Volgens Hayek was er geen reden om aan te nemen dat het oprichten van een 'kredietverstrekker in uiterste nood' deze kwalijke dynamiek zou beperken. Integendeel, het zou het zelfs kunnen versterken.
+Volgens Hayek was er geen reden om aan te nemen dat het oprichten van een *kredietverstrekker in uiterste nood* deze kwalijke dynamiek zou beperken. Integendeel, het zou het zelfs kunnen versterken.
 
 In het oude systeem, merkte hij op, hadden commerciële banken tenminste nog een goede reden om voorzichtig te zijn en niet te veel leningen te verstrekken:
 
-'In afwezigheid van enige centrale bank, is de voornaamste beperking voor individuele banken tegen het uitgeven van buitensporig krediet in een stijgende economische activiteitsfase, de noodzaak om voldoende liquiditeit te behouden om de vraag in een periode van krap geld het hoofd te bieden met hun eigen middelen.'[^24]
+> 'In afwezigheid van enige centrale bank, is de voornaamste beperking voor individuele banken tegen het uitgeven van buitensporig krediet in een stijgende economische activiteitsfase, de noodzaak om voldoende liquiditeit te behouden om de vraag in een periode van krap geld het hoofd te bieden met hun eigen middelen.'[^24]
 
-Het oprichten van een 'kredietverstrekker in uiterste nood' kan inderdaad een toeloop op de bank en paniek voorkomen. Maar Hayek stelde dat dit tegelijkertijd de prikkel voor banken wegneemt om in eerste instantie enige terughoudendheid te tonen bij het verstrekken van leningen.
+Het oprichten van een *kredietverstrekker in uiterste nood* kan inderdaad een toeloop op de bank en paniek voorkomen. Maar Hayek stelde dat dit tegelijkertijd de prikkel voor banken wegneemt om in eerste instantie enige terughoudendheid te tonen bij het verstrekken van leningen.
 
 'Het moet dus onvermijdelijk leiden tot een gestage toename in het gebruik van krediet en daardoor de herhaling van recessies nog onvermijdelijker maken', concludeerde Hayek.[^25]
 
@@ -186,13 +186,13 @@ Midden in de scherpe economische crisis die later bekend zou worden als de Grote
 
 En er kon iets gedaan worden, zo stelde een academicus uit Cambridge genaamd John Maynard Keynes. De Britse econoom zou tijdens de Grote Depressie snel naam maken door een onconventionele, maar dringend gewenste oplossing aan te dragen om de economie weer op de been te krijgen. In schril contrast met de pijnlijke oplossing die Hayek voorstelde, verspreidde Keynes een boodschap waar veel mensen reikhalzend naar uitkeken.[^27]
 
-Keynes negeerde Hayeks analyse van de oorzaken van de depressie en beweerde dat de economische malaise gewoon het ongelukkige resultaat was van een daling van de totale vraag. Hij redeneerde dat de economie stagneerde omdat mensen, voornamelijk om psychologische redenen, minder geld uitgaven dan eerder. Hij omschreef het fenomeen als 'dierlijke instincten'. Om uit de depressie te geraken, moesten mensen weer meer geld uitgeven.
+Keynes negeerde Hayeks analyse van de oorzaken van de depressie en beweerde dat de economische malaise gewoon het ongelukkige resultaat was van een daling van de totale vraag. Hij redeneerde dat de economie stagneerde omdat mensen, voornamelijk om psychologische redenen, minder geld uitgaven dan eerder. Hij omschreef het fenomeen als *dierlijke instincten*. Om uit de depressie te geraken, moesten mensen weer meer geld uitgeven.
 
 In wat de basis zou worden van nog een nieuwe school van economisch denken - het *Keynesianisme* - beargumenteerde de Britse econoom dat als het grote publiek geen geld zou uitgeven, de overheid het hun plaats moest doen. De overheid kon bijvoorbeeld investeren in openbare infrastructuurwerken, zelfs als dat zou betekenen dat daarvoor geld geleend moest worden. Geld lenen zou volgens Keynes sowieso goedkoop moeten zijn, aangezien de centrale bank de rentetarieven moest verlagen.
 
 Door geld te besteden aan openbare infrastructuurwerken, zou de overheid banen creëren. Dat zorgt ervoor dat mensen lonen hebben om uit te geven en geld weer in de economie kan gaan circuleren. Wanneer mensen weer op eigen houtje gaan uitgeven, zou de overheid vervolgens haar uitgaven moeten verminderen. Keynes stelde voor dat beleidsmakers een *anti-cyclische* aanpak van overheidsuitgaven zouden moeten adopteren.
 
-Eén specifieke beleidsmaker was volledig klaar voor deze uitdaging. Franklin D. Roosevelt (FDR), die in 1932 de eerste Amerikaanse presidentsverkiezingen sinds de beurskrach won, had zijn campagne gevoerd met de belofte om via zijn presidentieel mandaat actief een einde te maken aan de depressie. Toen hij zijn ambt opnam, vormden Keynes' ideeën het economische kader om zijn beleid te ondersteunen (zij het enigszins *nadat* dit beleid werd aangekondigd[^28]). Via een reeks overheidsprogramma's, die 'de New Deal' werden genoemd, begon FDR al snel miljarden dollars uit te geven aan wegen, luchthavens, bruggen, dammen en nog veel meer.
+Eén specifieke beleidsmaker was volledig klaar voor deze uitdaging. Franklin D. Roosevelt (FDR), die in 1932 de eerste Amerikaanse presidentsverkiezingen sinds de beurskrach won, had zijn campagne gevoerd met de belofte om via zijn presidentieel mandaat actief een einde te maken aan de depressie. Toen hij zijn ambt opnam, vormden Keynes' ideeën het economische kader om zijn beleid te ondersteunen (zij het enigszins *nadat* dit beleid werd aangekondigd[^28]). Via een reeks overheidsprogramma's, die *de New Deal* werden genoemd, begon FDR al snel miljarden dollars uit te geven aan wegen, luchthavens, bruggen, dammen en nog veel meer.
 
 Hayek was echter helemaal niet overtuigd van de ideeën van Keynes. Aangezien hij geloofde dat de economische malaise slechts een correctie was van de onhoudbare boom die eraan voorafging, was hij van mening dat overheidsuitgaven de uiteindelijk onhoudbare situatie alleen maar langer lieten voortduren.
 
@@ -200,54 +200,54 @@ Daarbovenop was er een wellicht nog belangrijker bezwaar tegen de Keynesiaanse a
 
 'Er zullen altijd delen van het land of bevolkingsgroepen zijn die van mening zijn dat ze het moeilijk genoeg hebben om hulp te mogen ontvangen', schreef Hayek. 'Kan onder deze omstandigheden een rationeel anti-cyclisch beleid ontwikkeld worden als het in handen van politieke organen wordt gegeven?'[^29]
 
-Voor Hayek was het antwoord een overduidelijke 'nee'.
+Voor Hayek was het antwoord een overduidelijke *nee*.
 
-Dit leidde tot wat vaak beschouwd wordt als een van de grootste intellectuele confrontaties van de twintigste eeuw. Gedurende de jaren '30 stonden Hayek, die op dat moment professor was aan de London School of Economics, en Keynes, nog steeds bij King's College in Cambridge, vaak tegenover elkaar in publieke debatten en ook in hun privécorrespondentie. Hun respectieve universiteiten in het zuidoosten van Engeland dienden als het strijdtoneel voor de opkomende titanen van de economie en hun twee tegenovergestelde economische visies.
+Dit leidde tot wat vaak beschouwd wordt als een van de grootste intellectuele confrontaties van de twintigste eeuw. Gedurende de jaren 1930 stonden Hayek, die op dat moment professor was aan de London School of Economics, en Keynes, nog steeds bij *King's College* in Cambridge, vaak tegenover elkaar in publieke debatten en ook in hun privécorrespondentie. Hun respectieve universiteiten in het zuidoosten van Engeland dienden als het strijdtoneel voor de opkomende titanen van de economie en hun twee tegenovergestelde economische visies.
 
 En er was in belangrijke opzichten een scherp contrast. Terwijl Keynes geloofde dat de economie onder andere regels werkt wanneer deze op nationale schaal wordt geanalyseerd (het macro-niveau), hield Hayek vol dat alles uiteindelijk voortkomt uit individuen en hun subjectieve keuzes (het micro-domein). Waar Keynes graag focuste op prijsgemiddelden en totalen, was Hayek meer geïnteresseerd in prijsverschillen. En terwijl Keynes betoogde dat overheden een actieve rol moesten spelen in het beheren van de economie, volhield Hayek dat de vrije markt het beste aan zichzelf kon worden overgelaten.
 
 Als Hayek het boegbeeld was van spontane orde van onderaf, dan had hij in Keynes en zijn interventiebeleid van bovenaf zijn hedendaagse, intellectuele rivaal gevonden.
 
-[^8]: ​Deirdre N. McCloskey, How to be Human -- Though an Economist, 33.
+[^8]: ​Deirdre N. McCloskey, *How to be Human -- Though an Economist*, 33.
 
-[^9]: ​Lawrence H. Officer, 'Exchange Rates Between the United States Dollar and Forty-one Currencies', MeasuringWorth, 2023.
+[^9]: ​Lawrence H. Officer, *Exchange Rates Between the United States Dollar and Forty-one Currencies*, MeasuringWorth, 2023.
 
-[^10]: ​Eamonn Butler, 'Hayek: His Contribution to the Political and Economic Thought of Our Time'.
+[^10]: ​Eamonn Butler, *Hayek: His Contribution to the Political and Economic Thought of Our Time*.
 
-[^11]: ​Bruce Caldwell and Hansjoerg Klausinger, 'Hayek: A Life, 1899--1950, Chs. 6--9'.
+[^11]: ​Bruce Caldwell and Hansjoerg Klausinger, *Hayek: A Life, 1899--1950, Chs. 6--9*.
 
-[^12]: ​Ludwig von Mises, 'The Historical Setting of the Austrian School of Economics', 12.
+[^12]: ​Ludwig von Mises, *The Historical Setting of the Austrian School of Economics*, 12.
 
-[^13]: ​Mises, 'Historical Setting', 12--13, 19--20.
+[^13]: ​Mises, *Historical Setting*, 12--13, 19--20.
 
 [^14]: ​Ludwig von Mises, Human Action: A Treatise on Economics, The Scholar's Edition, 21, 38--54.
 
-[^15]: ​Carl Menger, 'Untersuchungen über die Methode der Sozialwissenschaften und der Politischen Oekonomie insbesondere'.
+[^15]: ​Carl Menger, *Untersuchungen über die Methode der Sozialwissenschaften und der Politischen Oekonomie insbesondere*.
 
-[^16]: ​Mises, 'Historical Setting', 3--19.
+[^16]: ​Mises, *Historical Setting*, 3--19.
 
-[^17]: ​Ludwig von Mises, 'Economic Calculation in the Socialist Commonwealth'.
+[^17]: ​Ludwig von Mises, *Economic Calculation in the Socialist Commonwealth*.
 
 [^18]: Hoewel dit argument inderdaad is aangevoerd in de context van consumptiegoederen, is een meer precieze verwoording van dit argument, uitgewerkt in latere economische debatten, dat dit vooral van toepassing is op kapitaalgoederen.
 
-[^19]: ​Mises, 'Economic Calculation', 18.
+[^19]: ​Mises, *Economic Calculation*, 18.
 
-[^20]: Friedrich A. Hayek, 'Prices and Production'.
+[^20]: Friedrich A. Hayek, *Prices and Production*.
 
-[^21]: Friedrich A. Hayek, 'The Use of Knowledge in Society', American Economic Review. XXXV, No. 4: 526--27.
+[^21]: Friedrich A. Hayek, *The Use of Knowledge in Society*, American Economic Review. XXXV, No. 4: 526--27.
 
-[^22]: Als persoon A € 100 bij de bank stort en de bank hiervan € 90 uitleent aan persoon B, zal persoon A nog steeds denken dat hij of zij € 100 heeft, terwijl persoon B € 90 zal hebben, voor een totaal van € 190. Bovendien, als persoon B de € 90 opnieuw bij de bank stort en de bank hiervan € 81 uitleent aan persoon C, zullen drie mensen denken dat ze samen € 271 bezitten. Dit kan zo doorgaan, wat lijkt alsof er steeds meer geld in omloop komt. Dit concept staat bekend als de 'geldmultiplier'. In werkelijkheid kan de geldmultiplier zelfs nog agressiever zijn dan dit conventionele voorbeeld van fractioneel bankieren suggereert, omdat banken geen stortingen hoeven te ontvangen voordat ze leningen kunnen verstrekken; ze kunnen leningen uitgeven door eenvoudigweg krediet te creëren in de bankrekeningen van klanten.
+[^22]: Als persoon A € 100 bij de bank stort en de bank hiervan € 90 uitleent aan persoon B, zal persoon A nog steeds denken dat hij of zij € 100 heeft, terwijl persoon B € 90 zal hebben, voor een totaal van € 190. Bovendien, als persoon B de € 90 opnieuw bij de bank stort en de bank hiervan € 81 uitleent aan persoon C, zullen drie mensen denken dat ze samen € 271 bezitten. Dit kan zo doorgaan, wat lijkt alsof er steeds meer geld in omloop komt. Dit concept staat bekend als de *geldmultiplier*. In werkelijkheid kan de geldmultiplier zelfs nog agressiever zijn dan dit conventionele voorbeeld van fractioneel bankieren suggereert, omdat banken geen stortingen hoeven te ontvangen voordat ze leningen kunnen verstrekken; ze kunnen leningen uitgeven door eenvoudigweg krediet te creëren in de bankrekeningen van klanten.
 
-[^23]: Gary Richardson and Tim Sablik, 'Banking Panics of the Gilded Age: 1863--1913', Federal Reserve History, 4 december 2015, [online](https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.)
+[^23]: Gary Richardson and Tim Sablik, *Banking Panics of the Gilded Age: 1863--1913*, Federal Reserve History, 4 december 2015, [online](https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.)
 
-[^24]: ​Friedrich A. Hayek, 'Monetary Policy in the United States after the Recovery from the Crisis of 1920', in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge, 145.
+[^24]: ​Friedrich A. Hayek, *Monetary Policy in the United States after the Recovery from the Crisis of 1920*, in The Collected Works of F.A. Hayek, Good Money: part I, ed. Stephen Kresge, 145.
 
-[^25]: ​Hayek, 'Monetary Policy', 146.
+[^25]: ​Hayek, *Monetary Policy*, 146.
 
-[^26]: Stephen Kresge, 'The Collected Works of F.A. Hayek, Good Money: part I', 13.
+[^26]: Stephen Kresge, *The Collected Works of F.A. Hayek, Good Money: part I*, 13.
 
-[^27]: Het meest uitgebreid uiteengezet in John Maynard Keynes, 'The General Theory of Employment, Interest and Money'.
+[^27]: Het meest uitgebreid uiteengezet in John Maynard Keynes, *The General Theory of Employment, Interest and Money*.
 
-[^28]: ​George Selgin, 'The New Deal and Recovery, Part 15: The Keynesian Myth', Cato Institute, 16 maart 2022, [online](https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth.)
+[^28]: ​George Selgin, *The New Deal and Recovery, Part 15: The Keynesian Myth*, Cato Institute, 16 maart 2022, [online](https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth.)
 
-[^29]: ​Friedrich A. Hayek, 'The Gold Problem', in 'The Collected Works of F.A. Hayek, Good Money: part I', ed. Stephen Kresge, 184.
+[^29]: ​Friedrich A. Hayek, *The Gold Problem*, in *The Collected Works of F.A. Hayek, Good Money: part I*, ed. Stephen Kresge, 184.

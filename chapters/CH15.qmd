@@ -1,6 +1,6 @@
 # Het witboek
 
-**De financiële markten** waren al in rep en roer toen Adam Back in de zomer van 2008 een e-mail ontving van iemand die zichzelf 'Satoshi Nakamoto' noemde. Nakamoto legde uit dat hij een digitaal geldsysteem had ontworpen dat gebaseerd was op het proof-of-work-systeem dat Back meer dan tien jaar eerder had geïntroduceerd via hashcash. De e-mail bevatte een link naar een conceptversie van een witboek, getiteld 'Elektronisch Geld Zonder een Vertrouwde Derde Partij.' Nakamoto was geïnteresseerd in feedback.
+**De financiële markten** waren al in rep en roer toen Adam Back in de zomer van 2008 een e-mail ontving van iemand die zichzelf *Satoshi Nakamoto* noemde. Nakamoto legde uit dat hij een digitaal geldsysteem had ontworpen dat gebaseerd was op het proof-of-work-systeem dat Back meer dan tien jaar eerder had geïntroduceerd via hashcash. De e-mail bevatte een link naar een conceptversie van een witboek, getiteld 'Bitcoin: Een Peer-to-Peer Elektronisch Geldsysteem.' Nakamoto was geïnteresseerd in feedback.
 
 Back had nog nooit van de naam Satoshi Nakamoto gehoord, en, als betrokken lid van de Cypherpunkbeweging sinds midden jaren 1990, had hij al te veel mislukte pogingen gezien om digitale valuta te creëren om hoge verwachtingen te hebben van het nieuwe voorstel in zijn inbox. Toch had Nakamoto genoeg interesse bij de Britse Cypherpunk gewekt om het document te lezen, en hij merkte enkele overeenkomsten met het b-money-voorstel van Wei Dai op. Back wees Nakamoto hierop in zijn antwoord, maar liet het daar bij.
 
@@ -34,7 +34,7 @@ Inderdaad, het elektronische geldproject van Nakamoto had nu een naam: *Bitcoin*
 
 -   
 
-Bijgevoegd was een link naar de actuele versie van het witboek.[^270] 'Bitcoin: Een Peer-to-Peer Elektronisch Geldsysteem', luidde nu de titel. In amper negen pagina's (inclusief een bladzijde voor externe referenties), schetste Nakamoto de kernmechanismen van zijn digitale valuta. Het maakte een compacte, maar zeer efficiënte beschrijving van --- zoals de inleiding van het paper omschreef --- 'een elektronisch betalingssysteem gebaseerd op cryptografisch bewijs in plaats van vertrouwen.'
+Bijgevoegd was een link naar de actuele versie van het witboek.[^270] *Bitcoin: Een Peer-to-Peer Elektronisch Geldsysteem*, luidde nu de titel. In amper negen pagina's (inclusief een bladzijde voor externe referenties), schetste Nakamoto de kernmechanismen van zijn digitale valuta. Het maakte een compacte, maar zeer efficiënte beschrijving van --- zoals de inleiding van het paper omschreef --- 'een elektronisch betalingssysteem gebaseerd op cryptografisch bewijs in plaats van vertrouwen.'
 
 ## De block chain
 
@@ -56,9 +56,9 @@ Het paste als gegoten. Wei Dais idee om het grootboek van eigendom over alle geb
 
 In het meest geavanceerde voorstel van Stornetta en Haber verwerkten gebruikers documenten samen in een grote Merkle-boom, zodat de Merkle-wortel opgenomen kon worden in de volgende Merkle-boom. Dit resulteerde in een wiskundig verifieerbare chronologische volgorde van Hash-bomen en dus ook een chronologische volgorde van documenten opgenomen in de Hash-bomen. Zolang de gebruikers van het systeem hun eigen basisregister bijhielden, konden ze altijd bewijzen dat een bepaald document was opgenomen vóór een ander document en op welk tijdstip.
 
-Het elektronische geldsysteem van Nakamoto was op een zeer vergelijkbare manier ontworpen: de documenten van Haber en Stornettas tijdstempeloplossingen werden in Bitcoin in feite vervangen door transacties. Terwijl transacties via het peer-to-peer netwerk van Bitcoin werden verzonden, zouden gebruikers ze met enige regelmaat samenvoegen in een Merkle-boom. Een dergelijke bundel van transacties zou het grootste deel uitmaken van wat een 'blok' werd genoemd. Als twee of meer conflicterende transacties in het netwerk circuleerden, kon slechts een van hen in een blok worden opgenomen, en alleen transacties die in een blok waren opgenomen zouden als bevestigd worden beschouwd.
+Het elektronische geldsysteem van Nakamoto was op een zeer vergelijkbare manier ontworpen: de documenten van Haber en Stornettas tijdstempeloplossingen werden in Bitcoin in feite vervangen door transacties. Terwijl transacties via het peer-to-peer netwerk van Bitcoin werden verzonden, zouden gebruikers ze met enige regelmaat samenvoegen in een Merkle-boom. Een dergelijke bundel van transacties zou het grootste deel uitmaken van wat een *blok* werd genoemd. Als twee of meer conflicterende transacties in het netwerk circuleerden, kon slechts een van hen in een blok worden opgenomen, en alleen transacties die in een blok waren opgenomen zouden als bevestigd worden beschouwd.
 
-En, net zoals in Haber en Stornettas basisregisters, zou elk nieuw Bitcoinblok ook de hash bevatten van het vorige blok, ook wel de 'blok-hash' genoemd. Dit zou het onmogelijk maken om een ouder blok te wijzigen en het nog steeds wiskundig te laten passen in de ketting van alle blokken, aangezien dit noodzakelijkerwijs de hele ketting vanaf dat blok zou veranderen, iets wat alle gebruikers zouden opmerken.
+En, net zoals in Haber en Stornettas basisregisters, zou elk nieuw Bitcoinblok ook de hash bevatten van het vorige blok, ook wel de *blok-hash* genoemd. Dit zou het onmogelijk maken om een ouder blok te wijzigen en het nog steeds wiskundig te laten passen in de ketting van alle blokken, aangezien dit noodzakelijkerwijs de hele ketting vanaf dat blok zou veranderen, iets wat alle gebruikers zouden opmerken.
 
 Inderdaad, de inhoud van Bitcoinblokken, hun chronologische volgorde en daarmee de volgorde van alle transacties daarin, zouden in feite cryptografisch zijn verzegeld.
 
@@ -66,7 +66,7 @@ Nakamoto noemde deze ketting van blokken in de mailinglijst: de block chain.
 
 ## Minen
 
-Omdat een Bitcoinblok alleen als geldig zou worden beschouwd als het geen conflicterende transacties bevat, bood de 'block chain' het begin van een oplossing voor het probleem van dubbele uitgaven. Zelfs als verschillende gebruikers de transacties in een andere volgorde zouden zien, zouden hun eigendomsregisters nog steeds overeenkomen zolang ze alle blokken in dezelfde volgorde ontvingen. Bij een poging tot dubbele uitgave zou alleen de transactie die in een blok was opgenomen worden gebruikt om alle grootboeken bij te werken.
+Omdat een Bitcoinblok alleen als geldig zou worden beschouwd als het geen conflicterende transacties bevat, bood de *block chain* het begin van een oplossing voor het probleem van dubbele uitgaven. Zelfs als verschillende gebruikers de transacties in een andere volgorde zouden zien, zouden hun eigendomsregisters nog steeds overeenkomen zolang ze alle blokken in dezelfde volgorde ontvingen. Bij een poging tot dubbele uitgave zou alleen de transactie die in een blok was opgenomen worden gebruikt om alle grootboeken bij te werken.
 
 Toch loste dit het probleem van dubbele uitgaven niet volledig op. Als verschillende gebruikers namelijk verschillende blokken creëren (mogelijk met conflicterende transacties in deze verschillende blokken), en de verschillende blokken worden gelijktijdig naar verschillende delen van het netwerk gestuurd, zou exact hetzelfde probleem weer opduiken: het netwerk zou opsplitsen.
 
@@ -116,7 +116,7 @@ Het meest voor de hand liggende is dat oneerlijke deelnemers niet gemakkelijk du
 
 De enige manier om een dubbele uitgaveaanval uit te voeren, zou zijn als de aanvaller een van zijn transacties in een blok weet op te nemen en deze als betaling wordt geaccepteerd door de ontvanger, om vervolgens zelf een conflicterend blok te minen met de conflicterende transactie, en doorgaan met het minen van deze alternatieve block chain totdat hij langer is dan de originele ketting. Als het hem inderdaad zou lukken om de langste ketting te maken (met de dubbele uitgavetransactie erin), zouden alle Bitcoingebruikers overschakelen naar deze alternatieve ketting, en iedereen zou hun grootboeken dienovereenkomstig bijwerken. De originele transactie zou worden ingetrokken en de dubbele uitgave zou gelukt zijn.
 
-Echter, zolang de aanvaller niet over meer rekenkracht beschikt dan de rest van het netwerk tezamen, zou de kans dat hij de eerlijke ketting inhaalt, exponentieel afnemen voor elk blok dat hij achterloopt, legt Nakamoto uit. De eerlijke ketting zou vrijwel zeker sneller groeien. Hij onderbouwde zijn uitleg met de achtste en laatste verwijzing in het witboek, en ook de oudste: het handboek *An Introduction to Probability Theory and Its Applications*' uit 1957, geschreven door wiskundige William Feller.
+Echter, zolang de aanvaller niet over meer rekenkracht beschikt dan de rest van het netwerk tezamen, zou de kans dat hij de eerlijke ketting inhaalt, exponentieel afnemen voor elk blok dat hij achterloopt, legt Nakamoto uit. De eerlijke ketting zou vrijwel zeker sneller groeien. Hij onderbouwde zijn uitleg met de achtste en laatste verwijzing in het witboek, en ook de oudste: het handboek *An Introduction to Probability Theory and Its Applications* uit 1957, geschreven door wiskundige William Feller.
 
 Om een dubbele uitgave te voorkomen, zou de eenvoudigste oplossing zijn om te wachten tot er enkele blokken zijn ontgonnen boven op het blok dat een binnenkomende transactie bevat, voordat de betaling als definitief wordt beschouwd, schreef Nakamoto. Elk nieuw blok zou een extra bevestiging van de betreffende transactie vertegenwoordigen en met slechts een paar bevestigingen zou het in de meeste gevallen uiterst onwaarschijnlijk zijn dat een aanvaller ooit zou kunnen inhalen. En aangezien een aanvaller in middelen zou moeten investeren om rekenkracht te verkrijgen om het zelfs maar te proberen, zou een aanvalspoging meestal niet de moeite waard zijn.
 
@@ -126,7 +126,7 @@ Maar zelfs als dat het geval is, kan de aanvaller zijn aanval niet kosteloos uit
 
 Nakamoto veronderstelde dat de blokbeloningen die door het Bitcoinprotocol worden toegekend op zich al een mogelijke aanvaller zouden kunnen weerhouden om een dubbele uitgave te wagen:
 
-'De stimulans kan wellicht nodes ertoe aanzetten om eerlijk te blijven. Als een hebzuchtige aanvaller erin slaagt meer CPU-vermogen te verzamelen dan alle eerlijke nodes, dan zou hij moeten kiezen tussen mensen te bedriegen door zijn betalingen terug te stelen, of om nieuwe munten te genereren. Het zou voor hem winstgevender zijn om volgens de regels te spelen, regels die hem verrijken met meer nieuwe munten dan de rest, in plaats van het systeem en de geldigheid van zijn eigen vermogen te ondermijnen.'
+> 'De stimulans kan wellicht nodes ertoe aanzetten om eerlijk te blijven. Als een hebzuchtige aanvaller erin slaagt meer CPU-vermogen te verzamelen dan alle eerlijke nodes, dan zou hij moeten kiezen tussen mensen te bedriegen door zijn betalingen terug te stelen, of om nieuwe munten te genereren. Het zou voor hem winstgevender zijn om volgens de regels te spelen, regels die hem verrijken met meer nieuwe munten dan de rest, in plaats van het systeem en de geldigheid van zijn eigen vermogen te ondermijnen.'
 
 Zelfs in het ergste geval, zijn de stimuli van Bitcoin waarschijnlijk zodanig afgestemd dat iedereen eerlijk handelt.
 
@@ -150,13 +150,13 @@ De eerste reactie op Nakamotos aankondiging kwam ongeveer een dag later, van Jam
 
 Inderdaad, Nakamotos ontwerp vereiste dat gebruikers alle transacties op het Bitcoinnetwerk bijhielden, om zo hun lokale versies van het eigendomsgrootboek te kunnen bijwerken. Ze zouden precies moeten weten welke munten al waren uitgegeven en welke niet, om er zeker van te zijn dat een munt die ze als betaling ontvingen nog niet aan iemand anders was uitgegeven. Als het Bitcoinnetwerk groot genoeg zou worden, kon dit onuitvoerbaar worden voor de meeste standaardgebruikers.
 
-Het was een probleem waarover Satoshi Nakamoto nagedacht had. In zijn witboek stelde hij een oplossing bestaande uit twee stappen voor, genaamd 'Simplified Payment Verification' (SPV). Ten eerste, om de hoeveelheid benodigde schijfruimte voor het draaien van Bitcoin op de gemiddelde computer te minimaliseren, konden oudere blokken worden verwijderd van de computers, zodat ze alleen de blok-hashes hoefden op te slaan. En ten tweede, door gebruik te maken van hashbewijzen, konden gebruikers controleren met behulp van deze blok-hashes dat transacties naar hen waren opgenomen in de block chain --- waarbij ze alle andere transacties grotendeels negeerden. Het draaien van een volledig validerende netwerknode 'zou meer en meer worden overgelaten aan specialisten met serverfarms van gespecialiseerde hardware', schreef Nakamoto als antwoord op Donald in de mailinglijst. [^272]
+Het was een probleem waarover Satoshi Nakamoto nagedacht had. In zijn witboek stelde hij een oplossing bestaande uit twee stappen voor, genaamd *Simplified Payment Verification* (SPV). Ten eerste, om de hoeveelheid benodigde schijfruimte voor het draaien van Bitcoin op de gemiddelde computer te minimaliseren, konden oudere blokken worden verwijderd van de computers, zodat ze alleen de blok-hashes hoefden op te slaan. En ten tweede, door gebruik te maken van hashbewijzen, konden gebruikers controleren met behulp van deze blok-hashes dat transacties naar hen waren opgenomen in de block chain --- waarbij ze alle andere transacties grotendeels negeerden. Het draaien van een volledig validerende netwerknode 'zou meer en meer worden overgelaten aan specialisten met serverfarms van gespecialiseerde hardware', schreef Nakamoto als antwoord op Donald in de mailinglijst. [^272]
 
 Helaas loste deze oplossing het probleem niet volledig op, zoals Nakamoto zelf ook erkende in het witboek. Het introduceerde ook nieuwe problemen. SPV liet het beveiligingsmodel waarin iedereen elkaar in de gaten houdt varen, omdat in plaats daarvan alleen toegewijde miners zouden controleren of de regels van het systeem altijd worden nageleefd.
 
 Donald reageerde op Nakamoto in de mailinglijst en waarschuwde dat als slechts een klein deel van de Bitcoingebruikers over voldoende middelen kon beschikken om een miner te zijn, deze een doelwit konden worden en een drukpunt voor regelgevende instanties.
 
-In een lange en gedetailleerde repliek beschreef hij hoe overheden financiële netwerken stap voor stap zouden overnemen, uiteindelijk met als doel de gelduitgevende instantie te beheersen: 'Net zoals bijvoorbeeld de Federal Reservewet van 1913, is het doel altijd om het netwerk op te rollen in een enkele 'te groot om te falen' entiteit, en zij zijn steeds groter, serieuzer en rampzaliger geworden.'
+In een lange en gedetailleerde repliek beschreef hij hoe overheden financiële netwerken stap voor stap zouden overnemen, uiteindelijk met als doel de gelduitgevende instantie te beheersen: 'Net zoals bijvoorbeeld de Federal Reservewet van 1913, is het doel altijd om het netwerk op te rollen in een enkele *te groot om te falen* entiteit, en zij zijn steeds groter, serieuzer en rampzaliger geworden.'
 
 Bitcoin, voorspelde Donald, zou onderworpen worden aan hetzelfde type druk.
 
@@ -182,9 +182,9 @@ Ondertussen beweerde Donald dat Nakamotos moeilijkheidaanpassingsalgoritme helem
 
 Zowel Dillinger als Donald waren het er echter over eens dat het proof-of-work-consensusmechanisme van Bitcoin niet robuust of snel genoeg was. Ze hielden niet van het idee dat transacties omkeerbaar konden zijn, in het geval dat de block chain wordt ingehaald door een langere concurrerende ketting, en vonden het wachten op meerdere blokbevestigingen geen degelijke oplossing.
 
-'Hoe weet iemand wanneer een transactie onomkeerbaar is geworden?' vroeg Dillinger, retorisch. 'Is 'een paar' blokken drie? Dertig? Honderd?'[^278]
+'Hoe weet iemand wanneer een transactie onomkeerbaar is geworden?' vroeg Dillinger, retorisch. 'Is *een paar* blokken drie? Dertig? Honderd?'[^278]
 
-Wat het 'juiste' nummer ook zou zijn, het zou niet werken, voorspelde hij: noch consumenten noch verkopers zouden bereid zijn om 'een uur' te wachten tot transacties waren afgerond.
+Wat het *juiste* nummer ook was, het zou niet werken, voorspelde hij: noch consumenten noch verkopers zouden bereid zijn om *een uur* te wachten tot transacties waren afgerond.
 
 Donald deelde die assumptie: 'We willen dat mensen zeker zijn dat hun transactie geldig is, en dat dit van dezelfde duur is als tijdens een uitgave om het netwerk te overspoelen, niet op het moment dat het nodig is om vertakkingswedstrijden op te lossen.'[^279]
 
@@ -198,7 +198,7 @@ Echter, niet iedereen op de Cryptography-mailinglijst was bereid Bitcoin af te d
 
 Op 7 november, ongeveer een week nadat Nakamoto zijn witboek openbaar had gemaakt, kwam er ook een opvallend optimistische reactie naar voren op de lijst.
 
-'Bitcoin lijkt een veelbelovend idee te zijn', begint Hal Finney zijn e-mail, en duidt vervolgens nauwkeurig de twee voornaamste innovaties aan in vergelijking met voorgaande elektronische betaalsystemen. 'Ik waardeer het idee dat de beveiliging is gebaseerd op de veronderstelling dat de CPU-kracht van eerlijke deelnemers die van de aanvaller overstijgt', schreef hij. 'Ik denk ook dat er potentieel is in de vorm van een onvervalsbare token waarvan de productiesnelheid voorspelbaar is en niet kan worden beïnvloed door corrupte partijen. Dit zou meer vergelijkbaar zijn met goud dan met fiatvaluta. Nick Szabo schreef al vele jaren geleden over wat hij 'bit gold' noemde en dit kan een implementatie van dat concept zijn.'[^281]
+'Bitcoin lijkt een veelbelovend idee te zijn', begint Hal Finney zijn e-mail, en duidt vervolgens nauwkeurig de twee voornaamste innovaties aan in vergelijking met voorgaande elektronische betaalsystemen. 'Ik waardeer het idee dat de beveiliging is gebaseerd op de veronderstelling dat de CPU-kracht van eerlijke deelnemers die van de aanvaller overstijgt', schreef hij. 'Ik denk ook dat er potentieel is in de vorm van een onvervalsbare token waarvan de productiesnelheid voorspelbaar is en niet kan worden beïnvloed door corrupte partijen. Dit zou meer vergelijkbaar zijn met goud dan met fiatvaluta. Nick Szabo schreef al vele jaren geleden over wat hij *bit gold* noemde en dit kan een implementatie van dat concept zijn.'[^281]
 
 Net als Donald haalde Finney ook meteen aan dat Bitcoin wellicht baat kon hebben bij een lichtgewicht betalingssysteem boven op het bestaande protocol. Naast verbeterde schaalcapaciteit gaf de doorgewinterde expert op het gebied van elektronisch geld aan dat dit het systeem sterker zou maken en meer privacyfuncties zou kunnen bieden.
 
@@ -206,7 +206,7 @@ Net als Donald haalde Finney ook meteen aan dat Bitcoin wellicht baat kon hebben
 
 Een paar dagen later, in een afzonderlijke e-mail, merkte Finney op dat een bron van verwarring in de verschillende reacties op de mailinglijst voortkwam uit het feit dat Bitcoin in feite twee verschillende ideeën bundelde in één voorstel. Hij legde uit dat Bitcoin allereerst een poging was om een wereldwijd consistente, maar gedecentraliseerde database te creëren. Op zijn beurt werd deze database dan gebruikt om een elektronisch geldsysteem te realiseren. Waar verschillende deelnemers aan de mailinglijst zich meer op het ene of het andere aspect focusten en benadrukten dat het aspect waarop ze zich focusten enigszins imperfect was opgelost, was het vindingrijke aan Bitcoin dat het beide deed, en dat op een manier waarop ze elkaar aanvulden.
 
-'Het oplossen van het wereldwijde, sterk gedecentraliseerde databaseprobleem is misschien wel het moeilijkste deel', schreef Finney. 'Het gebruik van 'proof-of-work' als hulpmiddel voor dit doel is een nieuw idee dat volgens mij zeker verdere evaluatie verdient.'
+'Het oplossen van het wereldwijde, sterk gedecentraliseerde databaseprobleem is misschien wel het moeilijkste deel', schreef Finney. 'Het gebruik van *proof-of-work* als hulpmiddel voor dit doel is een nieuw idee dat volgens mij zeker verdere evaluatie verdient.'
 
 Zijn eigen e-mail bevatte een deel van deze beoordeling. Terwijl hij nadacht over de veiligheid van het systeem, bedacht hij dat gebruikers het netwerk draaiende konden houden, zelfs als het enkel om het ondersteunen als sociaal nuttig project ging, niet anders dan de soorten internetprojecten waarbij mensen rekenkracht doneren om medisch onderzoek te ondersteunen of radiosignalen te analyseren op zoek naar tekenen van buitenaards leven. 'In dit geval lijkt het me dat simpel altruïsme kan volstaan om het netwerk goed te laten functioneren', concludeerde Finney. [^283]
 
@@ -220,13 +220,13 @@ De voornamelijk sceptische reacties op het witboek in de Cryptography-mailinglij
 
 Satoshi Nakamoto had tot dan toe nog geen actieve rol gespeeld op de Cryptography-mailinglijst, de Cypherpunk-mailinglijst of enige andere relevante mailinglijst, en niemand onder die naam was ooit naar een Cypherpunk-bijeenkomst gekomen. Satoshi Nakamoto had nog geen eerdere digitale geldsystemen voorgesteld, en hij had ook geen andere opmerkelijke artikels over cryptografie of computertechnologie gepubliceerd. Wat dat betreft, was Satoshi Nakamoto een onbekende in Cypherpunk en cryptokringen, en elke keer een onbekende een nieuw elektronisch geldsysteem aankondigde, had het doorgaans weinig betekenis.
 
-Maar de uitvinder van Bitcoin had mogelijks meer ervaring in het vakgebied dan hij liet blijken. Hoewel de meeste abonnees van de Cryptography-mailinglijst waarschijnlijk aannamen dat ze werden gecontacteerd door een Japanse man, of op zijn minst een man van Japanse afkomst, was 'Satoshi Nakamoto' hoogstwaarschijnlijk een pseudoniem. Degene die achter deze schuilnaam zat, was mogelijk wel één of meerdere van de vooraanstaande bijdragers aan de Cryptography-mailinglijst, of de Cypherpunk-lijst daarvoor.
+Maar de uitvinder van Bitcoin had mogelijks meer ervaring in het vakgebied dan hij liet blijken. Hoewel de meeste abonnees van de Cryptography-mailinglijst waarschijnlijk aannamen dat ze werden gecontacteerd door een Japanse man, of op zijn minst een man van Japanse afkomst, was *Satoshi Nakamoto* hoogstwaarschijnlijk een pseudoniem. Degene die achter deze schuilnaam zat, was mogelijk wel één of meerdere van de vooraanstaande bijdragers aan de Cryptography-mailinglijst, of de Cypherpunk-lijst daarvoor.
 
 Aan de andere kant, hij, zij, of zij (als groep) hadden net zo nieuw en onervaren kunnen zijn in het domein van elektronisch geld als hun pseudoniem aanduidde.
 
 Wat de waarheid ook is, de entiteit simpelweg bekend als Satoshi Nakamoto leek niet bijzonder gehinderd te zijn door de sceptische reacties. Hoewel zijn witboek een zeer beknopt overzicht was van het Bitcoinprotocol, erkende hij dat hij veel functionele details weggelaten had. Daarom beantwoordde hij geduldig de meeste zorgen en verwarring over zijn voorstel en nam hij de tijd om alle delen van het ontwerp die misschien onduidelijk waren opnieuw uit te leggen.
 
-Hoewel hij niet elk detail in het witboek had opgenomen, had hij over de meeste ervan nagedacht. In een van zijn e-mailreacties verduidelijkte Nakamoto dat hij de ontwikkeling van Bitcoin 'achterstevoren' had benaderd: hij had zelfs de meeste Bitcoincode geschreven nog voor het opstellen van het witboek.[^285]
+Hoewel hij niet elk detail in het witboek had opgenomen, had hij over de meeste ervan nagedacht. In een van zijn e-mailreacties verduidelijkte Nakamoto dat hij de ontwikkeling van Bitcoin *achterstevoren* had benaderd: hij had zelfs de meeste Bitcoincode geschreven nog voor het opstellen van het witboek.[^285]
 
 Inderdaad, Bitcoin was niet zomaar een voorstel, zoals dat bij Bit Gold en b-money het geval was. Satoshi Nakamoto had al twee jaar gespendeerd aan de implementatie van het idee in code. Na iets meer dan twee weken discussies met een handvol respondenten, bood hij aan om de belangrijkste bestanden te sturen naar abonnees van de Cryptography-mailinglijst als zij daarom vroegen. De volledige release, zo beloofde hij, zou spoedig volgen.
 
@@ -234,42 +234,42 @@ Voor lijstbeheerder Perry Metzger --- een andere vroege Cypherpunk --- was het e
 
 'Ik zou graag voorlopig een einde willen maken aan de bitcoin e-cash-discussie --- er wordt veel gediscussieerd en dat zou beter kunnen als mensen op dit moment op zichzelf schrijven in plaats van dingen heen en weer te herhalen', schreef Metzger. 'Misschien kunnen we hier later op terugkomen wanneer Satoshi (of iemand anders) iets in detail opstelt en het publiceert.'[^286]
 
-[^267]: Satoshi Nakamoto and Wei Dai, 'Wei Dai/Satoshi Nakamoto 2009 Bitcoin emails', *gwern.net*, laatste update op 14 september 2017, [online](https://gwern.net/doc/bitcoin/2008-nakamoto)
+[^267]: Satoshi Nakamoto and Wei Dai, *Wei Dai/Satoshi Nakamoto 2009 Bitcoin emails*, *gwern.net*, laatste update op 14 september 2017, [online](https://gwern.net/doc/bitcoin/2008-nakamoto)
 
-[^268]: Nakamoto and Dai, 'Wei Dai/Satoshi Nakamoto 2009 Bitcoin emails.'
+[^268]: Nakamoto and Dai, *Wei Dai/Satoshi Nakamoto 2009 Bitcoin emails.*
 
-[^269]: Satoshi Nakamoto, 'Bitcoin P2P e-cash paper.' oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. 31 oktober 2008. [online](https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html)
+[^269]: Satoshi Nakamoto, *Bitcoin P2P e-cash paper.* oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. 31 oktober 2008. [online](https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html)
 
-[^270]: Satoshi Nakamoto, 'Bitcoin: A Peer-to-Peer Electronic Cash System', [online](https://bitcoin.org/bitcoin.pdf)
+[^270]: Satoshi Nakamoto, *Bitcoin: A Peer-to-Peer Electronic Cash System*, [online](https://bitcoin.org/bitcoin.pdf)
 
-[^271]: James A. Donald, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 2 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014814.html)
+[^271]: James A. Donald, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 2 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014814.html)
 
-[^272]: Satoshi Nakamoto, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 2 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014815.html)
+[^272]: Satoshi Nakamoto, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 2 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014815.html)
 
-[^273]: James A. Donald, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 3 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014819.html)
+[^273]: James A. Donald, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 3 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014819.html)
 
-[^274]: Satoshi Nakamoto, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 6 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014823.html)
+[^274]: Satoshi Nakamoto, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 6 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014823.html)
 
-[^275]: Ray Dillinger, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 6 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014822.html)
+[^275]: Ray Dillinger, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 6 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014822.html)
 
-[^276]: Ray Dillinger, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 14 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014857.html)
+[^276]: Ray Dillinger, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 14 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014857.html)
 
-[^277]: James A. Donald, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 9 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014837.html)
+[^277]: James A. Donald, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 9 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014837.html)
 
-[^278]: Ray Dillinger, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 15 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014859.html)
+[^278]: Ray Dillinger, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 15 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014859.html)
 
-[^279]: James A. Donald, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 9 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014841.html)
+[^279]: James A. Donald, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 9 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014841.html)
 
-[^280]: John Levine, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 3 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014817.html)
+[^280]: John Levine, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 3 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014817.html)
 
-[^281]: Hal Finney, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 7 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014827.html)
+[^281]: Hal Finney, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 7 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014827.html)
 
-[^282]: Hal Finney, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 7 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014827.html)
+[^282]: Hal Finney, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 7 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014827.html)
 
-[^283]: Hal Finney, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 13 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014848.html)
+[^283]: Hal Finney, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 13 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014848.html)
 
-[^284]: Satoshi Nakamoto, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 14 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014853.html)
+[^284]: Satoshi Nakamoto, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 14 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014853.html)
 
-[^285]: Satoshi Nakamoto, 'Bitcoin P2P e-cash paper', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 8 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html)
+[^285]: Satoshi Nakamoto, *Bitcoin P2P e-cash paper*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 8 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html)
 
-[^286]: Perry E. Metzger, 'ADMIN: end of bitcoin discussion for now', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 17 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014867.html)
+[^286]: Perry E. Metzger, *ADMIN: end of bitcoin discussion for now*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 17 november 2008, [online](https://www.metzdowd.com/pipermail/cryptography/2008-November/014867.html)

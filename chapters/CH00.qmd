@@ -1,6 +1,6 @@
 # Inleiding {.unnumbered}
 
-E-goud was in volle bloei. Tegen het jaar 2005 had het innovatieve online betalingssysteem van Douglas Jackson meer dan een miljoen accounts, die samen verantwoordelijk waren voor bijna € 2 miljard aan transacties per jaar. De volledig gedekte digitale tokens die e-goudklanten gebruikten om al deze transacties uit te voeren, vertegenwoordigden 3,8 ton goud, opgeborgen in kluizen over de hele wereld. Als een van de eerste werkende implementaties van elektronisch geld, was e-goud in minder dan tien jaar tijd uitgegroeid tot de populairste digitale valuta op het internet.
+E-goud was in volle bloei. Tegen het jaar 2005 had het innovatieve online betalingssysteem van Douglas Jackson meer dan een miljoen accounts, die samen verantwoordelijk waren voor bijna $ 2 miljard aan transacties per jaar. De volledig gedekte digitale tokens die e-goudklanten gebruikten om al deze transacties uit te voeren, vertegenwoordigden 3,8 ton goud, opgeborgen in kluizen over de hele wereld. Als een van de eerste werkende implementaties van elektronisch geld, was e-goud in minder dan tien jaar tijd uitgegroeid tot de populairste digitale valuta op het internet.
 
 Maar Jackson stond een onaangename verrassing te wachten.
 
@@ -12,37 +12,37 @@ Jackson werd aangeklaagd en beschuldigd van het witwassen van geld en het runnen
 
 ## Digitaal goud
 
-Jackson had nooit beoogd dat e-goud voor illegale doeleinden misbruikt zou worden. Hij geloofde ook niet dat dit op een serieuze schaal gebeurde. Sterker nog, hij beweerde dat e-goud een beter fraudedetectiesysteem had dan elke andere bestaande betalingsverwerker. Daarnaast was hij altijd meer dan bereid om met politie samen te werken. E-goud was ook een van de oprichtende leden van het 'National Center for Missing & Exploited Children's Financial Coalition Against Child Pornography'. De gegevens die deze coalitie verzamelde, zo stelde Jackson, gaven aan dat e-goud vrijwel niet voor dergelijke doeleinden werd gebruikt.
+Jackson had nooit beoogd dat e-goud voor illegale doeleinden misbruikt zou worden. Hij geloofde ook niet dat dit op een serieuze schaal gebeurde. Sterker nog, hij beweerde dat e-goud een beter fraudedetectiesysteem had dan elke andere bestaande betalingsverwerker. Daarnaast was hij altijd meer dan bereid om met politie samen te werken. E-goud was ook een van de oprichtende leden van het *National Center for Missing & Exploited Children's Financial Coalition Against Child Pornography*. De gegevens die deze coalitie verzamelde, zo stelde Jackson, gaven aan dat e-goud vrijwel niet voor dergelijke doeleinden werd gebruikt.
 
 Jackson, als succesvol en onafhankelijk oncoloog en veteraan van het medisch korps van het Amerikaanse leger, was in de jaren negentig al geïnteresseerd geraakt in het monetaire beleid en de invloed daarvan op de economie. Hij ontdekte dat moderne valuta's -- dollars, ponden, yen -- niet langer gedekt waren, waardoor ze in feite, uit het niets, met een druk op de knop gecreëerd konden worden. Toen hij zich verder in het onderwerp verdiepte, raakte hij ervan overtuigd dat dit de economie op zeer schadelijke manieren beïnvloedde.
 
 Jackson was dus van plan om een alternatief aan te bieden.
 
-Tijdens zijn onderzoek naar valuta's, ontwikkelde Jackson een hernieuwde waardering voor het 'klassieke geld' -- goud. Hij ontdekte dat mensen ten minste sinds de predynastieke Egyptische tijd waarde hechtten aan dit glanzende, gele metaal, en dat met goede reden: het natuurlijke element werd niet beïnvloed door de willekeur van mensen.
+Tijdens zijn onderzoek naar valuta's, ontwikkelde Jackson een hernieuwde waardering voor het *klassieke geld* -- goud. Hij ontdekte dat mensen ten minste sinds de predynastieke Egyptische tijd waarde hechtten aan dit glanzende, gele metaal, en dat met goede reden: het natuurlijke element werd niet beïnvloed door de willekeur van mensen.
 
 Het pre-dynastieke Egypte was echter allang verdwenen en zelfs Jackson moest toegeven dat het kostbare metaal voor dagelijkse transacties niet echt praktisch was. Nu het nieuwe millennium naderde, besefte Jackson dat mensen niet zouden terugkeren naar de tijd waarin ze betaalden met gouden munten. Sterker nog, zelfs koperen munten en papiergeld zouden waarschijnlijk binnenkort ouderwets lijken.
 
 Nee, de toekomst van geld moest digitaal zijn.
 
-Met dat toekomstbeeld zag Jackson (heel letterlijk) een gouden kans. Hij bundelde de krachten met advocaat Barry Downey en richtte in 1996, , onder zijn leiderschap, 'Gold & Silver Reserve Inc.' op. De start-up zou een betalingssysteem voor de eenentwintigste eeuw runnen, maar dan wel gebaseerd op dat klassieke geld. Ze zouden een elektronisch equivalent voor goud leveren: *e-gold*.
+Met dat toekomstbeeld zag Jackson (heel letterlijk) een gouden kans. Hij bundelde de krachten met advocaat Barry Downey en richtte in 1996, , onder zijn leiderschap, *Gold & Silver Reserve Inc.* op. De start-up zou een betalingssysteem voor de eenentwintigste eeuw runnen, maar dan wel gebaseerd op dat klassieke geld. Ze zouden een elektronisch equivalent voor goud leveren: *e-gold*.
 
-Het basisidee was simpel. *Gold & Silver Reserve Inc.* huurde kluizen die ze vulden met het fysieke, gouden metaal zelf. Voor elk stuk goud in deze kluizen gaf het bedrijf een digitale 'token' uit --- in feite een nummer in een database. De tokens vertegenwoordigden een claim op het goud. Als iemand tokens had die gelijk stonden aan tien gram goud, was tien gram goud in een van de kluizen wettelijk van hen.
+Het basisidee was simpel. *Gold & Silver Reserve Inc.* huurde kluizen die ze vulden met het fysieke, gouden metaal zelf. Voor elk stuk goud in deze kluizen gaf het bedrijf een digitale *token* uit --- in feite een nummer in een database. De tokens vertegenwoordigden een claim op het goud. Als iemand tokens had die gelijk stonden aan tien gram goud, was tien gram goud in een van de kluizen wettelijk van hen.
 
 De belangrijkste innovatie was dat *Gold & Silver Reserve Inc.* ook een server in stand hield die een openbaar toegankelijk boekhoudsysteem voor de tokens huisvestte. Mensen van over de hele wereld konden op de server inloggen en een persoonlijke rekening aanmaken, waardoor ze tokens naar en van elke andere rekening konden sturen en ontvangen. Bij elke transactie heeft *Gold & Silver Reserve Inc.* de rekeningsaldi dienovereenkomstig bijgewerkt.
 
 Dankzij de kracht van het internet, konden e-goud gebruikers elkaar dus in wezen over grote afstanden, direct, en tegen minimale kosten, betalen. Op de grenzeloze *informatiesnelweg* kon iedereen met een internetverbinding iemand anders betalen, zonder beperkingen door nationale grenzen of bankregels.
 
-Jackson creëerde e-goud, zo zei hij vaak, als een instelling om het materiële welzijn van de mensheid te bevorderen door toegang te bieden tot wereldwijde markten.
+Jackson creëerde e-goud, zo zei hij vaak, als een instelling om het materiële welzijn van de mensheid te bevorderen door toegang te bieden tot wereldwijde markten:
 
-'In tegenstelling tot andere, is e-goud een betalingssysteem dat mensen van elke regio of economische achtergrond wereldwijd laat opereren: een migrant kan gemakkelijk waarde naar huis sturen en een handelaar kan betalingen accepteren van iemand in een derdewereldland die misschien geen toegang heeft tot een creditcard of bankrekening.'[^2]
+> 'In tegenstelling tot andere, is e-goud een betalingssysteem dat mensen van elke regio of economische achtergrond wereldwijd laat opereren: een migrant kan gemakkelijk waarde naar huis sturen en een handelaar kan betalingen accepteren van iemand in een derdewereldland die misschien geen toegang heeft tot een creditcard of bankrekening.'[^2]
 
 Bovendien beweerde Jackson dat e-goud de mogelijkheid bood om een soort geld te gebruiken dat bestand is tegen inflatie. Omdat het digitaal was, was e-goud eigenlijk voor veel mensen toegankelijker dan echt goud.
 
 Op de lange termijn had e-goud zelfs het potentieel om de ruggengraat van een geheel nieuw financieel systeem te worden, suggereerde Jackson optimistisch.
 
-'Hoe vinden we een bankensysteem uit dat geen catastrofale verstoringen veroorzaakt, dat zelf het minst waarschijnlijk is om schommelingen te introduceren en dat het meest waarschijnlijk de juiste aanpassingen zal maken... is het meest prangende, onopgeloste economische probleem van onze tijd', citeerde hij op een gegeven moment uit het boek '*The Rationale of Central Banking and the Free Banking Alternative*' van econome Vera Smith.
+'Hoe vinden we een bankensysteem uit dat geen catastrofale verstoringen veroorzaakt, dat zelf het minst waarschijnlijk is om schommelingen te introduceren en dat het meest waarschijnlijk de juiste aanpassingen zal maken... is het meest prangende, onopgeloste economische probleem van onze tijd', citeerde hij op een gegeven moment uit het boek *The Rationale of Central Banking and the Free Banking Alternative* van econome Vera Smith.
 
-Toe te voegen: 'Een systeem en munteenheid zoals e-goud, vooral na opkomst en integratie in de financiële mainstream als reserve-activum dat als betaalmiddel wordt gebruikt, kunnen dit probleem zeker en vast oplossen.'[^3]
+> 'Een systeem en munteenheid zoals e-goud, vooral na opkomst en integratie in de financiële mainstream als reserve-activum dat als betaalmiddel wordt gebruikt, kunnen dit probleem zeker en vast oplossen.'[^3]
 
 ## Juridische kwesties
 
@@ -64,7 +64,7 @@ Intussen had de Amerikaanse overheid beslagleggingsbevelen uitgevaardigd om acht
 
 Toen er in 2008 eindelijk een voorlopig vonnis kwam, bepaalde de rechter dat e-goud inderdaad een betaaldienst was, en verwierp daarmee Jacksons verzoek om de zaak te seponeren. Aangezien hij nu geconfronteerd werd met de mogelijkheid op een aanzienlijke gevangenisstraf en enorme boetes, besloot Jackson een schikking te treffen.[^6]
 
-In een van de weinige positieve wendingen in het hele verhaal toonde de rechter in haar uiteindelijke vonnis enige mildheid. Ze stelde dat 'de intentie om illegale activiteiten te ondernemen er niet was'.[^7] Toch werd Jackson veroordeeld tot zesendertig maanden voorwaardelijke vrijlating (huisarrest), waarvan zes werden afgedwongen door middel van een enkelband. Hij moest ook 300 uur openbare dienstverlening uitvoeren en een boete van € 200 betalen. Zijn bedrijf kreeg ondertussen een boete van € 600.000. Twee van zijn werknemers -- mede-oprichters Barry Downey en Douglas' broer Reid Jackson -- werden veroordeeld tot zesendertig maanden voorwaardelijke vrijlating, 300 uur dienstverlening aan de gemeenschap en een boete van € 2.500 plus een boete van € 100.
+In een van de weinige positieve wendingen in het hele verhaal toonde de rechter in haar uiteindelijke vonnis enige mildheid. Ze stelde dat 'de intentie om illegale activiteiten te ondernemen er niet was'.[^7] Toch werd Jackson veroordeeld tot zesendertig maanden voorwaardelijke vrijlating (huisarrest), waarvan zes werden afgedwongen door middel van een enkelband. Hij moest ook 300 uur openbare dienstverlening uitvoeren en een boete van $ 200 betalen. Zijn bedrijf kreeg ondertussen een boete van $ 600.000. Twee van zijn werknemers -- mede-oprichters Barry Downey en Douglas' broer Reid Jackson -- werden veroordeeld tot zesendertig maanden voorwaardelijke vrijlating, 300 uur dienstverlening aan de gemeenschap en een boete van $ 2.500 plus een boete van $ 100.
 
 En natuurlijk moest e-goud een licentie verkrijgen voor het opereren van een betaaldienst. Het enige probleem? Als veroordeelde misdadiger kwam Jackson niet langer in aanmerking voor zo'n licentie, iets wat hij niet onmiddellijk had beseft toen hij met de schikking instemde. Net toen hij dacht dat hij eindelijk de juridische strijd voor altijd kon achterlaten en zijn bedrijven op welke manier dan ook kon proberen te redden, ontdekte Jackson dat dit niet onder zijn leiding kon gebeuren.
 
@@ -94,16 +94,16 @@ Tot slot beschrijft Deel III van het boek hoe Satoshi Nakamoto zijn elektronisch
 
 Samen vormen zij het verhaal van de monetaire hervormers, computerwetenschappers, privacyactivisten, futurologen, ondernemers en andere pioniers die, elk op hun eigen manier, bijdroegen aan de opkomst van het eerste succesvolle peer-to-peer elektronische geldsysteem ter wereld: Bitcoin.
 
-[^1]: ​Lawrence H. White, 'The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold', Cato Journal, 34, No. 2: 281--301.
+[^1]: ​Lawrence H. White, *The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold*, Cato Journal, 34, No. 2: 281--301.
 
-[^2]: Huis van Afgevaardigden, 'Deleting Commercial Pornography Sites From the Internet: The U.S. Financial Industry's Efforts to Combat This Problem', Hearing Before the Subcommittee on Oversight and Investigations of the Committee on Energy and Commerce, One Hundred Ninth Congress, Second Session, 21 september 2006, [online](https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm)
+[^2]: Huis van Afgevaardigden, *Deleting Commercial Pornography Sites From the Internet: The U.S. Financial Industry's Efforts to Combat This Problem*, Hearing Before the Subcommittee on Oversight and Investigations of the Committee on Energy and Commerce, One Hundred Ninth Congress, Second Session, 21 september 2006, [online](https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm)
 
-[^3]: ​White, 'Troubling Suppression', 289.
+[^3]: ​White, *Troubling Suppression*, 289.
 
-[^4]: ​e-gold, 'e-gold News', December 1999, geraadpleegd [online](https://web.archive.org/web/20001209053900fw_/http://www.e-gold.com/news.html.)
+[^4]: ​e-gold, *e-gold News*, December 1999, geraadpleegd [online](https://web.archive.org/web/20001209053900fw_/http://www.e-gold.com/news.html.)
 
-[^5]: ​e-gold, 'e-gold Welcomes US Government Review of its Status as a Privately Issued Currency', 20 januari 2006, geraadpleegd [online](https://web.archive.org/web/20060304203618if_/http://www.e-gold.com/letter2.html.)
+[^5]: ​e-gold, *e-gold Welcomes US Government Review of its Status as a Privately Issued Currency*, 20 januari 2006, geraadpleegd [online](https://web.archive.org/web/20060304203618if_/http://www.e-gold.com/letter2.html.)
 
-[^6]: ​US Department of Justice, 'Digital Currency Business e-gold Pleads Guilty to Money Laundering and Illegal Money Transmitting Charges', 21 juli 2008, [online](https://www.justice.gov/archive/opa/pr/2008/July/08-crm-635.html)
+[^6]: ​US Department of Justice, *Digital Currency Business e-gold Pleads Guilty to Money Laundering and Illegal Money Transmitting Charges*, 21 juli 2008, [online](https://www.justice.gov/archive/opa/pr/2008/July/08-crm-635.html)
 
-[^7]: ​e-gold 'Transcript of sentence before the honorable Rosemarie M. Collyer United States District Judge', 114, 20 november 2008, [online](https://legalupdate.e-gold.com/2008/11/transcript-of-sentence-before-the-honorable-rosemarie-m-collyer-united-states-district-judge.html)
+[^7]: ​e-gold *Transcript of sentence before the honorable Rosemarie M. Collyer United States District Judge*, 114, 20 november 2008, [online](https://legalupdate.e-gold.com/2008/11/transcript-of-sentence-before-the-honorable-rosemarie-m-collyer-united-states-district-judge.html)

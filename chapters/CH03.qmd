@@ -10,7 +10,7 @@ Geld lijkt dus vrij waardeloos. Desondanks wordt geld algemeen geaccepteerd als 
 
 Deze schijnbare tegenstrijdigheid was in het begin van de twintigste eeuw al aangepakt door Hayeks mentor aan de Universiteit van Wenen, Ludwig von Mises.[^54] De uitleg van Mises, het regressie-theorema genoemd, accepteert dat mensen daadwerkelijk geen geld willen. Ze willen wat geld kan kopen. Ze verlangen naar koopkracht.
 
-Mises redeneerde dat de verwachte koopkracht van geld afgeleid is van eerdere prestaties. Als € 10 je gisteren in een restaurant een lunch kon kopen, zullen mensen aannemen dat ze er morgen ook een lunch voor kunnen kopen. En de reden dat € 10 hen gisteren een lunch kon bieden, is dat de restauranteigenaar wist dat hij daarmee de dag daarvoor tien broden kon kopen bij de bakkerij, en waarschijnlijk dus ook de dag erna. De bakker accepteerde op zijn beurt € 10 in ruil voor zijn brood, want daarmee kon hij de dag ervoor een pond meel kopen bij de lokale molenaar... en zo verder.
+Mises redeneerde dat de verwachte koopkracht van geld afgeleid is van eerdere prestaties. Als $ 10 je gisteren in een restaurant een lunch kon kopen, zullen mensen aannemen dat ze er morgen ook een lunch voor kunnen kopen. En de reden dat $ 10 hen gisteren een lunch kon bieden, is dat de restauranteigenaar wist dat hij daarmee de dag daarvoor tien broden kon kopen bij de bakkerij, en waarschijnlijk dus ook de dag erna. De bakker accepteerde op zijn beurt $ 10 in ruil voor zijn brood, want daarmee kon hij de dag ervoor een pond meel kopen bij de lokale molenaar... en zo verder.
 
 Maar dit laat uiteraard nog steeds een belangrijk deel van de tegenstrijdigheid onopgelost: wanneer begonnen mensen *voor het eerst* geld te accepteren en, vooral, waarom? Als we ver genoeg terug in de tijd gaan -- regressie --, moet er ooit iemand de eerste zijn geweest die geld begon te accepteren, zonder enige vorige ervaring om op te vertrouwen bij het inschatten van toekomstige koopkrachtverwachtingen.
 
@@ -20,11 +20,11 @@ Mises loste deze vraag op door de theorie van Carl Menger te accepteren, die ste
 
 In een ruileconomie -- een economie zonder geld -- ruilen mensen direct goederen en diensten. Als de schoenmaker een paar schoenen heeft, maar liever een brood wil, en de bakker een brood heeft maar liever een paar schoenen wil, dan ruilen ze hun producten met elkaar. Na deze transactie zijn ze beiden (subjectief gezien) beter af dan daarvoor.
 
-Zo'n ruilhandel economie lijdt echter onder een probleem wat bekend staat als de 'dubbele toevalligheid van behoeften'. Een ruil kan alleen plaatsvinden als twee personen precies het product willen dat de ander te bieden heeft. De schoenmaker kan alleen schoenen ruilen voor een brood als de bakker toevallig een nieuw paar nodig heeft... maar dit gebeurt waarschijnlijk niet heel vaak.
+Zo'n ruilhandel economie lijdt echter onder een probleem wat bekend staat als de *dubbele toevalligheid van behoeften*. Een ruil kan alleen plaatsvinden als twee personen precies het product willen dat de ander te bieden heeft. De schoenmaker kan alleen schoenen ruilen voor een brood als de bakker toevallig een nieuw paar nodig heeft... maar dit gebeurt waarschijnlijk niet heel vaak.
 
 Meer gespecialiseerde vaklieden hebben het nog moeilijker om in een ruileconomie te bemachtigen wat ze willen, omdat minder mensen hun product nodig hebben. Een horlogemaker kan bijna nooit een horloge ruilen voor een brood of een paar schoenen, omdat bakkers en schoenmakers niet vaak een nieuw horloge nodig hebben.
 
-Maar het tegenovergestelde is ook waar: sommige producten zouden relatief gemakkelijk te verhandelen moeten zijn. Neem bijvoorbeeld zout, en laten we aannemen dat veel mensen in deze economie vrij regelmatig zout nodig hebben om een maaltijd op smaak te brengen, of om voedsel te conserveren. In de woordenschat van Menger en de Oostenrijkse school, is zout *verkoopbaarder* (of 'verhandelbaarder') dan een horloge.
+Maar het tegenovergestelde is ook waar: sommige producten zouden relatief gemakkelijk te verhandelen moeten zijn. Neem bijvoorbeeld zout, en laten we aannemen dat veel mensen in deze economie vrij regelmatig zout nodig hebben om een maaltijd op smaak te brengen, of om voedsel te conserveren. In de woordenschat van Menger en de Oostenrijkse school, is zout *verkoopbaarder* (of *verhandelbaarder*) dan een horloge.
 
 En zout heeft ook andere voordelen. Het is behoorlijk duurzaam want zout bederft niet. Het is redelijk draagbaar; zout kan makkelijk in een tas worden meegenomen. Het is deelbaar; zout kan moeiteloos in kleinere porties worden verdeeld, en die kleinere porties kunnen net zo gemakkelijk weer worden samengevoegd tot een grotere hoeveelheid. Bovendien is zout ook gemakkelijk te herkennen, en het is redelijk fungibel, wat betekent dat verschillende porties onderling uitwisselbaar zijn; zout is zout. En tot slot, afhankelijk van waar (en wanneer) je bent, kan zout ook schaars zijn; het kan moeilijk zijn om er meer van te verkrijgen.
 
@@ -44,7 +44,7 @@ Dit zou op zijn beurt de vraag naar zout ook vergroten. In deze economie werd zo
 
 Deze premie verklaart waarom mensen bereid zijn geld - in dit voorbeeld, zout - aan te nemen in ruil voor goederen en diensten die op zichzelf meer verlangens of behoeften vervullen, waardoor de schijnbare tegenstrijdigheid wordt overwonnen die werd geïntroduceerd door de subjectieve waarde theorie.
 
-Zout is in het verleden inderdaad als vorm van betaling gebruikt. Enkele duizenden jaren geleden werden de soldaten van het Romeinse Rijk in zout uitbetaald; het hedendaagse woord 'salaris' is afgeleid van het Latijnse woord *salarium*, dat 'zoutgeld' betekent. Toen de Italiaanse ontdekkingsreiziger Marco Polo in de dertiende eeuw naar China reisde, ontdekte hij dat de plaatselijke bevolking elkaar betaalde met een soort pannenkoeken gemaakt van zout. En er waren zelfs bepaalde Ethiopische stammen die zout als geld gebruikten, en dat zo recent als de twintigste eeuw.
+Zout is in het verleden inderdaad als vorm van betaling gebruikt. Enkele duizenden jaren geleden werden de soldaten van het Romeinse Rijk in zout uitbetaald; het hedendaagse woord *salaris* is afgeleid van het Latijnse woord *salarium*, dat *zoutgeld* betekent. Toen de Italiaanse ontdekkingsreiziger Marco Polo in de dertiende eeuw naar China reisde, ontdekte hij dat de plaatselijke bevolking elkaar betaalde met een soort pannenkoeken gemaakt van zout. En er waren zelfs bepaalde Ethiopische stammen die zout als geld gebruikten, en dat zo recent als de twintigste eeuw.
 
 Desalniettemin, gedurende duizenden jaren, ontdekten diverse beschavingen van over de wereld dat er een beter ruilmiddel bestond dan zout. Tegen de tijd dat Mises zijn regressietheorema publiceerde, was het grootste deel van de wereld overgegaan op het gebruik van goud.[^56]
 
@@ -58,13 +58,13 @@ Dit zorgde ervoor dat het merendeel van al het goud dat in de reserves van banke
 
 En uiteindelijk kwam dit allemaal onder toezicht te staan van centrale banken zoals de Federal Reserve. Deze centrale banken waren verantwoordelijk geworden voor het beheren van de goudreserves van hun landen, waar tegen zij nationale valuta's uitgaven --- papieren bankbiljetten die konden worden ingewisseld voor een vastgestelde hoeveelheid goud. Het echte goud werd eigenlijk alleen maar gebruikt voor internationale handel. Aan het begin van de twintigste eeuw was de wereld georiënteerd op de goudstandaard.
 
-Maar de Eerste Wereldoorlog had effectief een einde gemaakt aan *de klassieke goudstandaard*. De meeste regeringen schaften de inwisselbaarheid van hun valuta af, waardoor ze hun oorlogsinspanningen vrijer konden financieren.[^57] In plaats van een vertegenwoordiging van goud, werden de ongedekte nationale valuta's simpelweg door overheidsbesluit als geld beschouwd, een vorm van geld genaamd 'fiatgeld'. (Het Latijnse woord 'fiat' betekent 'laat het zo zijn', en wordt meestal geassocieerd met overheidsdecreten.)
+Maar de Eerste Wereldoorlog had effectief een einde gemaakt aan *de klassieke goudstandaard*. De meeste regeringen schaften de inwisselbaarheid van hun valuta af, waardoor ze hun oorlogsinspanningen vrijer konden financieren.[^57] In plaats van een vertegenwoordiging van goud, werden de ongedekte nationale valuta's simpelweg door overheidsbesluit als geld beschouwd, een vorm van geld genaamd *fiatgeld* (het Latijnse woord 'fiat' betekent *laat het zo zijn*, en wordt meestal geassocieerd met overheidsdecreten.)
 
 In de eerste jaren nadat de oorlog was beëindigd, fluctueerden de fiatvaluta's vrij in waarde ten opzichte van elkaar. Dit betekende dat als iemand van bijvoorbeeld de Verenigde Staten een product uit Engeland wilde kopen (importeren), ze eerst een deel van hun dollars moesten inwisselen voor ponden. Als dit op een grote schaal gebeurde, zou de extra vraag naar ponden op zijn beurt de wisselkoers tegenover de dollar verhogen (het zou meer dollars kosten om dezelfde hoeveelheid ponden te kopen).
 
 Een sterke pond zou vervolgens het importeren van producten en diensten uit Engeland duurder maken voor Amerikanen, waardoor de export van Engeland wordt geremd. Tegelijkertijd zou een zwakke dollar het importeren van producten en diensten uit de VS aantrekkelijker maken voor Britten, wat potentieel kan resulteren in een verhoogde vraag naar Amerikaanse goederen, en op zijn beurt weer kan zorgen voor een hogere vraag naar dollars. Schommelingen in de valutawaarde zouden dus op een bepaalde manier de handelsbalans tussen de twee landen stabiliseren.
 
-Er werd aangenomen dat dit een tijdelijke situatie zou zijn; de meeste landen hadden het voornemen terug te keren naar een goudstandaard. Ondanks dat, betoogden invloedrijke economen uit die tijd dat deze nieuwe goudstandaard wat anders zou moeten werken dan de klassieke goudstandaard. Aangezien het merendeel van het goud dat nationale munteenheden dekte nooit werd opgevraagd, konden centrale banken daadwerkelijk meer geld uitgeven dan ze in goud konden verantwoorden (In de VS mocht de Fed dit doen, zolang zij binnen de *gouddekkingratio* bleven: de verhouding tussen goud in reserve en uitgegeven dollars moest ten minste 40 procent zijn.).
+Er werd aangenomen dat dit een tijdelijke situatie zou zijn; de meeste landen hadden het voornemen terug te keren naar een goudstandaard. Ondanks dat, betoogden invloedrijke economen uit die tijd dat deze nieuwe goudstandaard wat anders zou moeten werken dan de klassieke goudstandaard. Aangezien het merendeel van het goud dat nationale munteenheden dekte nooit werd opgevraagd, konden centrale banken daadwerkelijk meer geld uitgeven dan ze in goud konden verantwoorden (In de VS mocht de Fed dit doen, zolang zij binnen de *gouddekkingratio* bleven: de verhouding tussen goud in reserve en uitgegeven dollars moest ten minste 40 procent zijn).
 
 Deze flexibiliteit bood de mogelijkheid voor een nieuw soort monetair beleid: centrale banken konden geld toevoegen aan --, of onttrekken uit het bankensysteem om rentetarieven te manipuleren, met als doel de waarde van geld te stabiliseren.
 
@@ -82,11 +82,11 @@ Fisher bedacht dat vergelijkbare indices gebruikt konden worden om een stabiele 
 
 Fisher beweerde dat de Federal Reserve de stabiliteit van de dollar kon nastreven door de rentetarieven te manipuleren. Hij had in 1920 de Stable Money Association opgericht om deze beleidswijziging te realiseren. Een collectief bestaande uit economen, politici en zakenleiders pleitte voor een stabilisatiebeleid via parlementaire ondervragingen, bekend als de 'stabilisatiehoorzittingen', terwijl ze daarnaast ook hun zaak bepleitten op internationale conferenties en andere bijeenkomsten waar monetair beleid een gespreksonderwerp was. Dit hielp om de ideeën van Fisher te verspreiden tot in de hoogste rangen van het Federal Reserve Systeem en daarbuiten.
 
-De Stable Money Association vond al gauw een bondgenoot in Hayek's hedendaagse rivaal, John Maynard Keynes. Maar Keynes ging zelfs nog verder dan Fisher en de Stable Money Association. Hij stelde voor om de goudstandaard volledig los te laten. In zijn verhandeling uit 1923, *A Tract on Monetary Reform*, betoogde de econoom van King's College dat het edelmetaal niet geschikt was om stabiele prijzen te garanderen, omdat het zelf onderhevig was aan marktsentimenten.
+De Stable Money Association vond al gauw een bondgenoot in Hayeks hedendaagse rivaal, John Maynard Keynes. Maar Keynes ging zelfs nog verder dan Fisher en de Stable Money Association. Hij stelde voor om de goudstandaard volledig los te laten. In zijn verhandeling uit 1923, *A Tract on Monetary Reform*, betoogde de econoom van *King's College* dat het edelmetaal niet geschikt was om stabiele prijzen te garanderen, omdat het zelf onderhevig was aan marktsentimenten.
 
 Hoewel dit inderdaad gedeeltelijk verzacht kon worden als de centrale banken een flexibeler aanpak zouden adopteren om muntstabiliteit te bereiken, betoogde Keynes dat de gouddekkingratio uiteindelijk de speelruimte van de centrale banken fundamenteel zou beperken. En in de praktijk zou deze genegeerd worden wanneer dat als noodzakelijk werd beschouwd.
 
-'In werkelijkheid is de goudstandaard al een barbaars overblijfsel. [...]. We zijn allemaal, van de gouverneur van de Bank van Engeland af, nu vooral geïnteresseerd in het behouden van de stabiliteit van bedrijven, prijzen en werkgelegenheid en het is niet waarschijnlijk dat we, gedwongen om een keuze te maken, bewust deze dingen zullen opofferen voor het achterhaalde dogma'.[^59]
+> 'In werkelijkheid is de goudstandaard al een barbaars overblijfsel. [...]. We zijn allemaal, van de gouverneur van de Bank van Engeland af, nu vooral geïnteresseerd in het behouden van de stabiliteit van bedrijven, prijzen en werkgelegenheid en het is niet waarschijnlijk dat we, gedwongen om een keuze te maken, bewust deze dingen zullen opofferen voor het achterhaalde dogma.'[^59]
 
 Als geld daarentegen volledig bevrijd zou worden van de beperkingen van goud, kon het monetaire beleid zo flexibel zijn als de monetaire autoriteiten nodig achtten.
 
@@ -102,7 +102,7 @@ Daarnaast betoogde de econoom dat iets vergelijkbaars gold voor anderszins ident
 
 Hayek:
 
-'Strikt genomen zouden goederen die technisch gelijk zijn maar alleen op verschillende tijdstippen beschikbaar zijn, in economische zin beschouwd moeten worden als verschillende goederen, net zoals goederen die technisch hetzelfde zijn maar zich op verschillende plaatsen bevinden'.[^60]
+> 'Strikt genomen zouden goederen die technisch gelijk zijn maar alleen op verschillende tijdstippen beschikbaar zijn, in economische zin beschouwd moeten worden als verschillende goederen, net zoals goederen die technisch hetzelfde zijn maar zich op verschillende plaatsen bevinden.'[^60]
 
 Vrije markten bevorderen innovatie, en de meeste producten worden door deze innovatie goedkoper om te produceren. Het produceren van een krat bananen, om bij dat voorbeeld te blijven, wordt na verloop van tijd betaalbaarder doordat bananenkwekers profiteren van verbeterde technologie voor het beheer van hun plantages. Het is dan logisch dat een krat bananen over tien jaar goedkoper zal zijn dan een krat bananen nu: de verschillen in productiekosten zullen tot uiting komen in de respectievelijke prijzen.
 
@@ -114,19 +114,19 @@ Als alle producenten in de economie op dezelfde manier denken, als ze allemaal d
 
 Hayek schreef:
 
-'Als, tijdens een algemene uitbreiding van de productie, de verwachting met zekerheid is dat de prijzen van producten niet zullen dalen, maar stabiel zullen blijven of zelfs zullen stijgen, zodat op een later tijdstip dezelfde of zelfs een hogere prijs kan worden verkregen voor het product dat tegen een lagere prijs is geproduceerd, moet het resultaat zijn dat de productie voor de latere periode, waarin het aanbod al op een relatief adequaat niveau is, nog verder wordt uitgebreid ten koste van die voor de eerdere periode, waarin het aanbod relatief minder adequaat is'.[^61]
+> 'Als, tijdens een algemene uitbreiding van de productie, de verwachting met zekerheid is dat de prijzen van producten niet zullen dalen, maar stabiel zullen blijven of zelfs zullen stijgen, zodat op een later tijdstip dezelfde of zelfs een hogere prijs kan worden verkregen voor het product dat tegen een lagere prijs is geproduceerd, moet het resultaat zijn dat de productie voor de latere periode, waarin het aanbod al op een relatief adequaat niveau is, nog verder wordt uitgebreid ten koste van die voor de eerdere periode, waarin het aanbod relatief minder adequaat is.'[^61]
 
 Om een spontane orde te hebben doorheen de tijd, moeten prijzen de mogelijkheid krijgen om te dalen.
 
 Hayek concludeerde daarom:
 
-'De acceptatie van de noodzaak voor een intertemporeel prijssysteem is niet alleen onverenigbaar met, het staat lijnrecht tegenover de heersende opvatting dat constante prijzen doorheen de tijd een voorwaarde zijn voor een ongestoorde economie'.[^62]
+> 'De acceptatie van de noodzaak voor een intertemporeel prijssysteem is niet alleen onverenigbaar met, het staat lijnrecht tegenover de heersende opvatting dat constante prijzen doorheen de tijd een voorwaarde zijn voor een ongestoorde economie.'[^62]
 
 Natuurlijk erkende de Oostenrijker ook dat een daling van de prijzen in sommige gevallen een negatieve impact kan hebben op de economie: hij waarschuwde tegen de manipulatie van rentetarieven juist omdat het uiteindelijk zou leiden tot deflatie. Echter, Hayek stelde dat deflatie alleen een probleem is als de daling van de prijzen daadwerkelijk wordt veroorzaakt door een afname van de geldhoeveelheid. In dat geval zouden bedrijven inderdaad minder verdienen dan verwacht, wat, zoals ook Fisher had aangegeven, een deflatoire schuldenspiraal in gang zou kunnen zetten.
 
 Hayek benadrukte dat als de daling van de prijzen niet veroorzaakt werd door een krimpende geldhoeveelheid, maar in plaats daarvan het resultaat was van goedkopere productieprocessen, dit probleem niet zou moeten bestaan.
 
-'Een daling van het prijspeil als gevolg van continue verbeteringen in alle productietakken heeft niet dezelfde problematische gevolgen als een deflatie. Theorie is tot nu toe nauwelijks verder gekomen dan dit onderscheid tussen de effecten van prijswijzigingen die enerzijds afkomstig zijn van de 'goederenkant' en anderzijds van de 'geldkant''.[^63]
+> 'Een daling van het prijspeil als gevolg van continue verbeteringen in alle productietakken heeft niet dezelfde problematische gevolgen als een deflatie. Theorie is tot nu toe nauwelijks verder gekomen dan dit onderscheid tussen de effecten van prijswijzigingen die enerzijds afkomstig zijn van de *goederenkant* en anderzijds van de *geldkant*.'[^63]
 
 ## De goudwisselstandaard
 
@@ -138,7 +138,7 @@ Deze beleidslijnen voor prijsstabilisatie moesten per land worden beheerd: de st
 
 De stabilisatoren erkenden dit, maar vonden dat de afweging het waard was.
 
-'[...] Wanneer stabiliteit van het interne prijsniveau en stabiliteit van de externe wisselkoersen onverenigbaar zijn, is de eerste doorgaans te verkiezen', schreef Keynes, en 'wanneer het dilemma acuut is, is het behoud van het eerste ten koste van het laatste, gelukkig misschien, de weg van de minste weerstand'.[^64]
+'[...] Wanneer stabiliteit van het interne prijsniveau en stabiliteit van de externe wisselkoersen onverenigbaar zijn, is de eerste doorgaans te verkiezen', schreef Keynes, en 'wanneer het dilemma acuut is, is het behoud van het eerste ten koste van het laatste, gelukkig misschien, de weg van de minste weerstand.'[^64]
 
 De stabilisatoren geloofden ook dat internationale handel vrij soepel kon doorgaan onder een goudwisselstandaard, als de centrale banken zich zouden houden aan wat Keynes de 'regels van het spel' had genoemd. In een notendop, landen met een handelsoverschot (die dus meer exporteren dan importeren) en daardoor een instroom van goud hebben, zouden volgens deze regels de rentetarieven moeten verlagen. Dit zou meer leningen stimuleren, wat zou resulteren in meer valuta in omloop en uiteindelijk hogere prijzen in het algemeen. Landen met een handelstekort zouden naar verwachting de rentetarieven verhogen om het tegenovergestelde effect te bereiken.
 
@@ -148,7 +148,7 @@ Ook Hayek erkende dat een dergelijk handelsevenwicht behouden kon worden onder d
 
 ## Monetair nationalisme
 
-In 1937 nam Hayek zowel de goudwisselstandaard als het zwevende fiatgeldsysteem onder de loep in een reeks lezingen getiteld 'Monetair nationalisme en internationale stabiliteit'. De lezingen wezen de internationale valuta-afspraken door de stabilisatoren, die Hayek had bestempeld als monetair nationalisme, volledig af.
+In 1937 nam Hayek zowel de goudwisselstandaard als het zwevende fiatgeldsysteem onder de loep in een reeks lezingen getiteld *Monetary Nationalism and International Stability*. De lezingen wezen de internationale valuta-afspraken door de stabilisatoren, die Hayek had bestempeld als monetair nationalisme, volledig af.
 
 Hayek stelde dat, onder zowel de goudwisselstandaard als ook een zwevend valutasysteem, de bedrijven en individuen die profiteren van een exporttoename (of in tegendeel, die lijden onder een exportdaling) niet noodzakelijkerwijs dezelfde bedrijven of individuen zijn die verantwoordelijk zijn voor de toename (of afname) van grensoverschrijdende handel.
 
@@ -158,7 +158,7 @@ Specifiek zal de verandering in rentetarieven onder de goudwisselstandaard waars
 
 In plaats van alleen de twee handelspartijen te beïnvloeden die zaken doen over grenzen heen, zorgde internationale handel onder de goudwisselstandaard in wezen voor een herverdeling van middelen via de kredietmarkten, zo merkte Hayek op.
 
-'Er zijn daarentegen sterke argumenten om te geloven dat de last van de verandering geheel of tot een mate die op geen enkele manier gerechtvaardigd is door de onderliggende verandering in de werkelijke situatie, zal vallen op de investeringsactiviteit in beide landen'.[^66]
+> 'Er zijn daarentegen sterke argumenten om te geloven dat de last van de verandering geheel of tot een mate die op geen enkele manier gerechtvaardigd is door de onderliggende verandering in de werkelijke situatie, zal vallen op de investeringsactiviteit in beide landen.'[^66]
 
 Op een soortgelijke manier worden onder een systeem van zwevende fiatvaluta hulpbronnen ook verdeeld aan meer partijen dan enkel zij die direct betrokken zijn bij de stijging (of daling) van de export, legde Hayek uit.
 
@@ -178,7 +178,7 @@ Een homogeen geld zou eenvoudig functioneren in de internationale handel: de bet
 
 Geld met een vaste hoeveelheid zou ondertussen het intertemporele prijssysteem het beste faciliteren, omdat dit mensen in staat stelt om prijzen op verschillende tijdstippen nauwkeurig te vergelijken:
 
-'Alleen met een geldsysteem waarin elke verandering in de hoeveelheid geld uitgesloten was, zou het mogelijk zijn om een structuur van geldprijzen op opeenvolgende momenten in de tijd te bedenken die correspondeert met het systeem van intertemporele evenwicht', schreef Hayek. [^67]
+'Alleen met een geldsysteem waarin elke verandering in de hoeveelheid geld uitgesloten was, zou het mogelijk zijn om een structuur van geldprijzen op opeenvolgende momenten in de tijd te bedenken die correspondeert met het systeem van intertemporele evenwicht,' schreef Hayek. [^67]
 
 Misschien wel het allerbelangrijkste is, als de geldhoeveelheid vast was, zouden veranderingen in de productiekosten door de tijd heen duidelijk weerspiegeld worden in overeenkomstige veranderingen in prijzen. Als alle andere factoren buiten beschouwing worden gelaten, zouden de prijzen dalen als de kosten voor de productie van goederen dalen. Een geleidelijke daling van de prijzen -- deflatie -- was volgens Hayek de natuurlijke uitkomst van elke gezonde economie.
 
@@ -186,11 +186,11 @@ Echter, Hayek vond wel dat er een heel echt probleem was met een zo homogeen gel
 
 Ten eerste, zelfs als een dergelijke munt gecreëerd zou kunnen worden, zouden mensen nog steeds kunnen kiezen om krediet en andere alternatieven te gebruiken in plaats van daadwerkelijk geld, wat neerkomt op een feitelijke verhoging van de geldhoeveelheid.
 
-'Het is uiteraard onmogelijk om [de hoeveelheid ruilmiddelen voor altijd vast te stellen], gezien de altijd aanwezige mogelijkheid om een surrogaatgeld in plaats van echt geld te gebruiken', concludeerde de Oostenrijker droevig. 'De hoeveelheid van dat surrogaat kan niet nauw gekoppeld zijn aan dat van het echte geld, en het creëren ervan zou exact hetzelfde effect hebben als dat van elke andere uitbreiding van de geldhoeveelheid'.[^68]
+'Het is uiteraard onmogelijk om [de hoeveelheid ruilmiddelen voor altijd vast te stellen], gezien de altijd aanwezige mogelijkheid om een surrogaatgeld in plaats van echt geld te gebruiken', concludeerde de Oostenrijker droevig. 'De hoeveelheid van dat surrogaat kan niet nauw gekoppeld zijn aan dat van het echte geld, en het creëren ervan zou exact hetzelfde effect hebben als dat van elke andere uitbreiding van de geldhoeveelheid.'[^68]
 
 Maar nog belangrijker, Hayek was van mening dat een homegene valuta met een vaste geldhoeveelheid überhaupt niet kon worden aangenomen, omdat hij er niet van overtuigd was dat er enige internationale autoriteit zou zijn die het vertrouwen zou krijgen om dergelijke valuta uit te geven. Iets zo belangrijk als een wereldwijde monetaire standaard zou de sterkste garantie moeten bieden dat het universeel aanvaardbaar en toegankelijk zal blijven. Maar Hayek dacht dat er geen bekende instantie was die deze garantie kon bieden.
 
-'[...] zolang er afzonderlijke soevereine staten zijn, zal er altijd de dreiging van oorlog opdoemen, of het risico van het instorten van de internationale monetaire regelingen om een andere reden'.[^69]
+'[...] zolang er afzonderlijke soevereine staten zijn, zal er altijd de dreiging van oorlog opdoemen, of het risico van het instorten van de internationale monetaire regelingen om een andere reden.'[^69]
 
 Neutraal geld was onmogelijk omdat, op een zeer fundamenteel niveau, naties elkaar niet konden vertrouwen.
 
@@ -198,7 +198,7 @@ Neutraal geld was onmogelijk omdat, op een zeer fundamenteel niveau, naties elka
 
 Inderdaad, dit gebrek aan vertrouwen had tegen het einde van de jaren dertig ook bijgedragen aan de ineenstorting van de goudwisselstandaard.
 
-Voor zijn eigen kritiek op de goudwisselstandaard, ging Hayek uit van een ideaal scenario, waarbij de deelnemende landen zich hielden aan de regels van het spel. Deze regels schreven voor wanneer en hoe de centrale banken hun rentetarieven dienen aan te passen. Echter, het was al duidelijk dat zelfs dit ideaal scenario zich niet in de werkelijkheid had voltrokken, aangezien meerdere van de deelnemende landen in plaats daarvan betrokken waren bij opeenvolgende competitieve devaluaties, in wat soms omschreven wordt als een 'valutaoorlog'.
+Voor zijn eigen kritiek op de goudwisselstandaard, ging Hayek uit van een ideaal scenario, waarbij de deelnemende landen zich hielden aan de regels van het spel. Deze regels schreven voor wanneer en hoe de centrale banken hun rentetarieven dienen aan te passen. Echter, het was al duidelijk dat zelfs dit ideaal scenario zich niet in de werkelijkheid had voltrokken, aangezien meerdere van de deelnemende landen in plaats daarvan betrokken waren bij opeenvolgende competitieve devaluaties, in wat soms omschreven wordt als een *valutaoorlog*.
 
 Als een nationale munteenheid devalueert, worden goederen en diensten relatief goedkoop vanuit het perspectief van andere landen. Een daling van de munteenheid kan daardoor de export stimuleren en zo tenminste tijdelijk de nationale economie ten goede komen. Maar er is ook een keerzijde. Wanneer de internationale vraag verschuift naar het land dat zijn munteenheid heeft gedevalueerd, betekent dit ook dat de vraag verschuift *weg* van andere landen. Hun economieën hebben hierdoor vaak te lijden.
 
@@ -220,40 +220,40 @@ De reeks van muntdevaluaties, gecombineerd met een diepe economische depressie, 
 
 Het bood een vruchtbare voedingsbodem voor een nieuwe en bijzonder gewelddadige, nationalistische, racistische en autoritaire collectivistische ideologie. Het fascisme kreeg over het hele continent voet aan de grond.
 
-[^54]: ​Ludwig von Mises, 'The Theory of Money and Credit', vertaling. J.E. Batson.
+[^54]: ​Ludwig von Mises, *The Theory of Money and Credit*, vertaling. J.E. Batson.
 
-[^55]: Dit wordt soms beschouwd als 'intrinsieke waarde', een veelgebruikte uitdrukking in de economie om aan te geven dat een goed economische gebruikswaarde heeft los van zijn monetaire rol. Oostenrijkse economen verwerpen echter over het algemeen het idee dat producten überhaupt intrinsieke waarde hebben: waarde is volgens hen altijd subjectief.
+[^55]: Dit wordt soms beschouwd als *intrinsieke waarde*, een veelgebruikte uitdrukking in de economie om aan te geven dat een goed economische gebruikswaarde heeft los van zijn monetaire rol. Oostenrijkse economen verwerpen echter over het algemeen het idee dat producten überhaupt intrinsieke waarde hebben: waarde is volgens hen altijd subjectief.
 
-[^56]: Recenter archeologisch onderzoek, gepubliceerd in David Graeber's 'Debt: The First 5,000 Years', suggereert dat er nooit een pure ruilhandel-economie is geweest zoals beschreven in de regressietheorie. In plaats daarvan gebruikten de oudste menselijke beschavingen schuld als hun eerste vorm van geld. Schuld werkt echter alleen als valuta in omgevingen met een hoge mate van vertrouwen en op reputatie gebaseerde systemen. In omgevingen met weinig vertrouwen was goud vaak de valuta bij uitstek, en het is heel goed mogelijk dat het edelmetaal deze status in de loop van de tijd verwierf via een proces dat lijkt op wat wordt beschreven in de regressietheorie.
+[^56]: Recenter archeologisch onderzoek, gepubliceerd in David Graebers *Debt: The First 5,000 Years*, suggereert dat er nooit een pure ruilhandel-economie is geweest zoals beschreven in de regressietheorie. In plaats daarvan gebruikten de oudste menselijke beschavingen schuld als hun eerste vorm van geld. Schuld werkt echter alleen als valuta in omgevingen met een hoge mate van vertrouwen en op reputatie gebaseerde systemen. In omgevingen met weinig vertrouwen was goud vaak de valuta bij uitstek, en het is heel goed mogelijk dat het edelmetaal deze status in de loop van de tijd verwierf via een proces dat lijkt op wat wordt beschreven in de regressietheorie.
 
-[^57]: ​Nicholas Dimsdale, 'British Monetary Policy and the Exchange Rate 1920-1938', Oxford Economic Papers 33, New Series: 307--49.
+[^57]: ​Nicholas Dimsdale, *British Monetary Policy and the Exchange Rate 1920-1938*, Oxford Economic Papers 33, New Series: 307--49.
 
-[^58]: ​Irving Fisher, 'The Purchasing Power of Money'.
+[^58]: ​Irving Fisher, *The Purchasing Power of Money*.
 
-[^59]: ​John Maynard Keynes, 'A Tract on Monetary Reform', 173.
+[^59]: ​John Maynard Keynes, *A Tract on Monetary Reform*, 173.
 
-[^60]: ​Friedrich A. Hayek, 'Intertemporal Price Equilibrium and Movements in the Value of Money', in 'The Collected Works of F.A. Hayek, Good Money: part I', ed. Stephen Kresge, 195.
+[^60]: ​Friedrich A. Hayek, *Intertemporal Price Equilibrium and Movements in the Value of Money*, in 'The Collected Works of F.A. Hayek, Good Money: part I', ed. Stephen Kresge, 195.
 
-[^61]: ​Hayek, 'Intertemporal Price Equilibrium', 207.
+[^61]: ​Hayek, *Intertemporal Price Equilibrium*, 207.
 
-[^62]: ​Hayek, 'Intertemporal Price Equilibrium', 190.
+[^62]: ​Hayek, *Intertemporal Price Equilibrium*, 190.
 
-[^63]: ​Hayek, 'Intertemporal Price Equilibrium', 214.
+[^63]: ​Hayek, *Intertemporal Price Equilibrium*, 214.
 
-[^64]: ​Keynes, 'A Tract on Monetary Reform', 164.
+[^64]: ​Keynes, *A Tract on Monetary Reform*, 164.
 
-[^65]: ​Friedrich A. Hayek, 'Monetary Nationalism and International Stability', in 'The Collected Works of F.A. Hayek, Good Money: part II', ed. Stephen Kresge: 55.
+[^65]: ​Friedrich A. Hayek, *Monetary Nationalism and International Stability*, in 'The Collected Works of F.A. Hayek, Good Money: part II', ed. Stephen Kresge: 55.
 
-[^66]: ​Hayek, 'Monetary Nationalism', 55--56.
+[^66]: ​Hayek, *Monetary Nationalism*, 55--56.
 
-[^67]: ​Hayek, 'Intertemporal Price Equilibrium', 212.
+[^67]: ​Hayek, *Intertemporal Price Equilibrium*, 212.
 
-[^68]: ​Hayek, 'Intertemporal Price Equilibrium', 217.
+[^68]: ​Hayek, *Intertemporal Price Equilibrium*, 217.
 
-[^69]: ​Hayek, 'Monetary Nationalism', 87.
+[^69]: ​Hayek, *Monetary Nationalism*, 87.
 
-[^70]: ​Nicholas Wapshott, 'Keynes & Hayek: The Clash That Defined Modern Economics': 159.
+[^70]: ​Nicholas Wapshott, *Keynes & Hayek: The Clash That Defined Modern Economics*: 159.
 
-[^71]: ​Franklin D. Roosevelt, 'Relating to the Hoarding, Export, and Earmarking of Gold Coin, Bullion, or Currency and to Transactions in Foreign Exchange', 28 augustus 1993, beschikbaar via 'The American Presidency Project'.
+[^71]: ​Franklin D. Roosevelt, *Relating to the Hoarding, Export, and Earmarking of Gold Coin, Bullion, or Currency and to Transactions in Foreign Exchange*, 28 augustus 1993, beschikbaar via *The American Presidency Project*.
 
-[^72]: ​Joris Rickards, 'Currency Wars: The Making of the Next Global Crisis', 56--77.
+[^72]: ​Joris Rickards, *Currency Wars: The Making of the Next Global Crisis*, 56--77.

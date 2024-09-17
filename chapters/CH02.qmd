@@ -1,6 +1,6 @@
 # Vrije en open source software
 
-Richard Stallman was in de vroege jaren '60, al vanaf jonge leeftijd, gefascineerd door computers. Toen hij op zomerkamp was, leende hij programmeerhandleidingen van zijn begeleiders. Er was destijds geen computer te bekennen -- ze kostten gemakkelijk meer dan € 100.000 per stuk -- maar dat kleine detail ging zijn plezier niet bederven. Tijdens zijn reis schreef hij computerprogramma's volledig uit op papier.
+Richard Stallman was in de vroege jaren 1960, al vanaf jonge leeftijd, gefascineerd door computers. Toen hij op zomerkamp was, leende hij programmeerhandleidingen van zijn begeleiders. Er was destijds geen computer te bekennen -- ze kostten gemakkelijk meer dan $ 100.000 per stuk -- maar dat kleine detail ging zijn plezier niet bederven. Tijdens zijn reis schreef hij computerprogramma's volledig uit op papier.
 
 Het zou nog een paar jaar duren voordat de jonge New Yorker voor het eerst kennismaakte met het echte werk. In 1970, net klaar met de middelbare school, kreeg de toen zeventienjarige Stallman een zomerbaan bij het Wetenschappelijk Centrum van IBM in Manhattan, om een numeriek analyseprogramma te schrijven. Hij rondde het project binnen enkele weken af, wat hem de rest van de zomer de gelegenheid gaf om bij het onderzoekscentrum een teksteditor en een programmeertaalprocessor te ontwerpen, gewoon voor de lol.
 
@@ -22,7 +22,7 @@ De machine, die een hele kamer in beslag nam en een ton woog, had al snel de fas
 
 De jonge mannen (het waren aanvankelijk allemaal mannen) waren vastbesloten om de machtige TX-0 te beheersen vanaf het eerste moment dat die op de campus arriveerde. En inderdaad, al snel ontdekten ze hoe ze toegang konden krijgen tot en de broncode konden bewerken van de verschillende programma's die in de machine waren ingebouwd. Kort daarna wisten ze te achterhalen hoe ze zelf hele nieuwe programma's konden schrijven.
 
-Het duurde niet lang voordat ze hele nachten rond de TX-0 doorbrachten, op momenten dat ze de machine volledig voor zichzelf hadden. Verenigd door hun gedeelde passie, daagden de jongens elkaar uit om de computer steeds ingewikkeldere taken te laten uitvoeren. Wie pronkte met elegante manieren om code te schrijven, had recht om op te scheppen. Bijzonder slimme oplossingen werden in hun interne jargon 'hacks' genoemd; de jongens identificeerden zichzelf dan ook trots als 'hackers'.
+Het duurde niet lang voordat ze hele nachten rond de TX-0 doorbrachten, op momenten dat ze de machine volledig voor zichzelf hadden. Verenigd door hun gedeelde passie, daagden de jongens elkaar uit om de computer steeds ingewikkeldere taken te laten uitvoeren. Wie pronkte met elegante manieren om code te schrijven, had recht om op te scheppen. Bijzonder slimme oplossingen werden in hun interne jargon *hacks* genoemd; de jongens identificeerden zichzelf dan ook trots als *hackers*.
 
 Naarmate de jongens hun programmeervaardigheden verbeterden in een geest van kameraadschap, gingen ze de computer meer en meer zien als een levensstijl. Niets was voor hen belangrijker dan hacken, en niets was leuker. Het benutten van het potentieel van deze krachtige machines gaf hen een geweldig gevoel van zelbeschikking.
 
@@ -36,7 +36,7 @@ Als beperkingen als een uitdaging gezien werden, nou, hackers hielden van uitdag
 
 En misschien wel het allerbelangrijkst, ze deelden die.
 
-Hackers waren ervan overtuigd dat vrij toegankelijke code en bestanden iedereen ten goede kwamen, en ze waren trots wanneer mensen de programma's gebruikten die ze hadden geschreven. Ze geloofden dat ze een ethische plicht hadden om hun code te delen, en om toegang tot informatie voor anderen te vergemakkelijken. Er waren geen wachtwoorden, geen beperkingen, en geen 'persoonlijke' documenten.
+Hackers waren ervan overtuigd dat vrij toegankelijke code en bestanden iedereen ten goede kwamen, en ze waren trots wanneer mensen de programma's gebruikten die ze hadden geschreven. Ze geloofden dat ze een ethische plicht hadden om hun code te delen, en om toegang tot informatie voor anderen te vergemakkelijken. Er waren geen wachtwoorden, geen beperkingen, en geen *persoonlijke* documenten.
 
 De hackers zouden uiteindelijk een speciaal besturingssysteem ontwikkelen om dat doel te dienen, het Incompatible Time-Sharing System (ITS) (een woordspeling op het Compatible Time-Sharing System dat eraan voorafging), dat hen in staat stelde om samen te coderen. Als iemand inlogde en ontdekte dat een van zijn kameraden een nieuwe teksteditor of strategisch spel had ontwikkeld, konden ze simpelweg het bestand openen en zelf onmiddellijk bijdragen aan het project. Of, als twee hackers tegelijkertijd de computer gebruikten, konden ze de code gelijktijdig debuggen en verbeteren.
 
@@ -50,13 +50,13 @@ Het leidde wel tot moeilijkheden. Iedereen die een ITS-computer gebruikte, kon b
 
 Maar in de praktijk waren dergelijke incidenten zeldzaam. Het vernietigen van iemand anders zijn werk paste niet in de hackercultuur, en hoewel het crashen van de computer hinderlijk was voor andere gebruikers, gaf het hen ook de kans om samen te werken bij het debuggen van de code en het vinden van een oplossing voor wat de crash veroorzaakte.
 
-Dit was heel anders dan de computeromgevingen bij het IBM Wetenschappelijk Centrum en Harvard waaraan Stallman gewend was geraakt. Die machines waren ontworpen met beveiligingsfuncties die vereisten dat sommige mensen meer bevoegdheden hadden dan anderen: bepaalde programma's waren alleen toegankelijk voor bepaalde gebruikers, zoals systeembeheerders of sommige professoren. De 'elite', zij die bevoorrechte accounts hadden, kon eenzijdig beslissen wat anderen wel en niet konden doen op de machines, wat betekende dat reguliere gebruikers vaak om hulp of toestemming moesten vragen.
+Dit was heel anders dan de computeromgevingen bij het IBM Wetenschappelijk Centrum en Harvard waaraan Stallman gewend was geraakt. Die machines waren ontworpen met beveiligingsfuncties die vereisten dat sommige mensen meer bevoegdheden hadden dan anderen: bepaalde programma's waren alleen toegankelijk voor bepaalde gebruikers, zoals systeembeheerders of sommige professoren. De *elite*, zij die bevoorrechte accounts hadden, kon eenzijdig beslissen wat anderen wel en niet konden doen op de machines, wat betekende dat reguliere gebruikers vaak om hulp of toestemming moesten vragen.
 
 De nieuwe collega's van Stallman in het AI Lab walgden van dit soort beleidslijnen. Volgens hen hadden de beheerders in feite politiestaten opgezet in hun respectieve computeromgevingen, waarbij ze zichzelf de autoriteit toe-eigenden om andere gebruikers te besturen en controleren.
 
 Nu hij hun vrije alternatief had ervaren, was Stallman het volledig met hen eens. Terwijl het AI Lab bewees dat hun vorm van anarchie een productieve werkomgeving kon bevorderen, raakte hij ervan overtuigd dat de beperkende en gecontroleerde systemen feitelijk een digitale vorm van fascisme vertegenwoordigden.[^32]
 
-'De gebruikers van ons systeem waren vrije mensen, aan wie gevraagd werd om zich verantwoordelijk te gedragen. In plaats van een elite van macht, hadden we een elite van kennis, bestaande uit iedereen die gemotiveerd was om te leren', schreef Stallman later. 'Omdat niemand anderen kon domineren op onze machine, functioneerde het lab als een anarchie. Het zichtbare succes hiervan bekeerde mij tot het anarchisme. Voor de meeste mensen betekent 'anarchie' 'verspillende, destructieve wanorde', maar voor een anarchist als ik betekent het vrijwillige organisatie naar behoefte, met de nadruk op doelen, in tegenstelling tot regels en vereisten tot uniformiteit omwille van de uniformiteit.'[^33]
+'De gebruikers van ons systeem waren vrije mensen, aan wie gevraagd werd om zich verantwoordelijk te gedragen. In plaats van een elite van macht, hadden we een elite van kennis, bestaande uit iedereen die gemotiveerd was om te leren', schreef Stallman later. 'Omdat niemand anderen kon domineren op onze machine, functioneerde het lab als een anarchie. Het zichtbare succes hiervan bekeerde mij tot het anarchisme. Voor de meeste mensen betekent *anarchie* *verspillende, destructieve wanorde*, maar voor een anarchist als ik betekent het vrijwillige organisatie naar behoefte, met de nadruk op doelen, in tegenstelling tot regels en vereisten tot uniformiteit omwille van de uniformiteit.'[^33]
 
 Hoewel Stallman geen anarchist was in de meest complete betekenis van het woord -- hij geloofde namelijk nog steeds dat de staat vele belangrijke functies uitvoerde, waaronder het financieren van het AI Lab -- dacht hij dat het anarchistische model ook in andere computeromgevingen kon werken. En inderdaad, rond deze tijd begon de hackercultuur zich ook te verspreiden buiten MIT, met name naar Stanford University, die een eigen AI Lab kreeg. Tegen het begin van de jaren '70 had de hackergemeenschap een nieuwe basis gevestigd in de San Francisco Bay Area.
 
@@ -88,7 +88,7 @@ Voor Stallman betekende dit het einde van het lab.
 
 De ontgoochelde hacker vatte het kort daarna samen in een brief:
 
-'De personen die nog in het lab waren, waren de professoren, studenten en non-hackeronderzoekers, die niet wisten hoe ze het systeem of de hardware moesten onderhouden, of dit zelfs niet wilden weten. Machines begonnen te breken en werden nooit gefixt; soms werden ze gewoon weggegooid. Noodzakelijke veranderingen in software konden niet worden doorgevoerd. De niet-hackers reageerden hierop door over te schakelen naar commerciële systemen, wat fascisme en licentieovereenkomsten met zich meebracht. Ik slenterde door het lab, door de kamers die 's nachts leeg waar ze vroeger vol waren en dacht: 'Oh mijn arme AI-lab! Je gaat dood en ik kan je niet redden.' Iedereen verwachtte dat als er meer hackers werden opgeleid, Symbolics ze zou wegkapen, dus het leek niet eens de moeite waard om het te proberen... de hele cultuur werd uitgewist...'[^35]
+> De personen die nog in het lab waren, waren de professoren, studenten en non-hackeronderzoekers, die niet wisten hoe ze het systeem of de hardware moesten onderhouden, of dit zelfs niet wilden weten. Machines begonnen te breken en werden nooit gefixt; soms werden ze gewoon weggegooid. Noodzakelijke veranderingen in software konden niet worden doorgevoerd. De niet-hackers reageerden hierop door over te schakelen naar commerciële systemen, wat fascisme en licentieovereenkomsten met zich meebracht. Ik slenterde door het lab, door de kamers die 's nachts leeg waar ze vroeger vol waren en dacht: 'Oh mijn arme AI-lab! Je gaat dood en ik kan je niet redden.' Iedereen verwachtte dat als er meer hackers werden opgeleid, Symbolics ze zou wegkapen, dus het leek niet eens de moeite waard om het te proberen... de hele cultuur werd uitgewist...[^35]
 
 Stallman had ooit gedroomd van een toekomst geïnspireerd door de vrije en collaboratieve hackercultuur, maar hij geloofde nu dat hij in plaats daarvan de laatste ademtochten ervan aan het aanschouwen was.
 
@@ -108,7 +108,7 @@ Erger nog, propriëtaire software kan doorgaans niet geïnspecteerd worden. Als 
 
 Stallman was van mening dat het gebruik van propriëtaire software in feite betekende dat je de controle overliet aan degene die het had ontwikkeld.[^41]
 
-'Als gebruikers het programma niet beheersen, beheerst het programma de gebruikers', redeneerde hij. 'Met eigendomsrechtelijk beschermde software is er altijd een entiteit -- de 'eigenaar' van het programma -- die controle heeft over het programma en daarmee macht uitoefent over de gebruikers.'[^42]
+'Als gebruikers het programma niet beheersen, beheerst het programma de gebruikers', redeneerde hij. 'Met eigendomsrechtelijk beschermde software is er altijd een entiteit -- de *eigenaar* van het programma -- die controle heeft over het programma en daarmee macht uitoefent over de gebruikers.'[^42]
 
 In plaats daarvan wilde Stallman dat computers instrumenten van zelfbeschikking en vrijheid waren. Hij geloofde dat gebruikers te allen tijde de controle over hun eigen apparaten moesten hebben.
 
@@ -122,7 +122,7 @@ Om dit te verwezenlijken, ontwikkelde hij een filosofie die vereiste dat elk com
 
 -   De vrijheid om kopieën van je aangepaste versies met anderen te delen (vrijheid 3). Door dit te doen kun je de hele gemeenschap de kans geven om te profiteren van je veranderingen. Toegang tot de broncode is een noodzakelijke voorwaarde.
 
-Of samengevat, gebruikers hadden over het algemeen 'de vrijheid om software te draaien, kopiëren, verspreiden, bestuderen, veranderen en te verbeteren.'[^45] Dit vereist dat de menselijk-leesbare broncode van een programma gepubliceerd is, en dat deze niet onderhevig is aan beperkende auteursrechtenlicenties. Stallman zou software, die deze vier essentiële vrijheden bood, classificeren als vrije software (vrij in de betekenis van 'vrijheid', benadrukte de hacker graag, en niet zoals in 'gratis bier'.).
+Of samengevat, gebruikers hadden over het algemeen 'de vrijheid om software te draaien, kopiëren, verspreiden, bestuderen, veranderen en te verbeteren.'[^45] Dit vereist dat de menselijk-leesbare broncode van een programma gepubliceerd is, en dat deze niet onderhevig is aan beperkende auteursrechtenlicenties. Stallman zou software, die deze vier essentiële vrijheden bood, classificeren als vrije software (vrij in de betekenis van *vrijheid*, benadrukte de hacker graag, en niet zoals in *gratis bier*).
 
 ## GNU
 
@@ -136,7 +136,7 @@ GNU belichaamde de hackerethiek en wees propriëtaire software volledig af.
 
 Inderdaad, GNU was meer dan alleen een stukje software, maar vertegenwoordigde het onstaan van een nieuwe sociale beweging: de vrije softwarebeweging.
 
-Om de beweging te ondersteunen, richtte Stallman in 1985 ook de non-profitorganisatie Free Software Foundation op. De stichting zou pleiten voor vrije software en geld inzamelen om vrije softwareprojecten te financieren. Daarnaast leidde de Free Software Foundation de introductie van speciale vrije softwarelicenties onder de nieuwe paraplu van 'copyleft', ontworpen om vrije software te stimuleren.
+Om de beweging te ondersteunen, richtte Stallman in 1985 ook de non-profitorganisatie Free Software Foundation op. De stichting zou pleiten voor vrije software en geld inzamelen om vrije softwareprojecten te financieren. Daarnaast leidde de Free Software Foundation de introductie van speciale vrije softwarelicenties onder de nieuwe paraplu van *copyleft*, ontworpen om vrije software te stimuleren.
 
 Dit omvatte, het meest opmerkelijk, de GNU General Public License: een licentie die het recht verleent om broncode te verspreiden en te wijzigen zolang dit wordt gedaan onder even vrije voorwaarden. Met andere woorden, andere ontwikkelaars van vrije software konden vrije software die onder deze licentie werd uitgebracht op welke manier dan ook in hun eigen project integreren, maar ontwikkelaars van propriëtaire software konden dit niet.
 
@@ -154,31 +154,31 @@ Rond datzelfde moment maakte de Finse software-ingenieur Linus Torvalds graag ge
 
 Maar Torvalds' voornaamste vernieuwing was mogelijk niet het Linux-kernel zelf. Het was de manier waarop hij het maakte. De jaren ervoor ontwikkelde de software-ingenieur een proces dat expliciet is ontworpen voor samenwerking via het internet.
 
-Zoals uitvoerig besproken door Linux-bijdrager Eric S. Raymond in zijn essay 'The Cathedral & The Bazaar' uit 1997 en het (later) gelijknamige boek, was de grootste aanpassing die Torvalds maakte de benadering van het project omtrent beveiliging.
+Zoals uitvoerig besproken door Linux-bijdrager Eric S. Raymond in zijn essay *The Cathedral & The Bazaar* uit 1997 en het (later) gelijknamige boek, was de grootste aanpassing die Torvalds maakte de benadering van het project omtrent beveiliging.
 
-Tot die tijd beschouwden vrije software-ontwikkelaars bugs en andere kwetsbaarheden als grote risico's die moesten worden aangepakt door toegewijde experts die hun software zorgvuldig beoordeelden. Dit omvatte ook de code die ze ontvingen van externe bijdragers. Ze zouden de code pas vrijgeven als ze er zeker van waren dat het veilig was om deze te gebruiken. Raymond bestempelde deze top-down benadering als het 'kathedraal'model.
+Tot die tijd beschouwden vrije software-ontwikkelaars bugs en andere kwetsbaarheden als grote risico's die moesten worden aangepakt door toegewijde experts die hun software zorgvuldig beoordeelden. Dit omvatte ook de code die ze ontvingen van externe bijdragers. Ze zouden de code pas vrijgeven als ze er zeker van waren dat het veilig was om deze te gebruiken. Raymond bestempelde deze top-down benadering als het *kathedraal*model.
 
-In plaats daarvan gebruikte Torvalds wat Raymond het 'bazaar'model noemde. Dit model gebruikte een flexibelere methode om bijdragen te integreren, waardoor ontwikkelaars meer direct hun wijzigingen konden uploaden naar verschillende versies van de software. Andere bijdragers konden vervolgens deze software downloaden, testen en mogelijk de wijzigingen in hun eigen versies overnemen.
+In plaats daarvan gebruikte Torvalds wat Raymond het *bazaar*model noemde. Dit model gebruikte een flexibelere methode om bijdragen te integreren, waardoor ontwikkelaars meer direct hun wijzigingen konden uploaden naar verschillende versies van de software. Andere bijdragers konden vervolgens deze software downloaden, testen en mogelijk de wijzigingen in hun eigen versies overnemen.
 
 Zo'n flexibel systeem zou kunnen leiden tot versies van de software met meer fouten dan de software van hun tegenhangers in het kathedraal-model. Maar omdat het ontwikkelproces openlijk plaatsvindt, zijn andere bijdragers meestal sneller in staat om deze fouten te ontdekken en ze te corrigeren. Indien nodig, wordt de oplossing direct opgenomen in een nieuwe versie; onder het bazaarmodel vinden software-updates sneller en vaker plaats.
 
 'Met een groot genoeg aantal bèta-testers en mede-ontwikkelaars, wordt bijna elk probleem snel vastgesteld en is de oplossing voor iemand duidelijk', schreef Raymond in zijn essay, waarbij hij een van de belangrijkste lessen die hij over de jaren had geleerd, samenvatte. 'Of, minder formeel, "Met genoeg ogen, zijn alle bugs oppervlakkig."'[^49]
 
-Hij gaf de uitspraak de naam de 'Wet van Linus'.
+Hij gaf de uitspraak de naam de *Wet van Linus*.
 
-Opmerkelijk genoeg, geloofde Raymond dat dit ontwikkelingsmodel voordelen kon bieden zelfs aan bedrijven en mensen die Stallmans bezorgdheid over eigendomssoftware niet deelden, maar gewoon kwaliteitscode wilden tegen lage kosten. Hij vermoedde echter dat velen van hen (vooral bedrijven) terughoudend waren om gratis software te gebruiken, juist omdat ze afgeschrikt werden door de ideologische verhalen eromheen. Om minder nadruk te leggen op Stallmans originele motivaties en meer op de pragmatische voordelen, leidde Raymond daarom in de late jaren '90 de poging om vrije software te rebranden als 'open source software'.
+Opmerkelijk genoeg, geloofde Raymond dat dit ontwikkelingsmodel voordelen kon bieden zelfs aan bedrijven en mensen die Stallmans bezorgdheid over eigendomssoftware niet deelden, maar gewoon kwaliteitscode wilden tegen lage kosten. Hij vermoedde echter dat velen van hen (vooral bedrijven) terughoudend waren om gratis software te gebruiken, juist omdat ze afgeschrikt werden door de ideologische verhalen eromheen. Om minder nadruk te leggen op Stallmans originele motivaties en meer op de pragmatische voordelen, leidde Raymond daarom in de late jaren '90 de poging om vrije software te rebranden als *open source software*.
 
-Stallman was zelf echter niet akkoord met de herbenoeming. Voor hem was vrijheid het voornaamste, en de term 'open source' deed afbreuk aan deze boodschap.
+Stallman was zelf echter niet akkoord met de herbenoeming. Voor hem was vrijheid het voornaamste, en de term *open source* deed afbreuk aan deze boodschap.
 
-Vandaag de dag verwijzen de termen 'vrije software' en 'open source software' in vrijwel alle gevallen naar hetzelfde concept, maar het verschil in terminologie blijft de filosofische kloof vertegenwoordigen. De term 'vrije en open source software' (FOSS) wordt gebruikt om beide zijden van het schisma expliciet te omvatten.[^50]
+Vandaag de dag verwijzen de termen *vrije software* en *open source software* in vrijwel alle gevallen naar hetzelfde concept, maar het verschil in terminologie blijft de filosofische kloof vertegenwoordigen. De term *vrije en open source software* (FOSS) wordt gebruikt om beide zijden van het schisma expliciet te omvatten.[^50]
 
 ## Gemeenschappelijk begrip
 
-Het bazaarmodel kan hoogwaardige code opleveren. Maar die kwaliteit is geen vanzelfsprekendheid. Volgens de Wet van Linus, vereist hoogwaardige code voldoende 'ogen', oftewel bijdragers.
+Het bazaarmodel kan hoogwaardige code opleveren. Maar die kwaliteit is geen vanzelfsprekendheid. Volgens de Wet van Linus, vereist hoogwaardige code voldoende *ogen*, oftewel bijdragers.
 
 FOSS-projecten hebben meestal niet de middelen om financiële beloningen te geven aan potentiële bijdragers. Daarnaast worden bestaande machtsverhoudingen vaak genegeerd in het kader van vrije en open-source-ontwikkeling. Zoals Raymond ook al uitsprak in zijn essay, was dwang natuurlijk volledig buiten de orde in 'het anarchistische paradijs dat we het internet noemen.' [^51] Het aantrekken van bijdragers is daarom een cruciale vaardigheid gebleken voor ontwikkelaars van vrije en open software.
 
-Geïnspireerd door de negentiende-eeuwse Russische anarchist Pyotr Alexeyevich Kropotkin, legde Raymond uit dat projectleiders moesten leren om effectieve belangengemeenschappen te werven en te motiveren op basis van een gemeenschappelijk begrip. Om ontwikkelaars te overtuigen een bijdrage te leveren, moet de leiding van een project bedenken hoe bij te dragen aan hoe het project hen ten goede zou komen. De prikkels moeten worden afgestemd op een gedeeld doel, stelde Raymond voor, een 'ernstige inspanning van vele samenkomende wilskrachten.'[^52]
+Geïnspireerd door de negentiende-eeuwse Russische anarchist Pyotr Alexeyevich Kropotkin, legde Raymond uit dat projectleiders moesten leren om effectieve belangengemeenschappen te werven en te motiveren op basis van een gemeenschappelijk begrip. Om ontwikkelaars te overtuigen een bijdrage te leveren, moet de leiding van een project bedenken hoe bij te dragen aan hoe het project hen ten goede zou komen. De prikkels moeten worden afgestemd op een gedeeld doel, stelde Raymond voor: 'een ernstige inspanning van vele samenkomende wilskrachten.'[^52]
 
 Dit betekent in de praktijk dat niemand echt de leiding heeft over FOSS-projecten in de bazaarstijl. Een projectleider kan het project niet in een richting sturen die niet gedragen wordt door de rest, zonder de ontwikkelaars te verliezen die hij zo hard nodig heeft. In het bazaarmodel wordt software beheerd door zijn schare van bijdragers, elk met hun eigen persoonlijke reden om betrokken te zijn.
 
@@ -188,53 +188,53 @@ Op deze manier lijkt de ontwikkeling van vrije en open source software sterk op 
 
 Net zoals vrije markten, kunnen vrije en open softwareprojecten een spontane orde vormen.
 
-'In veel opzichten gedraagt de Linux-wereld zich als een vrije markt of een ecologie, een verzameling van individuen die hun eigenbelang nastreven. Tijdens dit proces ontstaat een zichzelf corrigerende spontane orde die veel complexer en efficiënter is dan wat elke vorm van centrale planning ooit zou kunnen bereiken.'[^53]
+> 'In veel opzichten gedraagt de Linux-wereld zich als een vrije markt of een ecologie, een verzameling van individuen die hun eigenbelang nastreven. Tijdens dit proces ontstaat een zichzelf corrigerende spontane orde die veel complexer en efficiënter is dan wat elke vorm van centrale planning ooit zou kunnen bereiken.'[^53]
 
 
-[^30]: Richard Stallman, 'Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius'. Interview door Michael Gross, mgross.com, 1999, [online](https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/.)
+[^30]: Richard Stallman, *Richard Stallman: High School Misfit, Symbol of Free Software, MacArthur-Certified Genius*. Interview door Michael Gross, mgross.com, 1999, [online](https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/.)
 
-[^31]: Dit deel is grotendeels gebaseerd op Steven Levy, 'Hackers: Heroes of the Computer Revolution'.
+[^31]: Dit deel is grotendeels gebaseerd op Steven Levy, *Hackers: Heroes of the Computer Revolution*.
 
-[^32]: ​Richard Stallman, 'Talking to the Mailman', Interview door Rob Lucas, New Left Review, Sept--Oct 2018, [online](https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman)
+[^32]: ​Richard Stallman, *Talking to the Mailman*, Interview door Rob Lucas, New Left Review, Sept--Oct 2018, [online](https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman)
 
-[^33]: ​Richard Stallman, 'RMS Berättar', Linköping University, [online](http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt)
+[^33]: ​Richard Stallman, *RMS Berättar*, Linköping University, [online](http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt.)
 
-[^34]: ​Stallman, 'Talking to the Mailman'.
+[^34]: ​Stallman, *Talking to the Mailman*.
 
-[^35]: ​Levy, 'Hackers', 448.
+[^35]: ​Levy, *Hackers*, 448.
 
-[^36]: ​Levy, 'Hackers', 472.
+[^36]: ​Levy, *Hackers*, 472.
 
-[^37]: ​Stallman, 'High School Misfit'.
+[^37]: ​Stallman, *High School Misfit*.
 
-[^38]: ​Stallman, 'RMS Berättar'.
+[^38]: ​Stallman, *RMS Berättar*.
 
-[^39]: ​Steven Levy, 'Hackers', 441--42.
+[^39]: ​Steven Levy, *Hackers*, 441--42.
 
-[^40]: ​Angela Watercutter, 'Why Free Software Is More Important Now Than Ever Before', Wired, 20 september 2013, [online](https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/)
+[^40]: ​Angela Watercutter, *Why Free Software Is More Important Now Than Ever Before*, Wired, 20 september 2013, [online](https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/)
 
 [^41]: Voor de nauwkeurigheid dient opgemerkt te worden dat dit deel van het argument technisch gezien pas duidelijk naar voren kwam toen Stallman het GNU-project een jaar of zo later lanceerde: het was nog geen deel van zijn oorspronkelijke motivatie om het project überhaupt te starten. Dit kleine anachronisme is in de tekst gebleven ten behoeve van de leesbaarheid.
 
-[^42]: ​Richard Stallman, 'Free Software Is Even More Important Now', gnu.org, [online](https://www.gnu.org/philosophy/free-software-even-more-important.en.html)
+[^42]: ​Richard Stallman, *Free Software Is Even More Important Now*, gnu.org, [online](https://www.gnu.org/philosophy/free-software-even-more-important.en.html)
 
-[^43]: ​GNU Operating System, 'What is Free Software?' [online](https://www.gnu.org/philosophy/free-sw.html)
+[^43]: ​GNU Operating System, *What is Free Software?* [online](https://www.gnu.org/philosophy/free-sw.html)
 
 [^44]: Eigenlijk werd vrijheid 0 pas expliciet toegevoegd in de jaren 1990. Daarvoor dacht Stallman dat het een automatische juridische consequentie was van de oorspronkelijke drie vrijheden.
 
-[^45]: ​GNO Operating System, 'What is Free Software?'
+[^45]: ​GNO Operating System, *What is Free Software?*
 
-[^46]: ​Richard Stallman, 'Free Unix!' September 27, 1983, [online](https://www.gnu.org/gnu/initial-announcement.en.html.)
+[^46]: ​Richard Stallman, *Free Unix!* September 27, 1983, [online](https://www.gnu.org/gnu/initial-announcement.en.html.)
 
-[^47]: ​GNU Operating System, 'The GNU Manifesto', 1985, [online](https://www.gnu.org/gnu/manifesto.html.en)
+[^47]: ​GNU Operating System, *The GNU Manifesto*, 1985, [online](https://www.gnu.org/gnu/manifesto.html.en)
 
-[^48]: Om de zware afhankelijkheid van het project van GNU te benadrukken, geven sommigen de voorkeur aan de naam 'GNU/Linux'.
+[^48]: Om de zware afhankelijkheid van het project van GNU te benadrukken, geven sommigen de voorkeur aan de naam *GNU/Linux*.
 
-[^49]: ​Eric S. Raymond, 'The Cathedral & The Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary'.
+[^49]: ​Eric S. Raymond, *The Cathedral & The Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary*.
 
-[^50]: Richard Stallman is ook geen fan van deze terminologie. Als er een term moet worden gebruikt die beide kanten van de kloof omvat, geeft hij de voorkeur aan 'Free/Libre and Open Source Software' omdat dit duidelijker overbrengt dat het 'vrije' deel over 'vrijheid' gaat.
+[^50]: Richard Stallman is ook geen fan van deze terminologie. Als er een term moet worden gebruikt die beide kanten van de kloof omvat, geeft hij de voorkeur aan *Free/Libre and Open Source Software* omdat dit duidelijker overbrengt dat het *vrije* deel over *vrijheid* gaat.
 
-[^51]: ​Raymond, 'The Cathedral & The Bazaar', 52.
+[^51]: ​Raymond, *The Cathedral & The Bazaar*, 52.
 
-[^52]: ​Raymond, 'The Cathedral & The Bazaar', 52.
+[^52]: ​Raymond, *The Cathedral & The Bazaar*, 52.
 
-[^53]: ​Raymond, 'The Cathedral & The Bazaar', 52.
+[^53]: ​Raymond, *The Cathedral & The Bazaar*, 52.

@@ -82,7 +82,7 @@ Eric Hughes verhuisde uiteindelijk niet naar Santa Cruz. Maar de reis was zeker 
 
 De eerste persoon die ze bij hun plan betrokken was John Gilmore, een vroege medewerker van Sun Microsystems en medeoprichter van de digitale rechtenorganisatie *Electronic Frontier Foundation* (EFF). Hij had binnen lokale hackerskringen al geruime tijd gesproken over het brengen van cryptografie naar het grote publiek. De drie van hen (May, Hughes en Gilmore) begonnen vervolgens meer gelijkgestemde individuen uit te nodigen die volgens hen niet zouden terugdeinzen voor enig *hands-on* technologie-activisme.
 
-Een paar maanden verstreken, tot op een zaterdag in september een groep van ongeveer twee dozijn gelijkgestemde individuen zich verzamelde in Hughes' nieuwe en op dat moment nog ongemeubileerde appartement in Oakland. De meeste aanwezigen waren afkomstig uit de hacker-gemeenschap in de Bay Area, terwijl May ook een kleine Extropian-delegatie had geregeld. Dit zorgde voor een bijzonder technologiebewuste groep mensen.
+Een paar maanden verstreken, tot op een zaterdag in september een groep van ongeveer twee dozijn gelijkgestemde individuen zich verzamelde in Hughes' nieuwe en op dat moment nog ongemeubileerde appartement in Oakland. De meeste aanwezigen waren afkomstig uit de hackergemeenschap in de Bay Area, terwijl May ook een kleine Extropian-delegatie had geregeld. Dit zorgde voor een bijzonder technologiebewuste groep mensen.
 
 May opende de bijeenkomst met een inleiding over cryptografie. Hij bracht de aanwezigen op de hoogte van het veelbelovende potentieel van publieke sleutel-cryptografie evenals enige van de innovatieve schema's die waren voorgesteld sinds de doorbraak van Diffie en Hellman. Hierna deelde hij een door hemzelf samengesteld boekje uit waarin de basisprincipes werden uitgelegd en belangrijke termen werden gedefinieerd. De groep begon vervolgens te discussiëren over de mogelijke gevolgen voor de samenleving als cryptografische hulpmiddelen op grote schaal beschikbaar zouden worden, maar daar tegenover ook de onrustbarende implicaties van een toekomst zonder dergelijke hulpmiddelen.
 
@@ -108,7 +108,7 @@ Een belangrijk onderdeel van hun strategie was dat de Cypherpunks zelf de behoed
 
 'We moeten onze eigen privacy verdedigen als we verwachten er nog enige te hebben', schreef Hughes in *The Cypherpunk-Manifesto*, dat de mede-oprichter van de groep hardop voorlas tijdens een Cypherpunk-bijeenkomst begin 1993. 'We moeten samenkomen en systemen creëren die anonieme transacties mogelijk maken. Mensen hebben eeuwenlang hun eigen privacy verdedigd met gefluister, duisternis, enveloppen, gesloten deuren, geheime handdrukken en koeriers. De technologieën van het verleden boden geen sterke privacy, maar elektronische technologieën doen dat wel.'
 
-Ze hadden plannen om deze elektronische technologieën te ontwikkelen en deze als gratis software te verspreiden. In overeenstemming met de hacker-ethiek, hadden ze niet de intentie om iemand om toestemming te vragen om dit te doen.
+Ze hadden plannen om deze elektronische technologieën te ontwikkelen en deze als gratis software te verspreiden. In overeenstemming met de hackerethiek, hadden ze niet de intentie om iemand om toestemming te vragen om dit te doen.
 
 'Cypherpunks schrijven code', verklaarde Hughes. 'We weten dat iemand software moet schrijven om privacy te verdedigen, en wij gaan dat doen.'[^145]
 

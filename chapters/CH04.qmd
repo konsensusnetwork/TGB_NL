@@ -22,9 +22,9 @@ Ongeveer tien jaar nadat hij voor het eerst kennismaakte met de methode van de s
 
 Het zou goed uitpakken voor hem. Na zijn afstuderen aan de technische universiteit in 1965, accepteerde Diffie een baan bij Mitre, een defensiecontractant die slechts een paar jaren daarvoor was afgesplitst van MIT's Lincoln Laboratory. De baan hielp hem om tijdens de Vietnamoorlog onder de dienstplicht uit te komen, terwijl het werk zelf ook niets met de oorlog te maken had. Diffie zou helpen bij de ontwikkeling van het computeralgebrasysteem Macsyma.
 
-Diffie hoefde zelfs niet naar het kantoor van Mitre te komen. In plaats daarvan kon hij werken vanuit het AI Lab van MIT, waar hij zich volledig verdiepte in de nieuwe hacker-cultuur en haar vrije en collaboratieve filosofie.
+Diffie hoefde zelfs niet naar het kantoor van Mitre te komen. In plaats daarvan kon hij werken vanuit het AI Lab van MIT, waar hij zich volledig verdiepte in de nieuwe hackercultuur en haar vrije en collaboratieve filosofie.
 
-Toch week Diffie op sommige punten af van de typische hacker-ethiek. Hij was niet van mening dat onbeperkte vrijheid in alle computeromgevingen gewenst was en vond dat software in bepaalde contexten ook privacy moest bieden. Naarmate mensen, bedrijven en regeringen hun activiteiten naar het digitale domein gingen verplaatsen, zag hij in dat het belangrijk zou worden om gevoelige data te beschermen, zoals persoonlijke gezondheidsgegevens, bedrijfsfinanciën of militaire geheimen.
+Toch week Diffie op sommige punten af van de typische hackerethiek. Hij was niet van mening dat onbeperkte vrijheid in alle computeromgevingen gewenst was en vond dat software in bepaalde contexten ook privacy moest bieden. Naarmate mensen, bedrijven en regeringen hun activiteiten naar het digitale domein gingen verplaatsen, zag hij in dat het belangrijk zou worden om gevoelige data te beschermen, zoals persoonlijke gezondheidsgegevens, bedrijfsfinanciën of militaire geheimen.
 
 Diffie nam het initiatief om een virtuele *kluis* te bouwen. Net zoals een fysieke kluis, moest de digitale variant eenvoudig te openen zijn door de legitieme eigenaar van de gegevens, maar de toegang voor iedereen anders beperken. Hij geloofde dat dit het type probleem was dat sterke versleuteling kon oplossen.
 

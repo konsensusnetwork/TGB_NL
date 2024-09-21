@@ -42,7 +42,7 @@ De bekwaamde cryptoloog loste het probleem op in 1983. Nauwelijks nadat hij zijn
 
 Zoals de titel van het artikel al aangeeft, was zijn uitvinding van *blinde handtekeningen* de sleutel tot zijn ontwerp voor een privacy-respecterend betaalsysteem.
 
-Chaums blinde handtekeningen waren een uitbreiding van de publieke sleutel-cryptografie en meer specifiek van het RSA cryptografische handtekening algoritme. Om even te herhalen, een cryptografische handtekening is in feite een stukje data (zoals een bericht) dat versleuteld is met een *privésleutel* en ontsleuteld kan worden met een *publieke sleutel*. Wanneer Alice een bericht en een bijbehorende cryptografische handtekening naar Bob stuurt, moet Bob in staat zijn het bericht te ontcijferen met Alice's publieke sleutel. Hierdoor wordt het omgezet in hetzelfde bericht, waardoor wiskundig wordt bewezen dat de handtekening inderdaad is gemaakt met haar privésleutel.
+Chaums blinde handtekeningen waren een uitbreiding van de publieke-sleutelcryptografie en meer specifiek van het RSA cryptografische handtekening algoritme. Om even te herhalen, een cryptografische handtekening is in feite een stukje data (zoals een bericht) dat versleuteld is met een *privésleutel* en ontsleuteld kan worden met een *publieke sleutel*. Wanneer Alice een bericht en een bijbehorende cryptografische handtekening naar Bob stuurt, moet Bob in staat zijn het bericht te ontcijferen met Alice's publieke sleutel. Hierdoor wordt het omgezet in hetzelfde bericht, waardoor wiskundig wordt bewezen dat de handtekening inderdaad is gemaakt met haar privésleutel.
 
 Een blinde handtekening voegt dus één laag van encryptie toe aan de mix.
 

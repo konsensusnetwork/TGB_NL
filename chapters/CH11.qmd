@@ -46,7 +46,7 @@ Maar Szabo was zich ervan bewust dat eigendomsrechten en contractrecht in modern
 
 Om een staatloze en geweldloze cyberspace-economie te creëren, concludeerde Szabo dat crypto-anarchisten eerst een nieuwe basis moesten leggen.
 
-Het eerste deel van deze basis, de eigendomsrechten, kon met behulp van publieke sleutel-cryptografie worden gerealiseerd, zoals uitvoerig door Tim May is uitgelegd; persoonlijke gegevens zouden worden beveiligd met wiskunde in plaats van met fysieke kracht.
+Het eerste deel van deze basis, de eigendomsrechten, kon met behulp van publieke-sleutelcryptografie worden gerealiseerd, zoals uitvoerig door Tim May is uitgelegd; persoonlijke gegevens zouden worden beveiligd met wiskunde in plaats van met fysieke kracht.
 
 Maar het was niet meteen duidelijk hoe twee mensen deze gegevens konden uitwisselen zonder risico op wanprestatie van de tegenpartij, oftwel *tegenpartijrisico*. Een partij moest altijd eerst hun gegevens verzenden of hun deel van de afspraak afronden. Op dat moment kon de tegenpartij verdwijnen en zijn verplichting niet nakomen. In cyberspace waren er geen rechtbanken of politie om contractrecht te handhaven.
 
@@ -202,7 +202,7 @@ Het geldgedeelte leek in grote lijnen op dat van de eerdere voorstel tot het bez
 
 Om een hash *uit te geven*, zou de eigenaar een bericht moeten ondertekenen waarin wordt aangegeven wie de nieuwe eigenaar is (opnieuw, door naar deze persoon te verwijzen alleen door hun publieke sleutel). Als de digitale handtekening overeenkomt met de publieke sleutel die in het eigendomsregister staat vermeld, zou de overdracht geldig zijn en zou het register worden bijgewerkt om de nieuwe eigenaar van de hash te reflecteren. Zonder een geldige handtekening, zou de overdracht afgewezen moeten worden en zou de hash in het bezit blijven van de huidige eigenaar.
 
-Het proof-of-work zou ervoor zorgen dat Szabo's elektronische geld aantoonbaar moeilijk te verkrijgen is, terwijl publieke sleutel-cryptografie het veilig zou maken.
+Het proof-of-work zou ervoor zorgen dat Szabo's elektronische geld aantoonbaar moeilijk te verkrijgen is, terwijl publieke-sleutelcryptografie het veilig zou maken.
 
 Dat is natuurlijk onder voorwaarde dat het register zelf veilig is.
 

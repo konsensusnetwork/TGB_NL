@@ -46,7 +46,7 @@ Chaums blinde handtekeningen waren een uitbreiding van de publieke sleutel-crypt
 
 Een blinde handtekening voegt dus één laag van encryptie toe aan de mix.
 
-Om Alice een blinde handtekening te laten maken, zou Bob eerst een speciaal soort encryptiesleutel genereren, de zogenaamde *verblindende sleutel*, waarmee hij een bericht zou coderen (versleutelen). Bob zou het versleutelde bericht vervolgens aan Alice geven, die het met haar privésleutel cryptografisch zou ondertekenen. Wanneer ze het gecodeerde bericht ondertekent, weet ze niet wat het originele bericht eigenlijk is: ze *ondertekent blind*.
+Om Alice een blinde handtekening te laten maken, zou Bob eerst een speciaal soort coderingssleutel genereren, de zogenaamde *verblindende sleutel*, waarmee hij een bericht zou coderen (versleutelen). Bob zou het versleutelde bericht vervolgens aan Alice geven, die het met haar privésleutel cryptografisch zou ondertekenen. Wanneer ze het gecodeerde bericht ondertekent, weet ze niet wat het originele bericht eigenlijk is: ze *ondertekent blind*.
 
 De resulterende handtekening is wiskundig verbonden aan Alice's publieke sleutel, zoals elke handtekening zou zijn. Dat wil zeggen, haar publieke sleutel kan worden gebruikt om het exacte versleutelde bericht dat zij ondertekende te reproduceren (het bericht zelf zou nog steeds versleuteld zijn; het zou hetzelfde versleutelde *blob* reproduceren dat zij van Bob ontving).
 

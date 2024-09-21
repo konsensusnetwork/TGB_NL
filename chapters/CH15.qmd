@@ -36,7 +36,7 @@ Inderdaad, het elektronische geldproject van Nakamoto had nu een naam: *Bitcoin*
 
 Bijgevoegd was een link naar de actuele versie van het witboek.[^270] *Bitcoin: Een Peer-to-Peer Elektronisch Geldsysteem*, luidde nu de titel. In amper negen pagina's (inclusief een bladzijde voor externe referenties), schetste Nakamoto de kernmechanismen van zijn digitale valuta. Het maakte een compacte, maar zeer efficiënte beschrijving van --- zoals de inleiding van het paper omschreef --- 'een elektronisch betalingssysteem gebaseerd op cryptografisch bewijs in plaats van vertrouwen.'
 
-## De block chain
+## De blokketen
 
 Het systeem dat Satoshi Nakamoto in zijn whitepaper beschreef leek daadwerkelijk op b-money --- dat nu als eerste van acht verwijzingen wordt genoemd --- op meerdere manieren.
 
@@ -62,17 +62,17 @@ En, net zoals in Haber en Stornettas basisregisters, zou elk nieuw Bitcoinblok o
 
 Inderdaad, de inhoud van Bitcoinblokken, hun chronologische volgorde en daarmee de volgorde van alle transacties daarin, zouden in feite cryptografisch zijn verzegeld.
 
-Nakamoto noemde deze ketting van blokken in de mailinglijst: de block chain.
+Nakamoto noemde deze ketting van blokken in de mailinglijst: de *block chain*.
 
 ## Minen
 
-Omdat een Bitcoinblok alleen als geldig zou worden beschouwd als het geen conflicterende transacties bevat, bood de *block chain* het begin van een oplossing voor het probleem van dubbele uitgaven. Zelfs als verschillende gebruikers de transacties in een andere volgorde zouden zien, zouden hun eigendomsregisters nog steeds overeenkomen zolang ze alle blokken in dezelfde volgorde ontvingen. Bij een poging tot dubbele uitgave zou alleen de transactie die in een blok was opgenomen worden gebruikt om alle grootboeken bij te werken.
+Omdat een Bitcoinblok alleen als geldig zou worden beschouwd als het geen conflicterende transacties bevat, bood de *blokketen* het begin van een oplossing voor het probleem van dubbele uitgaven. Zelfs als verschillende gebruikers de transacties in een andere volgorde zouden zien, zouden hun eigendomsregisters nog steeds overeenkomen zolang ze alle blokken in dezelfde volgorde ontvingen. Bij een poging tot dubbele uitgave zou alleen de transactie die in een blok was opgenomen worden gebruikt om alle grootboeken bij te werken.
 
 Toch loste dit het probleem van dubbele uitgaven niet volledig op. Als verschillende gebruikers namelijk verschillende blokken creëren (mogelijk met conflicterende transacties in deze verschillende blokken), en de verschillende blokken worden gelijktijdig naar verschillende delen van het netwerk gestuurd, zou exact hetzelfde probleem weer opduiken: het netwerk zou opsplitsen.
 
-En aangezien elk volgend blok de hash van het voorgaande blok zou bevatten, zou dit zelfs betekenen dat verschillende delen van het netwerk uiteindelijk compleet verschillende, onverenigbare block chains zouden creëren. Hierdoor zouden gebruikers op termijn hun eigendomsrechten op diverse manieren bijhouden en permanent buiten consensus vallen. Gebruikers van de verschillende delen van het netwerk zouden niet meer met elkaar kunnen handelen.
+En aangezien elk volgend blok de hash van het voorgaande blok zou bevatten, zou dit zelfs betekenen dat verschillende delen van het netwerk uiteindelijk compleet verschillende, onverenigbare blokketens zouden creëren. Hierdoor zouden gebruikers op termijn hun eigendomsrechten op diverse manieren bijhouden en permanent buiten consensus vallen. Gebruikers van de verschillende delen van het netwerk zouden niet meer met elkaar kunnen handelen.
 
-Nakamoto wist dat alle Bitcoingebruikers zich moesten verenigen rond dezelfde block chain, ook al betekende dit dat sommige gebruikers af en toe de blokken moesten opgeven die ze als eerste hadden ontvangen in geval van een conflict. Maar met mogelijk onbetrouwbare deelnemers en niemand die de leiding heeft, was het bepalen van op welke block chain zich te vestigen alweer een uitstekend voorbeeld van het Byzantijnse Generaalsprobleem.
+Nakamoto wist dat alle Bitcoingebruikers zich moesten verenigen rond dezelfde blokketen, ook al betekende dit dat sommige gebruikers af en toe de blokken moesten opgeven die ze als eerste hadden ontvangen in geval van een conflict. Maar met mogelijk onbetrouwbare deelnemers en niemand die de leiding heeft, was het bepalen van op welke blokketen zich te vestigen alweer een uitstekend voorbeeld van het Byzantijnse Generaalsprobleem.
 
 Hier komt het proof-of-work-systeem van Adam Back bij kijken, met zijn originele hashcashvoorstel dat de volgende referentie is in het Bitcoin-witboek. proof-of-work vormde op dat moment al de basis voor verschillende digitale muntontwerpen van Cypherpunks, waaronder b-money, Bit Gold en RPOW. Maar waar deze ontwerpen gewoonlijk de proof-of-work-hashes *zelf* gebruikten als een vorm van geld, had Nakamoto, in wat een van zijn belangrijkste inzichten was, er een vernuftig nieuw gebruik voor bedacht.
 
@@ -86,7 +86,7 @@ Miners zouden ondertussen hun inspanningen aanpassen om de nieuwe blok-hash op t
 
 En wat cruciaal is: de lengte van deze ketting zou als beslissende factor dienen in het geval van een conflict.
 
-Als twee conflicterende blokken over het Bitcoinnetwerk zouden circuleren, zou elke gebruiker in eerste instantie het blok accepteren dat ze eerst ontvangen, en miners zouden de hash van dat blok opnemen in het volgende blok dat ze zouden proberen te vinden. In zekere zin zou het Bitcoinnetwerk inderdaad splitsen. Maar deze splitsing zou tijdelijk zijn. Zodra de ene kant van de splitsing sneller het volgende blok delft dan de andere kant van de splitsing, en hun versie van de block chain langer wordt dan het alternatief, zouden Bitcoingebruikers en -miners van beide kanten van de splitsing deze langste ketting accepteren, waarbij ze de kortere ketting verlaten en daarmee de splitsing oplossen.
+Als twee conflicterende blokken over het Bitcoinnetwerk zouden circuleren, zou elke gebruiker in eerste instantie het blok accepteren dat ze eerst ontvangen, en miners zouden de hash van dat blok opnemen in het volgende blok dat ze zouden proberen te vinden. In zekere zin zou het Bitcoinnetwerk inderdaad splitsen. Maar deze splitsing zou tijdelijk zijn. Zodra de ene kant van de splitsing sneller het volgende blok delft dan de andere kant van de splitsing, en hun versie van de blokketen langer wordt dan het alternatief, zouden Bitcoingebruikers en -miners van beide kanten van de splitsing deze langste ketting accepteren, waarbij ze de kortere ketting verlaten en daarmee de splitsing oplossen.
 
 Om het Byzantijnse Generaalsprobleem te overkomen, bedacht de sluwe Satoshi Nakamoto een nieuwe toepassing voor proof-of-work door het in te zetten als een decentrale beslisser om consensus te bereiken. Omdat iedereen een proof-of-work kan uitoefenen, en omdat iedereen eenvoudig de geldigheid ervan kan controleren zonder anderen te hoeven vertrouwen, paste dit perfect binnen het leiderloze ontwerp van Bitcoin.
 
@@ -112,9 +112,9 @@ Door de hoeveelheid proof-of-work te ontkoppelen van het tempo van valutacreatie
 
 Nakamoto was bovendien van mening dat het uitgiftemodel van Bitcoin potentiële aanvallers zou ontmoedigen.
 
-Het meest voor de hand liggende is dat oneerlijke deelnemers niet gemakkelijk dubbele uitgaven in transacties kunnen doen, aangezien slechts één van de conflicterende transacties in de block chain kan worden opgenomen.
+Het meest voor de hand liggende is dat oneerlijke deelnemers niet gemakkelijk dubbele uitgaven in transacties kunnen doen, aangezien slechts één van de conflicterende transacties in de blokketen kan worden opgenomen.
 
-De enige manier om een dubbele uitgaveaanval uit te voeren, zou zijn als de aanvaller een van zijn transacties in een blok weet op te nemen en deze als betaling wordt geaccepteerd door de ontvanger, om vervolgens zelf een conflicterend blok te minen met de conflicterende transactie, en doorgaan met het minen van deze alternatieve block chain totdat hij langer is dan de originele ketting. Als het hem inderdaad zou lukken om de langste ketting te maken (met de dubbele uitgavetransactie erin), zouden alle Bitcoingebruikers overschakelen naar deze alternatieve ketting, en iedereen zou hun grootboeken dienovereenkomstig bijwerken. De originele transactie zou worden ingetrokken en de dubbele uitgave zou gelukt zijn.
+De enige manier om een dubbele uitgaveaanval uit te voeren, zou zijn als de aanvaller een van zijn transacties in een blok weet op te nemen en deze als betaling wordt geaccepteerd door de ontvanger, om vervolgens zelf een conflicterend blok te minen met de conflicterende transactie, en doorgaan met het minen van deze alternatieve blokketen totdat hij langer is dan de originele ketting. Als het hem inderdaad zou lukken om de langste ketting te maken (met de dubbele uitgavetransactie erin), zouden alle Bitcoingebruikers overschakelen naar deze alternatieve ketting, en iedereen zou hun grootboeken dienovereenkomstig bijwerken. De originele transactie zou worden ingetrokken en de dubbele uitgave zou gelukt zijn.
 
 Echter, zolang de aanvaller niet over meer rekenkracht beschikt dan de rest van het netwerk tezamen, zou de kans dat hij de eerlijke ketting inhaalt, exponentieel afnemen voor elk blok dat hij achterloopt, legt Nakamoto uit. De eerlijke ketting zou vrijwel zeker sneller groeien. Hij onderbouwde zijn uitleg met de achtste en laatste verwijzing in het witboek, en ook de oudste: het handboek *An Introduction to Probability Theory and Its Applications* uit 1957, geschreven door wiskundige William Feller.
 
@@ -150,7 +150,7 @@ De eerste reactie op Nakamotos aankondiging kwam ongeveer een dag later, van Jam
 
 Inderdaad, Nakamotos ontwerp vereiste dat gebruikers alle transacties op het Bitcoinnetwerk bijhielden, om zo hun lokale versies van het eigendomsgrootboek te kunnen bijwerken. Ze zouden precies moeten weten welke munten al waren uitgegeven en welke niet, om er zeker van te zijn dat een munt die ze als betaling ontvingen nog niet aan iemand anders was uitgegeven. Als het Bitcoinnetwerk groot genoeg zou worden, kon dit onuitvoerbaar worden voor de meeste standaardgebruikers.
 
-Het was een probleem waarover Satoshi Nakamoto nagedacht had. In zijn witboek stelde hij een oplossing bestaande uit twee stappen voor, genaamd *Simplified Payment Verification* (SPV). Ten eerste, om de hoeveelheid benodigde schijfruimte voor het draaien van Bitcoin op de gemiddelde computer te minimaliseren, konden oudere blokken worden verwijderd van de computers, zodat ze alleen de blok-hashes hoefden op te slaan. En ten tweede, door gebruik te maken van hashbewijzen, konden gebruikers controleren met behulp van deze blok-hashes dat transacties naar hen waren opgenomen in de block chain --- waarbij ze alle andere transacties grotendeels negeerden. Het draaien van een volledig validerende netwerknode 'zou meer en meer worden overgelaten aan specialisten met serverfarms van gespecialiseerde hardware', schreef Nakamoto als antwoord op Donald in de mailinglijst. [^272]
+Het was een probleem waarover Satoshi Nakamoto nagedacht had. In zijn witboek stelde hij een oplossing bestaande uit twee stappen voor, genaamd *Simplified Payment Verification* (SPV). Ten eerste, om de hoeveelheid benodigde schijfruimte voor het draaien van Bitcoin op de gemiddelde computer te minimaliseren, konden oudere blokken worden verwijderd van de computers, zodat ze alleen de blok-hashes hoefden op te slaan. En ten tweede, door gebruik te maken van hashbewijzen, konden gebruikers controleren met behulp van deze blok-hashes dat transacties naar hen waren opgenomen in de blokketen --- waarbij ze alle andere transacties grotendeels negeerden. Het draaien van een volledig validerende netwerknode 'zou meer en meer worden overgelaten aan specialisten met serverfarms van gespecialiseerde hardware', schreef Nakamoto als antwoord op Donald in de mailinglijst. [^272]
 
 Helaas loste deze oplossing het probleem niet volledig op, zoals Nakamoto zelf ook erkende in het witboek. Het introduceerde ook nieuwe problemen. SPV liet het beveiligingsmodel waarin iedereen elkaar in de gaten houdt varen, omdat in plaats daarvan alleen toegewijde miners zouden controleren of de regels van het systeem altijd worden nageleefd.
 
@@ -162,7 +162,7 @@ Bitcoin, voorspelde Donald, zou onderworpen worden aan hetzelfde type druk.
 
 'Als een klein aantal instanties nieuwe munten uitgeeft, is dit beter bestand tegen staatsaanvallen dan bij een enkele uitgever, maar de overheid valt regelmatig financiële netwerken aan, met de financiële instorting die voortkomt uit de meest recente aanval die nog steeds aan de gang is terwijl ik dit schrijf', betoogde hij.
 
-Om het systeem gedecentraliseerd te houden en ervoor te zorgen dat de meeste gebruikers alle transacties in het netwerk kunnen verwerken, stelde de Cypherpunk voor dat Bitcoin baat zou kunnen hebben bij een betalingslaag voor transacties van lage waarde. Alleen grote transacties zouden dan door alle gebruikers verwerkt en opgeslagen hoeven te worden in de block chain.
+Om het systeem gedecentraliseerd te houden en ervoor te zorgen dat de meeste gebruikers alle transacties in het netwerk kunnen verwerken, stelde de Cypherpunk voor dat Bitcoin baat zou kunnen hebben bij een betalingslaag voor transacties van lage waarde. Alleen grote transacties zouden dan door alle gebruikers verwerkt en opgeslagen hoeven te worden in de blokketen.
 
 'Ik denk dat we ons moeten bezighouden met het minimaliseren van de gegevens en bandbreedte die gelduitgevers nodig hebben --- voor kleine munten lijkt het protocol verspillend. Het zou mooi zijn om het volledige protocol voor grote munten te hebben, en een soort snelkoppeling voor kleine munten waarbij mensen accountgebaseerd geld vertrouwen voor kleine bedragen totdat ze worden omgezet in grote munten', schreef hij. 'Hoe kleiner de gegevensopslag en bandbreedte die gelduitgevers nodig hebben, hoe sterker het systeem bestand is tegen het soort overheidsaanvallen op financiële netwerken die we recentelijk hebben gezien.' [^273]
 
@@ -180,7 +180,7 @@ Als mogelijke oplossing voor het inflatieprobleem, stelde Dillinger in een later
 
 Ondertussen beweerde Donald dat Nakamotos moeilijkheidaanpassingsalgoritme helemaal niet zou werken. Hij leek te geloven dat dit volledig de prikkel zou wegnemen om nieuwe blokken te minen, hoewel hij in zijn e-mail niet uitlegde waarom.[^277]
 
-Zowel Dillinger als Donald waren het er echter over eens dat het proof-of-work-consensusmechanisme van Bitcoin niet robuust of snel genoeg was. Ze hielden niet van het idee dat transacties omkeerbaar konden zijn, in het geval dat de block chain wordt ingehaald door een langere concurrerende ketting, en vonden het wachten op meerdere blokbevestigingen geen degelijke oplossing.
+Zowel Dillinger als Donald waren het er echter over eens dat het proof-of-work-consensusmechanisme van Bitcoin niet robuust of snel genoeg was. Ze hielden niet van het idee dat transacties omkeerbaar konden zijn, in het geval dat de blokketen wordt ingehaald door een langere concurrerende ketting, en vonden het wachten op meerdere blokbevestigingen geen degelijke oplossing.
 
 'Hoe weet iemand wanneer een transactie onomkeerbaar is geworden?' vroeg Dillinger, retorisch. 'Is *een paar* blokken drie? Dertig? Honderd?'[^278]
 

@@ -76,7 +76,6 @@ identity escrow = escrow van identiteit
 incentive = stimulans
 incentives = prikkels
 interest rates = rentetarieven
-interspatial = interspatiale
 interspatial = interspatiële
 intertemporal = intertemporaal
 junk mail = junkmail

@@ -1,4 +1,4 @@
-# B-geld (en BitTorrent)
+# B-money (en BitTorrent)
 
 Niet lang nadat Bit Gold had laten zien hoe proof-of-work in overdraagbaar elektronisch geld kon worden omgezet, werd er een enigszins vergelijkbaar voorstel voor digitale valuta ingediend bij de Cypherpunk-mailinglijst. De auteur, Wei Dai, was een bekende naam binnen de Cypherpunk gemeenschap, maar dan alleen bij naam.
 
@@ -20,7 +20,7 @@ Ook Wei Dai ontwikkelde een aantal tools om de Cypherpunk-zaak te bevorderen. Di
 
 Hoewel het op het eerste gezicht vreemd kan lijken, is het niet zo ongelooflijk dat sommigen vermoeden dat Nick Szabo en Wei Dai eigenlijk dezelfde persoon zijn: de twee hadden veel gemeen. Naast het volgen van dezelfde universitaire studies en dat ze beiden deel uitmaakten van zowel de Cypherpunk als de Extropian gemeenschappen, hadden Szabo en Dai een bijzondere interesse in elektronisch geld, en om vele van dezelfde redenen. Ze wilden helpen om Tim Mays *Galt's Gulch in cyberspace* te realiseren, en beiden begrepen het belang van digitale contracten in deze context.
 
-In november 1998, net na zijn afstuderen aan de universiteit, kondigde Wei Dai informeel zijn eigen elektronisch geld aan. Dit voorstel werd bijna terloops aangekondigd in een mail waarin hij ook een geüpdatete versie van zijn anoniem communicatieprotocol, bekend als PipeNet, bekendmaakte.[^223] Het gebeurde slechts weken nadat Szabo voor het eerst zijn digitale munteenheid besprak op de Libtech mailinglijst. Dai, die ook actief was op deze lijst, had b-geld gecreëerd.
+In november 1998, net na zijn afstuderen aan de universiteit, kondigde Wei Dai informeel zijn eigen elektronisch geld aan. Dit voorstel werd bijna terloops aangekondigd in een mail waarin hij ook een geüpdatete versie van zijn anoniem communicatieprotocol, bekend als PipeNet, bekendmaakte.[^223] Het gebeurde slechts weken nadat Szabo voor het eerst zijn digitale munteenheid besprak op de Libtech mailinglijst. Dai, die ook actief was op deze lijst, had b-money gecreëerd.
 
 'Ik ben gefascineerd door Tim Mays crypto-anarchie', legde Dai zijn motivatie uit in het voorstel. 'In tegenstelling tot de gemeenschappen die traditioneel geassocieerd worden met het woord *anarchie*, wordt in een crypto-anarchie de regering niet tijdelijk vernietigd, maar permanent verboden en overbodig. Het is een gemeenschap waar de dreiging van geweld machteloos is omdat geweld onmogelijk is, en geweld onmogelijk is omdat de deelnemers niet in verband kunnen worden gebracht met hun daadwerkelijke namen of fysieke locaties.'
 
@@ -28,19 +28,19 @@ Hij concludeerde:
 
 > 'Het protocol dat in dit artikel wordt voorgesteld, maakt het voor ontraceerbare pseudonieme entiteiten mogelijk om efficiënter samen te werken, door hen te voorzien van een ruilmiddel en een manier om contracten af te dwingen. [...] Ik hoop dat dit een stap is in de richting van het praktisch mogelijk maken van crypto-anarchie, naast de theoretische mogelijkheid.'[^224]
 
-## B-geld
+## B-money
 
-B-geld leek in belangrijke opzichten op Bit Gold, hoewel het op andere punten verschilde.
+B-money leek in belangrijke opzichten op Bit Gold, hoewel het op andere punten verschilde.
 
-Net als Bit Gold, zou b-geld in principe bestaan op een grootboek (wat Szabo een *register* noemde). Dit grootboek zou publieke sleutels vermelden, en het aantal toegeschreven munteenheden aan elke publieke sleutel aangeven. Om het elektronische contant geld te verplaatsen, ondertekenden gebruikers cryptografisch een bericht dat aangeeft hoeveel munteenheden er worden uitgegeven van de bijbehorende publieke sleutel, en naar welke publieke sleutel ze werden uitgegeven. Als de transactie geldig was (de publieke sleutel had voldoende geld en de handtekening klopte), zou het grootboek dienovereenkomstig worden bijgewerkt.
+Net als Bit Gold, zou b-money in principe bestaan op een grootboek (wat Szabo een *register* noemde). Dit grootboek zou publieke sleutels vermelden, en het aantal toegeschreven munteenheden aan elke publieke sleutel aangeven. Om het elektronische contant geld te verplaatsen, ondertekenden gebruikers cryptografisch een bericht dat aangeeft hoeveel munteenheden er worden uitgegeven van de bijbehorende publieke sleutel, en naar welke publieke sleutel ze werden uitgegeven. Als de transactie geldig was (de publieke sleutel had voldoende geld en de handtekening klopte), zou het grootboek dienovereenkomstig worden bijgewerkt.
 
-Net zoals Szabo, legde Dai een sterke nadruk op het belang van contracten. B-geld was ontworpen om de uitvoering van contracten te vergemakkelijken, en een significant deel van het voorstel was gewijd aan het uitleggen van de taken van bemiddelaars in geschillenoplossing (hoewel het niet helemaal de autonome slimme contracten waren die Szabo oorspronkelijk in gedachten had, waren er enige cryptografische veiligheidsmaatregelen opgesteld om bepaalde vormen van fraude te voorkomen).
+Net zoals Szabo, legde Dai een sterke nadruk op het belang van contracten. B-money was ontworpen om de uitvoering van contracten te vergemakkelijken, en een significant deel van het voorstel was gewijd aan het uitleggen van de taken van bemiddelaars in geschillenoplossing (hoewel het niet helemaal de autonome slimme contracten waren die Szabo oorspronkelijk in gedachten had, waren er enige cryptografische veiligheidsmaatregelen opgesteld om bepaalde vormen van fraude te voorkomen).
 
 Szabo was er ook in geslaagd om Wei Dai ervan te overtuigen dat het minimaliseren van vertrouwen essentieel was. *Vertrouwde derde partijen zijn beveiligingsrisico's*, gaf Dai toe, en hij kwam tot de conclusie dat een elektronisch geldsysteem niet mocht staan of vallen met één enkele entiteit om de saldo's van gebruikers bij te houden, transacties mogelijk te maken of dubbele uitgaven te voorkomen.
 
 In plaats daarvan bedacht Dai twee alternatieve oplossingen.
 
-De eerste variant van b-geld was met name zeer ambitieus. In deze variant was er geen centrale instantie, maar onderhield *elke* gebruiker van het systeem zijn eigen exemplaar van het grootboek. Bij elke nieuwe b-geldtransactie zou iedere gebruiker afzonderlijk de geldigheid ervan controleren en hun eigen versie van het grootboek bijwerken als de transactie in orde bleek. Zolang iedereen actueel bleef, zouden de grootboeken gesynchroniseerd blijven onder alle gebruikers.
+De eerste variant van b-money was met name zeer ambitieus. In deze variant was er geen centrale instantie, maar onderhield *elke* gebruiker van het systeem zijn eigen exemplaar van het grootboek. Bij elke nieuwe b-moneytransactie zou iedere gebruiker afzonderlijk de geldigheid ervan controleren en hun eigen versie van het grootboek bijwerken als de transactie in orde bleek. Zolang iedereen actueel bleef, zouden de grootboeken gesynchroniseerd blijven onder alle gebruikers.
 
 In theorie is het grote voordeel van zo'n gedistribueerd systeem dat corruptie onmogelijk zou zijn. Als iemand bijvoorbeeld te veel geld toeschrijft aan zijn eigen publieke sleutels, zou dit geen enkel effect hebben op iemand anders: alle andere grootboeken zouden onveranderd blijven. Als de bedrieger probeerde zijn vervalste geld uit te geven, zou niemand anders die transactie als geldig zien. Net zoals bij de tijdstempeloplossing van Scott Stornetta en Stuart Haber zou iedereen ervoor zorgen dat alle anderen eerlijk zou blijven.
 
@@ -52,7 +52,7 @@ O in technische termen: Wei Dai's eerste oplossing negeerde het Byzantijnse Gene
 
 Dit is waarom Dai in hetzelfde voorstel met een tweede oplossing kwam.
 
-In deze tweede versie van het b-geld systeem, zou niet iedereen een versie van het hoofdregister bijhouden, maar zou het systeem bestaan uit twee soorten deelnemers: reguliere gebruikers en *servers*. Net zoals de *eigendomsclub* in Szabo's Bit Gold voorstel, zouden alleen deze servers de b-geld hoofdregisters bijhouden. Om er zeker van te zijn dat een transactie werd voltooid, moesten reguliere gebruikers checken bij een willekeurige subset van servers, en een betaling pas als finaal beschouwen als die servers de transactie erkenden.
+In deze tweede versie van het b-money systeem, zou niet iedereen een versie van het hoofdregister bijhouden, maar zou het systeem bestaan uit twee soorten deelnemers: reguliere gebruikers en *servers*. Net zoals de *eigendomsclub* in Szabo's Bit Gold voorstel, zouden alleen deze servers de b-money hoofdregisters bijhouden. Om er zeker van te zijn dat een transactie werd voltooid, moesten reguliere gebruikers checken bij een willekeurige subset van servers, en een betaling pas als finaal beschouwen als die servers de transactie erkenden.
 
 Dit introduceerde natuurlijk wel weer wat vertrouwde partijen in het systeem. De servers konden samenwerken om overdrachten te blokkeren, transacties dubbel uit te geven, mogelijk fondsen te stelen of zelfs regelrecht geld voor zichzelf te creëren.
 
@@ -60,41 +60,41 @@ Wei Dai stelde daarom een manier voor om de servers eerlijk te houden.
 
 'Hij stelde voor dat elke server verplicht is om een bepaald bedrag op een speciale rekening te storten, die zou worden gebruikt als potentiële boetes of beloningen voor bewijzen van wangedrag', stelde hij voor. 'Ook moet elke server periodiek zijn huidige database van geldcreatie en geldbezit publiceren en zich daaraan binden. Elke deelnemer moet controleren of zijn eigen rekeningsaldi kloppen en dat de som van de rekeningsaldi niet groter is dan het totale bedrag aan gecreëerd geld.'
 
-Echter, het b-geld voorstel ging niet in detail in op een van deze oplossingen. Wellicht het meest problematisch was dat Dai niet uitlegde wie zou bepalen of er wangedrag plaatsvond, als dit niet werd bepaald door de (samenzwerende) servers zelf, of hoe de boetes konden worden afgedwongen. Net zoals Bit Gold geen oplossing had geboden om conflicten tussen servers te beslechten, had b-geld dat ook niet gedaan.
+Echter, het b-money voorstel ging niet in detail in op een van deze oplossingen. Wellicht het meest problematisch was dat Dai niet uitlegde wie zou bepalen of er wangedrag plaatsvond, als dit niet werd bepaald door de (samenzwerende) servers zelf, of hoe de boetes konden worden afgedwongen. Net zoals Bit Gold geen oplossing had geboden om conflicten tussen servers te beslechten, had b-money dat ook niet gedaan.
 
-## Monetaire beleid van b-geld
+## Monetaire beleid van b-money
 
-Net als Bit Gold zou b-geld een zuiver digitale munteenheid zijn. Er zou geen bank of bedrijf zijn die de digitale eenheden dekte met dollars of goud, en geen garantie dat iemand de munteenheid zou accepteren voor betaling.
+Net als Bit Gold zou b-money een zuiver digitale munteenheid zijn. Er zou geen bank of bedrijf zijn die de digitale eenheden dekte met dollars of goud, en geen garantie dat iemand de munteenheid zou accepteren voor betaling.
 
 Maar net zoals Szabo, dacht Dai niet dat dit een probleem zou zijn.
 
-'Denk er op deze manier over na', betoogde hij op de mailinglijst van de Cypherpunks. 'In het geval van goederengeld, wordt de waarde deels bepaald door de industriële/esthetische waarde van het goed en deels door het nut van het goederengeld als ruilmiddel. In het geval van fiatgeld en b-geld, komt alle waarde voort uit zijn nut als ruilmiddel.'[^226]
+'Denk er op deze manier over na', betoogde hij op de mailinglijst van de Cypherpunks. 'In het geval van goederengeld, wordt de waarde deels bepaald door de industriële/esthetische waarde van het goed en deels door het nut van het goederengeld als ruilmiddel. In het geval van fiatgeld en b-money, komt alle waarde voort uit zijn nut als ruilmiddel.'[^226]
 
-In tegenstelling tot Szabo, wilde Dai zijn valuta echter voorzien van een gericht monetair beleid. Waar de koopkracht van Bit Gold overgelaten werd aan de markt, met geldige proof-of-work hashes die vrij verhandeld worden voor wat kopers en verkopers bereid zijn te accepteren, was b-geld specifiek ontworpen om een voorspelbare koopkracht te bieden.
+In tegenstelling tot Szabo, wilde Dai zijn valuta echter voorzien van een gericht monetair beleid. Waar de koopkracht van Bit Gold overgelaten werd aan de markt, met geldige proof-of-work hashes die vrij verhandeld worden voor wat kopers en verkopers bereid zijn te accepteren, was b-money specifiek ontworpen om een voorspelbare koopkracht te bieden.
 
-Net als Irving Fisher en de Vereniging voor Stabiel Geld ongeveer 80 jaar eerder, stelde Dai voor om de koopkracht van zijn munteenheid te koppelen aan een consumentenprijsindex. Hij wilde dat dezelfde hoeveelheid b-geld-eenheden op elk moment een gelijk aandeel van deze index kon kopen. Met andere woorden, de gemiddelde prijs van goederen en diensten, uitgedrukt in b-geld, moest stabiel blijven.
+Net als Irving Fisher en de Vereniging voor Stabiel Geld ongeveer 80 jaar eerder, stelde Dai voor om de koopkracht van zijn munteenheid te koppelen aan een consumentenprijsindex. Hij wilde dat dezelfde hoeveelheid b-money-eenheden op elk moment een gelijk aandeel van deze index kon kopen. Met andere woorden, de gemiddelde prijs van goederen en diensten, uitgedrukt in b-money, moest stabiel blijven.
 
-Als we het breder bekijken, zou het creëren van valuta in b-geld vergelijkbaar werken met Bit Gold: iedereen zou nieuwe valuta-eenheden kunnen genereren door middel van een proof-of-work door een geldige hash te produceren, vermoedelijk ook gebaseerd op een bepaalde kandidaat-reeks. Wie de hash creëerde, mocht deze houden (of misschien zouden ze een equivalent in b-geld-eenheden krijgen; een geldig proof-of-work zou heel goed op de grootboek kunnen worden weerspiegeld als 100 digitale *munten*).
+Als we het breder bekijken, zou het creëren van valuta in b-money vergelijkbaar werken met Bit Gold: iedereen zou nieuwe valuta-eenheden kunnen genereren door middel van een proof-of-work door een geldige hash te produceren, vermoedelijk ook gebaseerd op een bepaalde kandidaat-reeks. Wie de hash creëerde, mocht deze houden (of misschien zouden ze een equivalent in b-money-eenheden krijgen; een geldig proof-of-work zou heel goed op de grootboek kunnen worden weerspiegeld als 100 digitale *munten*).
 
 Het belangrijkste verschil met Bit Gold, was echter dat de moeilijkheidsgraad om een geldig proof-of-work te genereren, kon veranderen.
 
-Alle gebruikers van het systeem (b-geld versie 1) of de servers (b-geld versie 2) zouden voortdurend moeten bepalen hoeveel een mandje goederen zou kosten in verhouding tot de productie van een geldige hash. Dat wil zeggen, als het creëren van een hash goedkoper wordt (door verbeteringen in computerhardware) in verhouding tot de prijsindex, dan zou de moeilijkheidsgraad om een geldige hash te produceren naar boven moeten worden bijgesteld: de hash zou met meer nullen moeten beginnen. Een nieuwe hash zou dan alleen aan het grootboek worden toegevoegd als aan de meest recente drempelwaarde was voldaan.
+Alle gebruikers van het systeem (b-money versie 1) of de servers (b-money versie 2) zouden voortdurend moeten bepalen hoeveel een mandje goederen zou kosten in verhouding tot de productie van een geldige hash. Dat wil zeggen, als het creëren van een hash goedkoper wordt (door verbeteringen in computerhardware) in verhouding tot de prijsindex, dan zou de moeilijkheidsgraad om een geldige hash te produceren naar boven moeten worden bijgesteld: de hash zou met meer nullen moeten beginnen. Een nieuwe hash zou dan alleen aan het grootboek worden toegevoegd als aan de meest recente drempelwaarde was voldaan.
 
-Wei Dai vermeldde in de bijlage van zijn voorstel ook een alternatieve benadering om een vergelijkbaar resultaat te bereiken. Het aanmaken van geld kon gebeuren via een veiling. In dit geval zouden alle gebruikers (b-geld versie 1) of de servers (b-geld versie 2) eerst de optimale uitbreiding van de geldvoorraad bepalen, waarna deze nieuwe eenheden b-geld geveild zouden worden aan degene die bereid en in staat was om het met het meeste proof-of-work te betalen.
+Wei Dai vermeldde in de bijlage van zijn voorstel ook een alternatieve benadering om een vergelijkbaar resultaat te bereiken. Het aanmaken van geld kon gebeuren via een veiling. In dit geval zouden alle gebruikers (b-money versie 1) of de servers (b-money versie 2) eerst de optimale uitbreiding van de geldvoorraad bepalen, waarna deze nieuwe eenheden b-money geveild zouden worden aan degene die bereid en in staat was om het met het meeste proof-of-work te betalen.
 
-Een grote voordeel van deze benaderingen was dat alle b-geld hashes, ongeacht wanneer ze werden gecreëerd, dezelfde waarde moesten hebben: ze zouden fungibel zijn. Dit elimineerde de noodzaak om een hele andere bankenlaag te ontwerpen bovenop de basislaag van de valuta, zoals Szabo had voorgesteld voor Bit Gold.
+Een grote voordeel van deze benaderingen was dat alle b-money hashes, ongeacht wanneer ze werden gecreëerd, dezelfde waarde moesten hebben: ze zouden fungibel zijn. Dit elimineerde de noodzaak om een hele andere bankenlaag te ontwerpen bovenop de basislaag van de valuta, zoals Szabo had voorgesteld voor Bit Gold.
 
-Het was een innovatieve aanpak, maar opnieuw bleef er veel ongespecificeerd. Zowel voor de aanpassingsmethode van de moeilijkheidsgraad als het veilingmodel, bleef het in het voorstel van b-geld onduidelijk hoe gebruikers (of servers) zouden beslissen over de volgende moeilijkheidsgraad voor proof-of-work, of de optimale toename van de geldvoorraad... en hoe geschillen in dit deel van het proces zouden kunnen worden opgelost (het Byzantijnse Generaalsprobleem bleef de kop opsteken).
+Het was een innovatieve aanpak, maar opnieuw bleef er veel ongespecificeerd. Zowel voor de aanpassingsmethode van de moeilijkheidsgraad als het veilingmodel, bleef het in het voorstel van b-money onduidelijk hoe gebruikers (of servers) zouden beslissen over de volgende moeilijkheidsgraad voor proof-of-work, of de optimale toename van de geldvoorraad... en hoe geschillen in dit deel van het proces zouden kunnen worden opgelost (het Byzantijnse Generaalsprobleem bleef de kop opsteken).
 
-'B-geld was nog geen volledig ontwerp om in de praktijk te brengen', erkende Dai later.[^227] Het voorstel bood een ruwe schets van hoe een elektronisch geldsysteem eruit kon zien, maar er waren nog meerdere problemen die moesten worden opgelost voordat het als een daadwerkelijke digitale valuta zou kunnen functioneren.
+'B-money was nog geen volledig ontwerp om in de praktijk te brengen', erkende Dai later.[^227] Het voorstel bood een ruwe schets van hoe een elektronisch geldsysteem eruit kon zien, maar er waren nog meerdere problemen die moesten worden opgelost voordat het als een daadwerkelijke digitale valuta zou kunnen functioneren.
 
 Dai zelf besloot echter dat hij niet degene zou zijn die deze problemen zou oplossen.
 
 ## Ontgoocheling
 
-In zijn voorstel voor b-geld leek Wei Dai nog altijd optimistisch over de mogelijkheden en het potentieel van Tim Mays crypto-anarchistische visie. Maar in werkelijkheid was de ongrijpbare informaticus de droom van de Cypherpunks aan het opgeven.
+In zijn voorstel voor b-money leek Wei Dai nog altijd optimistisch over de mogelijkheden en het potentieel van Tim Mays crypto-anarchistische visie. Maar in werkelijkheid was de ongrijpbare informaticus de droom van de Cypherpunks aan het opgeven.
 
-'Ik ben niet verder gegaan met het ontwerpen omdat ik, tegen de tijd dat ik klaar was met het opschrijven van b-geld, eigenlijk al wat gedesillusioneerd was geraakt door crypto-anarchie', herinnerde Dai zich later. 'Ik had niet voorzien dat zo'n systeem, eenmaal geïmplementeerd, zoveel aandacht en gebruik zou aantrekken buiten een kleine groep van *hardcore* cypherpunks.'[^228]
+'Ik ben niet verder gegaan met het ontwerpen omdat ik, tegen de tijd dat ik klaar was met het opschrijven van b-money, eigenlijk al wat gedesillusioneerd was geraakt door crypto-anarchie', herinnerde Dai zich later. 'Ik had niet voorzien dat zo'n systeem, eenmaal geïmplementeerd, zoveel aandacht en gebruik zou aantrekken buiten een kleine groep van *hardcore* cypherpunks.'[^228]
 
 Dai's ontgoocheling weerspiegelde een groeiend sentiment binnen de Cypherpunk-gemeenschap tegen het einde van de jaren 90. Het internet was inmiddels echt mainstream geworden, maar de Cypherpunks ontdekten dat het grote publiek nogal onverschillig was over online privacy. Het leek erop dat de meeste mensen er geen probleem mee waren om betalingsverwerkers volledig inzicht te geven in hun uitgavenpatroon, en ze leken er ook geen probleem mee te hebben om een ​​spoor van hun andere online activiteiten achter te laten. De gemiddelde internetgebruiker dacht zelfs niet eens aan het versleutelen van hun e-mails.
 
@@ -118,7 +118,7 @@ De Canadese broers Austin en Hamnett Hill waren nog maar halverwege de twintig t
 
 In 1997 besloten de twee broers, samen met hun vader Hammie Hill, om hun middelen, connecties, en zakelijke talenten in te zetten, en richtten ze *Zero-Knowledge Systems* op. Het nieuwe bedrijf nam zich voor om de visie van de Cypherpunks werkelijkheid te laten worden, en om er tegelijkertijd ook wat geld mee te verdienen.
 
-De kernactiviteit van de start-up was een privacy-netwerk dat ze *Freedom* noemden. Freedom was gebaseerd op Wei Dai's PipeNet, het anonieme communicatieprotocol waarvan een bijgewerkte versie zou worden aangekondigd in dezelfde Cypherpunks-mailinglijstpost die b-geld introduceerde. Net als PipeNet, werden in Freedoms verhullingstechnieken een geavanceerdere variant van David Chaums originele remailer-protocol ingebed, maar waar remailers alleen e-mails anonimiseerden, paste Freedom de mix-technologie toe om alle soorten internetgegevens te verhullen: e-mails, surfen, tekst-chat en meer.
+De kernactiviteit van de start-up was een privacy-netwerk dat ze *Freedom* noemden. Freedom was gebaseerd op Wei Dai's PipeNet, het anonieme communicatieprotocol waarvan een bijgewerkte versie zou worden aangekondigd in dezelfde Cypherpunks-mailinglijstpost die b-money introduceerde. Net als PipeNet, werden in Freedoms verhullingstechnieken een geavanceerdere variant van David Chaums originele remailer-protocol ingebed, maar waar remailers alleen e-mails anonimiseerden, paste Freedom de mix-technologie toe om alle soorten internetgegevens te verhullen: e-mails, surfen, tekst-chat en meer.
 
 Gebruikers van Freedom konden in wezen op het internet *inloggen* onder verschillende identiteiten: misschien een reguliere identiteit voor professioneel werk, een pseudonieme identiteit voor politieke betrokkenheid, en nog een pseudoniem voor seksueel getinte webactiviteiten. Niemand, zelfs Zero-Knowledge Systems niet, zou in staat zijn de pseudonieme online identiteiten te koppelen aan een echte identiteit, of aan andere pseudoniemen.
 

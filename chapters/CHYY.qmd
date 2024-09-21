@@ -8,3 +8,5 @@ fig-align: left
 ![Aaron van Wirdum](../figures/aaron-van-wirdum.jpg){width=300 fig-alt="Foto van de auteur"}
 
 Aaron van Wirdum studeerde Journalistiek aan de Hogeschool Utrecht en Politiek en Maatschappij in Historisch Perspectief aan de Hogeschool Utrecht, waar hij zich specifiek richtte op de historische impact van nieuwe technologieën op maatschappelijke structuren. Hij stuitte op Bitcoin in 2013, en sindsdien schrijft hij over 's werelds eerste succesvolle elektronische geldproject. Voor het grootste deel van deze jaren deed hij dit voor *Bitcoin Magazine*: eerst als journalist, daarna als technisch redacteur, en uiteindelijk als hoofdredacteur van de gedrukte editie. *Het Genesis Boek* is zijn eerste boek.
+
+![Aaron van Wirdum](../figures/aaron-van-wirdum.jpg){width=300 fig-alt="Foto van de auteur"}

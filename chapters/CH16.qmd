@@ -1,6 +1,6 @@
 # De release
 
-> '**Wet, taal, geld**: de drie paradigma's van spontaan ontstane instituties. Gelukkig hebben wet en taal zich mogen ontwikkelen. Geld is ontstaan in zijn oorspronkelijke vorm, maar zodra het er in zijn meest primitieve vorm was, werd het bevroren. Overheden zeiden dat het niet verder mocht ontwikkelen. En wat we sinds die ontwikkeling hebben gehad, waren zaken van overheidsuitvindingen, meestal verkeerde, meestal misbruik van geld, en ik ben tot het punt gekomen dat ik me afvraag: heeft monetair beleid ooit enig goed gedaan? Ik denk het niet. Ik denk dat het alleen maar schade heeft aangericht. Dat is waarom ik nu pleit voor wat ik 'denationalisering van geld' heb genoemd.'[^287]
+> '**Wet, taal, geld**: de drie paradigma's van spontaan ontstane instituties. Gelukkig hebben wet en taal zich mogen ontwikkelen. Geld is ontstaan in zijn oorspronkelijke vorm, maar zodra het er in zijn meest primitieve vorm was, werd het bevroren. Overheden zeiden dat het niet verder mocht ontwikkelen. En wat we sinds die ontwikkeling hebben gehad, waren zaken van overheidsuitvindingen, meestal verkeerde, meestal misbruik van geld, en ik ben tot het punt gekomen dat ik me afvraag: heeft monetair beleid ooit enig goed gedaan? Ik denk het niet. Ik denk dat het alleen maar schade heeft aangericht. Dat is waarom ik nu pleit voor wat ik *denationalisering van geld* heb genoemd.'[^287]
 
 In een van zijn laatst opgenomen interviews in 1984 aan de Universiteit van Freiburg bleef de op leeftijd geraakte Friedrich Hayek pleiten voor radicale monetaire hervormingen. De econoom was er nog steeds van overtuigd dat fiatvaluta en het rentebeleid van centrale banken de economie vergiftigden, en dat geld uiteindelijk het beste kon worden overgelaten aan de vrije markt.
 
@@ -36,7 +36,7 @@ Het was essentieel dat Bitcoin vrije en open source-software was, omdat de code 
 
 Meer in het algemeen maakte Nakamotos vrije en open source-code, geschreven in de programmeertaal C++ en jaren later door de eerste voltijdse Bitcoinontwikkelaar beschreven als 'briljant maar slordig', voor het eerst volledig inzichtelijk hoe het elektronische geldsysteem intern werkte.[^290]
 
-Transacties bleken bijvoorbeeld gebruik te maken van 'Script', een nieuwe programmeertaal voor Bitcoin die geïnspireerd was op Forth, een programmeertaal origineel ontworpen in de jaren 1960 om radiotelescopen te bedienen. Met enkele aanpassingen aan de functionaliteit van Forth, kon Script gebruikt worden om eenvoudige slimme contracten op Bitcoin te schrijven. Munten konden zodanig worden opgeslagen dat ze alleen verplaatst konden worden als er aan bepaalde programmeerbare condities werd voldaan (een eenvoudig voorbeeld hiervan was 'multisignature', of *multisig*, waarbij niet één, maar meerdere cryptografische handtekeningen vereist waren om de munten uit te geven).
+Transacties bleken bijvoorbeeld gebruik te maken van *Script*, een nieuwe programmeertaal voor Bitcoin die geïnspireerd was op Forth, een programmeertaal origineel ontworpen in de jaren 1960 om radiotelescopen te bedienen. Met enkele aanpassingen aan de functionaliteit van Forth, kon Script gebruikt worden om eenvoudige slimme contracten op Bitcoin te schrijven. Munten konden zodanig worden opgeslagen dat ze alleen verplaatst konden worden als er aan bepaalde programmeerbare condities werd voldaan (een eenvoudig voorbeeld hiervan was *multisignature*, of *multisig*, waarbij niet één, maar meerdere cryptografische handtekeningen vereist waren om de munten uit te geven).
 
 Het handtekeningsysteem dat ingebed is in Bitcoin was de Elliptic Curve Digital Signature Algorithm (ECDSA), die, zoals de naam al suggereert, wiskundig gegenereerde elliptische curven gebruikte om sleutelparen te berekenen. Het was uitgevonden in 1985, zo'n acht jaar na RSA. De elliptische curve-cryptografie bood hetzelfde beveiligingsniveau als de oplossing van Rivest, Shamir en Adlemen, maar vereiste veel kleinere sleutelgroottes en was in de loop der jaren een gangbaar alternatief geworden.
 
@@ -44,7 +44,7 @@ Tegelijkertijd had Nakamoto een aantal functies toegevoegd om Bitcoin wat gebrui
 
 De codebasis van Bitcoin onthulde ook veel van de min of meer willekeurige parameters die Nakamoto had gekozen. Zoals hij al eerder op de Cryptography-mailinglijst had gesuggereerd, zou er gemiddeld elke tien minuten een nieuw blok gevonden moeten worden. Clusters van 2.016 blokken zouden vervolgens worden gebruikt om de moeilijkheidsgraad van minen aan te passen: als de 2.016 blokken in minder dan twee weken werden gevonden, zou de moeilijkheidsgraad van Bitcoin proportioneel worden verhoogd, en als het meer dan twee weken duurde om de 2.016 blokken te vinden, zou de moeilijkheidsgraad van het proof-of-work naar beneden worden bijgesteld.
 
-En om het Bitcoinnetwerk daadwerkelijk op gang te brengen, bevatte de codebasis ook de allereerste blok: het 'Genesisblok'. Dit blok moest inderdaad ingebed worden in de release zelf; de block chain had een startpunt nodig. Een interessant detail is echter dat de beloning voor dit Genesisblok in feite waardeloos was: de protocolregels stonden niet toe dat deze specifieke munten onder enige voorwaarde uitgegeven konden worden. In Bitcoin kunnen nieuwe munten alleen worden verdiend door competitief te minen, en Nakamoto weigerde een voorsprong van één blok voor zichzelf te accepteren. Als hij munten wilde hebben, moest zelfs hij, de maker van het systeem, ze verdienen --- net als alle anderen.
+En om het Bitcoinnetwerk daadwerkelijk op gang te brengen, bevatte de codebasis ook de allereerste blok: het *Genesisblok*. Dit blok moest inderdaad ingebed worden in de release zelf; de blokketen had een startpunt nodig. Een interessant detail is echter dat de beloning voor dit Genesisblok in feite waardeloos was: de protocolregels stonden niet toe dat deze specifieke munten onder enige voorwaarde uitgegeven konden worden. In Bitcoin kunnen nieuwe munten alleen worden verdiend door competitief te minen, en Nakamoto weigerde een voorsprong van één blok voor zichzelf te accepteren. Als hij munten wilde hebben, moest zelfs hij, de maker van het systeem, ze verdienen --- net als alle anderen.
 
 Nakamoto benadrukte nog eens zijn expliciete weigering om enig oneerlijk voordeel te genieten boven andere Bitcoingebruikers. Hij had ook een bewijs toegevoegd dat hij in de weken of maanden voorafgaand aan het openbaar maken van de code niet privé had gemined. Hij had een kop van de voorpagina van de Engelse krant *The Times* van 3 januari in het Genesisblok opgenomen, wat aantoont dat deze blok niet voor die datum kon gecreëerd zijn. Dit betekent op zijn beurt dat elk daaropvolgend blok later gemined moest zijn.[^291]
 
@@ -56,7 +56,7 @@ De wereld van geld en financiën was een puinhoop geworden. Met Bitcoin stelde S
 
 ## Eenentwintig miljoen
 
-Het interessantste nieuw onthulde kenmerk was echter het 'monetaire beleid' van Bitcoin.
+Het interessantste nieuw onthulde kenmerk was echter het *monetaire beleid* van Bitcoin.
 
 Het witboek beschreef hoe Bitcoin een voorspelbaar uitgifteschema kon garanderen, dankzij vaste blokbeloningen en het moeilijkheidsaanpassingsalgoritme. Maar het document gaf nog niet precies aan hoe dit schema eruit zou zien.
 
@@ -94,7 +94,7 @@ Maar Finney, die goed onderlegd was in de wereld van statistiek en kansberekenin
 
 'Stel je voor dat Bitcoin succesvol is en het dominante betalingssysteem in de wereld wordt. Dan zou de totale waarde van de valuta gelijk moeten zijn aan de totale waarde van alle rijkdom ter wereld. Actuele schattingen van het totale wereldwijde vermogen liggen tussen de 100 en 300 biljoen dollar. Met 20 miljoen munten zou elke munt een waarde hebben van ongeveer 10 miljoen dollar', berekende hij.
 
-'Dus de kans om vandaag de dag munten te genereren met slechts enkele centen aan computertijd kan een zeer goede 'gok' zijn, met een mogelijke uitbetaling van iets als 100 miljoen tegen 1! Zelfs als de kans klein is dat Bitcoin in deze mate succesvol wordt, zijn ze echt 100 miljoen tegen één? Iets om over na te denken...'[^293]
+'Dus de kans om vandaag de dag munten te genereren met slechts enkele centen aan computertijd kan een zeer goede *gok* zijn, met een mogelijke uitbetaling van iets als 100 miljoen tegen 1! Zelfs als de kans klein is dat Bitcoin in deze mate succesvol wordt, zijn ze echt 100 miljoen tegen één? Iets om over na te denken...'[^293]
 
 Het was inderdaad iets om over na te denken. De schattingen van Finney waren natuurlijk ruw, het was slechts wat rekenwerk op een kladblad. Maar zolang de kans dat Bitcoin in de toekomst zou slagen niet nul was, zou het inderdaad rationeel zijn om voor een goedkope prijs wat munten te bemachtigen.
 
@@ -168,7 +168,7 @@ Een deel van dit werk bestaat simpelweg uit het updaten van de software. Iederee
 
 Daarnaast kunnen aan Bitcoins protocol ook nieuwe functies worden toegevoegd om zo het systeem enkele van de originele beperkingen op domeinen te laten overwinnen, zoals schaalbaarheid en privacy. Bijvoorbeeld kan Script uitgebreid worden om nieuwe uitgavevoorwaarden te bieden, meer soorten slimme contracten mogelijk te maken, en zelfs volledig nieuwe betalingslagen boven op het basisprotocol mogelijk te maken, vergelijkbaar met wat James A. Donald en Hal Finney suggereerden in hun eerste reacties op Nakamotos whitepaper.[^297]
 
-Dit betekent niet dat iedereen zomaar elke wijziging kan aanbrengen aan de code van Bitcoin en die naar eigen inzicht over het netwerk kan uitrollen. In een samenwerkingsverband moet de ontwikkelingsgemeenschap over het algemeen akkoord gaan met een wijziging van de originele codebasis (nu 'Bitcoin Core' genoemd), en dit is nog meer het geval wanneer de wijzigingen effect hebben op regels van het Bitcoinprotocol. Zonder ruime consensus, zal een verandering meestal niet doorgevoerd worden.
+Dit betekent niet dat iedereen zomaar elke wijziging kan aanbrengen aan de code van Bitcoin en die naar eigen inzicht over het netwerk kan uitrollen. In een samenwerkingsverband moet de ontwikkelingsgemeenschap over het algemeen akkoord gaan met een wijziging van de originele codebasis (nu *Bitcoin Core* genoemd), en dit is nog meer het geval wanneer de wijzigingen effect hebben op regels van het Bitcoinprotocol. Zonder ruime consensus, zal een verandering meestal niet doorgevoerd worden.
 
 Dit terzijde, omdat Bitcoin bestaat uit vrije en open source-software, kan elke ontwikkelaar een kopie (*fork*) van deze codebasis maken en wijzigingen aanbrengen in deze nieuwe versie van de software. Ze zijn ook vrij om deze software te gebruiken en te verspreiden onder anderen. Maar geen enkele ontwikkelaar --- of ze nu bijdragen aan Bitcoin Core of aan een kopie --- heeft de macht om hun software aan gebruikers op te dringen.
 
@@ -178,27 +178,27 @@ Het Bitcoin-ecosysteem heeft in de loop der jaren zeker de introductie van versc
 
 Toch heeft dit niet tot chaos geleid. De meeste gebruikers willen geen veranderingen aanbrengen die de waarde van hun munten zouden verminderen, zoals code die inflatie van de valuta introduceert voorbij de limiet van eenentwintig miljoen, of een versie van de software die het niet eens zou kunnen worden met de rest van het netwerk. Integendeel: gebruikers, in hun eigen belang handelend, hebben de neiging alleen waardevolle veranderingen te accepteren: upgrades die het protocol sterker maken, nodes efficiënter, en het netwerk betrouwbaarder.
 
-In de meer dan tien jaar sinds Satoshi Nakamoto vertrok, hebben ontwikkelaars en gebruikers zich op eigen kracht georganiseerd om gezamenlijk tot een zeer betrouwbaar Bitcoinprotocol te komen: nieuwe blokken worden ongeveer elke tien minuten gevonden, splitsingen in de block chain zijn zeldzaam en kortstondig, en dubbele uitgaven zijn onbestaande. Ondertussen zijn het aantal gebruiksmogelijkheden, het totale transactievolume en de marktwaarde van Bitcoin spectaculair toegenomen.
+In de meer dan tien jaar sinds Satoshi Nakamoto vertrok, hebben ontwikkelaars en gebruikers zich op eigen kracht georganiseerd om gezamenlijk tot een zeer betrouwbaar Bitcoinprotocol te komen: nieuwe blokken worden ongeveer elke tien minuten gevonden, splitsingen in de blokketen zijn zeldzaam en kortstondig, en dubbele uitgaven zijn onbestaande. Ondertussen zijn het aantal gebruiksmogelijkheden, het totale transactievolume en de marktwaarde van Bitcoin spectaculair toegenomen.
 
 In een wereld met van bovenaf, centraal beheerde fiatvaluta's en al hun problemen, vertegenwoordigt Bitcoin een krachtig voorbeeld van spontane orde.
 
-[^287]: Friedrich A. Hayek, 'F. A. Hayek on Monetary Policy, the Gold Standard, Deficits, Inflation, and John Maynard Keynes', interview door James U. Blanchard III, opnieuw gepubliceerd door *Libertarianism.org* op 19 april 2015, [online](https://www.youtube.com/watch?v=EYhEDxFwFRU)
+[^287]: Friedrich A. Hayek, *F. A. Hayek on Monetary Policy, the Gold Standard, Deficits, Inflation, and John Maynard Keynes*, interview door James U. Blanchard III, opnieuw gepubliceerd door *Libertarianism.org* op 19 april 2015, [online](https://www.youtube.com/watch?v=EYhEDxFwFRU)
 
 [^288]: Hayek, interview.
 
-[^289]: Satoshi Nakamoto, 'Bitcoin v0.1 released', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 8 januari 2009, [online](https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html)
+[^289]: Satoshi Nakamoto, *Bitcoin v0.1 released*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 8 januari 2009, [online](https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html)
 
-[^290]: Michael J. Casey, 'Bitcoin Foundation's Andresen on Working With Satoshi Nakamoto', *The Wall Street Journal*, 6 maart 2014, [online](https://www.wsj.com/articles/BL-MBB-17626)
+[^290]: Michael J. Casey, *Bitcoin Foundation's Andresen on Working With Satoshi Nakamoto*, *The Wall Street Journal*, 6 maart 2014, [online](https://www.wsj.com/articles/BL-MBB-17626)
 
 [^291]: Aangezien Bitcoin uiteindelijk op 8 januari werd uitgebracht, zou dit de maker van het systeem een maximum van zes dagen hebben gegeven om comfortabel munten te genereren zonder enige concurrentie, maar vroege block-timestamps geven aan dat hij dit ook niet heeft gedaan.
 
-[^292]: Het is echter belangrijk op te merken dat elke bitcoin tot acht decimalen kan worden opgedeeld, waardoor er in zekere zin 2,1 biljard valutadelen zijn. De kleinste eenheid, 0,00000001 bitcoin, wordt tegenwoordig meestal een 'satoshi' genoemd, of kortweg 'sat'.
+[^292]: Het is echter belangrijk op te merken dat elke bitcoin tot acht decimalen kan worden opgedeeld, waardoor er in zekere zin 2,1 biljard valutadelen zijn. De kleinste eenheid, 0,00000001 bitcoin, wordt tegenwoordig meestal een *satoshi* genoemd, of kortweg *sat*.
 
-[^293]: Hal Finney, 'Bitcoin v0.1 released', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 10 januari 2009, [online](https://www.metzdowd.com/pipermail/cryptography/2009-January/015004.html)
+[^293]: Hal Finney, *Bitcoin v0.1 released*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 10 januari 2009, [online](https://www.metzdowd.com/pipermail/cryptography/2009-January/015004.html)
 
-[^294]: Satoshi Nakamoto, 'Bitcoin v0.1 released', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 16 januari 2009, [online](https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html)
+[^294]: Satoshi Nakamoto, *Bitcoin v0.1 released*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 16 januari 2009, [online](https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html)
 
-[^295]: Satoshi Nakamoto, 'Bitcoin v0.1 released', oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 16 januari 2009, [online](https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html)
+[^295]: Satoshi Nakamoto, *Bitcoin v0.1 released*, oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, 16 januari 2009, [online](https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html)
 
 [^296]: Dit omvatte het meest bekend de 1-megabyte limiet voor de blokgrootte, die voorkwam dat de blockchain zo snel zou groeien dat de meeste gewone gebruikers geen Bitcoin-node op hun thuiscomputer zouden kunnen draaien.
 

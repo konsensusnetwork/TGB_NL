@@ -96,7 +96,7 @@ Adam Back benadrukte dat om spammers wettelijk verantwoordelijk te kunnen houden
 
 'De gevaren het inzetten van de overheid om spammers aan te vallen, is dat dit het internet is, en we willen geen regulering van de inhoud door overheden, noch pogingen tot afdwingen van *escrow van identiteit*, *internetrijbewijzen* of iets anders', schreef Back aan de Cypherpunk-mailinglijst. 'We lossen het zelf wel op zonder de behoefte aan overheidsinterventie, hartelijk dank.'[^192]
 
-De cypherpunks waren het er in het algemeen over eens dat een betere oplossing zou zijn om een digitaal equivalent van postzegels te creëren. Als het verzenden van een email kosten met zich mee zou brengen, zou dit spammers ontmoedigen, vooral omdat spammers meestal tienduizenden, zo niet miljoenen, ongewenste e-mails moeten versturen om winst te maken uit hun activiteiten. Op dezelfde manier vereiste het bombarderen van remailers massa's ongewenste e-mails.
+De cypherpunks waren het er in het algemeen over eens dat een betere oplossing zou zijn om een digitaal equivalent van postzegels te creëren. Als het verzenden van een e-mail kosten met zich mee zou brengen, zou dit spammers ontmoedigen, vooral omdat spammers meestal tienduizenden, zo niet miljoenen, ongewenste e-mails moeten versturen om winst te maken uit hun activiteiten. Op dezelfde manier vereiste het bombarderen van remailers massa's ongewenste e-mails.
 
 Digitale postzegels konden verschillende manieren functioneren. Remailers konden bijvoorbeeld postzegels in rekening brengen voor het doorsturen van e-mails. Dit zou niet alleen spam ontmoedigen die via deze diensten worden verzonden, maar het zou ook, als leuk extraatje, een financiële prikkel introduceren om remailers te runnen. Als alternatief, of daarnaast, zou een vergoeding kunnen worden toegekend aan de ontvanger wiens e-mailsoftware geprogrammeerd kan worden om berichten met onvoldoende vergoeding af te wijzen.
 
@@ -182,7 +182,7 @@ Dit was een cruciaal inzicht, omdat ingebouwde schaarste een van de zes eigensch
 
 Tegelijkertijd wist hij dat hashcash niet kon functioneren als volwaardig digitaal geld. Hoewel het anoniem kon worden gebruikt, moeilijk te stoppen was, geen vertrouwen in een individu vereiste en ook enige mate van schaarste had, voldeed dit eigenlijk slechts aan drie van de zes criteria op de shortlist van Back.
 
-Het grootste probleem was dat hashcash niet herbruikbaar was. Elke munteenheid was op maat gemaakt om bij een specifieke email te passen, en kon dus niet elders opnieuw worden uitgegeven en leverde geen extra voordeel op voor de ontvangers.
+Het grootste probleem was dat hashcash niet herbruikbaar was. Elke munteenheid was op maat gemaakt om bij een specifieke e-mail te passen, en kon dus niet elders opnieuw worden uitgegeven en leverde geen extra voordeel op voor de ontvangers.
 
 Back overwoog daarom dat hashcash, of meer algemeen het proof-of-work principe, de basis zou kunnen vormen voor een ander soort elektronisch geldsysteem.
 

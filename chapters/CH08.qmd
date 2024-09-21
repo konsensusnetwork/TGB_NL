@@ -192,7 +192,7 @@ Dit betekende niet dat elke Cypherpunk Mays nogal radicale visie deelde, noch ho
 
 Wat van belang was, stemden May en Hughes mee in, was dat de Cypherpunks ongeacht hun politieke overtuiging konden werken aan een gezamenlijk doel: het ontwikkelen en verspreiden van tools voor privacy. *Cypherpunks schrijven code*.
 
-Inderdaad, de groep was nauwelijks gestart toen Hughes een vroege versie ontwikkelde van de eerste remailer ooit, gebaseerd op het mixnetwerkvoorstel van David Chaum. De eerste uitvoering van deze remailer zou emails accepteren, details die naar de afzender verwezen verwijderen en vervolgens doorsturen naar, of de volgende remailer, of naar de bedoelde ontvanger van de email. Deze uitvoering van Hughes omvatte echter nog geen encryptietools; het was nog altijd in ontwikkeling.
+Inderdaad, de groep was nauwelijks gestart toen Hughes een vroege versie ontwikkelde van de eerste remailer ooit, gebaseerd op het mixnetwerkvoorstel van David Chaum. De eerste uitvoering van deze remailer zou e-mails accepteren, details die naar de afzender verwezen verwijderen en vervolgens doorsturen naar, of de volgende remailer, of naar de bedoelde ontvanger van de e-mail. Deze uitvoering van Hughes omvatte echter nog geen encryptietools; het was nog altijd in ontwikkeling.
 
 Gelukkig kreeg Hughes al snel hulp van een andere Cypherpunk. Hal Finney, een van de Extropianen die zich bij Tim May hadden aangesloten voor de Cypherpunk-bijeenkomsten, was net begonnen met het bijdragen aan de implementatie van Phil Zimmermanns PGP. Met zijn nieuw verworven kennis van publieke sleutel-cryptografie duurde het niet lang voordat Finney PGP integreerde in de remailer-code van Hughes.
 

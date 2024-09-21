@@ -176,7 +176,7 @@ Hoewel CyberBucks op het moment dat de server van DigiCash offline ging direct w
 
 'Waarom koppel je je eCash systeem niet los van US dollars door kredietkaarten / debitkaarten / cheques / cash, en zet je een volledig op zichzelf staand systeem op?' stelde hij voor op de Cypherpunks mailinglijst in april 1997.[^180]
 
-'Wat we willen, is volledig anonieme eenheden van uitwisseling, met ultra lage transactiekosten en overdraagbaarheid. Als we dat voor elkaar krijgen [...] dan zullen de banken verworden tot de verouderde [dinosaurussen] die ze verdienen te zijn', voegde Back een paar dagen later toe in een vervolg-email. 'Ik denk dat dit een goede uitkomst zou zijn, en ik zie dit liever gebeuren dan dat iemand veel moeite doet om de banken erbij te betrekken.'[^181]
+'Wat we willen, is volledig anonieme eenheden van uitwisseling, met ultra lage transactiekosten en overdraagbaarheid. Als we dat voor elkaar krijgen [...] dan zullen de banken verworden tot de verouderde [dinosaurussen] die ze verdienen te zijn', voegde Back een paar dagen later toe in een volgende e-mail. 'Ik denk dat dit een goede uitkomst zou zijn, en ik zie dit liever gebeuren dan dat iemand veel moeite doet om de banken erbij te betrekken.'[^181]
 
 Back geloofde dat, net als elk ander product dat op de vrije markt wordt verhandeld, de krachten van vraag en aanbod de waarde van digitale valuta zouden bepalen. Gebruikers zouden het kopen en verkopen voor traditionele valuta en het accepteren in ruil voor goederen en diensten. Zodra er een marktwaarde werd vastgesteld, kon deze elektronische valuta worden gebruikt om met een simpele muisklik waarde over het internet te verzenden. En wat vooral belangrijk was, je hoefde niet te maken te hebben met financiële instellingen.
 

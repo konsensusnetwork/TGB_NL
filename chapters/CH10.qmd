@@ -30,7 +30,7 @@ Inmiddels had Back ook een interesse in vrije markten ontwikkeld, en had hij eni
 
 Zo vond Back de cryptografische hulpmiddelen waar hij over leerde op sociologisch vlak zeer interessant.
 
-'Minder privacy is negatief voor de vrije markteconomie, omdat een afname van privacy leidt tot een toename van overheidsinterventies, grotere overheidsapparaten, fascisme, etc. waardoor de vrije markteconomie naar de knoppen gaat', zou hij later verklaren. 'Hierdoor zullen armoede en voedseltekorten ontstaan, vergelijkbaar met wat er gebeurde in de voormalige USSR, die nog steeds langzaam herstelt van de ondergang die veroorzaakt werd door fascistisch overheidsbeleid.'[^184]
+'Minder privacy is negatief voor de vrijemarkteconomie, omdat een afname van privacy leidt tot een toename van overheidsinterventies, grotere overheidsapparaten, fascisme, etc. waardoor de vrijemarkteconomie naar de knoppen gaat', zou hij later verklaren. 'Hierdoor zullen armoede en voedseltekorten ontstaan, vergelijkbaar met wat er gebeurde in de voormalige USSR, die nog steeds langzaam herstelt van de ondergang die veroorzaakt werd door fascistisch overheidsbeleid.'[^184]
 
 Daarnaast realiseerde de student zich snel dat dit soort technologieën individuen de middelen konden bieden om fundamentele rechten uit te oefenen zoals vrijheid van meningsuiting en vrijheid van vergadering. In wezen ontdekte Back dat cryptografie aanzienlijke implicaties kon hebben voor het evenwicht van macht tussen individuen en de staat.
 
@@ -192,7 +192,7 @@ Inderdaad, de fundamentele schaarste van hashcash was meer technisch van aard. A
 
 Bovendien zouden gebruikers de bank moeten vertrouwen dat deze geen geld uit het niets creëert. Net als elk elektronisch geldsysteem dat Chaums ontwerp volgt, zou de entiteit die de digitale valuta uitgeeft en dubbele uitgaven voorkomt, *zelf* ook vertrouwd moeten worden om niet onterecht zichzelf te verrijken.
 
-Back geloofde, echter, dat vrije marktcompetitie mogelijk kon helpen dit probleem op te lossen.
+Back geloofde, echter, dat vrijemarktcompetitie mogelijk kon helpen dit probleem op te lossen.
 
 'Wellicht zou je dus meerdere banken kunnen hebben en reputatie het werk laten doen, als je de protocollen zo kunt regelen dat het duidelijk zou zijn of een bank meer geld aan het drukken was dan het aan hash-botsingen had ontvangen. [...] Maar als je meerdere banken hebt dan moet je een uitwisselingsmechanisme hebben. De markt zou hier waarschijnlijk zorg voor kunnen dragen, door wisselkoersen te bepalen op basis van de reputaties van banken', suggereerde hij, in wat nu heel erg leek op een vrijbankiersysteem zoals beschreven door Friedrich Hayek.
 

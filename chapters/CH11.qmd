@@ -190,7 +190,7 @@ Minder dan een jaar later, in 1998, had Szabo zijn eigen voorstel voor een digit
 
 Net als Hashcash, was Bit Gold ontworpen rondom het *proof-of-work* concept. De vereiste rekenkracht om deze *proof-of-work* te genereren koppelde de creatie van de valuta aan de kosten voor energie, met iets wat lijkt op digitale schaarste als gevolg. Vanuit Szabo's visie vertegenwoordigde de *proof-of-work* een onvervalsbare kostbaarheid.
 
-Het proof-of-work systeem van Bit Gold zou beginnen met een *kandidaat-reeks*, wat in feite een willekeurig getal is. De gedachte hierachter was dat iedereen deze string kon pakken en samenvoegen met hun eigen nonce om zo iets te creëren dat op een hash lijkt. Gezien de kenmerken van hashen, zou de daaruit voortkomende hash een nieuwe, op het eerste gezicht willekeurige, reeks cijfers zijn.[^213]
+Het proof-of-work systeem van Bit Gold zou beginnen met een *kandidaat-reeks*, wat in feite een willekeurig getal is. De gedachte hierachter was dat iedereen deze reeks kon pakken en samenvoegen met hun eigen nonce om zo iets te creëren dat op een hash lijkt. Gezien de kenmerken van hashen, zou de daaruit voortkomende hash een nieuwe, op het eerste gezicht willekeurige, reeks cijfers zijn.[^213]
 
 Het trucje, dat ook door hashcash wordt gebruikt, was dat niet alle hashes volgens het Bit Gold protocol als geldig werden beschouwd. In plaats daarvan moest een geldige hash beginnen met een vooraf bepaald aantal nullen. Door de onvoorspelbare aard van hashing, was de enige manier om zo'n hash te vinden door middel van *trial and error*, waarbij bij elke poging een nieuwe nonce werd gebruikt.
 

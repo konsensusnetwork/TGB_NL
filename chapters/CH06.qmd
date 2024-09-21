@@ -1,6 +1,6 @@
 # eCash (en vertrouwensloze tijdstempels)
 
-Sinds Whitfield Diffie en Martin Hellman de Diffie-Hellman sleuteluitwisseling introduceerden in 1976, begrepen cryptografen hoe twee mensen die elkaar nooit eerder ontmoet hadden de inhoud van hun onderlinge berichten konden versleutelen voor iedereen behalve voor zichzelf. Ondertussen hadden de mixnetwerken van David Chaum al in de vroege jaren '80 de basis gelegd voor remailers: een digitale infrastructuur ontworpen om metadata te verbergen. Gecombineerd konden deze instrumenten een lange weg afleggen naar het bieden van privacy voor de meeste soorten van elektronische communicatie.
+Sinds Whitfield Diffie en Martin Hellman de Diffie-Hellman-sleuteluitwisseling introduceerden in 1976, begrepen cryptografen hoe twee mensen die elkaar nooit eerder ontmoet hadden de inhoud van hun onderlinge berichten konden versleutelen voor iedereen behalve voor zichzelf. Ondertussen hadden de mixnetwerken van David Chaum al in de vroege jaren '80 de basis gelegd voor remailers: een digitale infrastructuur ontworpen om metadata te verbergen. Gecombineerd konden deze instrumenten een lange weg afleggen naar het bieden van privacy voor de meeste soorten van elektronische communicatie.
 
 Maar het was ook Chaum die erkende dat het nog geen privacy kon bieden voor een zeer specifiek soort communicatie: communicatie van *waarde*.
 
@@ -240,7 +240,7 @@ Het was wiskundige Dave Bayer die dit raadsel hielp oplossen, met behulp van *Me
 
 ## Een boom van hashes
 
-In de jaren na het afronden van zijn stage bij Martin Hellman, had Ralph Merkle een naam voor zichzelf gemaakt als een van de vooraanstaande cryptografen van zijn generatie. Onder zijn vele innovaties had hij een nieuwe eenrichtingsfunctie ontworpen, een sneller versleutelingsprotocol geïntroduceerd en zijn eigen handtekeningsalgoritme voorgesteld. Hoewel hij technisch gezien niet medeauteur was van het onderzoek, zagen veel cryptografen Merkle als de derde uitvinder van de Diffie-Hellman sleuteluitwisseling.
+In de jaren na het afronden van zijn stage bij Martin Hellman, had Ralph Merkle een naam voor zichzelf gemaakt als een van de vooraanstaande cryptografen van zijn generatie. Onder zijn vele innovaties had hij een nieuwe eenrichtingsfunctie ontworpen, een sneller versleutelingsprotocol geïntroduceerd en zijn eigen handtekeningsalgoritme voorgesteld. Hoewel hij technisch gezien niet medeauteur was van het onderzoek, zagen veel cryptografen Merkle als de derde uitvinder van de Diffie-Hellman-sleuteluitwisseling.
 
 Het meest opvallende is misschien wel dat Merkle in 1979 de Merkle Tree had uitgevonden.[^121] Oorspronkelijk ontworpen als onderdeel van een systeem voor het produceren van authenticatiecertificaten voor een raadpleegbare lijst van publieke sleutels, bieden Merkle-bomen een compacte en veilige controle op de inhoud van allerlei soorten gegevenssets door hashes op een slimme wiskundige manier te combineren.
 

@@ -70,7 +70,7 @@ Maar na enkele dagen te hebben gediscussieerd over mogelijk baanbrekende toepass
 
 *Waarom was er nog steeds geen software die deze protocollen implementeerden?*
 
-Geen van de baanbrekende crypto-innovaties die sinds de jaren 70 werden voorgesteld, werden in de praktijk gebracht door echte mensen, omdat er geen computerprogramma's beschikbaar waren die deze protocollen implementeerden. Terwijl academische papers in detail uitlegden hoe Alice en Bob privé konden communiceren dankzij de Diffie-Hellman sleuteluitwisseling of RSA-encryptie, was dit aan het eind van de dag volledig nutteloos zolang er geen software bestond die deze taken voor Alice en Bob uitvoerde.
+Geen van de baanbrekende crypto-innovaties die sinds de jaren 70 werden voorgesteld, werden in de praktijk gebracht door echte mensen, omdat er geen computerprogramma's beschikbaar waren die deze protocollen implementeerden. Terwijl academische papers in detail uitlegden hoe Alice en Bob privé konden communiceren dankzij de Diffie-Hellman-sleuteluitwisseling of RSA-encryptie, was dit aan het eind van de dag volledig nutteloos zolang er geen software bestond die deze taken voor Alice en Bob uitvoerde.
 
 Toegegeven, er waren wel een paar projecten in ontwikkeling. In feite werkte Chaum aan een elektronisch betaalsysteem, hoewel hij dat niet helemaal ontwikkelde op de manier die Hughes graag zou zien. Daarnaast werkte een van Mays collega-Extropianen, de lokale Bay Area computerwetenschapper en cryptograaf Phil Zimmermann, aan een op RSA-gebaseerde publieke sleutelencryptiesoftware genaamd *Pretty Good Privacy* (PGP).
 

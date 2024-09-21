@@ -146,7 +146,7 @@ Nu waren ze met drie bezig met het probleem.
 
 Uiteindelijk was het Hellman die de puzzelstukjes op hun plek liet vallen.
 
-Hoewel zijn oplossing niet aan alle vereisten voldeed waar hij en Diffie op mikten (want er was geen digitale authenticatie), bedacht Hellman wel een schema dat twee partijen privé liet communiceren, zonder de noodzaak om persoonlijk op voorhand een encryptiesleutel te delen. Vergelijkbaar met het puzzelschema van Merkle is het idee achter de Diffie-Hellman sleuteluitwisseling (zoals deze oplossing bekend zou worden) dat Alice en Bob een gezamenlijk geheim kunnen afspreken: in essentie, een symmetrische encryptiesleutel die alleen zij kennen.
+Hoewel zijn oplossing niet aan alle vereisten voldeed waar hij en Diffie op mikten (want er was geen digitale authenticatie), bedacht Hellman wel een schema dat twee partijen privé liet communiceren, zonder de noodzaak om persoonlijk op voorhand een encryptiesleutel te delen. Vergelijkbaar met het puzzelschema van Merkle is het idee achter de Diffie-Hellman-sleuteluitwisseling (zoals deze oplossing bekend zou worden) dat Alice en Bob een gezamenlijk geheim kunnen afspreken: in essentie, een symmetrische encryptiesleutel die alleen zij kennen.
 
 Om dit gedeelde geheim te genereren, zouden Alice en Bob sleutelparen gebruiken, zoals oorspronkelijk door Diffie werd geopperd. Hun geheime sleutels zouden in wezen gewoon zeer grote willekeurige getallen zijn, die zelfs de snelste supercomputers niet binnen een miljoen jaar zouden kunnen raden. Elke publieke sleutel kan vervolgens afgeleid worden van een geheime sleutel door middel van een eenrichtingsfunctie. Het berekenen van de publieke sleutel uit de geheime sleutel zou gemakkelijk zijn, terwijl het berekenen van de geheime sleutel uit de publieke sleutel in principe onmogelijk zou zijn.
 
@@ -160,7 +160,7 @@ Tegelijk kan niemand anders het gedeelde geheim van Alice en Bob vinden. Immers,
 
 Het genereren van het gedeelde geheim vereist dus toegang tot ofwel de geheime sleutel van Alice of van Bob. Zolang zij deze geheim houden, kunnen ze genieten van wiskundig gegarandeerde privécommunicatie.
 
-De Diffie-Hellman sleuteluitwisseling doorbrak het status-quo in het veld van de cryptografie en was in staat om iets te realiseren dat lang onmogelijk werd geacht. Hun techniek had het potentieel om het volledige veld van cryptografie dramatisch te transformeren. De twee onconventionele cryptografen waren zich hier maar al te goed van bewust toen ze hun tweede paper, *New Directions in Cryptography*, indienden bij *IEEE Transactions on Information Theory*, een prestigieus wetenschappelijk tijdschrift uitgegeven door een professionele vereniging voor elektronische techniek.
+De Diffie-Hellman-sleuteluitwisseling doorbrak het status-quo in het veld van de cryptografie en was in staat om iets te realiseren dat lang onmogelijk werd geacht. Hun techniek had het potentieel om het volledige veld van cryptografie dramatisch te transformeren. De twee onconventionele cryptografen waren zich hier maar al te goed van bewust toen ze hun tweede paper, *New Directions in Cryptography*, indienden bij *IEEE Transactions on Information Theory*, een prestigieus wetenschappelijk tijdschrift uitgegeven door een professionele vereniging voor elektronische techniek.
 
 'Vandaag staan we aan de vooravond van een revolutie in cryptografie', kondigden Diffie en Hellmann aan in hun paper, gepubliceerd in de editie van november 1976 van het tijdschrift. Vooruitziend dat hun doorbraak het begin van een grote omwenteling zou markeren, vervolgden ze: 'theoretische ontwikkelingen in informatietheorie en informatica beloven aantoonbaar veilige cryptosystemen mogelijk te maken, waardoor deze eeuwenoude kunst verandert in een wetenschap.'[^76]
 
@@ -182,7 +182,7 @@ Misschien nog belangrijker, werkte het algoritme net zo goed in omgekeerde volgo
 
 In de praktijk betekende dit dat een geheime sleutel kon worden gebruikt om data te versleutelen, die vervolgens kon worden ontcijferd met de bijpassende publieke sleutel. Hierdoor maakte RSA een cryptografisch handtekeningenschema mogelijk: Alice kan een bericht versleutelen, dat Bob (of iemand anders) kan ontcijferen met haar publieke sleutel, wat bewijst dat het bericht daadwerkelijk is versleuteld met Alice's geheime sleutel.
 
-Terwijl de Diffie-Hellman sleuteluitwisseling privécommunicatie mogelijk maakte, faciliteerde RSA voor het eerst ook een vorm van digitale authenticatie.
+Terwijl de Diffie-Hellman-sleuteluitwisseling privécommunicatie mogelijk maakte, faciliteerde RSA voor het eerst ook een vorm van digitale authenticatie.
 
 En tot slot, RSA-encryptie schaalde (ongeveer) exponentieel. Gewoon een paar cijfers toevoegen aan de originele priemgetallen die in dit schema werden gebruikt, zou het veel moeilijker maken om later te ontdekken welke priemgetallen werden gebruikt, en daarmee ook veel moeilijker om de encryptie te breken. Met publieke sleutels zo klein dat zelfs informele computergebruikers ze gemakkelijk konden delen, was beveiliging voor miljoenen jaren wiskundig gegarandeerd.
 

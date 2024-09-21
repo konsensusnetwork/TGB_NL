@@ -1,44 +1,44 @@
 # Bibliografie {.unnumbered}
 
-## Bibliography {.heading_s5V-1}
+## Alfabetisch {.heading_s5V-1}
 
 American Banker. *Digicash Sends Signal by Hiring Visa Veteran.* American Banker. May 6, 1997. <https://www.americanbanker.com/news/digicash-sends-signal-by-hiring-visa-veteran.>
 
-Back, Adam. *\[ANNOUNCE\] hash cash postage implementation.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. March 28, 1997. Beschikbaar op:  <https://cypherpunks.venona.com/date/1997/03/msg00774.html>.
+Back, Adam. *\[ANNOUNCE\] hash cash postage implementation.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. March 28, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/03/msg00774.html>.
 
 Back, Adam. *cypherpunks digicash bank?* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. October 7, 1995. Beschikbaar op: <https://cypherpunks.venona.com/date/1995/10/msg00690.html>.
 
-Back, Adam. *digital cc transactions, digital checks vs real digital cash.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. May 2, 1997. Beschikbaar op:  <https://cypherpunks.venona.com/date/1997/05/msg00104.html>.
+Back, Adam. *digital cc transactions, digital checks vs real digital cash.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. May 2, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/05/msg00104.html>.
 
 Back, Adam. *distributed virtual bank.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. August 27, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/08/msg01289.html>.
 
-Back, Adam. *no government regulation of the net (was Re: bulk postage fine).* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. August 3, 1997. Beschikbaar op:  <https://cypherpunks.venona.com/date/1997/08/msg00087.html>.
+Back, Adam. *no government regulation of the net (was Re: bulk postage fine).* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. August 3, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/08/msg00087.html>.
 
 Back, Adam. *Re: 'why privacy' revisited.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. March 22, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/03/msg00586.html>.
 
-Back, Adam. *Re: bulk postage fine (was Re: non-censorous spam control).* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. August 3, 1997. Beschikbaar op:  <https://cypherpunks.venona.com/date/1997/08/msg00070.html>.
+Back, Adam. *Re: bulk postage fine (was Re: non-censorous spam control).* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. August 3, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/08/msg00070.html>.
 
 Back, Adam. *Re: Bypassing the Digicash Patents.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. April 30, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/04/msg00822.html>.
 
 Back, Adam. *Re: cypherpunks digicash bank?* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. October 8, 1995. Beschikbaar op: <https://cypherpunks.venona.com/date/1995/10/msg00734.html>.
 
-Back, Adam. *Re: Remailer problem solution?* March 23, 1997. Beschikbaar op:  <https://cypherpunks.venona.com/date/1997/03/msg00631.html>.
+Back, Adam. *Re: Remailer problem solution?* March 23, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/03/msg00631.html>.
 
 Back, Adam. *The Bitcoin Game #59: Dr. Adam Back.* Interview door Rob Mitchell. The Bitcoin Game, YouTube. October 25, 2018. [https://youtu.be/xxYsRjanphA?si=XVdLXPWGUk6oVPXg&t=647 47:59](https://youtu.be/xxYsRjanphA?si=XVdLXPWGUk6oVPXg&t=647%2047:59).
 
-Barnes, Douglas. *Re: cypherpunks digicash bank?* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. October 8, 1995. Beschikbaar op:  <https://cypherpunks.venona.com/date/1995/10/msg00731.html.>
+Barnes, Douglas. *Re: cypherpunks digicash bank?* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. October 8, 1995. Beschikbaar op: <https://cypherpunks.venona.com/date/1995/10/msg00731.html.>
 
 Bayer, Dave, Stuart Haber, and Scott W. Stornetta. *Improving the Efficiency and Reliability of Digital Time-Stamping.* Conference Paper, Sequences II: Methods in Communication, Security, and Computer Science (1993): 329--34. <https://www.math.columbia.edu/~bayer/papers/Timestamp_BHS93.pdf>.
 
 BitTorrent. *BitTorrent and µTorrent Software Surpass 150 Million User Milestone; Announce New Consumer Electronics Partnerships.* BitTorrent.com. January 9, 2012. Geraadpleegd via [https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users.](https://web.archive.org/web/20140326102305/http:/www.bittorrent.com/intl/es/company/about/ces_2012_150m_users.)
 
-Black Unicorn. *DigiCash Announcement.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. May 10, 1994. Beschikbaar op:  <https://cypherpunks.venona.com/date/1994/05/msg00616.html>.
+Black Unicorn. *DigiCash Announcement.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. May 10, 1994. Beschikbaar op: <https://cypherpunks.venona.com/date/1994/05/msg00616.html>.
 
 Blaug, Mark. Economic Theory in Retrospect. 4th edition. Cambridge: Cambridge University Press, 1985.
 
 Brafman, Ori and Rod A. Beckstrom. The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations. New York: Portfolio, 2006.
 
-Brimmer, Andrew F. *Remembering William McChesney Martin Jr.,* Federal Reserve Bank of Minneapolis. September 1, 1998.[https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.](https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.)
+Brimmer, Andrew F. *Remembering William McChesney Martin Jr.,* Federal Reserve Bank of Minneapolis. September 1, 1998. [https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.](https://www.minneapolisfed.org/article/1998/remembering-william-mcchesney-martin-jr.)
 
 Brunton, Finn. Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists Who Built Cryptocurrency. Princeton, NJ: Princeton University Press, 2019.
 
@@ -52,7 +52,7 @@ Cave, Damien. *The Mojo solution.* Salon. October 9, 2000.<https://www.salon.com
 
 Chaum, David. *Achieving Electronic Privacy.* Scientific American 267, no. 2 (August 1992): 96--101. <https://www.jstor.org/stable/24939181>.
 
-Chaum, David. *Blind Signatures for Untraceable Payments,* Advances in Cryptology: Proceedings of Crypto 82: 199--203.[https://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18](https://doi.org/10.1007/978-1-4757-0602-4_18).
+Chaum, David. *Blind Signatures for Untraceable Payments,* Advances in Cryptology: Proceedings of Crypto 82: 199--203. [https://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18](https://doi.org/10.1007/978-1-4757-0602-4_18).
 
 Chaum, David. *Security Without Identification: Transaction Systems to Make Big Brother Obsolete.* Communications of the ACM 28, no. 10 (October 1985): 1030--1044. <https://dl.acm.org/doi/10.1145/4372.4373>.
 
@@ -134,7 +134,7 @@ Finney, Hal. *Re: Re: re: re: digital cash.* Oorspronkelijk verstuurd naar de Cy
 
 Finney, Hal. *Re: Voluntary Governments?* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. August 4, 1994. Beschikbaar op: <https://cypherpunks.venona.com/date/1994/08/msg00239.html>.
 
-Finney, Hal. *Reusable Proofs of Work.* RPOW website index page. Beschikbaar op:  [https://web.archive.org/web/20090217090451/http://rpow.net/index.html.](https://web.archive.org/web/20090217090451/http:/rpow.net/index.html.)
+Finney, Hal. *Reusable Proofs of Work.* RPOW website index page. Beschikbaar op: [https://web.archive.org/web/20090217090451/http://rpow.net/index.html.](https://web.archive.org/web/20090217090451/http:/rpow.net/index.html.)
 
 Finney, Hal. *RPOW FAQs.* RPOW website FAQ page. Geraadpleegd via [https://web.archive.org/web/20090217090439/http://rpow.net/faqs.html#inflation.](https://nakamotoinstitute.org/rpow/)
 
@@ -142,7 +142,7 @@ Finney, Hal. *RPOW Theory,* RPOW website theory page. Geraadpleegd via [https:/
 
 Finney, Hal. *Why remailers...* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. November 15, 1992. Beschikbaar op: <https://cypherpunks.venona.com/date/1992/11/msg00108.html>.
 
-Finney, Hal. *Re: Physical to digital cash, and back again.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, August 19, 1993. Beschikbaar op:  <https://cypherpunks.venona.com/date/1993/08/msg00581.html>.
+Finney, Hal. *Re: Physical to digital cash, and back again.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, August 19, 1993. Beschikbaar op: <https://cypherpunks.venona.com/date/1993/08/msg00581.html>.
 
 Fisher, Irving. The Purchasing Power of Money. New York: The Macmillan Company, 1920.
 
@@ -180,7 +180,7 @@ Hayek, Friedrich A. *Monetary Policy in the United States after the Recovery fro
 
 Hayek, Friedrich A. *The Gold Problem,* in The Collected Works of F.A. Hayek, Good Money: part I, edited by Stephen Kresge, 169--85. Indianapolis, IN: Liberty Fund, 2009.
 
-Hayek, Friedrich A. *The Use of Knowledge in Society.* American Economic Review XXXV, no. 4 (1945): 519--530.[https://www.jstor.org/stable/1809376](https://www.jstor.org/stable/1809376)
+Hayek, Friedrich A. *The Use of Knowledge in Society.* American Economic Review XXXV, no. 4 (1945): 519--530. [https://www.jstor.org/stable/1809376](https://www.jstor.org/stable/1809376)
 
 Hayek, Friedrich A. Choice in Currency: A Way to Stop Inflation. London: The Institute of Economic Affairs, 1976.
 
@@ -192,7 +192,7 @@ Hayek. Friedrich A. Prices and Production. New York: Augustus M. Kelly, Publishe
 
 Hettinga, Robert. *Re: Bypassing the Digicash Patents.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, April 29, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/04/msg00811.html>.
 
-Hettinga, Robert. *Re: digital cc transactions, digital checks vs real digital cash.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. May 3, 1997. Beschikbaar op:  <https://cypherpunks.venona.com/date/1997/05/msg00147.html>.
+Hettinga, Robert. *Re: digital cc transactions, digital checks vs real digital cash.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. May 3, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/05/msg00147.html>.
 
 Hill, Austin. Draft document from 2005 shared with author, March 30, 2022.
 
@@ -202,7 +202,7 @@ Hughes, Eric. *A Cypherpunk's Manifesto.* Oorspronkelijk verstuurd naar de Cyphe
 
 Hughes, Eric. *Kid Gloves or Megaphones.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. March 14, 1996. Beschikbaar op: <https://cypherpunks.venona.com/date/1996/03/msg00932.html>.
 
-Hughes, Eric. *No digital coins (was: Chaum on the wrong foot?).* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. August 24, 1993. Beschikbaar op:  <https://cypherpunks.venona.com/date/1993/08/msg00690.html>.
+Hughes, Eric. *No digital coins (was: Chaum on the wrong foot?).* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. August 24, 1993. Beschikbaar op: <https://cypherpunks.venona.com/date/1993/08/msg00690.html>.
 
 Keynes, John Maynard. A Tract on Monetary Reform. London: Macmillan and Co, 1923.
 
@@ -226,9 +226,9 @@ Levy, Steven. Crypto: How the Code Rebels Beat the Government--Saving Privacy in
 
 Levy, Steven. Hackers: Heroes of the Computer Revolution. Sebastopol, CA: O'Reilly, 2010.
 
-Lewis, Peter H. *Attention Internet Shoppers: E-Cash Is Here.* The New York Times. October 19, 1994.[https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html.](https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html)
+Lewis, Peter H. *Attention Internet Shoppers: E-Cash Is Here.* The New York Times. October 19, 1994. [https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html.](https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html)
 
-Lindenfors, Patrick, Andreas Wartel, and Johan Lind, *'Dunbar's Number' Deconstructed.* Biology Letters. May 5, 2021.[https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158)
+Lindenfors, Patrick, Andreas Wartel, and Johan Lind, *'Dunbar's Number' Deconstructed.* Biology Letters. May 5, 2021. [https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158](https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158)
 
 Martin, Douglas. *Futurist Known as FM-2030 Is Dead at 69.* The New York Times. July 11, 2000. <https://www.nytimes.com/2000/07/11/us/futurist-known-as-fm-2030-is-dead-at-69.html>
 
@@ -238,7 +238,7 @@ Maxwell, Gregory. IRC message to author, August 13, 2020.
 
 May Tim. *What backs up digital money?* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. March 27, 1996. Beschikbaar op: [https://cypherpunks.venona.com/date/1996/03/msg01576.html.](https://cypherpunks.venona.com/date/1996/03/msg01576.html)
 
-May, Tim. *'Stopping Crime' Necessarily Means Invasiveness.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. October 17, 1996. Beschikbaar op:  [https://cypherpunks.venona.com/date/1996/10/msg01269.html.](https://cypherpunks.venona.com/date/1996/10/msg01269.html)
+May, Tim. *'Stopping Crime' Necessarily Means Invasiveness.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. October 17, 1996. Beschikbaar op: [https://cypherpunks.venona.com/date/1996/10/msg01269.html.](https://cypherpunks.venona.com/date/1996/10/msg01269.html)
 
 May, Tim. *'Who shall speak for us?'* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. September 29, 1995. Beschikbaar op: https://cypherpunks.venona.com/date/1995/09/msg02189.html.](https://cypherpunks.venona.com/date/1995/09/msg02189.html)
 
@@ -256,7 +256,7 @@ May, Tim. *Hayek (was: Cato Institute conference on Net-regulation).* Oorspronke
 
 May, Tim. *Libertaria in Cyberspace.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. August 9, 1993. Geraadpleegd via<https://cypherpunks.venona.com/date/1993/08/msg00168.html>.
 
-May, Tim. *My Departure, Moderation, and \*Ownership of the List.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. February 2, 1997. Beschikbaar op:  <https://cypherpunks.venona.com/date/1997/02/msg02898.html>.
+May, Tim. *My Departure, Moderation, and \*Ownership of the List.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. February 2, 1997. Beschikbaar op: <https://cypherpunks.venona.com/date/1997/02/msg02898.html>.
 
 May, Tim. *Opportunities in Cyberspace.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. September 8, 1993. Beschikbaar op: <https://cypherpunks.venona.com/date/1993/09/msg00140.html>.
 
@@ -280,7 +280,7 @@ May, Tim. *The Cyphernomicon.* Oorspronkelijk verstuurd naar de Cypherpunk-maili
 
 May, Tim. *Untraceable Digital Cash, Information Markets, and BlackNet ('Governmental and Social Implications of Digital Money' panel at CFP '97).* The Computers Freedom & Privacy Conference (1997). Geraadpleegd via [https://web.archive.org/web/20130501134401/https://osaka.law.miami.edu/~froomkin/articles/tcmay.htm](https://web.archive.org/web/20130501134401/https:/osaka.law.miami.edu/~froomkin/articles/tcmay.htm).
 
-May, Tim. *Untraceable Payments, Extortion, and Other Bad Things.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. December 21, 1996. Beschikbaar op:  <https://cypherpunks.venona.com/date/1996/12/msg01468.html>.
+May, Tim. *Untraceable Payments, Extortion, and Other Bad Things.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. December 21, 1996. Beschikbaar op: <https://cypherpunks.venona.com/date/1996/12/msg01468.html>.
 
 McCloskey, Deirdre N. How to be Human\*-- \*Though an Economist. Ann Arbor: The University of Michigan Press, 2000.
 
@@ -290,7 +290,7 @@ Menger, Carl. Untersuchungen über die Methode der Sozialwissenschaften und der 
 
 Merkle, Ralph C. *A Certified Signature.* Advances in Cryptology---CRYPTO '89: Proceedings (1989): 218--238.<https://link.springer.com/chapter/10.1007/0-387-34805-0_21>.
 
-Metzger, Perry E. *ADMIN: end of bitcoin discussion for now.* Oorspronkelijk verstuurd naar de Cryptografie-mailinglijst. November 17, 2008. Beschikbaar op:  <https://www.metzdowd.com/pipermail/cryptography/2008-November/014867.html>.
+Metzger, Perry E. *ADMIN: end of bitcoin discussion for now.* Oorspronkelijk verstuurd naar de Cryptografie-mailinglijst. November 17, 2008. Beschikbaar op: <https://www.metzdowd.com/pipermail/cryptography/2008-November/014867.html>.
 
 Metzger, Perry E. *Re: Virtual Cash.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. May 3, 1994. Beschikbaar op: <https://cypherpunks.venona.com/date/1994/05/msg00131.html>.
 
@@ -302,13 +302,13 @@ More, Max. *The Extropian Principles: A Transhumanist Declaration.* maxmore.com,
 
 More, Max. *Transhumanism: Towards a Futurist Philosophy.* maxmore.com, Geraadpleegd via [https://web.archive.org/web/20051029125153/http://www.maxmore.com/transhum.htm.](https://web.archive.org/web/20051029125153/http:/www.maxmore.com/transhum.htm)
 
-Nagy, Daniel A. comments in response to *The Mojo Nation Story---Part 2.* Financial Cryptography. October 12, 2005.<https://www.financialcryptography.com/mt/archives/000572.html>
+Nagy, Daniel A. comments in response to *The Mojo Nation Story---Part 2.* Financial Cryptography. October 12, 2005.<https://www.financialcryptography.com/mt/archieven/000572.html>
 
 Nakamoto, Satoshi. *Bitcoin: A Peer-to-Peer Electronic Cash System.* 2008. Beschikbaar op: <https://bitcoin.org/bitcoin.pdf>
 
-Nakamoto, Satoshi and Wei Dai. *Wei Dai/Satoshi Nakamot[o ]{.class_s2RE}2009 Bitcoin emails.* gwern.net. Last modified September 14, 2017.[https://gwern.net/doc/bitcoin/2008-nakamoto.](https://gwern.net/doc/bitcoin/2008-nakamoto)
+Nakamoto, Satoshi and Wei Dai. *Wei Dai/Satoshi Nakamot[o ]{.class_s2RE}2009 Bitcoin emails.* gwern.net. Last modified September 14, 2017. [https://gwern.net/doc/bitcoin/2008-nakamoto.](https://gwern.net/doc/bitcoin/2008-nakamoto)
 
-Nakamoto, Satoshi. *Bitcoin P2P e-cash paper.* Oorspronkelijk verstuurd naar de Cryptografie-mailinglijst. October 31, 2008. Beschikbaar op:  [https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html.](https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html)
+Nakamoto, Satoshi. *Bitcoin P2P e-cash paper.* Oorspronkelijk verstuurd naar de Cryptografie-mailinglijst. October 31, 2008. Beschikbaar op: [https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html.](https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html)
 
 Nakamoto, Satoshi. *Bitcoin P2P e-cash paper.* Oorspronkelijk verstuurd naar de Cryptografie-mailinglijst. November 2, 2008. Beschikbaar op: [https://www.metzdowd.com/pipermail/cryptography/2008-November/014815.html.](https://www.metzdowd.com/pipermail/cryptography/2008-November/014815.html)
 
@@ -318,7 +318,7 @@ Nakamoto, Satoshi. *Bitcoin P2P e-cash paper.* Oorspronkelijk verstuurd naar de 
 
 Nakamoto, Satoshi. *Bitcoin P2P e-cash paper.* Oorspronkelijk verstuurd naar de Cryptografie-mailinglijst. November 8, 2008. Beschikbaar op: [https://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html.](https://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html)
 
-Nakamoto, Satoshi. *Bitcoin v0.1 released.* Oorspronkelijk verstuurd naar de Cryptografie-mailinglijst. January 8, 2009. Beschikbaar op:  [https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html.](https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html)
+Nakamoto, Satoshi. *Bitcoin v0.1 released.* Oorspronkelijk verstuurd naar de Cryptografie-mailinglijst. January 8, 2009. Beschikbaar op: [https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html.](https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html)
 
 Nakamoto, Satoshi. *Bitcoin v0.1 released.* Oorspronkelijk verstuurd naar de Cryptografie-mailinglijst. January 16, 2009. Beschikbaar op: [https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html.](https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html)
 
@@ -330,23 +330,23 @@ Next! Magazine. *Hoe DigiCash alles verknalde.* Next! January 1999. Geraadpleegd
 
 Nixon, Richard. *Address to the Nation Outlining a New Economic Policy: 'The Challenge of Peace'.* August 15, 1971. Beschikbaar op The American Presidency Project. <https://www.presidency.ucsb.edu/documents/address-the-nation-outlining-new-economic-policy-the-challenge-peace>
 
-Officer, Lawrence H. *Exchange Rates Between the United States Dollar and Forty-one Currencies,* MeasuringWorth, 2023.[https://www.measuringworth.com/datasets/exchangeglobal/.](https://www.measuringworth.com/datasets/exchangeglobal/)
+Officer, Lawrence H. *Exchange Rates Between the United States Dollar and Forty-one Currencies,* MeasuringWorth, 2023. [https://www.measuringworth.com/datasets/exchangeglobal/.](https://www.measuringworth.com/datasets/exchangeglobal/)
 
 Patel, Rupal and Jack Meaning. Can't We Just Print More Money? Economics in Ten Simple Questions. The Bank of England. London: Cornerstone Press, 2022.
 
-Pitta, Julie. *Requiem for a Bright Idea,* Forbes. November 1, 1999.[https://www.forbes.com/forbes/1999/1101/6411390a.html.](https://www.forbes.com/forbes/1999/1101/6411390a.html)
+Pitta, Julie. *Requiem for a Bright Idea,* Forbes. November 1, 1999. [https://www.forbes.com/forbes/1999/1101/6411390a.html.](https://www.forbes.com/forbes/1999/1101/6411390a.html)
 
 Pr0duct Cypher. *Magic Money Digicash System.* Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. February 4, 1994. Beschikbaar op: [https://cypherpunks.venona.com/date/1994/02/msg00247.html.](https://cypherpunks.venona.com/date/1994/02/msg00247.html)
 
 Purdy, George B. *A High Security Log-in Procedure.* Communications of the ACM 17, no. 8 (August 1974): 442--445.
 
-Quinn, Michelle. *The Cypherpunks Who Cracked Netscape,* San Francisco Chronicle. September 20, 1995.[https://people.eecs.berkeley.edu/\~daw/press/iang/ian1.html.](https://people.eecs.berkeley.edu/~daw/press/iang/ian1.html)
+Quinn, Michelle. *The Cypherpunks Who Cracked Netscape,* San Francisco Chronicle. September 20, 1995. [https://people.eecs.berkeley.edu/\~daw/press/iang/ian1.html.](https://people.eecs.berkeley.edu/~daw/press/iang/ian1.html)
 
 Raymond. Eric S. The Cathedral & The Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary. Sebastopol, CA: O'Reilly, 2001.
 
-Regis, Ed. *Meet the Extropians.* Wired. October 1, 1994.[​]{.class_s3DJ} [https://www.wired.com/1994/10/extropians/.](https://www.wired.com/1994/10/extropians/)
+Regis, Ed. *Meet the Extropians.* Wired. October 1, 1994. [​]{.class_s3DJ} [https://www.wired.com/1994/10/extropians/.](https://www.wired.com/1994/10/extropians/)
 
-Richardson, Gary and Tim Sablik. *Banking Panics of the Gilded Age: 1863--1913.* Federal Reserve History. December 4, 2015.[https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.](https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age)
+Richardson, Gary and Tim Sablik. *Banking Panics of the Gilded Age: 1863--1913.* Federal Reserve History. December 4, 2015. [https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.](https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age)
 
 Rickards, James. Currency Wars: The Making of the Next Global Crisis. New York: Portfolio 2012.
 
@@ -372,11 +372,11 @@ Stallman, Richard. *Talking to the Mailman.* Interview door Rob Lucas, New Left 
 
 Stornetta, Scott. *The Missing Link between Satoshi & Bitcoin: Cypherpunk Scott Stornetta.* Interview door Naomi Brockwell. NBTV, with Naomi Brockwell. YouTube, September 6, 2018, [https://youtu.be/fYr-keVOQ18, 57:08.](https://youtu.be/fYr-keVOQ18,%2057:08)
 
-Szabo, Nick. (@NickSzabo4), *Some of the most important books I've read.* X. January 31, 2016.[https://twitter.com/NickSzabo4/status/693682157525401601.](https://twitter.com/NickSzabo4/status/693682157525401601)
+Szabo, Nick. (@NickSzabo4), *Some of the most important books I've read.* X. January 31, 2016. [https://twitter.com/NickSzabo4/status/693682157525401601.](https://twitter.com/NickSzabo4/status/693682157525401601)
 
 Szabo, Nick. *Bit Gold Markets.* Unenumerated. December 27, 2008. [https://unenumerated.blogspot.com/2008/04/bit-gold-markets.html.](https://unenumerated.blogspot.com/2008/04/bit-gold-markets.html)
 
-Szabo, Nick. *Bit Gold.* Unenumerated. December 27, 2008.[https://unenumerated.blogspot.com/2005/12/bit-gold.html.](https://unenumerated.blogspot.com/2005/12/bit-gold.html)
+Szabo, Nick. *Bit Gold.* Unenumerated. December 27, 2008. [https://unenumerated.blogspot.com/2005/12/bit-gold.html.](https://unenumerated.blogspot.com/2005/12/bit-gold.html)
 
 Szabo, Nick. *Bit Gold: Towards Trust-Independent Digital Money.* 1999. Geraadpleegd via [https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html.](https://web.archive.org/web/20140406003811/http:/szabo.best.vwh.net/bitgold.html)
 
@@ -396,7 +396,7 @@ Szabo, Nick. *Smart Contracts: Building Blocks for Digital Free Markets.* Extrop
 
 Szabo, Nick. *Trusted Third Parties are Security Holes.* Satoshi Nakamoto Institute (2001), [https://nakamotoinstitute.org/trusted-third-parties/.](https://nakamotoinstitute.org/trusted-third-parties/)
 
-Szabo, Nick. *Why Cryptocurrency? Governments Abuse Their Power---Nick Szabo Interview Part 1.* Interview door Zulu Republic. Zulu Republic, YouTube. October 25, 2018.[https://youtu.be/LZw4LNLYUgc?si=_FilNeaFnWxpvv9U 1:02](https://youtu.be/LZw4LNLYUgc?si=_FilNeaFnWxpvv9U%201:02).
+Szabo, Nick. *Why Cryptocurrency? Governments Abuse Their Power---Nick Szabo Interview Part 1.* Interview door Zulu Republic. Zulu Republic, YouTube. October 25, 2018. [https://youtu.be/LZw4LNLYUgc?si=_FilNeaFnWxpvv9U 1:02](https://youtu.be/LZw4LNLYUgc?si=_FilNeaFnWxpvv9U%201:02).
 
 Szabo, Nick. Personal correspondence, email to author, July 10, 2018.
 
@@ -412,11 +412,11 @@ von Mises, Ludwig. The Historical Setting of the Austrian School of Economics. N
 
 von Mises, Ludwig. The Theory of Money and Credit, translated by J.E. Batson. New Haven, CT: Yale University Press, 1953.
 
-Wang, Liang. *BitTorrent Mainline DHT Measurement.* MLDHT. 2013. Beschikbaar op:  [https://www.cl.cam.ac.uk/\~lw525/MLDHT/.](https://www.cl.cam.ac.uk/~lw525/MLDHT/)
+Wang, Liang. *BitTorrent Mainline DHT Measurement.* MLDHT. 2013. Beschikbaar op: [https://www.cl.cam.ac.uk/\~lw525/MLDHT/.](https://www.cl.cam.ac.uk/~lw525/MLDHT/)
 
 Wapshott, Nicholas. Keynes Hayek: The Clash That Defined Modern Economics. New York: Norton, 2011.
 
-Watercutter, Angela. *Why Free Software Is More Important Now Than Ever Before.* Wired. September 20, 2013.[https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/.](https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/)
+Watercutter, Angela. *Why Free Software Is More Important Now Than Ever Before.* Wired. September 20, 2013. [https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/.](https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/)
 
 Weinstock, Nicole. *Member Profile: Hal Finney.* Cryonics 40, issue 2 (2nd Quarter 2019): 3--9. [https://cryonicsarchive.org/docs/cryonics-magazine-2019-02.pdf.](https://cryonicsarchive.org/docs/cryonics-magazine-2019-02.pdf)
 
@@ -428,7 +428,7 @@ Wilcox-O'Hearn, Bryce. *Experiences Deploying A Large-Scale Emergent Network.* P
 
 Wong, Andrea. *The Untold Story Behind Saudi Arabia's 41-Year U.S. Debt Secret.* Bloomberg. May 31, 2016.<https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret#xj4y7vzkg>.
 
-## Other Works Consulted {.heading_s43-1}
+## Andere geraadpleegde werken {.heading_s43-1}
 
 Ammous, Saifedean. The Bitcoin Standard: The Decentralized Alternative to Central Banking. Hoboken, NJ.: Wiley, 2018.
 
@@ -438,11 +438,11 @@ Back, Adam. *Adam Back Reflects on the Cypherpunk Movement, Inventing Hashcash, 
 
 Back, Adam. *Hashcash --- A Denial of Service Counter-Measure.* cypherspace.org. August 1, 2002. Beschikbaar op: <https://archive.li/W7QWn>.
 
-Back, Adam. *Hashcash information and documentation.*[http://www.hashcash.org/](http://www.hashcash.org/).
+Back, Adam. *Hashcash information and documentation.* [http://www.hashcash.org/](http://www.hashcash.org/).
 
 Back, Adam. *who is this annoying Adam Back guy?,* Bitcoin Forum, June 4, 2013, [https://bitcointalk.org/index.php?topic=225463.0.](https://bitcointalk.org/index.php?topic=225463.0)
 
-Back, Adam. *Why Dr Adam Back So Legendary.* Interview door Trace Mayer. Bitcoin Knowledge Podcast, YouTube. September 7, 2015.[https://youtu.be/0VboMe_2fnc.](https://youtu.be/0VboMe_2fnc)
+Back, Adam. *Why Dr Adam Back So Legendary.* Interview door Trace Mayer. Bitcoin Knowledge Podcast, YouTube. September 7, 2015. [https://youtu.be/0VboMe_2fnc.](https://youtu.be/0VboMe_2fnc)
 
 Backhouse, Roger E. *Austrian Economics and the Mainstream: View From the Boundary.* The Quarterly Journal of Austrian Economics 3, no. 2 (Summer 2000): 31--43.
 
@@ -474,21 +474,21 @@ Ebeling, Richard M. The Austrian Theory of the Trade Cycle. Auburn, AL.:Ludwig v
 
 Epstein, Jim. *Cypherpunks Write Code Series.* ReasonTV, YouTube. October 7-28, 2020. [https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42.](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
 
-Epstein, Jim. *How Will Bitcoin Lead to More Freedom?*, Reason. October 10, 2020.[https://reason.com/2020/10/16/how-will-bitcoin-lead-to-more-freedom/.](https://reason.com/2020/10/16/how-will-bitcoin-lead-to-more-freedom/)
+Epstein, Jim. *How Will Bitcoin Lead to More Freedom?*, Reason. October 10, 2020. [https://reason.com/2020/10/16/how-will-bitcoin-lead-to-more-freedom/.](https://reason.com/2020/10/16/how-will-bitcoin-lead-to-more-freedom/)
 
 Finney, Hal. *Bitcoin and me (Hal Finney).* Bitcoin Forum. March 19, 2013. [https://bitcointalk.org/index.php?topic=155054.0.](https://bitcointalk.org/index.php?topic=155054.0)
 
-Finney, Hal. *Hal Finney interview.* Interview door Scott Stilphen. Atari Compendium, [https://www.ataricompendium.com/archives/interviews/hal_finney/interview_hal_finney.html.](https://www.ataricompendium.com/archives/interviews/hal_finney/interview_hal_finney.html)
+Finney, Hal. *Hal Finney interview.* Interview door Scott Stilphen. Atari Compendium, [https://www.ataricompendium.com/archieven/interviews/hal_finney/interview_hal_finney.html.](https://www.ataricompendium.com/archieven/interviews/hal_finney/interview_hal_finney.html)
 
 George Edward Durell Foundation. Money and Banking: The American Experience. George Mason University Press, 1995.
 
 Gibson, William. Neuromancer. New York: Ace, 1984.
 
-Greenberg, Andy. *Nakamoto's Neighbor: My Hunt For Bitcoin's Creator Led To a Paralyzed Crypto Genius.* Forbes. March 25, 2014.[https://www.forbes.com/sites/andygreenberg/2014/03/25/satoshi-nakamotos-neighbor-the-bitcoin-ghostwriter-who-wasnt/?sh=38f8f8854a37.](https://www.forbes.com/sites/andygreenberg/2014/03/25/satoshi-nakamotos-neighbor-the-bitcoin-ghostwriter-who-wasnt/?sh=38f8f8854a37)
+Greenberg, Andy. *Nakamoto's Neighbor: My Hunt For Bitcoin's Creator Led To a Paralyzed Crypto Genius.* Forbes. March 25, 2014. [https://www.forbes.com/sites/andygreenberg/2014/03/25/satoshi-nakamotos-neighbor-the-bitcoin-ghostwriter-who-wasnt/?sh=38f8f8854a37.](https://www.forbes.com/sites/andygreenberg/2014/03/25/satoshi-nakamotos-neighbor-the-bitcoin-ghostwriter-who-wasnt/?sh=38f8f8854a37)
 
 Greenberg, Andy. This Machine Kills Secrets: How WikiLeakers, Hacktivists and Cypherpunks Aim to Free the World's Information. London: Virgin Books, 2012.
 
-Grigg, Ian. *A Quick History of Cryptocurrencies BBTC --- Before Bitcoin.* Bitcoin Magazine. April 16, 2014.[https://bitcoinmagazine.com/business/quick-history-cryptocurrencies-bbtc-bitcoin-1397682630.](https://bitcoinmagazine.com/business/quick-history-cryptocurrencies-bbtc-bitcoin-1397682630)
+Grigg, Ian. *A Quick History of Cryptocurrencies BBTC --- Before Bitcoin.* Bitcoin Magazine. April 16, 2014. [https://bitcoinmagazine.com/business/quick-history-cryptocurrencies-bbtc-bitcoin-1397682630.](https://bitcoinmagazine.com/business/quick-history-cryptocurrencies-bbtc-bitcoin-1397682630)
 
 Hayek, Friedrich A. *A Free-Market Monetary System.* Lecture delivered at the Gold and Monetary Conference, New Orleans. November 10, 1977. Republished by the Mises Institute, [https://mises.org/library/free-market-monetary-system.](https://mises.org/library/free-market-monetary-system)
 
@@ -502,35 +502,35 @@ Jackson, Douglas. *The Story of egold.* Interview door Dustin. Did You Know Cryp
 
 Kawamoto, Dawn. *Compaq to license digital cash technology.* CNET. January 2, 2002. [https://www.cnet.com/tech/tech-industry/compaq-to-license-digital-cash-technology/.](https://www.cnet.com/tech/tech-industry/compaq-to-license-digital-cash-technology/)
 
-Koblitz, Neal. *Elliptic Curve Cryptosystems,* Mathematics of Computation 48, no. 177 (January 1987): 203--9.[https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/S0025-5718-1987-0866109-5.pdf.](https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/S0025-5718-1987-0866109-5.pdf)
+Koblitz, Neal. *Elliptic Curve Cryptosystems,* Mathematics of Computation 48, no. 177 (January 1987): 203--9. [https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/S0025-5718-1987-0866109-5.pdf.](https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/S0025-5718-1987-0866109-5.pdf)
 
-Kreling, Tom. *Douglas Jackson bedacht de eerste digitale valuta en werd veroordeeld voor witwassen.* de Volkskrant. January 13, 2018.[https://www.volkskrant.nl/economie/douglas-jackson-bedacht-de-eerste-digitale-valuta-en-werd-veroordeeld-voor-witwassen\~b6ea3bcd/.](https://www.volkskrant.nl/economie/douglas-jackson-bedacht-de-eerste-digitale-valuta-en-werd-veroordeeld-voor-witwassen~b6ea3bcd/)
+Kreling, Tom. *Douglas Jackson bedacht de eerste digitale valuta en werd veroordeeld voor witwassen.* de Volkskrant. January 13, 2018. [https://www.volkskrant.nl/economie/douglas-jackson-bedacht-de-eerste-digitale-valuta-en-werd-veroordeeld-voor-witwassen\~b6ea3bcd/.](https://www.volkskrant.nl/economie/douglas-jackson-bedacht-de-eerste-digitale-valuta-en-werd-veroordeeld-voor-witwassen~b6ea3bcd/)
 
 Lopp, Jameson. *Bitcoin and the Rise of the Cypherpunks.* CoinDesk. April 9, 2016. [https://www.coindesk.com/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/.](https://www.coindesk.com/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/)
 
 Lynch, Daniel C. and Leslie Lundquist. Digital Money: The New Era of Internet Commerce. Hoboken, NJ.: Wiley, 1996.
 
-Massias, H., X. Serret Avila, and J.-J. Quisquater. *Design of a Secure Timestamping Service With Minimal Trust Requirement.* 20th Symposium in Information Theory in the Benelux. May 1999. Beschikbaar op Satoshi Nakamoto Institute:[https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf.](https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf)
+Massias, H., X. Serret Avila, and J.-J. Quisquater. *Design of a Secure Timestamping Service With Minimal Trust Requirement.* 20th Symposium in Information Theory in the Benelux. May 1999. Beschikbaar op Satoshi Nakamoto Institute: [https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf.](https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf)
 
 Maxwell, Gregory. *SF Bitcoin Devs Seminar: Greg Maxwell.* SF Bitcoin Developers, YouTube. April 29, 2015. <https://youtu.be/Gs9lJTRZCDc> 1:23:12.
 
-Merkle, Ralph C. *A Digital Signature Based on a Conventional Encryption Function* Crypto 1987: Advances in Cryptology (1987): 369--378.[https://people.eecs.berkeley.edu/\~raluca/cs261-f15/readings/merkle.pdf.](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf)
+Merkle, Ralph C. *A Digital Signature Based on a Conventional Encryption Function* Crypto 1987: Advances in Cryptology (1987): 369--378. [https://people.eecs.berkeley.edu/\~raluca/cs261-f15/readings/merkle.pdf.](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf)
 
-Miller, Victor S. *Use of Elliptic Curves in Cryptography.* Crypto 1985: Advances in Cryptology (1985): 417--26.[https://dl.acm.org/doi/10.5555/646751.704566.](https://dl.acm.org/doi/10.5555/646751.704566)
+Miller, Victor S. *Use of Elliptic Curves in Cryptography.* Crypto 1985: Advances in Cryptology (1985): 417--26. [https://dl.acm.org/doi/10.5555/646751.704566.](https://dl.acm.org/doi/10.5555/646751.704566)
 
-Möller, Niels, *Ncash --- An Experimental Digital Cash System* (1998).[https://www.lysator.liu.se/\~nisse/NCash/.](https://www.lysator.liu.se/~nisse/NCash/)
+Möller, Niels, *Ncash --- An Experimental Digital Cash System* (1998). [https://www.lysator.liu.se/\~nisse/NCash/.](https://www.lysator.liu.se/~nisse/NCash/)
 
 More, Max and Natasha Vita-More. *Max More & Natasha Vita-More on the History of Transhumanism w/ Like Robert Mason.* Interview door Luke Robert Mason. Luke Robert Mason, YouTube. May 28, 2020.<https://youtu.be/ffEDNLRq6y8> 1:23:58.
 
 More, Max. *Max More --- Transhumanism and the Singularity.* Science, Technology & the Future. YouTube. January 4, 2012.<https://youtu.be/1xIQgBXw9-o> 20:43.
 
-Narayanan, Arvind and Jeremy Clark. *Bitcoin's Academic Pedigree: The concept of cryptocurrencies is built from forgotten ideas in research literature.* Queue 15, no. 4 (July--August 2017): 20--49.[https://dl.acm.org/doi/10.1145/3134434.3136559.](https://dl.acm.org/doi/10.1145/3134434.3136559)
+Narayanan, Arvind and Jeremy Clark. *Bitcoin's Academic Pedigree: The concept of cryptocurrencies is built from forgotten ideas in research literature.* Queue 15, no. 4 (July--August 2017): 20--49. [https://dl.acm.org/doi/10.1145/3134434.3136559.](https://dl.acm.org/doi/10.1145/3134434.3136559)
 
-Okamoto, Tatsuaki and Kazuo Ohta. *Universal Electronic Cash.* Crypto 1991: Advances in Cryptology (1991): 324--337.[https://dl.acm.org/doi/abs/10.5555/646756.705374.](https://dl.acm.org/doi/abs/10.5555/646756.705374)
+Okamoto, Tatsuaki and Kazuo Ohta. *Universal Electronic Cash.* Crypto 1991: Advances in Cryptology (1991): 324--337. [https://dl.acm.org/doi/abs/10.5555/646756.705374.](https://dl.acm.org/doi/abs/10.5555/646756.705374)
 
 Orwell, George. Nineteen Eighty-Four. London: Penguin Books, 2003.
 
-Pein, Corey. *Everybody Freeze!* The Baffler. March 2016.[https://thebaffler.com/salvos/everybody-freeze-pein.](https://thebaffler.com/salvos/everybody-freeze-pein)
+Pein, Corey. *Everybody Freeze!* The Baffler. March 2016. [https://thebaffler.com/salvos/everybody-freeze-pein.](https://thebaffler.com/salvos/everybody-freeze-pein)
 
 Phillips, A. W. *The Relationship Between Unemployment and the rate of Change of Money Wage Rates in the United Kingdom, 1861--1957.* Economica 25: 283--99. <https://www.jstor.org/stable/2550759>
 
@@ -538,7 +538,7 @@ Popper, Nathaniel. Digital Gold: The Untold Story of Bitcoin. New York: Penguin 
 
 Pritzker, Yan, Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Explained. 2019.
 
-Rivest, Ronald, Adi Shamir, and Leonard Adleman. *A Method for Obtaining Digital Signatures and Public-Key Cryptosystems.* Communications of the ACM 21, no. 2 (1978): 120--126.[https://web.williams.edu/Mathematics/lg5/302/RSA.pdf.](https://web.williams.edu/Mathematics/lg5/302/RSA.pdf)
+Rivest, Ronald, Adi Shamir, and Leonard Adleman. *A Method for Obtaining Digital Signatures and Public-Key Cryptosystems.* Communications of the ACM 21, no. 2 (1978): 120--126. [https://web.williams.edu/Mathematics/lg5/302/RSA.pdf.](https://web.williams.edu/Mathematics/lg5/302/RSA.pdf)
 
 Rothbard, Murray N. *The End of Socialism and the Calculation Debate Revisited.* The Review of Austrian Economics 5, no. 2 (1991): 51--76.
 
@@ -576,12 +576,12 @@ Wayner, Peter. Digital Cash: Commerce on the Net. London: Academic Press Limited
 
 White, Lawrence H., *Banking without a Central Bank: Scotland before 1844 as a 'Free Banking' system.* In Unregulated Banking: Chaos or Order? Edited by F. Capie and G.E. Wood, 37--71. London: Palgrave Macmillan, 1991.
 
-## General {.heading_s2AU}
+## Algemeen {.heading_s2AU}
 
 Extropy magazines 1--17 (1988-1996).
 
-eCash news archives on Chaum.com, [https://chaum.com/ecash/.](https://chaum.com/ecash/)
+eCash news archieven op Chaum.com, [https://chaum.com/ecash/.](https://chaum.com/ecash/)
 
-Cypherpunks mailing list archives, 1992--2000. Beschikbaar op: [https://cypherpunks.venona.com/.](https://cypherpunks.venona.com/)
+Cypherpunks mailing list archieven, 1992--2000. Beschikbaar op: [https://cypherpunks.venona.com/.](https://cypherpunks.venona.com/)
 
-Cryptography mailing list archives, October 2008--January 2009. Beschikbaar op [https://www.metzdowd.com/pipermail/cryptography/.](https://www.metzdowd.com/pipermail/cryptography/)
+Cryptography mailing list archieven, October 2008--January 2009. Beschikbaar op [https://www.metzdowd.com/pipermail/cryptography/.](https://www.metzdowd.com/pipermail/cryptography/)

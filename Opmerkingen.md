@@ -20,3 +20,14 @@ Stable Money Association
 Federal Reserve System
 Incompatible Time-Sharing System
 Compatible Time-Sharing System
+
+...
+
+## Styling in Latex for the bibliography
+
+% typographical settings for the body text
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0em}
+\linespread{1.10}
+\footnotesize
+\setlength{\emergencystretch}{0em} % prevent overfull lines

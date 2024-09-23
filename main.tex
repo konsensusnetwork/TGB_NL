@@ -39,8 +39,8 @@
 %\usepackage{float}
 \usepackage{microtype} % for micro-typographical adjustments
 \usepackage{setspace} % for line spacing
-\tolerance=1000
-\hyphenpenalty=1000
+\tolerance=2000
+\hyphenpenalty=3500
 \usepackage[dutch]{babel}	% language
 \selectlanguage{dutch}
 %\usepackage{multicol}
@@ -64,7 +64,6 @@
 %\usepackage{caption}
 %\usepackage[style=latin, latin=americanquotes]{csquotes}
 %\usepackage{hologo}
-%\setlength{\emergencystretch}{3em} % prevent overfull lines
 
 % FONTS
 \usepackage{fontspec}
@@ -154,9 +153,9 @@
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \AtBeginDocument{%
 \ifdefined\contentsname
-  \renewcommand*\contentsname{Table of contents}
+  \renewcommand*\contentsname{\sffamily Inhoudsopgave}
 \else
-  \newcommand\contentsname{Table of contents}
+  \newcommand\contentsname{\sffamily Inhoudsopgave}
 \fi
 \ifdefined\listfigurename
   \renewcommand*\listfigurename{List of Figures}
@@ -169,9 +168,9 @@
   \newcommand\listtablename{List of Tables}
 \fi
 \ifdefined\figurename
-  \renewcommand*\figurename{Figure}
+  \renewcommand*\figurename{\sffamily Figuur}
 \else
-  \newcommand\figurename{Figure}
+  \newcommand\figurename{\sffamily Figuur}
 \fi
 \ifdefined\tablename
   \renewcommand*\tablename{Table}
@@ -509,7 +508,7 @@ element werd niet beïnvloed door de willekeur van mensen.
 Het pre-dynastieke Egypte was echter allang verdwenen en zelfs Jackson
 moest toegeven dat het kostbare metaal voor dagelijkse transacties niet
 echt praktisch was. Nu het nieuwe millennium naderde, besefte Jackson
-dat mensen niet zouden terugkeren naar de tijd waarin ze betaalden met
+dat mensen niet gingen terugkeren naar de tijd waarin ze betaalden met
 gouden munten. Sterker nog, zelfs koperen munten en papiergeld zouden
 waarschijnlijk binnenkort ouderwets lijken.
 
@@ -611,7 +610,7 @@ die er een vereist) na de invoering van de \emph{Patriot Act}, die in
 het leven werd geroepen als reactie op de terroristische aanslagen van
 11 september 2001, enkele jaren na de lancering van e-goud. Nog
 belangrijker: het was niet duidelijk dat Jacksons onderneming überhaupt
-als een betaaldienst beschouwd zou worden: het e-goudsysteem verstuurde
+als een betaaldienst beschouwd zou worden. Het e-goudsysteem verstuurde
 geen dollars of andere nationale valuta, waarvoor zulke regels doorgaans
 van toepassing waren.
 
@@ -822,7 +821,7 @@ De Eerste Wereldoorlog was het gewelddadige hoogtepunt van een tijdperk
 dat sterk doordrenkt was van nationalisme, de ideologie die stelt dat
 collectieven van mensen met een gemeenschappelijke herkomst,
 geschiedenis, cultuur of taal --- \emph{naties} --- zichzelf als staten
-zouden moeten organiseren en handelen in het belang van deze staten.
+moesten organiseren en handelen in het belang van deze staten.
 
 Het nationalisme had in de negentiende eeuw ook invloed op de
 economische wetenschap. Waar de \emph{klassieke economie}, met haar
@@ -850,19 +849,19 @@ waardevolle wetenschappelijke inzichten te kunnen afleiden. Een
 ontelbare hoeveelheid factoren beïnvloedt de gedachten en acties van een
 typisch persoon, redeneerde hij --- het is onbegonnen werk om het aantal
 factoren die een hele samenleving beïnvloeden te bestuderen. Geen enkele
-hoeveelheid empirische data zou groot genoeg kunnen zijn om al deze
-factoren te omvatten, geloofde Menger. Elke conclusie die uit zo'n
-dataset wordt getrokken, zou nooit overtuigend zijn.
+hoeveelheid empirische data zou groot genoeg zijn om al deze factoren te
+omvatten, geloofde Menger. Elke conclusie die uit zo'n dataset wordt
+getrokken, zou nooit overtuigend zijn.
 
-In plaats daarvan betoogde Menger dat economen zouden moeten proberen om
+In plaats daarvan betoogde Menger dat economen moesten proberen om
 economische verschijnselen te begrijpen en uit te leggen door deductieve
 redenering. Door te beginnen met basisprincipes, kon logisch redeneren
 leiden tot onweerlegbare inzichten die het wetenschappelijke begrip van
-economische processen \emph{a priori} zouden uitbreiden (de Latijnse
-term \emph{a priori} verwijst naar kennis die onafhankelijk is van
-ervaring, zoals wiskunde, in tegenstelling tot \emph{a posteriori}
-kennis die afhankelijk is van empirisch bewijs, zoals meer typisch is in
-de meeste andere wetenschappelijke vakgebieden).
+economische processen \emph{a priori} uitbreidden (de Latijnse term
+\emph{a priori} verwijst naar kennis die onafhankelijk is van ervaring,
+zoals wiskunde, in tegenstelling tot \emph{a posteriori} kennis die
+afhankelijk is van empirisch bewijs, zoals meer typisch is in de meeste
+andere wetenschappelijke vakgebieden).
 
 Menger bracht deze aanpak in de praktijk in zijn boek uit 1871 getiteld
 \emph{Grundsätze der Volkswirtschaftslehre}. Hierin schetste hij de
@@ -930,8 +929,8 @@ niet uit Oostenrijk afkomstig waren.\footnote{\hspace{0pt}Mises,
 
 De vijandige sfeer tijdens de methodenstrijd in de late negentiende eeuw
 bereikte zijn hoogtepunt met de \emph{de facto} verbanning van de
-Oostenrijkse economie uit Duitse universiteiten. De boycott zou decennia
-van kracht blijven, en verhinderdde in grote mate dat Mengers ideeën
+Oostenrijkse economie uit Duitse universiteiten. De boycott bleef
+decennia van kracht, en verhinderdde in grote mate dat Mengers ideeën
 zich door de nieuwe, verenigde natiestaat verspreidden. In plaats
 daarvan bleef het nationalisme domineren, terwijl een andere
 collectivistische ideologie zich zonder veel wezenlijk tegengas ook
@@ -947,28 +946,27 @@ tussen degenen die kapitaal bezitten (goederen die kunnen worden
 gebruikt als productiemiddel, zoals fabrieken en hun machines) en de
 arbeidersklasse, die alleen hun arbeid te verkopen hebben. Marx
 voorspelde dat deze strijd in het voordeel van de kapitaalbezittende
-klasse (de \emph{kapitalisten}) zou uitdraaien, omdat ze steeds meer
+klasse (de \emph{kapitalisten}) moest uitdraaien, omdat ze steeds meer
 kapitaal en eindeloos groeiende winsten zouden genieten, totdat de
-arbeidersklasse (het proletariaat) onvermijdelijk in opstand zou komen.
+arbeidersklasse (het proletariaat) onvermijdelijk in opstand kwam.
 
 Volgens Marx was het socialisme de uiteindelijke oplossing voor
 economische ongelijkheid: een economisch systeem waarin de
-productiemiddelen onder gemeenschappelijk eigendom worden gebracht en
-hun opbrengsten over de hele samenleving worden verdeeld. Dit zou in
-eerste instantie onder toezicht van de staat moeten gebeuren, om
-geleidelijk aan vervangen te worden door een anarchistische vorm van
-zelfbestuur.
+productiemiddelen onder gemeenschappelijk eigendom gebracht worden en
+hun opbrengsten over de hele samenleving worden verdeeld. Dit moest in
+eerste instantie onder toezicht van de staat gebeuren, om geleidelijk
+aan vervangen te worden door een anarchistische vorm van zelfbestuur.
 
 Hoewel de ideeën van Marx pas echt populair leken te worden na zijn dood
 in 1883, hadden ze ook een behoorlijk aantal critici. Een vaak gehoord
 bezwaar was dat mensen in een socialistisch systeem geen stimulans
 zouden hebben om te werken, aangezien ze toch een vast aandeel van alle
-geproduceerde goederen zouden ontvangen, terwijl de goederen die ze zelf
-hielpen te maken, verspreid zouden worden over de rest van de
-samenleving. Een tweede bezwaar was het risico dat socialistische
-leiders zich tegen hun eigen bevolking zouden keren en veel van de onder
-staatsbeheer geproduceerde goederen voor zichzelf zouden opeisen, in
-plaats van ze eerlijk te verdelen.
+geproduceerde goederen ontvingen, terwijl de goederen die ze zelf
+hielpen te maken, verspreid werden over de rest van de samenleving. Een
+tweede bezwaar was het risico dat socialistische leiders zich tegen hun
+eigen bevolking zouden keren en veel van de onder staatsbeheer
+geproduceerde goederen voor zichzelf zouden opeisen, in plaats van ze
+eerlijk te verdelen.
 
 Desondanks heeft het de opkomst van de socialistische leer in het
 Russische Rijk niet gestopt. In 1917, midden in de Eerste Wereldoorlog,
@@ -980,7 +978,7 @@ Ongeveer drie jaar na deze gebeurtenissen bracht Mises, de professor die
 Hayek zijn overheidsbaan had aangeboden, een baanbrekende nieuwe kritiek
 op het socialisme.\footnote{\hspace{0pt}Ludwig von Mises, \emph{Economic
   Calculation in the Socialist Commonwealth}.} Belangrijk om te
-vermelden, is dat deze kritiek stand zou houden \emph{zelfs} als mensen
+vermelden, is dat deze kritiek standhield \emph{zelfs} als mensen
 gemotiveerd waren om te werken, en \emph{zelfs} als socialistische
 leiders zich inzetten voor een eerlijke verdeling van de economische
 winsten. Mises beweerde echter dat het fundamentele probleem van het
@@ -1274,7 +1272,7 @@ In het scenario van zo'n \emph{bankrun}, kon de Federal Reserve nu
 optreden als \emph{kredietverstrekker in uiterste nood} door een lening
 te verstrekken aan de bank die in de problemen kwam. Zo'n lening zou de
 bank van voldoende liquiditeit (contant geld) voorzien om de storm te
-doorstaan, zodat er geen reden zou zijn voor spaarders om zich zorgen te
+doorstaan, zodat er geen reden was voor spaarders om zich zorgen te
 maken.
 
 Maar Hayek, die helemaal uit Oostenrijk was gekomen om de rol van de Fed
@@ -1305,20 +1303,19 @@ bevestigen. De mogelijkheid van commerciële banken om in wezen nieuw
 geld aan te maken door middel van leningen, zou een feedback-loop van
 uitbundige kredietcreatie kunnen veroorzaken.
 
-Echter, wanneer deze kredietcreatie onvermijdelijk vertraagt, zou de
-muziek stoppen. Als de hoeveelheid nieuw geld die in de economie wordt
-geïnjecteerd vermindert, zouden de algehele prijzen dalen -- deflatie --
-en bedrijven zouden worden geconfronteerd met hun te optimistische
-inschatting van economische vooruitzichten. Ze zouden hun producten niet
-voor zoveel geld kunnen verkopen als ze hadden verwacht. Sommige
-bedrijven zouden moeten inkrimpen, en de werkloosheid zou toenemen, wat
-de economie nog meer zou vertragen, omdat mensen minder geld te besteden
-zouden hebben. Andere bedrijven zouden failliet gaan, waardoor ze hun
-leningen niet kunnen terugbetalen, wat op zijn beurt commerciële banken
-in de problemen zou brengen om aan alle deposito-eisen te voldoen. Ze
-zouden moeten stoppen met het verstrekken van nieuwe leningen, wat de
-economie alleen maar verder zou vertragen, resulterend in meer ontslagen
-en leningen die niet terugbetaald worden, en zo verder.
+Wanneer de kredietcreatie echter onvermijdelijk vertraagt, stopt de
+muziek. Als de hoeveelheid nieuw geld die in de economie wordt
+geïnjecteerd afneemt, zullen de prijzen dalen --- deflatie. Bedrijven
+zullen geconfronteerd worden met hun te optimistische inschattingen van
+de economische vooruitzichten en kunnen hun producten niet voor de
+verwachte prijzen verkopen. Sommige bedrijven zullen moeten inkrimpen,
+wat leidt tot een stijging van de werkloosheid en de economie verder
+vertraagt, omdat mensen minder te besteden hebben. Andere bedrijven
+zullen failliet gaan omdat ze hun leningen niet kunnen terugbetalen, wat
+commerciële banken in de problemen brengt om aan de depositovereisten te
+voldoen. Deze banken zullen nieuwe leningen moeten stopzetten, wat de
+economie nog verder vertraagt, resulterend in meer ontslagen en
+onbetaalde leningen, en zo verder.
 
 Economen zouden later naar een dergelijke dynamiek verwijzen als een
 \emph{deflatoire schuldenspiraal}. Deze lagen aan de basis van enkele
@@ -1645,7 +1642,7 @@ hen een geweldig gevoel van zelbeschikking.
 Daarmee groeide ook een gevoel van verantwoordelijkheid.
 
 De hackers voelden instinctief aan dat computers een blijvende invloed
-zouden hebben op de wereld. Na verloop van tijd ontwikkelden ze een
+op de wereld zouden hebben. Na verloop van tijd ontwikkelden ze een
 filosofisch en ethisch kader rond programmeren en technologie. Dit
 vormde de basis voor een unieke subcultuur, gericht op technologie en
 gekenmerkt door experimenten en innovatie. Zelfs toen de groep hackers
@@ -2207,9 +2204,9 @@ Deze schijnbare tegenstrijdigheid was in het begin van de twintigste
 eeuw al aangepakt door Hayeks mentor aan de Universiteit van Wenen,
 Ludwig von Mises.\footnote{\hspace{0pt}Ludwig von Mises, \emph{The
   Theory of Money and Credit}, vertaling. J.E. Batson.} De uitleg van
-Mises, het regressie-theorema genoemd, accepteert dat mensen
-daadwerkelijk geen geld willen. Ze willen wat geld kan kopen. Ze
-verlangen naar koopkracht.
+Mises, de regressietheorie genoemd, accepteert dat mensen daadwerkelijk
+geen geld willen. Ze willen wat geld kan kopen. Ze verlangen naar
+koopkracht.
 
 Mises redeneerde dat de verwachte koopkracht van geld afgeleid is van
 eerdere prestaties. Als \$ 10 je gisteren in een restaurant een lunch
@@ -2246,8 +2243,8 @@ ander te bieden heeft. De schoenmaker kan alleen schoenen ruilen voor
 een brood als de bakker toevallig een nieuw paar nodig heeft\ldots{}
 maar dit gebeurt waarschijnlijk niet heel vaak.
 
-Meer gespecialiseerde vaklieden hebben het nog moeilijker om in een
-ruileconomie te bemachtigen wat ze willen, omdat minder mensen hun
+Meer gespecialiseerde vaklieden hebben het in een ruileconomie nog
+moeilijker om te bemachtigen wat ze willen, omdat minder mensen hun
 product nodig hebben. Een horlogemaker kan bijna nooit een horloge
 ruilen voor een brood of een paar schoenen, omdat bakkers en
 schoenmakers niet vaak een nieuw horloge nodig hebben.
@@ -2270,26 +2267,26 @@ zijn; zout is zout. En tot slot, afhankelijk van waar (en wanneer) je
 bent, kan zout ook schaars zijn; het kan moeilijk zijn om er meer van te
 verkrijgen.
 
-Menger bedacht daarom dat het voor de horlogemaker verstandig zou zijn
-om een lading zout te accepteren, wanneer dit hem wordt aangeboden in
-ruil voor een horloge. Zelfs als hij zelf geen behoefte aan zout zou
-hebben, dan zou de bakker dit zeker wel hebben. De horlogemaker kan
-vervolgens het zout met de bakker ruilen en zo eindelijk aan dat brood
-komen dat hij nodig heeft.
+Menger bedacht daarom dat het voor de horlogemaker verstandig was om een
+lading zout te accepteren, wanneer dit hem in ruil voor een horloge
+wordt aangeboden. Zelfs als hij zelf geen behoefte aan zout heeft, dan
+zou de bakker dit zeker wel hebben. De horlogemaker kan vervolgens het
+zout met de bakker ruilen en zo eindelijk aan dat brood komen dat hij
+nodig heeft.
 
-En het zou niet alleen voor de horlogemaker verstandig zijn om zout in
+Daarnaast is het niet alleen voor de horlogemaker verstandig om zout in
 ruil aan te nemen, maar ook voor de schoenmaker. De bakker zou
 waarschijnlijk vaker zout dan een paar schoenen accepteren in
-ruilhandel. Dit zou op zijn beurt de horlogemaker nog meer mogelijkheden
-geven met het zout dat hij in ruil krijgt; hij kan het uitgeven bij
-zowel de bakker als de schoenmaker.
+ruilhandel. Dit geeft de horlogemaker op zijn beurt nog meer
+mogelijkheden met het zout dat hij in ruil krijgt, omdat hij het het
+uitgeven bij zowel de bakker als de schoenmaker.
 
-Naarmate meer mensen in deze ruileconomie zout zouden gaan accepteren in
-de verwachting dat anderen dat ook zullen doen, zou dit een
-zelfversterkende cyclus in gang zetten. Voor elke extra persoon die zout
-accepteert in ruilhandel, wordt zout aantrekkelijker voor iedereen om
-als ruilmiddel te accepteren. Zout zou zich op deze manier als een
-gangbaar \emph{ruilmiddel} kunnen ontwikkelen.
+Naarmate meer mensen in deze ruileconomie zout gaan accepteren in de
+verwachting dat anderen dat ook zullen doen, zet dit een
+zelfversterkende cyclus in gang. Voor elke extra persoon die zout
+accepteert in ruilhandel, wordt zout voor iedereen aantrekkelijker om
+als ruilmiddel te accepteren. Op deze manier kan zout zich als een
+gangbaar \emph{ruilmiddel} ontwikkelen.
 
 Hoewel sommige mensen in deze economie zelf geen zout nodig zouden
 hebben, noch direct iets hadden om het aan uit te geven, zouden ze leren
@@ -2306,19 +2303,18 @@ gebruikt om prijzen vast te stellen, waardoor het een
 Zodra het deze drie eigenschappen verwerft -- ruilmiddel, opslag van
 waarde en rekeneenheid -- is zout geld geworden.
 
-Dit zou op zijn beurt de vraag naar zout ook vergroten. In deze economie
-werd zout oorspronkelijk alleen gewaardeerd om zijn inherente
-eigenschappen --- het vermogen om een maaltijd te kruiden of voedsel te
+Dit vergroot op zijn beurt de vraag naar zout. In deze economie werd
+zout oorspronkelijk alleen gewaardeerd om zijn inherente eigenschappen
+--- het vermogen om een maaltijd te kruiden of voedsel te
 conserveren.\footnote{Dit wordt soms beschouwd als \emph{intrinsieke
   waarde}, een veelgebruikte uitdrukking in de economie om aan te geven
   dat een goed economische gebruikswaarde heeft los van zijn monetaire
   rol. Oostenrijkse economen verwerpen echter over het algemeen het idee
   dat producten überhaupt intrinsieke waarde hebben: waarde is volgens
-  hen altijd subjectief.} Maar zodra het als geld wordt aangenomen,
-zouden veel mensen erop gebrand zijn meer zout te vergaren, omdat dit
-hen in staat zou stellen elk ander product te kopen. Het proces van
-\emph{monetarisatie} zou een \emph{monetaire} premie toevoegen aan de
-waarde van zout.
+  hen altijd subjectief.} Maar zodra het als geld wordt aangenomen, zijn
+veel mensen erop gebrand meer zout te vergaren, omdat dit hen in staat
+stelt elk ander product te kopen. Het proces van \emph{monetarisatie}
+voegt een \emph{monetaire} premie aan de waarde van zout toe.
 
 Deze premie verklaart waarom mensen bereid zijn geld -- in dit
 voorbeeld, zout -- aan te nemen in ruil voor goederen en diensten die op
@@ -2413,25 +2409,25 @@ extra vraag naar ponden op zijn beurt de wisselkoers tegenover de dollar
 verhogen (het zou meer dollars kosten om dezelfde hoeveelheid ponden te
 kopen).
 
-Een sterke pond zou vervolgens het importeren van producten en diensten
-uit Engeland duurder maken voor Amerikanen, waardoor de export van
-Engeland wordt geremd. Tegelijkertijd zou een zwakke dollar het
-importeren van producten en diensten uit de VS aantrekkelijker maken
-voor Britten, wat potentieel kan resulteren in een verhoogde vraag naar
+Een sterke pond maakt vervolgens het importeren van producten en
+diensten uit Engeland duurder voor Amerikanen, waardoor de export van
+Engeland geremd wordt. Tegelijkertijd maakt een zwakke dollar het
+importeren van producten en diensten uit de VS aantrekkelijker voor
+Britten, wat potentieel kan resulteren in een verhoogde vraag naar
 Amerikaanse goederen, en op zijn beurt weer kan zorgen voor een hogere
-vraag naar dollars. Schommelingen in de valutawaarde zouden dus op een
-bepaalde manier de handelsbalans tussen de twee landen stabiliseren.
+vraag naar dollars. Schommelingen in de valutawaarde stabiliseren dus op
+een bepaalde manier de handelsbalans tussen de twee landen.
 
-Er werd aangenomen dat dit een tijdelijke situatie zou zijn; de meeste
-landen hadden het voornemen terug te keren naar een goudstandaard.
-Ondanks dat, betoogden invloedrijke economen uit die tijd dat deze
-nieuwe goudstandaard wat anders zou moeten werken dan de klassieke
-goudstandaard. Aangezien het merendeel van het goud dat nationale
-munteenheden dekte nooit werd opgevraagd, konden centrale banken
-daadwerkelijk meer geld uitgeven dan ze in goud konden verantwoorden (in
-de VS mocht de Fed dit doen, zolang zij binnen de
-\emph{gouddekkingratio} bleven: de verhouding tussen goud in reserve en
-uitgegeven dollars moest ten minste 40 procent zijn).
+Er werd aangenomen dat dit een tijdelijke situatie zou zijn. De meeste
+landen hadden het voornemen naar een goudstandaard terug te keren. Maar
+invloedrijke economen uit die tijd betoogden dat deze nieuwe
+goudstandaard wat anders moest werken dan de klassieke goudstandaard.
+Aangezien het merendeel van het goud dat nationale munteenheden dekte
+nooit werd opgevraagd, konden centrale banken daadwerkelijk meer geld
+uitgeven dan ze in goud konden verantwoorden (in de VS mocht de Fed dit
+doen, zolang zij binnen de \emph{gouddekkingratio} bleven: de verhouding
+tussen goud in reserve en uitgegeven dollars moest ten minste 40 procent
+zijn).
 
 Deze flexibiliteit bood de mogelijkheid voor een nieuw soort monetair
 beleid: centrale banken konden geld toevoegen aan, of onttrekken uit het
@@ -2442,21 +2438,21 @@ Het was dit beleid waar Hayek zo fel kritiek op had.
 
 \section{De stabilisators}\label{de-stabilisators}
 
-De eerste pleitbezorger voor dit nieuwe type van monetair beleid was
 Irving Fisher, een toonaangevende econoom in het begin van de twintigste
-eeuw. Fisher was een van de eerste economen die zich zorgen maakten over
-deflatie, of specifieker, de deflatoire schuldenspiraal. Hij geloofde
-dat alleen stabiele prijzen `de kwalen van monetaire instabiliteit'
-konden voorkomen.\footnote{\hspace{0pt}Irving Fisher, \emph{The
-  Purchasing Power of Money}.}
+eeuw, was de eerste pleitbezorger voor dit nieuwe type van monetair
+beleid. Fisher was een van de eerste economen die zich zorgen maakten
+over deflatie, of specifieker, de deflatoire schuldenspiraal. Hij
+geloofde dat alleen stabiele prijzen `de kwalen van monetaire
+instabiliteit' konden voorkomen.\footnote{\hspace{0pt}Irving Fisher,
+  \emph{The Purchasing Power of Money}.}
 
-Fisher wist dat de prijzen van specifieke goederen en diensten
-natuurlijk soms veranderen, omdat de vraag en aanbod van verschillende
-producten en diensten om allerlei redenen over tijd fluctueren. Maar hij
-geloofde dat het algemene, gemiddelde prijsniveau stabiel moest blijven
-na verloop van tijd. Om de stabiliteit van de koopkracht van een
-munteenheid te bepalen, had Fisher dus een manier nodig om gemiddelde
-prijzen vast te stellen. En hij wist precies waar hij moest zoeken.
+Fisher wist natuurlijk dat prijzen van specifieke goederen en diensten
+soms veranderen, omdat de vraag en aanbod van verschillende producten en
+diensten om allerlei redenen over tijd fluctueren. Maar hij geloofde dat
+het algemene, gemiddelde prijsniveau na verloop van tijd stabiel moest
+blijven. Om de stabiliteit van de koopkracht van een munteenheid te
+bepalen, had Fisher dus een manier nodig om gemiddelde prijzen vast te
+stellen. En hij wist precies waar hij moest zoeken.
 
 In eerder onderzoek leverde de econoom empirisch bewijs voor de
 kwantiteitstheorie van geld. Deze theorie stelt dat het algemene
@@ -2479,14 +2475,14 @@ hetzelfde moeten blijven.
 
 Fisher beweerde dat de Federal Reserve de stabiliteit van de dollar kon
 nastreven door de rentetarieven te manipuleren. Hij had in 1920 de
-Stable Money Association opgericht om deze beleidswijziging te
+\emph{Stable Money Association} opgericht om deze beleidswijziging te
 realiseren. Een collectief bestaande uit economen, politici en
 zakenleiders pleitte voor een stabilisatiebeleid via parlementaire
 ondervragingen, bekend als de `stabilisatiehoorzittingen', terwijl ze
-daarnaast ook hun zaak bepleitten op internationale conferenties en
-andere bijeenkomsten waar monetair beleid een gespreksonderwerp was. Dit
-hielp om de ideeën van Fisher te verspreiden tot in de hoogste rangen
-van het Federal Reserve Systeem en daarbuiten.
+daarnaast ook hun zaak op internationale conferenties en andere
+bijeenkomsten bepleitten waar monetair beleid een gespreksonderwerp was.
+Dit hielp om de ideeën van Fisher tot in de hoogste rangen van het
+\emph{Federal Reserve System} en daarbuiten te verspreiden .
 
 De Stable Money Association vond al gauw een bondgenoot in Hayeks
 hedendaagse rivaal, John Maynard Keynes. Maar Keynes ging zelfs nog
@@ -2499,7 +2495,7 @@ garanderen, omdat het zelf onderhevig was aan marktsentimenten.
 Hoewel dit inderdaad gedeeltelijk verzacht kon worden als de centrale
 banken een flexibeler aanpak zouden adopteren om muntstabiliteit te
 bereiken, betoogde Keynes dat de gouddekkingratio uiteindelijk de
-speelruimte van de centrale banken fundamenteel zou beperken. En in de
+speelruimte van de centrale banken fundamenteel beperkte. En in de
 praktijk zou deze genegeerd worden wanneer dat als noodzakelijk werd
 beschouwd.
 
@@ -2513,16 +2509,16 @@ opofferen voor het achterhaalde dogma.'\footnote{\hspace{0pt}John
   Maynard Keynes, \emph{A Tract on Monetary Reform}, 173.}
 \end{quote}
 
-Als geld daarentegen volledig bevrijd zou worden van de beperkingen van
-goud, kon het monetaire beleid zo flexibel zijn als de monetaire
-autoriteiten nodig achtten.
+Als geld daarentegen volledig van de beperkingen van goud bevrijd was,
+kon het monetaire beleid zo flexibel zijn als de monetaire autoriteiten
+nodig achtten.
 
 \section{De verwerping van stabiel
 geld}\label{de-verwerping-van-stabiel-geld}
 
 Hayek verwierp het gebruik van rentetarieven door centrale banken als
-middel, omdat hij geloofde dat dit enkel leidde tot een volatielere
-conjunctuurcyclus. Maar hij verwierp ook het doel om prijzen te
+middel, omdat hij geloofde dat dit enkel tot een volatielere
+conjunctuurcyclus leidde. Maar hij verwierp ook het doel om prijzen te
 stabiliseren. Hayek keurde deze stabilisatoren af.
 
 Prijzen, legde Hayek uit, bevatten een breed scala aan informatie.
@@ -2540,7 +2536,7 @@ prijssysteem --- verschillende prijzen op verschillende locaties ---
 maakte een efficiënte toewijzing van bronnen over de ruimte mogelijk.
 
 Daarnaast betoogde de econoom dat iets vergelijkbaars gold voor
-anderszins identieke producten op verschillende tijdstippen; zoals het
+anderszins identieke producten op verschillende tijdstippen. Zoals het
 interspatiële prijssysteem zorgt voor een efficiënte verdeling van
 middelen over ruimte, zorgt het intertemporele prijssysteem voor een
 efficiënte verdeling van middelen doorheen de tijd.
@@ -2560,12 +2556,11 @@ bevinden.'\footnote{\hspace{0pt}Friedrich A. Hayek, \emph{Intertemporal
 
 Vrije markten bevorderen innovatie, en de meeste producten worden door
 deze innovatie goedkoper om te produceren. Het produceren van een krat
-bananen, om bij dat voorbeeld te blijven, wordt na verloop van tijd
-betaalbaarder doordat bananenkwekers profiteren van verbeterde
-technologie voor het beheer van hun plantages. Het is dan logisch dat
-een krat bananen over tien jaar goedkoper zal zijn dan een krat bananen
-nu: de verschillen in productiekosten zullen tot uiting komen in de
-respectievelijke prijzen.
+bananen, wordt na verloop van tijd betaalbaarder doordat bananenkwekers
+verbeterde technologie voor het beheer van hun plantages hebben. Het is
+dan logisch dat een krat bananen over tien jaar goedkoper zal zijn dan
+een krat bananen nu: de verschillen in productiekosten zullen tot uiting
+komen in de respectievelijke prijzen.
 
 Hayek geloofde dus niet dat het stabiliseren van prijzen op basis van
 indices überhaupt wenselijk was. Als prijzen kunstmatig stabiel worden
@@ -2573,19 +2568,19 @@ gehouden, zou dit het intertemporele prijssysteem verstoren, en
 uiteindelijk ook de toewijzing van middelen doorheen de tijd verstoren.
 
 Laten we zeggen dat een bananenboer verwacht dat de prijs van bananen
-(net zoals alle andere consumentenproducten, gemiddeld genomen) stabiel
-zal blijven in de toekomst, terwijl hij ook weet dat zijn
-productiekosten zullen dalen. Dit zou hem aanzetten om te investeren in
+(net zoals alle andere consumentenproducten, gemiddeld genomen) in de
+toekomst stabiel zal blijven, terwijl hij ook weet dat zijn
+productiekosten zullen dalen. Dit zet hem aan om te investeren in
 toekomstige productie ten koste van de productie vandaag: hij zal later
 dezelfde hoeveelheid bananen kunnen verbouwen voor minder totale kosten,
-terwijl hij elke krat bananen zal kunnen verkopen voor dezelfde prijs
-als vandaag, en zo zijn totale winst kan verhogen.
+terwijl hij elke krat bananen voor dezelfde prijs als vandaag zal kunnen
+verkopen, en zo zijn totale winst kan verhogen.
 
 Als alle producenten in de economie op dezelfde manier denken, als ze
 allemaal dezelfde prikkels volgen en investeren in productie voor de
-toekomst ten koste van productie vandaag, zou dit op korte termijn
-leiden tot een tekort aan totale economische productie en op lange
-termijn tot een overschot.
+toekomst ten koste van productie vandaag, zou dit op korte termijn tot
+een tekort aan totale economische productie en op lange termijn tot een
+overschot leiden.
 
 Hayek schreef:
 
@@ -2602,7 +2597,7 @@ relatief minder adequaat is.'\footnote{\hspace{0pt}Hayek,
   \emph{Intertemporal Price Equilibrium}, 207.}
 \end{quote}
 
-Om een spontane orde te hebben doorheen de tijd, moeten prijzen de
+Om een spontane orde doorheen de tijd te hebben, moeten prijzen de
 mogelijkheid krijgen om te dalen.
 
 Hayek concludeerde daarom:
@@ -2611,14 +2606,14 @@ Hayek concludeerde daarom:
 `De acceptatie van de noodzaak voor een intertemporeel prijssysteem is
 niet alleen onverenigbaar met, het staat lijnrecht tegenover de
 heersende opvatting dat constante prijzen doorheen de tijd een
-voorwaarde zijn voor een ongestoorde economie.'\footnote{\hspace{0pt}Hayek,
+voorwaarde voor een ongestoorde economie zijn.'\footnote{\hspace{0pt}Hayek,
   \emph{Intertemporal Price Equilibrium}, 190.}
 \end{quote}
 
 Natuurlijk erkende de Oostenrijker ook dat een daling van de prijzen in
-sommige gevallen een negatieve impact kan hebben op de economie: hij
+sommige gevallen een negatieve impact op de economie kan hebben: hij
 waarschuwde tegen de manipulatie van rentetarieven juist omdat het
-uiteindelijk zou leiden tot deflatie. Echter, Hayek stelde dat deflatie
+uiteindelijk tot deflatie zou leiden. Maar Hayek stelde dat deflatie
 alleen een probleem is als de daling van de prijzen daadwerkelijk wordt
 veroorzaakt door een afname van de geldhoeveelheid. In dat geval zouden
 bedrijven inderdaad minder verdienen dan verwacht, wat, zoals ook Fisher
@@ -2626,13 +2621,12 @@ had aangegeven, een deflatoire schuldenspiraal in gang zou kunnen
 zetten.
 
 Hayek benadrukte dat als de daling van de prijzen niet veroorzaakt werd
-door een krimpende geldhoeveelheid, maar in plaats daarvan het resultaat
-was van goedkopere productieprocessen, dit probleem niet zou moeten
-bestaan.
+door een krimpende geldhoeveelheid, maar het resultaat was van
+goedkopere productieprocessen, dit probleem niet zou bestaan.
 
 \begin{quote}
 `Een daling van het prijspeil als gevolg van continue verbeteringen in
-alle productietakken heeft niet dezelfde problematische gevolgen als een
+alle productietakken heeft niet dezelfde problematische gevolgen als
 deflatie. Theorie is tot nu toe nauwelijks verder gekomen dan dit
 onderscheid tussen de effecten van prijswijzigingen die enerzijds
 afkomstig zijn van de \emph{goederenkant} en anderzijds van de
@@ -2642,7 +2636,7 @@ afkomstig zijn van de \emph{goederenkant} en anderzijds van de
 
 \section{De goudwisselstandaard}\label{de-goudwisselstandaard}
 
-De Vereniging voor Stabiel Geld had zich in de periode kort na de Eerste
+De Stable Money Association had zich in de periode kort na de Eerste
 Wereldoorlog snel laten gelden. Slechts een jaar na de oprichting wist
 de groep hun standpunt met succes te verdedigen op de Economische en
 Financiële Conferentie van Genua in 1922. Daar kwamen vertegenwoordigers
@@ -2657,13 +2651,13 @@ prijsstabiliteit nastreeft door het manipuleren van rentetarieven.
 
 Deze beleidslijnen voor prijsstabilisatie moesten per land worden
 beheerd: de stabilisatoren stelden voor dat de koopkracht van een valuta
-stabiel zou moeten blijven binnen de eigen nationale economie. Maar dit
+binnen de eigen nationale economie stabiel zou moeten blijven. Maar dit
 betekende dat als het totale prijspeil in verschillende landen zou
-beginnen te variëren, de waarde van hun nationale valuta tegen elkaar
-kon fluctueren, wat de internationale handel potentieel zou kunnen
+beginnen te variëren, de waarde van hun nationale valuta tegenover
+elkaar kon fluctueren, wat de internationale handel potentieel kon
 beïnvloeden.
 
-De stabilisatoren erkenden dit, maar vonden dat de afweging het waard
+De stabilisatoren erkenden dit, maar vonden dat die afweging het waard
 was.
 
 `{[}\ldots{]} Wanneer stabiliteit van het interne prijsniveau en
@@ -2673,16 +2667,16 @@ acuut is, is het behoud van het eerste ten koste van het laatste,
 gelukkig misschien, de weg van de minste weerstand.'\footnote{\hspace{0pt}Keynes,
   \emph{A Tract on Monetary Reform}, 164.}
 
-De stabilisatoren geloofden ook dat internationale handel vrij soepel
-kon doorgaan onder een goudwisselstandaard, als de centrale banken zich
-zouden houden aan wat Keynes de `regels van het spel' had genoemd. In
-een notendop, landen met een handelsoverschot (die dus meer exporteren
-dan importeren) en daardoor een instroom van goud hebben, zouden volgens
-deze regels de rentetarieven moeten verlagen. Dit zou meer leningen
-stimuleren, wat zou resulteren in meer valuta in omloop en uiteindelijk
-hogere prijzen in het algemeen. Landen met een handelstekort zouden naar
-verwachting de rentetarieven verhogen om het tegenovergestelde effect te
-bereiken.
+De stabilisatoren geloofden ook dat internationale handel onder een
+goudwisselstandaard vrij soepel kon doorgaan, als de centrale banken
+zich zouden houden aan wat Keynes de `regels van het spel' had genoemd.
+In een notendop, landen met een handelsoverschot (die dus meer
+exporteren dan importeren) en daardoor een instroom van goud hebben,
+zouden volgens deze regels de rentetarieven moeten verlagen. Dit zou
+meer leningen stimuleren, wat zou resulteren in meer valuta in omloop en
+uiteindelijk hogere prijzen in het algemeen. Landen met een
+handelstekort zouden naar verwachting de rentetarieven verhogen om het
+tegenovergestelde effect te bereiken.
 
 Het verhoogde prijspeil in landen met een handelsoverschot zou de
 producten van dat land minder aantrekkelijk moeten maken voor export,
@@ -2694,9 +2688,10 @@ verminderen. Net als onder een systeem met zwevende fiatvaluta zou de
 verandering in totale prijzen tussen landen moeten helpen om het
 handelsevenwicht tussen hen in evenwicht te brengen.
 
-Ook Hayek erkende dat een dergelijk handelsevenwicht behouden kon worden
-onder de goudwisselstandaard, net zoals onder de fiatgelstandaard. Maar
-hij was het er niet mee eens dat dit een goede zaak was.
+Ook Hayek erkende dat een dergelijk handelsevenwicht onder de
+goudwisselstandaard behouden kon worden, net zoals onder de
+fiatgeldstandaard. Maar hij was het er niet mee eens dat dit een goede
+zaak was.
 
 \section{Monetair nationalisme}\label{monetair-nationalisme}
 
@@ -2710,8 +2705,8 @@ Hayek stelde dat, onder zowel de goudwisselstandaard als ook een zwevend
 valutasysteem, de bedrijven en individuen die profiteren van een
 exporttoename (of in tegendeel, die lijden onder een exportdaling) niet
 noodzakelijkerwijs dezelfde bedrijven of individuen zijn die
-verantwoordelijk zijn voor de toename (of afname) van
-grensoverschrijdende handel.
+verantwoordelijk zijn voor de toename (of afname) van handel met het
+buitenland.
 
 `Als we kijken naar de methoden die beschikbaar zijn voor het bankwezen
 om een uitbreiding of inkrimping van krediet te realiseren, is er geen
@@ -2730,20 +2725,20 @@ in een vrije markt zou zijn. Dit zorgt voor winnaars en verliezers:
 schuldenaren profiteren van lagere rentetarieven, terwijl schuldeisers
 eronder lijden. Er is echter geen reden om aan te nemen dat de handelaar
 die zijn export verhoogt een schuldenaar is. Hij zou net zo goed een
-schuldeiser kunnen zijn, in welk geval hij indirect schade lijdt door
-zijn eigen toename in internationale verkopen.
+schuldeiser kunnen zijn, in welk geval hij door zijn eigen toename in
+internationale verkopen indirect schade lijdt.
 
-In plaats van alleen de twee handelspartijen te beïnvloeden die zaken
-doen over grenzen heen, zorgde internationale handel onder de
+In plaats van alleen de twee handelspartijen te beïnvloeden die over
+grenzen heen zaken doen, zorgde internationale handel onder de
 goudwisselstandaard in wezen voor een herverdeling van middelen via de
-kredietmarkten, zo merkte Hayek op.
+kredietmarkten, merkte Hayek op.
 
 \begin{quote}
 `Er zijn daarentegen sterke argumenten om te geloven dat de last van de
-verandering geheel of tot een mate die op geen enkele manier
+verandering geheel, of tot een mate die op geen enkele manier
 gerechtvaardigd is door de onderliggende verandering in de werkelijke
-situatie, zal vallen op de investeringsactiviteit in beide
-landen.'\footnote{\hspace{0pt}Hayek, \emph{Monetary Nationalism},
+situatie, op de investeringsactiviteit in beide landen zal
+vallen.'\footnote{\hspace{0pt}Hayek, \emph{Monetary Nationalism},
   55--56.}
 \end{quote}
 
@@ -2776,13 +2771,12 @@ over grenzen heen, concludeerde Hayek.
 \section{Neutraal geld}\label{neutraal-geld-1}
 
 Hayek verwierp stabilisatiebeleid en hij verwierp ook monetair
-nationalisme. In plaats daarvan pleitte hij voor een homogeen,
-internationaal soort geld met een vaste hoeveelheid. Of wat hij
-\emph{neutraal geld} noemde.
+nationalisme. Hij pleitte daarom voor een homogeen, internationaal soort
+geld met een vaste hoeveelheid. Of wat hij \emph{neutraal geld} noemde.
 
 Hayek verwierp resoluut de aanname van stabilisatoren dat monetaire
-stabiliteit op nationaal niveau gemeten zou moeten worden. Hij betoogde
-dat, indien geld net zo gemakkelijk van het ene naar het andere land kan
+stabiliteit op nationaal niveau gemeten moest worden. Hij betoogde dat,
+indien geld net zo gemakkelijk van het ene naar het andere land kan
 bewegen als binnen regio's van hetzelfde land, een algehele
 prijsstijging binnen een land simpelweg een toename in vraag naar
 goederen en diensten uit dat land weerspiegelt. Dit zou precies aan de
@@ -2793,11 +2787,11 @@ Een homogeen geld zou eenvoudig functioneren in de internationale
 handel: de betaling zou effect hebben op de verzender en de ontvanger en
 niemand anders, ongeacht in welke landen zij wonen. Een grenzeloze
 valuta zou daarom het beste het interspatiële prijssysteem mogelijk
-maken, zo redeneerde de Oostenrijker, mensen in staat stellend om
-prijzen te vergelijken over verschillende locaties.
+maken, zo redeneerde de Oostenrijker, en mensen in staat stellen om
+prijzen over verschillende locaties te vergelijken.
 
-Geld met een vaste hoeveelheid zou ondertussen het intertemporele
-prijssysteem het beste faciliteren, omdat dit mensen in staat stelt om
+Geld met een vaste geldhoeveelheid zou ook het intertemporele
+prijssysteem het beste faciliteren, omdat het mensen in staat stelt om
 prijzen op verschillende tijdstippen nauwkeurig te vergelijken:
 
 `Alleen met een geldsysteem waarin elke verandering in de hoeveelheid
@@ -2815,14 +2809,13 @@ zouden de prijzen dalen als de kosten voor de productie van goederen
 dalen. Een geleidelijke daling van de prijzen -- deflatie -- was volgens
 Hayek de natuurlijke uitkomst van elke gezonde economie.
 
-Echter, Hayek vond wel dat er een heel echt probleem was met een zo
-homogeen geld met vaste geldhoeveelheid. Hij geloofde niet dat het kon
-worden bewerkstelligd.
+Volgens hayek had zo'n homogeen geld met vaste geldhoeveelheid maar een
+groot probleem: hij geloofde niet dat het kon worden bewerkstelligd.
 
-Ten eerste, zelfs als een dergelijke munt gecreëerd zou kunnen worden,
-zouden mensen nog steeds kunnen kiezen om krediet en andere
-alternatieven te gebruiken in plaats van daadwerkelijk geld, wat
-neerkomt op een feitelijke verhoging van de geldhoeveelheid.
+Ten eerste, zelfs als een dergelijke munt gecreëerd kon worden, zouden
+mensen nog steeds kunnen kiezen om krediet en andere alternatieven te
+gebruiken in plaats van daadwerkelijk geld, wat neerkomt op een
+feitelijke verhoging van de geldhoeveelheid.
 
 `Het is uiteraard onmogelijk om {[}de hoeveelheid ruilmiddelen voor
 altijd vast te stellen{]}, gezien de altijd aanwezige mogelijkheid om
@@ -2836,16 +2829,18 @@ geldhoeveelheid.'\footnote{\hspace{0pt}Hayek, \emph{Intertemporal Price
 Maar nog belangrijker, Hayek was van mening dat een homegene valuta met
 een vaste geldhoeveelheid überhaupt niet kon worden aangenomen, omdat
 hij er niet van overtuigd was dat er enige internationale autoriteit zou
-zijn die het vertrouwen zou krijgen om dergelijke valuta uit te geven.
-Iets zo belangrijk als een wereldwijde monetaire standaard zou de
-sterkste garantie moeten bieden dat het universeel aanvaardbaar en
-toegankelijk zal blijven. Maar Hayek dacht dat er geen bekende instantie
-was die deze garantie kon bieden.
+zijn die het vertrouwen kreeg om dergelijke valuta uit te geven. Iets zo
+belangrijk als een wereldwijde monetaire standaard zou de sterkste
+garantie moeten bieden dat het universeel aanvaardbaar en toegankelijk
+zal blijven. Maar Hayek dacht dat er geen bekende instantie was die deze
+garantie kon bieden.
 
+\begin{quote}
 `{[}\ldots{]} zolang er afzonderlijke soevereine staten zijn, zal er
 altijd de dreiging van oorlog opdoemen, of het risico van het instorten
 van de internationale monetaire regelingen om een andere
 reden.'\footnote{\hspace{0pt}Hayek, \emph{Monetary Nationalism}, 87.}
+\end{quote}
 
 Neutraal geld was onmogelijk omdat, op een zeer fundamenteel niveau,
 naties elkaar niet konden vertrouwen.
@@ -2896,15 +2891,16 @@ goudconvertibiliteit op om het pond te devalueren.
 Als een van de weinige landen die tijdens de oorlog een beperkte vorm
 van goudconvertibiliteit had gehandhaafd, was de Verenigde Staten
 aanvankelijk terughoudend om deel te nemen aan enigerlei devaluatie van
-de munteenheid. Op dat moment was een troy ounce goud precies \$ 20,67
-waard, en de Federal Reserve was in de vroege jaren 1930 nog steeds
-verplicht om zich te houden aan de gouddekkingsgraad van 40 procent.
+de munteenheid. Op dat moment was een \emph{troy ounce} goud precies \$
+20,67 waard, en de \emph{Federal Reserve} was in de vroege jaren 1930
+nog steeds verplicht om zich aan de gouddekkingsgraad van 40 procent te
+houden.
 
 Maar deze dekkingsratio begon een belemmerende factor te vormen toen
 president Franklin Roosevelt de Keynesiaanse methoden toepaste in een
 poging om de Amerikaanse economie uit de economische depressie te
-helpen. Uiteindelijk besloot hij de obstakels die hij tegenkwam op een
-ongekende manier te verwijderen.
+helpen. Uiteindelijk besloot hij diee obstakels op een ongekende manier
+te verwijderen.
 
 Via Uitvoeringsbevel 6102, goedgekeurd met warme steun van
 Keynes,\footnote{\hspace{0pt}Nicholas Wapshott, \emph{Keynes \& Hayek:
@@ -2975,13 +2971,13 @@ omgekeerde volgorde: elke letter wordt vervangen door de vorige letter
 in het alfabet ( `Tfdsfu' wordt weer `Secret').
 
 Deze +1 coderingssleutel is natuurlijk niet erg sterk. Een tegenstander
-die vastbesloten is om de resulterende ciphertext te ontcijferen - een
-\emph{cryptanalist} - zou het waarschijnlijk bij hun eerste poging
-raden. En zelfs al zouden ze dat niet doen, er zijn een aantal patronen
-in een versleutelde tekst die gespecialiseerde codekrakers kunnen helpen
-te bepalen welke vervangende letters waarschijnlijk overeenkomen met
-welke originele letters. Vooral in langere teksten kunnen aanwijzingen
-worden gevonden in de frequentie van specifieke letters en de lengte van
+die vastbesloten is om de resulterende ciphertext te ontcijferen -- een
+\emph{cryptanalist} -- zou het waarschijnlijk bij hun eerste poging
+raden. En zelfs al doen ze dat niet, zijn er toch een aantal patronen in
+een versleutelde tekst die gespecialiseerde codekrakers kunnen helpen te
+bepalen welke vervangende letters waarschijnlijk overeenkomen met welke
+originele letters. Vooral in langere teksten kunnen aanwijzingen worden
+gevonden in de frequentie van specifieke letters en de lengte van
 woorden, om maar een paar voorbeelden te noemen.
 
 Moderne coderingssleutels gebruikten daarom veel geavanceerdere
@@ -3067,7 +3063,7 @@ cryptografen van het land binnengehaald. Waarschijnlijk bleef elk echt
 baanbrekend onderzoek, en de superieure cryptografische technieken die
 daaruit voortkwamen, geclassificeerd.
 
-Het idee dat de NSA belangrijke informatie voor het publiek zou kunnen
+Het idee dat de NSA belangrijke informatie voor het publiek kon
 achterhouden, zat helemaal niet lekker bij Diffie.
 
 \section{Stanford}\label{stanford}
@@ -3093,12 +3089,12 @@ van het vraagstuk van \emph{authenticatie}.
 
 In de fysieke wereld worden documenten doorgaans geverifieerd door
 middel van persoonlijke, geschreven handtekeningen. Mensen ondertekenen
-een brief om te bewijzen dat ze echt degenen zijn die hem hebben
-geschreven, of ze voegen hun handtekening toe aan een contract om het
-juridisch bindend te maken. Maar, zo bedacht Diffie, naarmate er meer
-documenten digitaal zouden worden, zouden mensen een digitaal equivalent
-van een handtekening nodig hebben om te bewijzen dat zij echt degenen
-zijn die de inhoud van deze documenten goedkeurden.
+een brief om te bewijzen dat ze echt degenen zijn die hem geschreven
+hebben, of ze voegen hun handtekening toe aan een contract om het
+juridisch bindend te maken. Maar, zo bedacht Diffie, naarmate documenten
+meer digitaal worden, zouden mensen een digitaal equivalent van een
+handtekening nodig hebben om te bewijzen dat zij echt degenen zijn die
+de inhoud van deze documenten goedkeurden.
 
 Het creëren van een dergelijke vorm van digitale authenticatie was
 echter niet zo eenvoudig: Diffie en McCarthy brachten talloze uren door
@@ -3236,19 +3232,18 @@ een geheime sleutel die inderdaad geheim moest blijven, en een publieke
 sleutel die vrijuit gedeeld kon worden.
 
 Diffie was van mening dat de sleutels wiskundig met elkaar verbonden
-moesten zijn, waarbij de publieke sleutel in essentie zou worden
-afgeleid van de geheime sleutel door middel van een soort
-eenrichtingsfunctie. Zijn visie was erop gericht dat een verzender --
-laten we haar `Alice' noemen, zoals cryptografen graag doen -- een
-bericht zou versleutelen met haar geheime sleutel, waarna de beoogde
-ontvanger, `Bob', het zou kunnen ontcijferen met behulp van haar
-publieke sleutel.
+moesten zijn, waarbij de publieke sleutel in essentie van de geheime
+sleutel afgeleid werd door middel van een soort eenrichtingsfunctie.
+Zijn visie was erop gericht dat een verzender -- laten we haar `Alice'
+noemen, zoals cryptografen graag doen -- een bericht versleutelde met
+haar geheime sleutel, waarna de beoogde ontvanger, `Bob', het kon
+ontcijferen met behulp van haar publieke sleutel.
 
 Als Bob het bericht inderdaad kon ontcijferen met Alice's publieke
-sleutel, zou dit bewijzen dat het bericht specifiek was versleuteld met
-Alice's geheime sleutel. Dit zou in feite een vorm van authenticatie
-mogelijk maken, aangezien de versleutelde versie van een bericht zou
-dienen als Alice's digitale handtekening.
+sleutel, bewijst dit dat het bericht specifiek met Alice's geheime
+sleutel was versleuteld. Dit maakt in feite een vorm van authenticatie
+mogelijk, aangezien de versleutelde versie van een bericht als Alice's
+digitale handtekening zou dienen.
 
 Deze digitale handtekeningen zouden zelfs krachtiger zijn dan geschreven
 handtekeningen, aangezien een cryptografische handtekening alleen geldig
@@ -3326,25 +3321,24 @@ op zekere hoogte, het probleem zou kunnen oplossen.
 
 Zo zou het werken.
 
-Eerst zou Alice een groot aantal cryptografische puzzels maken,
-misschien wel miljoenen of zelfs meer. De oplossing voor elke puzzel zou
-bestaan uit een uniek getal en een even unieke geheime sleutel. Alice
-zelf zou de oplossing voor elke puzzel al kennen; ze zou weten welke
-getallen bij welke geheime sleutels horen. Maar elke individuele puzzel
-zou ook door iemand anders kunnen worden opgelost, met een beetje
-rekenkracht.
+Eerst maakt Alice een groot aantal cryptografische puzzels, misschien
+wel miljoenen of zelfs meer. De oplossing voor elke puzzel bestaat uit
+een uniek getal en een even unieke geheime sleutel. Alice zelf kent de
+oplossing voor elke puzzel al: ze zeet welke getallen bij welke geheime
+sleutels horen. Maar elke individuele puzzel kan ook door iemand anders
+worden opgelost, mits een beetje rekenkracht.
 
-Alice zou vervolgens alle puzzels naar Bob sturen. Bob zou op zijn beurt
-willekeurig een puzzel kiezen, en deze oplossen met een beetje
-rekenkracht om het unieke nummer en de bijbehorende geheime sleutel te
+Alice stuurt vervolgens alle puzzels naar Bob. Bob zou op zijn beurt
+willekeurig een puzzel kiezen, en deze met een beetje rekenkracht
+oplossen om het unieke nummer en de bijbehorende geheime sleutel te
 vinden. Daarna zou hij het nummer (maar niet de bijbehorende geheime
-sleutel) terugsturen naar Alice.
+sleutel) naar Alice terugsturen.
 
 Op basis van het unieke nummer dat Bob terugstuurt, weet Alice
 onmiddellijk welke geheime sleutel Bob daarbij heeft gevonden. Deze
-geheime sleutel zou dan de coderingssleutel zijn die ze met elkaar
-delen. Net als elke andere symmetrische coderingssleutel, zou deze
-worden gebruikt om berichten tussen hen te coderen en te decoderen.
+geheime sleutel is dan de coderingssleutel die ze met elkaar delen. Net
+als elke andere symmetrische coderingssleutel, wordt deze gebruikt om
+berichten tussen hen te coderen en te decoderen.
 
 Een luistervink die alle puzzels van Alice naar Bob zag, en ook welk
 uniek nummer Bob naar Alice terugstuurde, zou nog steeds de bijbehorende
@@ -3353,25 +3347,24 @@ geheime sleutel niet weten.
 Om erachter te komen welke sleutel Alice en Bob hebben gekozen, zou een
 luistervink beginnen met het willekeurig oplossen van alle puzzels (via
 \emph{brute kracht}) om dat ene unieke nummer te vinden dat Bob
-terugstuurde, wat tevens de geheime sleutel zou onthullen. Dit zou
-echter een rekenkundig intensief proces zijn. Afhankelijk van de
-hoeveelheid puzzels die aanvankelijk werden gemaakt (en de
-moeilijkheidsgraad om elke puzzel op te lossen), zou het veel
-rekenkracht en tijd in beslag kunnen nemen.
+terugstuurde, wat tevens de geheime sleutel zou onthullen. Dit is echter
+een rekenkundig intensief proces. Afhankelijk van de hoeveelheid puzzels
+die aanvankelijk gemaakt werden (en de moeilijkheidsgraad om elke puzzel
+op te lossen), zou het veel rekenkracht en tijd in beslag kunnen nemen.
 
-Alice en Bob zouden daarom een asymmetrisch voordeel hebben ten opzichte
-van de afluisteraar. Ze hoefden nauwelijks berekeningen uit te voeren om
-het eens te worden over een geheime sleutel, terwijl de afluisteraar
-heel veel berekeningen zou moeten uitvoeren om hun gesprek te decoderen.
+Alice en Bob hebben daarom een asymmetrisch voordeel ten opzichte van de
+afluisteraar. Ze hoefden nauwelijks berekeningen uit te voeren om het
+over een geheime sleutel eens te worden, terwijl de afluisteraar heel
+veel berekeningen moest uitvoeren om hun gesprek te decoderen.
 
 Deze oplossing vereiste echter wel dat Alice en Bob veel data met elkaar
-deelden in de vorm van puzzels. En de veiligheid van de oplossing zou
+deelden in de vorm van puzzels. En de veiligheid van de oplossing nam
 lineair toenemen met het totale aantal puzzels. Om het systeem tien keer
-moeilijker te kraken, zouden ze tien keer zoveel puzzels moeten delen;
-om het systeem honderd keer moeilijker te kraken, zouden ze honderd keer
-zoveel puzzels moeten delen, en zo voorts. In de praktijk suggereren
-data bronbeperkingen van normale gebruikers dat een goed gefinancierde
-aanvaller met een supercomputer in veel gevallen berichten binnen enkele
+moeilijker te kraken, moesten ze tien keer zoveel puzzels delen; om het
+systeem honderd keer moeilijker te kraken, moesten ze honderd keer
+zoveel puzzels delen, en zo voorts. In de praktijk suggereren limieten
+in data en rekenkracht van normale gebruikers dat een goed gefinancierde
+aanvaller met een supercomputer berichten in veel gevallen binnen enkele
 dagen zou kunnen ontcijferen.
 
 Desondanks had Merkle een oplossing bedacht die twee mensen de
@@ -3429,20 +3422,20 @@ Diffie-Hellman-sleuteluitwisseling (zoals deze oplossing bekend zou
 worden) dat Alice en Bob een gezamenlijk geheim kunnen afspreken: in
 essentie, een symmetrische coderingssleutel die alleen zij kennen.
 
-Om dit gedeelde geheim te genereren, zouden Alice en Bob sleutelparen
-gebruiken, zoals oorspronkelijk door Diffie werd geopperd. Hun geheime
-sleutels zouden in wezen gewoon zeer grote willekeurige getallen zijn,
-die zelfs de snelste supercomputers niet binnen een miljoen jaar zouden
-kunnen raden. Elke publieke sleutel kan vervolgens afgeleid worden van
-een geheime sleutel door middel van een eenrichtingsfunctie. Het
-berekenen van de publieke sleutel uit de geheime sleutel zou gemakkelijk
-zijn, terwijl het berekenen van de geheime sleutel uit de publieke
-sleutel in principe onmogelijk zou zijn.
+Om dit gedeelde geheim te genereren, gebruiken Alice en Bob
+sleutelparen, zoals oorspronkelijk door Diffie werd geopperd. Hun
+geheime sleutels zijn in wezen gewoon zeer grote willekeurige getallen,
+die zelfs de snelste supercomputers binnen een miljoen jaar niet kunnen
+raden. Elke publieke sleutel kan vervolgens van een geheime sleutel
+afgeleid worden door middel van een eenrichtingsfunctie. Het berekenen
+van de publieke sleutel uit de geheime sleutel is gemakkelijk, terwijl
+het berekenen van de geheime sleutel uit de publieke sleutel in principe
+onmogelijk is.
 
-Om het gedeelde geheim te produceren, zouden Alice en Bob elk hun eigen
-\emph{geheime sleutel} vermenigvuldigen met de \emph{publieke} sleutel
-van de ander. Dit zou hen beiden hetzelfde resultaat moeten geven: het
-gedeelde geheim.
+Om het gedeelde geheim te produceren, vermenigvuldigen Alice en Bob elk
+hun eigen \emph{geheime sleutel} met de \emph{publieke} sleutel van de
+ander. Dit moet hen beiden hetzelfde resultaat geven: het gedeelde
+geheim.
 
 Dit werkt omdat in beide gevallen het gedeelde geheim in essentie een
 combinatie is van beide geheime sleutels die telkens \emph{eenmaal} door
@@ -3463,7 +3456,7 @@ Immers, als de twee \emph{publieke} sleutels worden vermenigvuldigd, is
 het resultaat in wezen een combinatie van beide geheime sleutels, maar
 dan \emph{twee keer} door een eenrichtingsfunctie heen gegaan, en dus
 een keer te veel (als we de analogie voortzetten, is dit te vergelijken
-met (2 x 5) x (3 x 5), wat 150 zou zijn in plaats van 30).
+met (2 x 5) x (3 x 5), wat 150 is in plaats van 30).
 
 Het genereren van het gedeelde geheim vereist dus toegang tot ofwel de
 geheime sleutel van Alice of van Bob. Zolang zij deze geheim houden,
@@ -3701,32 +3694,30 @@ publieke-sleutelcryptografie.\footnote{David Chaum, \emph{Untraceable
 
 Dit is hoe het werkte.
 
-Als Alice een bericht aan Bob wil sturen, zou ze eerst zijn publieke
-sleutel moeten nemen en het bericht daarmee versleutelen. Op deze manier
-zou alleen Bob het bericht moeten kunnen ontcijferen.
+Als Alice een bericht aan Bob wil sturen, moest ze eerst zijn publieke
+sleutel nemen en het bericht daarmee versleutelen. Op deze manier kon
+alleen Bob het bericht ontcijferen.
 
-Maar ze zou het bericht niet rechtstreeks naar Bob sturen: een speurder
-die hun verbindingen monitort, zou dan kunnen zien dat de twee
-communiceren, wat Alice juist probeert te vermijden.
+Maar ze stuurt het bericht niet rechtstreeks naar Bob: een speurder die
+hun verbindingen monitort, zou dan kunnen zien dat de twee communiceren,
+wat Alice juist probeert te vermijden.
 
-In plaats daarvan zou Alice het versleutelde bericht nemen en daaraan
-het e-mailadres van Bob toevoegen. Vervolgens zou ze dit hele pakket
-(het versleutelde bericht voor Bob en zijn e-mailadres) nog een keer
-versleutelen, maar nu met de publieke sleutel die geassocieerd is met
-een speciale mixserver. Het bericht zou nu twee lagen van codering
-hebben: één laag voor het originele bericht en een andere laag voor het
-hele pakket. Alice zou dit dubbel versleutelde pakket dan naar de mixer
-sturen.
+In plaats daarvan neemt Alice het versleutelde bericht en voegt daar het
+e-mailadres van Bob aan toe. Vervolgens versleutelt ze dit hele pakket
+(het versleutelde bericht voor Bob en zijn e-mailadres) nog een keer,
+maar nu met de publieke sleutel die geassocieerd is met een speciale
+mixserver. Het bericht heeft nu twee lagen van codering: één laag voor
+het originele bericht en een andere laag voor het hele pakket. Alice
+stuurt dit dubbel versleutelde pakket dan naar de mixer.
 
-De server van de mixer zou op zijn beurt het pakket ontcijferen met zijn
-geheime sleutel, om het originele gecodeerde bericht en Bobs e-mailadres
-te vinden. De mixer zou dit gebruiken om het gecodeerde bericht naar Bob
-te sturen, die het vervolgens zou ontcijferen om Alice's originele
+Om het originele gecodeerde bericht en Bobs e-mailadres te vinden,
+ontcijfert de server van de mixer op zijn beurt het pakket met zijn
+geheime sleutel. De mixer gebruikt dit om het gecodeerde bericht naar
+Bob te sturen, die het vervolgens ontcijfert om Alice's originele
 bericht te lezen. Als tussenpersoon brak de mixer de directe link tussen
-Alice en Bob, waardoor het moeilijker werd voor de speurneus om te
+Alice en Bob, waardoor het voor de speurneus moeilijker werd om te
 concluderen dat ze communiceerden. Tenzij het duidelijk is uit de inhoud
-van het bericht, zou Bob zelf ook niet weten dat het van Alice afkomstig
-was.
+van het bericht, weet Bob zelf ook niet dat het van Alice afkomstig was.
 
 Dit basisopzet functioneert zolang je op de mixer kan rekenen en zolang
 deze niet aan de gluurder (of aan Bob) onthult dat hij het versleutelde
@@ -4307,11 +4298,11 @@ Het idee was dat geld aan de vrije markt overgelaten moest worden.
 \section{Denationaliseren van geld}\label{denationaliseren-van-geld}
 
 Hayek bepleitte zijn zaak voor het eerst in zijn toespraak tot de Goud
-en Monetaire Conferentie in Genève in 1975\footnote{Opnieuw gepubliceerd
-  in Friedrich A. Hayek, \emph{Choice in Currency: A Way to Stop
-  Inflation}.}. In 1976 presenteerde Hayek dit onconventionele voorstel
-uitvoerig in zijn boek \emph{Denationalisatie van Geld}. In essentie
-betoogde de econoom dat banken volledig gedereguleerd zouden moeten
+en Monetaire Conferentie in Genève in 1975.\footnote{Opnieuw
+  gepubliceerd in Friedrich A. Hayek, \emph{Choice in Currency: A Way to
+  Stop Inflation}.} In 1976 presenteerde Hayek dit onconventionele
+voorstel uitvoerig in zijn boek \emph{Denationalisatie van Geld}. In
+essentie betoogde de econoom dat banken volledig gedereguleerd moesten
 worden, zodat ze elk geld dat ze geschikt achten konden uitgeven: gedekt
 of ongedekt, inflatoir of deflatoir, al dan niet in bestaan gebracht
 door leningen, en tegen elk renteniveau dat ze wilden vragen.
@@ -4320,13 +4311,13 @@ Hayek stelde voor om het feitelijke staatsmonopolie op geld te
 beëindigen.
 
 In dit systeem (een behoorlijk radicale vorm van \emph{vrij bankieren})
-zouden banken concurreren om klanten hun geld te laten gebruiken. Hayek
+concurreren banken om klanten hun geld te laten gebruiken. Hayek
 geloofde dat juist deze concurrentie nodig was om de beste vorm van geld
-te ontwikkelen: zoals in elke vrije markt, zouden banken hun klanten een
-product moeten leveren -- in dit geval, geld zelf -- met betere
-eigenschappen dan de producten die hun concurrenten aanbieden. Hayek
-redeneerde dat deze concurrentie tot verbetering zou leiden, omdat de
-markt het beste beschikbare geld zou selecteren.
+te ontwikkelen: zoals in elke vrije markt, moeten banken hun klanten een
+product leveren -- in dit geval, geld zelf -- met betere eigenschappen
+dan de producten die hun concurrenten aanbieden. Hayek redeneerde dat
+deze concurrentie tot verbetering zou leiden, omdat de markt het beste
+beschikbare geld zou selecteren.
 
 Een bijzonder belangrijke eigenschap van elke munteenheid is
 ongetwijfeld de hoeveelheid geldeenheden, of specifieker, de
@@ -4335,10 +4326,9 @@ Gebruikers van een munteenheid zullen waarschijnlijk niet willen dat de
 voorraad te snel uitgebreid wordt, omdat dit de koopkracht van de
 eenheden die ze bezitten, zou schaden. Hayek geloofde dat concurrentie
 in dit domein de uitgevers van valuta eerlijk zou houden: als één bank
-te veel van zijn geld zou creëren, zouden klanten snel naar een
-alternatief overstappen. In feite zou ongewenste inflatie in essentie
-onmogelijk zijn, omdat mensen gewoonweg kunnen kiezen om niet mee te
-doen.
+te veel van zijn geld creërde, zouden klanten snel naar een alternatief
+overstappen. In feite zou ongewenste inflatie in essentie onmogelijk
+zijn, omdat mensen gewoonweg kunnen kiezen om niet mee te doen.
 
 Terwijl het vrijwel onmogelijk was gebleken om overheden te stoppen met
 het opblazen van hun nationale munteenheden om hun uitgaven te
@@ -4399,11 +4389,11 @@ binnen de Oostenrijkse school van economie. Veel Oostenrijkers waren van
 mening dat de markt al een lange tijd geleden de beste vorm van geld had
 gekozen. In een strijd die duizenden jaren heeft geduurd, had goud
 gewonnen. Zij hielden vol dat goud nog steeds de beste vorm van geld
-was, en dat nieuwe valuta's op z'n minst \emph{gedekt} zouden moeten
-worden door het kostbare metaal.
+was, en dat nieuwe valuta's op z'n minst \emph{gedekt} moesten worden
+door het kostbare metaal.
 
-Hoewel het in een vrij bankensysteem uiteraard mogelijk zou zijn om een
-door goud gedekte valuta te bieden, verwachtte Hayek niet dat de meeste
+Hoewel het in een vrij bankensysteem uiteraard mogelijk was om een door
+goud gedekte valuta te bieden, verwachtte Hayek niet dat de meeste
 mensen hiervoor zouden kiezen. Hij erkende dat de markt oorspronkelijk
 goud had gekozen als de beste vorm van geld, maar Hayek geloofde dat
 regeringen sindsdien de verdere ontwikkeling van geld hadden verhinderd
@@ -4422,7 +4412,7 @@ zo voordelig is voor de gebruiker als elk ander.'\footnote{Friedrich A.
   Hayek, \emph{The Argument Refined}, 83.}
 
 Hayek overwoog echter wel dat nieuwe munten van de vrije markt mogelijk
-in eerste instantie door fiatgeld gedekt zouden moeten worden. Dit zou
+in eerste instantie door fiatgeld gedekt moesten worden. Dit zou
 vergelijkbaar zijn met hoe fiatgeld in eerste instantie door goud werd
 gedekt tot mensen het nieuwe geld leerden vertrouwen. Dit kon een tijd
 duren, gaf de econoom toe: `Het bijgeloof sterft maar
@@ -4432,15 +4422,15 @@ fiatgeld continu waarde verliest tegenover het privégeld. Ze zouden door
 economische prikkels tot het inzicht komen dat wat ze echt van geld
 verwachten, schaarste is.
 
-Echter, in een vrij bankensysteem zou er geen regulering zijn die
-garandeert dat gedekte valuta's inderdaad uitwisselbaar zouden zijn voor
-datgene waardoor ze worden gedekt. Hoewel specifieke afspraken onder
-regulier contractrecht bindend kunnen zijn, zouden er geen bijzondere
-wetten zijn over de dekkingsratio en zou er ook geen kredietverstrekker
-in uiterste nood zijn. Banken zouden de kosten van hun eigen risico's
-dragen, en dat geldt ook voor de klanten die ervoor kiezen om deze
-banken te vertrouwen met hun geld. Maar dit kan misschien worden gezien
-als een goede zaak: vrij bankieren zou het morele risico wegnemen.
+In een vrij bankensysteem zou er wel geen regulering zijn die garandeert
+dat gedekte valuta's inderdaad uitwisselbaar waren voor datgene waardoor
+ze gedekt werden. Hoewel specifieke afspraken onder regulier
+contractrecht bindend kunnen zijn, zouden er geen bijzondere wetten zijn
+over de dekkingsratio en zou er ook geen kredietverstrekker in uiterste
+nood zijn. Banken zouden de kosten van hun eigen risico's dragen, en dat
+geldt ook voor de klanten die ervoor kiezen om deze banken te vertrouwen
+met hun geld. Maar dit kan misschien worden gezien als een goede zaak:
+vrij bankieren zou het morele risico wegnemen.
 
 En door vrije banken volledig onafhankelijk van het bestaande financiële
 systeem te laten functioneren, geloofde Hayek dat het plan ook
@@ -4483,15 +4473,15 @@ dergelijke bedrijven praktisch onmogelijk.
 Hayek wist dat het volledig elimineren van al deze wettelijke en fiscale
 obstakels -- ware deregulatie -- op enorme tegenstand zou stuiten.
 
-Hij verwachtte dat het merendeel van deze weerstand afkomstig zou zijn
-van overheden: precies dezelfde partijen die deze deregulering
-uiteindelijk zouden moeten doorvoeren en juridisch de ruimte voor
-valutaconcurrentie zouden moeten faciliteren. Hayek was van mening dat
-overheden elke reden hadden om dit te voorkomen: zij waren de grootste
-begunstigden van het fiatgeldsysteem en hadden in feite het monopolie op
-geld. Hayek geloofde dat als overheidsvaluta zouden moeten concurreren
-met vrijemarktvaluta's, deze geen schijn van kans zouden hebben, en
-overheden dus waarschijnlijk niet tevreden zijn met vrije banken.
+Het merendeel van deze weerstand, verwachtte hij, zou afkomstig zijn van
+overheden: precies dezelfde partijen die deze deregulering uiteindelijk
+moesten doorvoeren en juridisch de ruimte voor valutaconcurrentie
+moesten faciliteren. Hayek was van mening dat overheden elke reden
+hadden om dit te voorkomen: zij waren de grootste begunstigden van het
+fiatgeldsysteem en hadden in feite het monopolie op geld. Hayek geloofde
+dat als overheidsvaluta moesten concurreren met vrijemarktvaluta's, deze
+geen schijn van kans zouden hebben, en overheden dus waarschijnlijk niet
+tevreden zijn met vrije banken.
 
 Om het nog moeilijker te maken, zou het merendeel van de economen
 waarschijnlijk ook tegen zijn, voorzag Hayek. Geld van de vrije markt
@@ -4523,7 +4513,7 @@ afwijzen ervan', schreef Hayek.\footnote{Friedrich A. Hayek, \emph{The
 
 Met overheden, economen en bankiers als voorziene tegenstanders,
 verwachtte Hayek zeker dat het realiseren van vrij bankieren een
-uitdagende strijd zou worden, maar toch geloofde hij sterk dat het
+moeilijke strijd ging zijn, maar toch geloofde hij sterk dat het
 desondanks gedaan moest worden.
 
 Hayek schreef in de tweede, verfijnde versie van zijn boek:
@@ -4658,7 +4648,7 @@ van dubbele uitgaven}.\footnote{David Chaum, \emph{Blind Signatures for
 
 Eenvoudig gezegd, als valuta uitsluitend bestaat uit digitale
 informatie, enen en nullen, is het een fluitje van een cent om te
-kopiëren. Een enkele \emph{digitale dollar} kan worden gerepliceerd en
+kopiëren. Een enkele \emph{digitale dollar} kan gerepliceerd worden en
 naar twee verschillende ontvangers worden gestuurd\ldots{} of zelfs naar
 een miljoen verschillende ontvangers, tot het punt dat het geld last
 heeft van hyperinflatie. Het spreekt voor zich dat dit soort vervalsing
@@ -4686,10 +4676,10 @@ het eerste verzoek dat het ontving).
 
 Dit lost het probleem van dubbele uitgaven op\ldots{} maar het
 illustreert ook het privacyprobleem waar Chaum zich zorgen over maakte:
-de bank zou precies weten wie aan wie betaalt, hoeveel en wanneer.
-Bovendien zou de bank totale controle hebben over ieders saldi, en zou
-het mogelijk betalingen kunnen blokkeren of terugdraaien, en zelfs geld
-kunnen confisceren of verwijderen.
+de bank weet precies wie aan wie betaalt, hoeveel en wanneer. Bovendien
+heeft de bank totale controle over ieders saldi, en zou het mogelijk
+betalingen kunnen blokkeren of terugdraaien, en zelfs geld kunnen
+confisceren of verwijderen.
 
 Daarom begon Chaum aan een zoektocht naar een manier waarop zo'n derde
 partij (de bank) dubbele uitgaven kon detecteren, zonder de mogelijkheid
@@ -4722,29 +4712,28 @@ gemaakt met haar geheime sleutel.
 
 Een blinde handtekening voegt dus één laag van encryptie toe aan de mix.
 
-Om Alice een blinde handtekening te laten maken, zou Bob eerst een
-speciaal soort coderingssleutel genereren, de zogenaamde
-\emph{verblindende sleutel}, waarmee hij een bericht zou coderen
-(versleutelen). Bob zou het versleutelde bericht vervolgens aan Alice
-geven, die het met haar geheime sleutel cryptografisch zou ondertekenen.
-Wanneer ze het gecodeerde bericht ondertekent, weet ze niet wat het
-originele bericht eigenlijk is: ze \emph{ondertekent blind}.
+Om Alice een blinde handtekening te laten maken, maakt Bob eerst een
+speciaal soort coderingssleutel aan, de zogenaamde \emph{verblindende
+sleutel}, waarmee hij een bericht versleutelt. Bob geeft het
+versleutelde bericht vervolgens aan Alice, die het met haar geheime
+sleutel cryptografisch ondertekent. Wanneer ze het gecodeerde bericht
+ondertekent, weet ze niet wat het originele bericht eigenlijk is: ze
+\emph{ondertekent blind}.
 
-De resulterende handtekening is wiskundig verbonden aan Alice's publieke
-sleutel, zoals elke handtekening zou zijn. Dat wil zeggen, haar publieke
-sleutel kan worden gebruikt om het exacte versleutelde bericht dat zij
+De resulterende handtekening is wiskundig aan Alice's publieke sleutel
+verbonden, zoals elke handtekening. Dat wil zeggen, haar publieke
+sleutel kan gebruikt worden om het exacte versleutelde bericht dat zij
 ondertekende te reproduceren (het bericht zelf zou nog steeds
 versleuteld zijn; het zou hetzelfde versleutelde \emph{blob}
 reproduceren dat zij van Bob ontving).
 
 Maar Bob kan ook \emph{als eerste} de verblindende sleutel gebruiken om
 de laag encryptie die hiermee gecreëerd is, te verwijderen. In principe
-zou dit moeten resulteren in een nieuwe, geldige handtekening van Alice,
-die dit keer overeenkomt met het originele bericht. Deze handtekening
-wordt de blinde handtekening genoemd. Met de eerste laag encryptie
-verwijderd door Bob, kan nu iedereen de publieke sleutel van Alice
-gebruiken om het originele bericht te reproduceren vanuit de blinde
-handtekening.
+resulteert dit in een nieuwe, geldige handtekening van Alice, die dit
+keer overeenkomt met het originele bericht. Deze handtekening wordt de
+blinde handtekening genoemd. Met de eerste laag encryptie verwijderd
+door Bob, kan nu iedereen de publieke sleutel van Alice gebruiken om het
+originele bericht vanuit de blinde handtekening te reproduceren.
 
 Met andere woorden, iedereen die het originele bericht heeft, kan op dat
 moment Alice's publieke sleutel gebruiken om te verifiëren dat de blinde
@@ -4754,13 +4743,13 @@ geeft, kan zij haar eigen publieke sleutel gebruiken om te verifiëren
 dat zij inderdaad een versleutelde versie van dat originele bericht
 blind ondertekende.
 
-Als een realistische analogie die Chaum in zijn paper gebruikte, zou het
-zijn alsof Bob een brief in een envelop met carbonpapier stopt en deze
-envelop aan Alice overhandigt, die de buitenkant van de envelop zou
-ondertekenen en deze terug zou geven aan Bob. Als Bob dan de envelop
+Als een realistische analogie die Chaum in zijn paper gebruikte, is het
+alsof Bob een brief in een envelop met carbonpapier stopt en deze
+envelop aan Alice overhandigt, die de buitenkant van de envelop
+ondertekent en deze teruggeeft aan Bob. Als Bob dan de envelop
 verwijdert en Alice de brief toont met een carbonkopie van haar
-handtekening, zou ze weten dat de brief inderdaad in de envelop zat die
-ze had ondertekend.
+handtekening, weet ze dat de brief inderdaad in de envelop zat die ze
+had ondertekend.
 
 \section{Anonieme betalingen}\label{anonieme-betalingen}
 
@@ -4772,66 +4761,63 @@ we zeggen dat Alice Bank vier klanten heeft: Bob, Carol, Dan en Erin.
 
 Nu wil Bob iets kopen van Carol met elektronisch geld.
 
-Ten eerste zou Bob elektronisch geld nodig hebben. Hiervoor zou hij een
-\emph{opname} bij Alice Bank aanvragen (idealiter had hij deze opname al
-gedaan voordat hij Carol wilde betalen, maar dat is een detail). Vreemd
-genoeg, om de opname te doen, creëert Bob eigenlijk zelf de digitale
-dollars in de vorm van unieke serienummers. Vervolgens versleutelt hij
-deze digitale dollars (serienummers) met een verblindende sleutel en
-stuurt ze naar Alice Bank.
+Ten eerste heeft Bob elektronisch geld nodig. Om dit te verkrijgen,
+vraagt hij een \emph{opname} aan bij Alice Bank (idealiter had hij deze
+opname al gedaan voordat hij Carol wilde betalen, maar dat is een
+detail). Vreemd genoeg creëert Bob de digitale dollars zelf in de vorm
+van unieke serienummers. Vervolgens versleutelt hij deze nummers met een
+verblindende sleutel en stuurt ze naar Alice Bank.
 
-Alice Bank zou dan elke versleutelde dollar blindelings ondertekenen, en
-de handtekeningen terug sturen naar Bob. Voor elke versleutelde dollar
-die Alice Bank, blind ondertekend, terug naar Bob stuurt, trekt Alice
-Bank een reguliere dollar af van Bobs bankrekening.
+Alice Bank ondertekent elke versleutelde dollar blindelings en stuurt de
+ondertekende versies terug naar Bob. Voor elke ondertekende dollar trekt
+Alice Bank een reguliere dollar van Bobs bankrekening af.
 
-Bob zou vervolgens een laag van de encryptie verwijderen met behulp van
-zijn verblindende sleutel, zodat Alice's handtekeningen worden omgezet
-in blinde handtekeningen. Om Carol te betalen, zou hij simpelweg de
-digitale dollars en de bijbehorende blinde handtekeningen naar haar
-sturen. Carol gebruikt dan de publieke sleutel van Alice Bank om deze
-handtekeningen te verifiëren en als deze kloppen, stuurt ze onmiddellijk
-de digitale dollars en blinde handtekeningen door naar Alice Bank.
+Daarna verwijdert Bob een laag van de encryptie met behulp van zijn
+verblindende sleutel, waardoor Alice's ondertekeningen worden omgezet in
+blinde handtekeningen. Om Carol te betalen, stuurt hij de digitale
+dollars en bijbehorende blinde handtekeningen naar haar. Carol gebruikt
+de publieke sleutel van Alice Bank om de handtekeningen te verifiëren.
+Als deze correct zijn, stuurt ze de digitale dollars en de blinde
+handtekeningen door naar Alice Bank.
 
-Alice Bank zou deze digitale dollars nog nooit eerder gezien hebben,
-aangezien ze de eerste keer dat ze deze ontving nog versleuteld waren.
-Maar, belangrijk is dat Alice Bank in staat zou zijn te bevestigen dat
-deze met haar eigen geheime sleutel waren ondertekend. Alice Bank zou
-vervolgens de serienummers controleren met een lokale database om er
-zeker van te zijn dat dezelfde digitale dollars niet al door iemand
-anders waren gedeponeerd, om zo dubbele uitgaven te
-voorkomen.\footnote{Chaum zou later ook een oplossing voorstellen
-  waarbij dubbel uitgeven de anonimiteit van de dader zou kunnen
-  opheffen, waardoor de noodzaak om elke binnenkomende betaling direct
-  te controleren aan de hand van de bankgegevens enigszins wordt
-  beperkt, aangezien de dader van een dubbele-uitgavenaanval kan worden
+Alice Bank heeft deze digitale dollars nog nooit eerder gezien, omdat ze
+de eerste keer versleuteld waren. Het belangrijkste is dat ze kan
+bevestigen dat ze met haar eigen geheime sleutel zijn ondertekend.
+Vervolgens controleert Alice Bank de serienummers in haar lokale
+database om er zeker van te zijn dat dezelfde digitale dollars niet al
+door iemand anders zijn gedeponeerd, wat dubbele uitgaven
+voorkomt.\footnote{Chaum zou later ook een oplossing voorstellen waarbij
+  dubbel uitgeven de anonimiteit van de dader zou kunnen opheffen,
+  waardoor de noodzaak om elke binnenkomende betaling direct te
+  controleren aan de hand van de bankgegevens enigszins wordt beperkt,
+  aangezien de dader van een dubbele-uitgavenaanval kan worden
   geïdentificeerd.}
 
-Als de digitale dollars een geldige handtekening bevatten en voorheen
-ongebruikt zijn, passeren ze beide controles. Vervolgens maakt Alice
-Bank aantekening van deze digitale dollars in haar lokale database om
-dubbele uitgaven in de toekomst te voorkomen. Daarna voegt ze het
-equivalent van normale dollars toe aan Carols bankrekening en bevestigt
-dit aan haar. Met deze bevestiging weet Carol dat ze een geldige
-digitale dollar van Bob heeft ontvangen en geeft ze hem wat hij bij haar
-gekocht heeft.\footnote{Als een handig extra detail bevat het systeem
-  ook een soort fraudepreventiecontrole, zij het een die ten koste gaat
-  van privacy als en wanneer gebruikers ervoor zouden kiezen deze te
+Als de digitale dollars een geldige handtekening hebben en niet eerder
+zijn gebruikt, slagen ze voor beide controles. Alice Bank noteert dan
+deze digitale dollars in haar database om toekomstige dubbele uitgaven
+te voorkomen. Vervolgens wordt het equivalent van de digitale dollars
+als reguliere valuta op Carols bankrekening gestort, en krijgt ze
+hiervan een bevestiging. Carol weet nu dat ze een geldige betaling van
+Bob heeft ontvangen en levert hem het product of de dienst waarvoor hij
+betaalde.\footnote{Als een handig extra detail bevat het systeem ook een
+  soort fraudepreventiecontrole, zij het een die ten koste gaat van
+  privacy als en wanneer gebruikers ervoor zouden kiezen deze te
   gebruiken. Als Carol ten onrechte zou beweren dat ze nooit betaald is,
   zou Bob kunnen kiezen om de nonce aan Alice Bank te onthullen. Hiermee
   kan hij bewijzen dat hij de digitale dollars heeft gemaakt die Carol
   heeft gestort en dat hij ze aan haar heeft betaald.}
 
-Omdat Alice Bank de ondertekende bankbiljetten pas voor het eerst zou
-hebben gezien toen Carol ze stortte, zou Alice Bank geen enkele manier
-hebben om te weten dat ze oorspronkelijk van Bob kwamen. Ze hadden net
-zo goed van Dan of Erin kunnen komen. Bij uitbreiding, nadat Alice Bank
-de digitale dollars aan Bob had uitgegeven, kon ze hem niet hebben
-gestopt ze uit te geven, aangezien ze geen idee zou hebben welke
-digitale dollars ongeldig te verklaren.\footnote{Dat gezegd zijnde, zijn
-  er nog enkele andere, mogelijk meer drastische maatregelen die Alice
-  Bank had kunnen nemen. Naast het weigeren om digitale dollars aan Bob
-  uit te geven, had ze ook alle elektronische contante betalingen kunnen
+Omdat Alice Bank de ondertekende bankbiljetten pas voor het eerst ziet
+wanneer Carol ze stort, heeft de bank geen manier om te achterhalen dat
+ze oorspronkelijk van Bob kwamen. Ze hadden ook van iemand anders, zoals
+Dan of Erin, kunnen komen. Bovendien kan Alice Bank, nadat ze de
+digitale dollars aan Bob heeft uitgegeven, hem niet verhinderen ze te
+besteden, omdat ze niet kan bepalen welke digitale dollars ongeldig
+zouden moeten worden verklaard.\footnote{Dat gezegd zijnde, zijn er nog
+  enkele andere, mogelijk meer drastische maatregelen die Alice Bank had
+  kunnen nemen. Naast het weigeren om digitale dollars aan Bob uit te
+  geven, had ze ook alle elektronische contante betalingen kunnen
   blokkeren. Evenzo zou ze bepaalde gebruikers kunnen blokkeren van het
   accepteren van betalingen; zelfs als betalingen niet kunnen worden
   getraceerd, kunnen sommige gebruikers nog steeds worden uitgesloten
@@ -5250,75 +5236,70 @@ stonden op te lossen.
 
 \section{Hash-ketens}\label{hash-ketens}
 
-Eén van hun meest belovende ideeën maakte gebruik van een
-hash-functie,\footnote{Hash-functies werden voor het eerst voorgesteld
+Een van hun meest veelbelovende ideeën maakte gebruik van een
+hash-functie\footnote{Hash-functies werden voor het eerst voorgesteld
   door de wiskundige George B. Purdy van de University of Illinois at
   Urbana-Champaign in zijn artikel \emph{A High Security Log-in
-  Procedure}, Communications of the ACM 17, no. 8: 442--445.} een soort
+  Procedure}, Communications of the ACM 17, no. 8: 442--445.}, een
 eenrichtingsfunctie die data omzet in een unieke en ogenschijnlijk
 willekeurige reeks cijfers van een vaste lengte. Alle digitale data kan
 worden gehasht, of het nu een enkele letter is, een heel boek, een
-muziekbestand of de broncode van een programma. Het is van belang dat
-dezelfde data altijd hetzelfde gehashte resultaat oplevert, maar als de
-oorspronkelijke data ook maar een beetje wordt veranderd, zou de
-resulterende hash onherkenbaar anders zijn. Als een enkele komma uit een
-boek wordt verwijderd, zou de resulterende hash totaal niet meer lijken
-op de hash van het originele boek.
+muziekbestand of de broncode van een programma. Het cruciale aspect is
+dat dezelfde data altijd hetzelfde gehashte resultaat oplevert, maar
+zodra de oorspronkelijke data ook maar een beetje verandert, is de
+resulterende hash totaal anders. Verwijder je bijvoorbeeld een enkele
+komma uit een boek, dan lijkt de nieuwe hash totaal niet meer op die van
+het oorspronkelijke boek.
 
-Stornetta en Haber opperden dat documenten konden worden voorzien van
-een tijdstempel door een speciale tijdstempeldienst. Een document zou
-samen met een tijdcode gehashed worden die aangaf wanneer de
-tijdstempeldienst het ontvangen had, en deze hash zou cryptografisch
-ondertekend worden door de tijdstempelserver als een soort bewijs. Om
-aan te tonen dat een document op een bepaald moment bestond, kon de
-eigenaar van het document het originele document en de tijdstempel
-verstrekken, en iedereen kon die vervolgens invoeren in een hashfunctie
-en verifiëren dat er daadwerkelijk een identieke hash door de
-tijdstempelserver was ondertekend.
+Stornetta en Haber stelden voor om documenten van een tijdstempel te
+voorzien via een speciale tijdstempeldienst. Een document werd samen met
+een tijdcode gehasht, die vastlegt wanneer de dienst het document heeft
+ontvangen. Deze hash werd vervolgens cryptografisch ondertekend door de
+tijdstempelserver als een soort bewijs. Om aan te tonen dat een document
+op een bepaald moment bestond, kon de eigenaar het originele document en
+de tijdstempel tonen. Iedereen kon dit invoeren in een hashfunctie om te
+verifiëren dat er inderdaad een identieke hash door de tijdstempelserver
+was ondertekend.
 
 Daarnaast speculeerden Stornetta en Haber dat verschillende documenten
-chronologisch gekoppeld konden worden in een hash-keten. Dat wil zeggen,
-elk nieuw document dat de tijdstempeldienst ontving, zou niet alleen
-samen met een tijdscode gehasht worden, maar ook met de hash van het
-vorige document. Deze nieuwe hash zou op zijn beurt weer samen met het
-volgende document worden gehasht om de volgende hash te creëren,
-enzovoort. De resulterende `keten' van hashes kon exact bewijzen welke
-documenten in welke volgorde waren getijdstempeld, en zou op die manier
-een chronologisch \emph{ruggengraatrecord} vormen van alle verwerkte
-documenten.
+chronologisch gekoppeld konden worden in een hash-keten. Dit betekent
+dat elk nieuw document dat de tijdstempeldienst ontving, niet alleen
+werd gehasht met een tijdcode, maar ook met de hash van het vorige
+document. Deze nieuwe hash werd vervolgens samen met het volgende
+document gehasht, en zo ontstond een keten van hashes. Deze `keten' kon
+precies bewijzen welke documenten in welke volgorde waren
+getijdstempeld, en zou zo een chronologisch \emph{ruggengraatrecord}
+vormen van alle verwerkte documenten.
 
-Dit betekende echter wel dat de tijdstempeldienst zelf vertrouwd zou
-moeten worden om niet te rommelen met het centrale archief. Theoretisch
-gezien, zou deze dienst vervalsingen kunnen maken door dezelfde
-documenten te hashen en te ondertekenen met verschillende tijdstempels,
-en het zou een nieuwe hash-keten kunnen creëren om de chronologische
-volgorde van de documenten te veranderen, of zelfs documenten volledig
-uit het archief kunnen verwijderen.
+Dit bracht echter met zich mee dat de tijdstempeldienst zelf te
+vertrouwen moest zijn om niet te rommelen met het centrale archief. In
+theorie kon deze dienst vervalsingen creëren door dezelfde documenten te
+hashen en ondertekenen met verschillende tijdstempels. Zo kon de
+chronologische volgorde van documenten worden gewijzigd, of konden
+documenten zelfs volledig uit het archief verdwijnen.
 
-In de wereld van de informatica was het vrij gewoon om op dergelijke
-diensten te vertrouwen: publieke sleutels werden bijvoorbeeld meestal
-verstrekt door een certificaatautoriteit die deze sleutels koppelde aan
-specifieke identiteiten. Maar dit was voor Stornetta en Haber geen
-ideale oplossing. Zij waren van mening dat veiligheid in de digitale
-ruimte niet afhankelijk zou moeten zijn van vertrouwen in een specifiek
-individu of entiteit, net zoals de cryptografische hulpmiddelen die ze
-tot hun beschikking hadden, zou tijdstempeling idealiter op zichzelf
-moeten kunnen staan.
+In de wereld van de informatica was het destijds vrij normaal om op
+zulke diensten te vertrouwen. Publieke sleutels werden bijvoorbeeld
+meestal verstrekt door een certificaatautoriteit die deze sleutels
+koppelde aan specifieke identiteiten. Voor Stornetta en Haber was dit
+echter geen ideale oplossing. Zij vonden dat veiligheid in de digitale
+ruimte niet afhankelijk zou moeten zijn van vertrouwen in een specifieke
+entiteit of persoon. Net zoals de cryptografische hulpmiddelen waarover
+zij beschikten, moest tijdstempeling idealiter onafhankelijk kunnen
+functioneren.
 
 Dit bleek het meest uitdagende deel van het probleem te zijn.
 
-Zolang er maar één entiteit dienst deed als een tijdstempelservice,
-vereiste dat vertrouwen in die entiteit. Het oplossen van dit probleem
-door meer entiteiten toe te voegen om een systeem van
-veiligheidscontroles te creëren, leek ook een doodlopende weg. Zelfs als
-iemand de taak zou krijgen om toezicht te houden op de eerlijkheid van
-de tijdstempeldienst, zou iedereen nog steeds moeten vertrouwen dat deze
-persoon geen verbond sluit met de tijdstempeldienst om de records te
-wijzigen. Om dezelfde reden zou het toevoegen van een derde, vierde of
-vijfde persoon om hen beiden eerlijk te houden, niet echt helpen. Dit
-zou op zijn best de omvang van de samenzwering die nodig is om
-historische records te vervalsen vergroten, maar het zou de mogelijkheid
-daarvan niet volledig uitsluiten.
+Zolang één entiteit de tijdstempelservice verzorgde, was er altijd
+vertrouwen in die ene partij nodig. Het toevoegen van meerdere
+entiteiten om zo een systeem van \emph{checks-and-balances} te creëren,
+bood ook geen oplossing. Zelfs als iemand de taak had om de eerlijkheid
+van de tijdstempeldienst te bewaken, bleef er een risico dat deze
+persoon samenspande met de dienst om de records te wijzigen. Om dezelfde
+reden bood het toevoegen van een derde, vierde of vijfde persoon als
+toezichthouder geen garantie. Dit vergrootte hoogstens de omvang van de
+samenzwering die nodig was om historische records te vervalsen, maar
+sloot de mogelijkheid van vervalsing niet volledig uit.
 
 Stornetta en Haber leken tegen een fundamenteel probleem te zijn
 aangelopen dat cryptografie niet kon oplossen. Na weken van vruchteloze
@@ -5483,50 +5464,47 @@ in 1993, en Bayer werd opgenomen als derde auteur.\footnote{Dave Bayer,
   and Reliability of Digital Time-Stamping}, Conference Paper, Sequences
   II: Methods in Communication, Security, and Computer Science: 329--34.}
 
-Stornetta, Haber en Bayer stelden voor om talrijke documenten
-tegelijkertijd te tijdstempelen door ze allemaal te bundelen in één
-grote Merkle-boom, waarvan er dagelijks één wordt aangemaakt. Gebruikers
-zouden dan niet voor elk getijdstempeld document een hash hoeven bij te
-houden. Integendeel, ze zouden alleen de dagelijkse Merkle-wortel als
-basisregistratie nodig hebben en enkel hun eigen Merkle-bewijzen om de
-hash van hun getijdstempelde documenten in de betreffende boom te
-vinden.
+Stornetta, Haber en Bayer stelden voor om meerdere documenten
+tegelijkertijd te tijdstempelen door ze te bundelen in één grote
+Merkle-boom, die dagelijks werd aangemaakt. Gebruikers hoefden dan niet
+voor elk getijdstempeld document een afzonderlijke hash bij te houden.
+In plaats daarvan volstond het om enkel de dagelijkse Merkle-wortel als
+basisregistratie te bewaren, samen met hun eigen Merkle-bewijzen om de
+hash van hun documenten in de betreffende boom te vinden.
 
-Het resulteerde in een opmerkelijke verbetering van de efficiëntie,
-waardoor meer gebruikers deel konden nemen aan het tijdstempelproces.
-Het zou zelfs mogelijk zijn om de dagelijkse Merkle-wortel te publiceren
-in een krant, waar het zeer openbaar zou zijn en bewaard zou worden in
-fysieke krantenarchieven (Stornetta en Haber richtten later de
-tijdstempel-start-up Surety op, die inderdaad Merkle-wortels opnam in de
-geclassificeerde advertenties van de New York Times).
+Dit verbeterde de efficiëntie aanzienlijk, waardoor meer gebruikers
+konden deelnemen aan het tijdstempelproces. Het werd zelfs mogelijk om
+de dagelijkse Merkle-wortel te publiceren in een krant, waar deze
+publiek zichtbaar zou zijn en bewaard kon worden in fysieke
+krantenarchieven (Stornetta en Haber richtten later de
+tijdstempel-start-up \emph{Surety} op, die inderdaad Merkle-wortels
+opnam in de geclassificeerde advertenties van de New York Times).
 
-Daarnaast, en zoals uitgediept in Stornetta en Habers derde paper
-\emph{Secure Names for Bit-Strings}\footnote{Stuart Haber and Scott W.
-  Stornetta, \emph{Secure Names for Bit-strings}, CCS '97: Proceedings
-  of the 4th ACM Conference on Computer and Communications Security,:
-  28--35.}, kan elke nieuwe Merkle-boom ook de vorige Merkle-wortel
-bevatten. Zo ontstaat een reeks van Merkle-wortels die zelf een
-chronologische hash-keten vormen. Als er per dag één Merkle-boom wordt
-gecreëerd, dan wordt de Merkle-wortel van gisteren opgenomen in de
-Merkle-boom van vandaag, terwijl de Merkle-wortel van vandaag opgenomen
-zou worden in de Merkle-boom van morgen, en zo verder.
+Daarnaast kan, zoals verder uitgewerkt in hun derde paper Secure Names
+for Bit-Strings\footnote{Stuart Haber and Scott W. Stornetta,
+  \emph{Secure Names for Bit-strings}, CCS '97: Proceedings of the 4th
+  ACM Conference on Computer and Communications Security,: 28--35.},
+elke nieuwe Merkle-boom de vorige Merkle-wortel bevatten. Dit creëerde
+een reeks Merkle-wortels die zelf een chronologische hash-keten vormden.
+Bij het dagelijks creëren van een Merkle-boom werd de Merkle-wortel van
+gisteren opgenomen in de boom van vandaag, en de wortel van vandaag werd
+op zijn beurt verwerkt in de boom van morgen, enzovoort.
 
-Op deze manier zou ook de volgorde van de Merkle-bomen cryptografisch
-met elkaar verbonden zijn. Dit zou vervalsing nog moeilijker maken:
-zelfs als iemand erin zou slagen om bijvoorbeeld één editie van de
-\emph{New York Times} in het fysieke archief te vervalsen om op de een
-of andere manier een andere Merkle-wortel op te nemen, zou dit niet
-overeenkomen met de Merkle-wortels die in alle kranten zijn gepubliceerd
-sinds die tijd, en natuurlijk ook niet met de persoonlijke archieven van
-mensen. Deze methode zou dus vervalsing van de gegevens bijna onmogelijk
-maken.
+Op deze manier waren ook de Merkle-bomen zelf cryptografisch met elkaar
+verbonden. Vervalsing werd hierdoor nog moeilijker. Zelfs als iemand
+erin zou slagen om bijvoorbeeld één editie van de \emph{New York Times}
+in het fysieke archief te vervalsen met een andere Merkle-wortel, zou
+dit niet overeenkomen met de Merkle-wortels die in alle kranten sinds
+die tijd zijn gepubliceerd, en ook niet met de persoonlijke archieven
+van mensen. Deze methode maakte het bijna onmogelijk om gegevens te
+vervalsen.
 
-Inderdaad, als iemand zou proberen een document te antidateren, zou het
-niet alleen de Merkle-wortel van die specifieke dag veranderen, maar zou
-het ook incompatibel zijn met elke tijdstempelregistratie die sindsdien
-is gepubliceerd. In praktische zin zou vervalsing onmogelijk zijn. In
-feite ontwierpen Scott Stornetta en Stuart Haber een vorm van
-historische gegevensverificatie.
+Als iemand zou proberen een document te antidateren, zou dit niet alleen
+de Merkle-wortel van die specifieke dag veranderen, maar het zou ook in
+strijd zijn met elke tijdstempelregistratie die daarna is gepubliceerd.
+Vervalsing werd daarmee in de praktijk onmogelijk. Feitelijk ontwierpen
+Scott Stornetta en Stuart Haber hiermee een systeem voor historische
+gegevensverificatie.
 
 De sleutel tot hun succes, was de verdeling van vertrouwen.
 
@@ -8329,48 +8307,46 @@ aan overheidsinterventie, hartelijk dank.'\footnote{Adam Back, \emph{no
   Cypherpunk-mailinglijst, 3 augustus 1997,
   \href{https://cypherpunks.venona.com/date/1997/08/msg00087.html}{online}}
 
-De cypherpunks waren het er in het algemeen over eens dat een betere
-oplossing zou zijn om een digitaal equivalent van postzegels te creëren.
-Als het verzenden van een e-mail kosten met zich mee zou brengen, zou
-dit spammers ontmoedigen, vooral omdat spammers meestal tienduizenden,
-zo niet miljoenen, ongewenste e-mails moeten versturen om winst te maken
-uit hun activiteiten. Op dezelfde manier vereiste het bombarderen van
-remailers massa's ongewenste e-mails.
+De cypherpunks waren het er over het algemeen over eens dat een betere
+oplossing een digitaal equivalent van postzegels zou zijn. Door het
+verzenden van e-mails kosten met zich mee te laten brengen, zou dit
+spammers ontmoedigen. Dit was vooral relevant omdat spammers vaak
+tienduizenden, zo niet miljoenen ongewenste e-mails moesten versturen om
+winst te maken. Op dezelfde manier was het versturen van massa's
+ongewenste e-mails naar remailers vereist om hen te overbelasten.
 
-Digitale postzegels konden verschillende manieren functioneren.
-Remailers konden bijvoorbeeld postzegels in rekening brengen voor het
-doorsturen van e-mails. Dit zou niet alleen spam ontmoedigen die via
-deze diensten worden verzonden, maar het zou ook, als leuk extraatje,
-een financiële prikkel introduceren om remailers te runnen. Als
-alternatief, of daarnaast, zou een vergoeding kunnen worden toegekend
-aan de ontvanger wiens e-mailsoftware geprogrammeerd kan worden om
-berichten met onvoldoende vergoeding af te wijzen.
+Digitale postzegels konden op verschillende manieren worden ingezet.
+Remailers konden bijvoorbeeld kosten rekenen voor het doorsturen van
+e-mails. Dit zou niet alleen spam via deze diensten ontmoedigen, maar
+het zou ook een financiële prikkel bieden om remailers te beheren.
+Daarnaast kon een vergoeding worden toegekend aan de ontvanger, wiens
+e-mailsoftware zo geprogrammeerd zou zijn dat berichten zonder voldoende
+vergoeding werden geweigerd.
 
-De eigenlijke postzegel kon op verschillende manieren worden ontworpen,
-maar de meeste ideeën hielden een uitgever van elektronische zegels in.
-Deze uitgever zou bijvoorbeeld unieke grote getallen kunnen genereren en
-deze kunnen verkopen (wellicht voor digitaal geld). Het unieke nummer
-zou dan in een e-mail moeten worden opgenomen, en zodra een remailer of
-het e-mailprogramma van de ontvanger het bericht ontvangt, zou het bij
-de uitgever controleren of het nummer inderdaad een geldige postzegel
-is. Als dat zo is, kan de remailer of ontvanger misschien wat geld
-(digitaal geld?) terugkrijgen van de uitgever, afhankelijk van de
-specifieke ontwerpkenmerken van het systeem. Als de postzegel niet
-geldig was, zou de e-mail simpelweg geweigerd worden.
+De postzegels zelf konden op verschillende manieren worden ontworpen,
+maar de meeste ideeën omvatten een uitgever van elektronische zegels.
+Deze uitgever genereerde bijvoorbeeld unieke grote getallen en verkocht
+deze (mogelijk in ruil voor digitaal geld). Het unieke nummer werd dan
+opgenomen in een e-mail, en zodra een remailer of de e-mailsoftware van
+de ontvanger het bericht ontving, controleerde het bij de uitgever of
+het nummer een geldige postzegel was. Als dat het geval was, kon de
+remailer of ontvanger mogelijk een klein bedrag terugkrijgen van de
+uitgever, afhankelijk van de kenmerken van het systeem. Was de postzegel
+niet geldig, dan werd de e-mail simpelweg geweigerd.
 
-Een andere optie zou zijn om gewoon digitale contanten direct als
-postzegel te gebruiken. Een e-mail kan in dit geval een heel klein
-beetje digitale valuta bevatten in een speciaal veld, dat de beoogde
-ontvanger er dan kan uithalen. Er was een tijd waarin het leek alsof dit
-een goede toepassing voor eCash zou kunnen zijn.
+Een andere optie was om digitale contanten direct als postzegel te
+gebruiken. In dat geval bevatte de e-mail een klein beetje digitale
+valuta in een speciaal veld, die de ontvanger vervolgens kon innen. Er
+was een periode waarin dit een veelbelovende toepassing voor eCash leek
+te zijn.
 
-Helaas bleek het in de praktijk ingewikkelder te zijn. Ten eerste waren
-de vroege eCash versies nog niet in staat om zeer specifieke soorten
-overboekingen die nodig waren voor postzegels te verwerken. Bovendien
-zou het gebrek aan anonimiteit van de ontvanger in het elektronische
-contantsysteem van Chaum betekenen dat de verzender van een bericht kon
-worden gedwongen om samen te werken met de bank om de echte identiteit
-van een remailer-operator en/of de e-mailontvanger te onthullen.
+In de praktijk bleek dit echter ingewikkelder dan verwacht. Ten eerste
+waren de vroege versies van eCash nog niet in staat om de specifieke
+soorten transacties die voor postzegels nodig waren te verwerken.
+Daarnaast betekende het gebrek aan anonimiteit in Chaums elektronische
+geldsysteem dat de verzender van een bericht mogelijk zou moeten
+samenwerken met de bank om de echte identiteit van een remailer-operator
+of e-mailontvanger te onthullen.
 
 Het maakte DigiCash's eCash grotendeels ongeschikt voor postzegels.
 
@@ -8500,21 +8476,19 @@ genereren die met voldoende nullen begon: de gebruiker moest
 verschillende nonces proberen en nieuwe hashes maken totdat hij er één
 vond die toevallig aan de norm voldeed. Simpel \emph{trial and error}.
 
-Het aantal voorafgaande nullen dat vereist is, bepaalt hoe moeilijk het
-zou zijn om een geldige hash te vinden. Meer nullen zouden het
-moeilijker maken, omdat computers gemiddeld meer pogingen zouden moeten
-doen.
+Het aantal vereiste voorafgaande nullen bepaalt hoe moeilijk het is om
+een geldige hash te vinden. Meer nullen maken het moeilijker, omdat
+computers gemiddeld meer pogingen moeten doen.
 
-`Het idee van het gebruik van partiële hashes is dat ze naar willekeur
-duur in berekening kunnen worden gemaakt', legde Back het voordeel van
-het gebruik van hashes uit, `en toch kunnen ze onmiddellijk geverifieerd
-worden.'
+``Het idee van het gebruik van partiële hashes is dat ze willekeurig
+moeilijk te berekenen kunnen zijn,'' legde Back uit, ``maar ze kunnen
+tegelijkertijd onmiddellijk worden geverifieerd.''
 
-Net als bij de oplossing van Dwork en Naor was het idee dat gewone
-gebruikers vrij snel, binnen enkele seconden, een geldige hash moeten
-kunnen vinden om met een e-mail te versturen. Tegelijkertijd zouden
-spammers niet in staat moeten zijn om dit duizenden of miljoenen keren
-te doen en nog steeds winstgevend te blijven.
+Net als bij de oplossing van Dwork en Naor was het doel dat gewone
+gebruikers snel, binnen enkele seconden, een geldige hash moesten kunnen
+vinden om een e-mail te versturen. Tegelijkertijd moesten spammers niet
+in staat zijn om dit duizenden of miljoenen keren te doen en toch
+winstgevend te blijven.
 
 `{[}\ldots{]} als het geen 20 bit hash heeft {[}\ldots{]} heb je een
 programma dat het terugstuurt met een bericht waarin de vereiste porto
@@ -8529,14 +8503,13 @@ postzegelschema vereist in principe het oplossen van een vrij eenvoudige
 puzzel, wat betekent dat een krachtigere computer de puzzel altijd
 sneller zou oplossen dan een zwakkere computer.
 
-Het genereren van een geldige hash, daarentegen, is een kwestie van
-gokken. Hoewel een krachtigere computer meer gokjes per seconde zou
-kunnen doen, zou een zwakkere computer nog steeds af en toe geluk kunnen
-hebben en sneller een geldige hash vinden (hoewel spammers hoe dan ook
-duizenden of miljoenen geldige hashwaarden zouden moeten genereren per
-spamsessie, zou het kleine beetje variatie bij het genereren van een
-enkele hashcash proof-of-work niet echt een verschil maken, althans niet
-binnen de context van het stoppen van ongewenste mail).
+Het genereren van een geldige hash is daarentegen een kwestie van
+gokken. Hoewel een krachtigere computer meer pogingen per seconde kan
+doen, kan een zwakkere computer soms geluk hebben en sneller een geldige
+hash vinden. Voor spammers, die toch duizenden of miljoenen geldige
+hashwaarden moeten genereren per spamsessie, maakt deze kleine variatie
+bij het genereren van een enkele hashcash proof-of-work weinig verschil,
+althans niet binnen de context van het tegengaan van ongewenste e-mails.
 
 `Hashcash kan een tussentijdse oplossing bieden totdat digicash breder
 wordt toegepast', concludeerde Back in zijn aankondiging. `Hashcash is
@@ -8618,31 +8591,30 @@ munteenheid was op maat gemaakt om bij een specifieke e-mail te passen,
 en kon dus niet elders opnieuw worden uitgegeven en leverde geen extra
 voordeel op voor de ontvangers.
 
-Back overwoog daarom dat hashcash, of meer algemeen het proof-of-work
-principe, de basis zou kunnen vormen voor een ander soort elektronisch
-geldsysteem.
+Back overwoog daarom dat hashcash, of meer algemeen het
+proof-of-work-principe, de basis zou kunnen vormen voor een nieuw soort
+elektronisch geldsysteem.
 
-Eén van zijn eerste suggesties was een \emph{Chaumiaans} systeem. Hierin
-zou de bank elektronisch geld uitgeven bij ontvangst van hashcash:
-gebruikers zouden proof-of-work creëren en daarvoor ongedekt digitaal
-geld terugkrijgen. Dit geld zou anoniem, herbruikbaar en enigszins
-schaars zijn --- hoewel de schaarste in de praktijk eerlijk gezegd vrij
-zwak zou zijn, omdat mensen altijd meer bewijzen zouden kunnen creëren
-als ze dat zouden willen. En met computerprocessors die elk jaar
-krachtiger worden, zou het produceren van geldig proof-of-work in de
-loop van de tijd steeds goedkoper worden.\footnote{Back, \emph{Re:
+Een van zijn eerste suggesties was een Chaumiaans systeem, waarin de
+bank elektronisch geld zou uitgeven in ruil voor hashcash. Gebruikers
+creëerden dan proof-of-work en ontvingen daarvoor ongedekt digitaal
+geld. Dit geld zou anoniem, herbruikbaar en enigszins schaars zijn ---
+al was de schaarste in de praktijk vrij beperkt. Mensen konden immers
+altijd meer bewijzen creëren als ze wilden. En met steeds krachtigere
+computerprocessors zou het produceren van geldig proof-of-work in de
+loop van de tijd alleen maar goedkoper worden.\footnote{Back, \emph{Re:
   Bypassing.}}
 
-Inderdaad, de fundamentele schaarste van hashcash was meer technisch van
-aard. Als het echt de basis zou vormen voor een elektronische valuta,
-zouden nieuwere en krachtigere computers uiteindelijk de markt
-overspoelen met verse valuta-eenheden en zou de valuta hyperinflateren.
+De fundamentele schaarste van hashcash was dan ook vooral technisch van
+aard. Als het daadwerkelijk als basis voor een valuta zou dienen, zouden
+nieuwere en krachtigere computers de markt uiteindelijk overspoelen met
+nieuwe valuta-eenheden, wat zou leiden tot hyperinflatie.
 
-Bovendien zouden gebruikers de bank moeten vertrouwen dat deze geen geld
-uit het niets creëert. Net als elk elektronisch geldsysteem dat Chaums
-ontwerp volgt, zou de entiteit die de digitale valuta uitgeeft en
-dubbele uitgaven voorkomt, \emph{zelf} ook vertrouwd moeten worden om
-niet onterecht zichzelf te verrijken.
+Daarnaast moest men vertrouwen hebben in de bank dat deze geen geld uit
+het niets zou creëren. Net als bij elk elektronisch geldsysteem
+gebaseerd op Chaums ontwerp, moest de entiteit die de digitale valuta
+uitgaf en dubbele uitgaven voorkwam, zelf ook te vertrouwen zijn om niet
+onterecht zichzelf te verrijken.
 
 Back geloofde, echter, dat vrijemarktcompetitie mogelijk kon helpen dit
 probleem op te lossen.
@@ -9109,48 +9081,44 @@ voortkwam uit ruilhandel. Maar waar Menger en Mises hun stelling hadden
 ontwikkeld door logica en redeneren, ging Szabo op zoek naar
 daadwerkelijke historische documenten, en zelfs archeologische resten.
 
-In zijn zoektocht graafde Szabo in de prehistorie van de mensheid en
-deed hij onderzoek naar pre-industriële samenlevingen zoals die van de
-\emph{Native Americans}. Hij ontdekte dat geld zelfs ouder was dan
-tekst: vroege vormen van geld werden al gebruikt door
-jager-verzamelaarstammen. Dit leidde uiteindelijk tot zijn hypothese dat
-geld letterlijk zo oud zou kunnen zijn als de mensheid zelf. Zoals eerst
-gesuggereerd door evolutiebioloog Richard Dawkins in zijn baanbrekende
-werk \emph{The Selfish Gene},\footnote{Richard Dawkins, \emph{The
-  Selfish Gene}, 244.} zou het vermogen om geld te gebruiken diep
-ingebed kunnen zijn in het menselijk DNA en zou het de overleving van de
-soort ten voordele gekomen kunnen zijn.
+In zijn zoektocht onderzocht Szabo de prehistorie van de mensheid en
+bestudeerde hij pre-industriële samenlevingen, zoals die van de Native
+Americans. Hij ontdekte dat geld zelfs ouder was dan tekst; vroege
+vormen van geld werden al gebruikt door jager-verzamelaarstammen. Dit
+leidde tot zijn hypothese dat geld letterlijk zo oud kan zijn als de
+mensheid zelf. Zoals eerder gesuggereerd door evolutiebioloog Richard
+Dawkins in zijn baanbrekende werk \emph{The Selfish Gene}\footnote{Richard
+  Dawkins, \emph{The Selfish Gene}, 244.}, kan het vermogen om geld te
+gebruiken diep geworteld zijn in ons DNA en kan het de overleving van de
+soort bevorderd hebben.
 
-In zijn latere essay \emph{Shelling Out: The Origins of
-Money},\footnote{Nick Szabo, \emph{Shelling Out: The Origins of Money},
-  \emph{Satoshi Nakamoto Institute},
+In zijn latere essay \emph{Shelling Out: The Origins of Money} legt
+Szabo dit verder uit.\footnote{Nick Szabo, \emph{Shelling Out: The
+  Origins of Money}, \emph{Satoshi Nakamoto Institute},
   \href{https://nakamotoinstitute.org/library/shelling-out/}{online}}
-legt Szabo uit hoe.
 
 Een van de grote voordelen van de mensheid in de meedogenloze
-overlevingsstrijd van moeder natuur, ontdekte Szabo, is dat de meeste
-leden van de soort bereid en in staat zijn om samen te werken om hun
-krachten te bundelen of om arbeid te verdelen en zich te specialiseren
-om vervolgens de opbrengst te delen. Dit is waarschijnlijk altijd zo
-geweest: prehistorische jagers die succesvol een wild zwijn doodden,
-zouden het vlees delen met hun stamleden. Hun medestamleden zouden een
-andere keer de gunst retourneren, misschien door de blauwe bessen of
+overlevingsstrijd is, ontdekte Szabo, dat de meeste mensen bereid en in
+staat zijn om samen te werken. Ze bundelen hun krachten, verdelen arbeid
+en specialiseren zich, waarna ze de opbrengst delen. Dit fenomeen heeft
+waarschijnlijk altijd bestaan: prehistorische jagers die een wild zwijn
+doodden, deelden het vlees met hun stamleden. Op hun beurt zouden deze
+leden de gunst later teruggeven, bijvoorbeeld door blauwe bessen of
 eetbare paddenstoelen te delen die ze de volgende dag verzamelden.
 
-Deze vorm van altruïstisch gedrag zou iedereen kunnen ten goede komen,
-zolang alle stamleden elkaar kenden en min of meer konden bijhouden wat
-ieders bijdragen waren. Alle stamleden hadden een publieke reputatie.
-Omdat profiteurs, degenen die nooit iets bijdroegen aan de stam,
-uiteindelijk konden worden uitgesloten van de deelrondes of zelfs uit de
-stam konden worden verbannen, was iedereen sterk gemotiveerd om bij te
-dragen en hun deel te doen.
+Dit altruïstische gedrag profiteerde iedereen, zolang alle stamleden
+elkaar kenden en wisten wat ieders bijdragen waren. Iedereen had een
+publieke reputatie. Profiteurs, degenen die nooit iets bijdroegen,
+konden uiteindelijk worden uitgesloten van de deelrondes of zelfs uit de
+stam worden verbannen. Dit zorgde ervoor dat iedereen sterk gemotiveerd
+was om bij te dragen.
 
-Maar dit model zou onhoudbaar worden als een stam (of vaker: een groep
-stammen) te groot werd. Menselijke hersenen kunnen slechts een beperkt
-aantal sociale relaties onderhouden (populair bekend als \emph{Dunbars
-nummer}, wat 150\footnote{Het is echter belangrijk op te merken dat dit
-  getal---vernoemd naar primatoloog Robin Dunbar---bekritiseerd is en
-  tegenwoordig in de wetenschappelijke gemeenschap niet met de
+Echter, dit model werd onhoudbaar als een stam (of vaak een groep
+stammen) te groot werd. Menselijke hersenen kunnen maar een beperkt
+aantal sociale relaties onderhouden, bekend als \emph{Dunbars nummer},
+dat rond de 150 ligt.\footnote{Het is echter belangrijk op te merken dat
+  dit getal---vernoemd naar primatoloog Robin Dunbar---bekritiseerd is
+  en tegenwoordig in de wetenschappelijke gemeenschap niet met de
   specifieke nauwkeurigheid wordt gehanteerd die het suggereert. Hoewel
   er een limiet is aan het aantal stabiele sociale relaties dat mensen
   kunnen onderhouden, is het werkelijke aantal niet per se 150 voor
@@ -9158,18 +9126,16 @@ nummer}, wat 150\footnote{Het is echter belangrijk op te merken dat dit
   Johan Lind, \emph{Dunbar's Number Deconstructed}, Biology Letters, 5
   mei 2021:
   \href{https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0158}{online}}
-is), dus het wordt moeilijk om iedereens reputatie bij te houden als er
-meer mensen dan dit nummer zijn. Als niemand zich kan herinneren wie met
-de anderen heeft gedeeld en wie niet, brokkelt het \emph{publieke
-reputatiesysteem} af, en krijgen profiteurs vrij spel op kosten van
-iedereen.
+Wanneer er meer mensen zijn dan dit aantal, wordt het moeilijk om ieders
+reputatie bij te houden. Als niemand zich kan herinneren wie met wie
+heeft gedeeld, brokkelt het publieke reputatiesysteem af, waardoor
+profiteurs vrij spel krijgen ten koste van anderen.
 
-Om te voorkomen dat er misbruik van ze wordt gemaakt, zou het zelfs
-rationeel worden voor elk individu om zelf ook te stoppen met delen en
-een profiteur te worden, ook al zou iedereen beter af zijn als iedereen
-zou delen. Met andere woorden, er zou iets van een groot
-\emph{gevangenendilemma}\footnote{Strikt genomen is een \emph{public
-  goods game} de meer precieze speltheoretische analogie.} ontstaan.
+Om misbruik te voorkomen, kan het zelfs rationeel worden voor elk
+individu om te stoppen met delen en zelf een profiteur te worden,
+ondanks dat iedereen beter af zou zijn als iedereen deelde. Dit leidt
+tot een groot gevangenendilemma.\footnote{Strikt genomen is een
+  \emph{public goods game} de meer precieze speltheoretische analogie.}
 
 Maar Szabo legde uit dat genen strategieën kunnen coderen om oplossingen
 te vinden voor uitdagingen in de speltheroie van de echte wereld.
@@ -12997,6 +12963,14 @@ de gedrukte editie. \emph{Het Genesis Boek} is zijn eerste boek.
 \chapter*{Bibliografie}\label{bibliografie}
 \addcontentsline{toc}{chapter}{Bibliografie}
 
+
+% typographical settings for the body text
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0em}
+\linespread{1.10}
+\footnotesize
+\setlength{\emergencystretch}{0em} % prevent overfull lines
+
 \markboth{Bibliografie}{Bibliografie}
 
 \section*{Alfabetisch}\label{alfabetisch}
@@ -13010,56 +12984,55 @@ American Banker. May 6,
 
 Back, Adam. \emph{{[}ANNOUNCE{]} hash cash postage implementation.}
 Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. March 28,
-1997. Beschikbaar op:
+1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/03/msg00774.html}.
 
 Back, Adam. \emph{cypherpunks digicash bank?} Oorspronkelijk verstuurd
-naar de Cypherpunk-mailinglijst. October 7, 1995. Beschikbaar op:
+naar de Cypherpunk-mailinglijst. October 7, 1995. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1995/10/msg00690.html}.
 
 Back, Adam. \emph{digital cc transactions, digital checks vs real
 digital cash.} Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst.
-May 2, 1997. Beschikbaar op:
+May 2, 1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/05/msg00104.html}.
 
 Back, Adam. \emph{distributed virtual bank.} Oorspronkelijk verstuurd
-naar de Cypherpunk-mailinglijst. August 27, 1997. Beschikbaar op:
+naar de Cypherpunk-mailinglijst. August 27, 1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/08/msg01289.html}.
 
 Back, Adam. \emph{no government regulation of the net (was Re: bulk
 postage fine).} Oorspronkelijk verstuurd naar de
-Cypherpunk-mailinglijst. August 3, 1997. Beschikbaar op:
+Cypherpunk-mailinglijst. August 3, 1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/08/msg00087.html}.
 
 Back, Adam. \emph{Re: `why privacy' revisited.} Oorspronkelijk verstuurd
-naar de Cypherpunk-mailinglijst. March 22, 1997. Beschikbaar op:
+naar de Cypherpunk-mailinglijst. March 22, 1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/03/msg00586.html}.
 
 Back, Adam. \emph{Re: bulk postage fine (was Re: non-censorous spam
 control).} Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst.
-August 3, 1997. Beschikbaar op:
+August 3, 1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/08/msg00070.html}.
 
 Back, Adam. \emph{Re: Bypassing the Digicash Patents.} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. April 30, 1997. Beschikbaar
-op: \url{https://cypherpunks.venona.com/date/1997/04/msg00822.html}.
+op \url{https://cypherpunks.venona.com/date/1997/04/msg00822.html}.
 
 Back, Adam. \emph{Re: cypherpunks digicash bank?} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. October 8, 1995. Beschikbaar
-op: \url{https://cypherpunks.venona.com/date/1995/10/msg00734.html}.
+op \url{https://cypherpunks.venona.com/date/1995/10/msg00734.html}.
 
 Back, Adam. \emph{Re: Remailer problem solution?} March 23, 1997.
-Beschikbaar op:
+Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/03/msg00631.html}.
 
 Back, Adam. \emph{The Bitcoin Game \#59: Dr.~Adam Back.} Interview door
 Rob Mitchell. The Bitcoin Game, YouTube. October 25,
-2018.~\href{https://youtu.be/xxYsRjanphA?si=XVdLXPWGUk6oVPXg&t=647\%2047:59}{https://youtu.be/xxYsRjanphA?si=XVdLXPWGUk6oVPXg\&t=647
-47:59}.
+2018.~\url{https://youtu.be/xxYsRjanphA?si=XVdLXPWGUk6oVPXg&t=647\%2047:59}.
 
 Barnes, Douglas. \emph{Re: cypherpunks digicash bank?} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. October 8, 1995. Beschikbaar
-op: \url{https://cypherpunks.venona.com/date/1995/10/msg00731.html}.
+op \url{https://cypherpunks.venona.com/date/1995/10/msg00731.html}.
 
 Bayer, Dave, Stuart Haber, and Scott W. Stornetta. \emph{Improving the
 Efficiency and Reliability of Digital Time-Stamping.} Conference Paper,
@@ -13070,10 +13043,10 @@ Sequences II: Methods in Communication, Security, and Computer Science
 BitTorrent. \emph{BitTorrent and µTorrent Software Surpass 150 Million
 User Milestone; Announce New Consumer Electronics Partnerships.}
 BitTorrent.com. January 9, 2012. Geraadpleegd
-via~\href{https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users}{https://web.archive.org/web/20140326102305/-http://www.bittorrent.com/intl/es/company/about/ces\_2012\_150m\_users}
+via~\url{https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users}
 
 Black Unicorn. \emph{DigiCash Announcement.} Oorspronkelijk verstuurd
-naar de Cypherpunk-mailinglijst. May 10, 1994. Beschikbaar op:
+naar de Cypherpunk-mailinglijst. May 10, 1994. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1994/05/msg00616.html}.
 
 Blaug, Mark. Economic Theory in Retrospect. 4th edition. Cambridge:
@@ -13098,11 +13071,11 @@ Caldwell, Bruce and Hansjoerg Klausinger. \emph{Hayek: A Life,
 1899--1950}. Chicago: University of Chicago Press, 2022.
 
 Casey, Michael J. \emph{Bitcoin Foundation's Andresen on Working With
-Satoshi Nakamoto.} The Wall Street Journal. March 6,
-2014.\url{https://www.wsj.com/articles/BL-MBB-17626}
+Satoshi Nakamoto.} The Wall Street Journal. March 6, 2014.
+\url{https://www.wsj.com/articles/BL-MBB-17626}
 
-Cave, Damien. \emph{The Mojo solution.} Salon. October 9,
-2000.\url{https://www.salon.com/2000/10/09/mojo_nation/}.
+Cave, Damien. \emph{The Mojo solution.} Salon. October 9, 2000.
+\url{https://www.salon.com/2000/10/09/mojo_nation/}.
 
 Chaum, David. \emph{Achieving Electronic Privacy.} Scientific American
 267, no. 2 (August 1992):
@@ -13110,7 +13083,7 @@ Chaum, David. \emph{Achieving Electronic Privacy.} Scientific American
 
 Chaum, David. \emph{Blind Signatures for Untraceable Payments,} Advances
 in Cryptology: Proceedings of Crypto 82: 199--203.
-\href{https://doi.org/10.1007/978-1-4757-0602-4_18}{https://link.springer.com/chapter/10.1007/978-1-4757-0602-4\_18}.
+\url{https://doi.org/10.1007/978-1-4757-0602-4_18}.
 
 Chaum, David. \emph{Security Without Identification: Transaction Systems
 to Make Big Brother Obsolete.} Communications of the ACM 28, no. 10
@@ -13122,16 +13095,16 @@ Digital Pseudonyms,} Communications of the ACM 24, 2 (February 1981):
 84--90.~\url{https://dl.acm.org/doi/10.1145/358549.358563}.
 
 Dai, Wei. \emph{Law vs Technology.} Oorspronkelijk verstuurd naar de
-Cypherpunk-mailinglijst. February 10, 1995. Beschikbaar op:
+Cypherpunk-mailinglijst. February 10, 1995. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1995/02/msg00508.html}.
 
 Dai, Wei. \emph{PipeNet 1.1 and b-money,} Oorspronkelijk verstuurd naar
-de Cypherpunk-mailinglijst, November 26, 1998, Beschikbaar op:
+de Cypherpunk-mailinglijst, November 26, 1998, Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1998/11/msg00941.html}.
 
 Dai, Wei. \emph{Re: alternative b-money creation.} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. December 11, 1998.
-Beschikbaar op:
+Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1998/12/msg00448.html}.
 
 Dai, Wei. \emph{Work on Security Instead of Friendliness?} GreaterWrong,
@@ -13139,11 +13112,11 @@ July 21,
 2012,~\url{https://www.greaterwrong.com/posts/m8FjhuELdg7iv6boW/work-on-security-instead-of-friendliness}.
 
 Dai, Wei. Comment in the discussion thread \emph{AALWA: Ask any
-LessWronger anything.} LessWrong.
-2014.\url{https://www.lesswrong.com/posts/YdfpDyRpNyypivgdu/aalwa-ask-any-lesswronger-anything}.
+LessWronger anything.} LessWrong. 2014.
+\url{https://www.lesswrong.com/posts/YdfpDyRpNyypivgdu/aalwa-ask-any-lesswronger-anything}.
 
 Dai, Wei. Untitled b-money description. 1998. Geraadpleegd
-via~\href{https://web.archive.org/web/20090415130807/https:/www.weidai.com/bmoney.txt}{https://web.archive.org/web/20090415130807/https://www.weidai.com/bmoney.txt}.
+via~\url{https://web.archive.org/web/20090415130807/https:/www.weidai.com/bmoney.txt}.
 
 Dawkins, Richard. \emph{The Selfish Gene}. Oxford: Oxford University
 Press, 2016.
@@ -13165,29 +13138,29 @@ Cryptography,} IEEE Transactions On Information Theory vol.~IT-22, no. 6
 DigiCash, \emph{Bank Austria and Den norske Bank to Issue ecash™ the
 Electronic Cash for the Internet.} DigiCash. April 14, 1997.
 Geraadpleegd
-via~\href{https://web.archive.org/web/19970605025912/http:/www.digicash.com:80/publish/ec_pres8.html}{https://web.archive.org/web/19970605025912/http://www.digicash.com:80/publish/ec\_pres8.html}.
+via~\url{https://web.archive.org/web/19970605025912/http:/www.digicash.com:80/publish/ec_pres8.html}.
 
 DigiCash. \emph{Advance Bank First to Provide DigiCash's ecash™ System
 in Australia.} DigiCash. October, 1996. Geraadpleegd
-via~\href{https://web.archive.org/web/19961102121407/https:/www.digicash.com/publish/ec_pres6.html}{https://web.archive.org/web/19961102121407/https://www.digicash.com/publish/ec\_pres6.html}.
+via~\url{https://web.archive.org/web/19961102121407/https:/www.digicash.com/publish/ec_pres6.html}.
 
 DigiCash. \emph{DigiCash's Ecash™ to be Issued by Deutsche Bank.}
 DigiCash. May 7, 1996. Geraadpleegd
-via~\href{https://web.archive.org/web/19961102121355/https:/www.digicash.com/publish/ec_pres5.html}{https://web.archive.org/web/19961102121355/https://www.digicash.com/publish/ec\_pres5.html}.
+via~\url{https://web.archive.org/web/19961102121355/https:/www.digicash.com/publish/ec_pres5.html}.
 
 Dillinger, Ray. \emph{Bitcoin P2P e-cash paper,} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst, November 6, 2008.
-Beschikbaar op:
+Beschikbaar op
 \url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014822.html}.
 
 Dillinger, Ray. \emph{Bitcoin P2P e-cash paper,} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst, November 14, 2008,
-Beschikbaar op:
+Beschikbaar op
 \url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014857.html}.
 
 Dillinger, Ray. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. November 15, 2008.
-Beschikbaar op:
+Beschikbaar op
 https://www.metzdowd.com/pipermail/cryptography/2008-November/014859.html.
 
 Dimsdale, Nicholas. \emph{British Monetary Policy and the Exchange Rate
@@ -13196,22 +13169,22 @@ Dimsdale, Nicholas. \emph{British Monetary Policy and the Exchange Rate
 
 Donald, James A. \emph{Bitcoin P2P e-cash paper,} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. November 9, 2008.
-Beschikbaar op:
+Beschikbaar op
 \url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014837.html}.
 
 Donald, James A. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. November 2, 2008.
-Beschikbaar op:
+Beschikbaar op
 \url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014814.html}.
 
 Donald, James A. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. November 3, 2008.
-Beschikbaar op:
+Beschikbaar op
 \url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014819.html}.
 
 Donald, James A. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. November 9, 2008.
-Beschikbaar op:
+Beschikbaar op
 \url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014841.html}.
 
 Drexler, K. Eric. Engines of Creation. New York: Doubleday, 1986.
@@ -13225,11 +13198,11 @@ Inflation?} The Economist. July 29,
 2021.~\url{https://www.economist.com/the-economist-explains/2021/07/29/why-dont-rising-house-prices-count-towards-inflation}
 
 e-gold. \emph{e-gold News.} December 1999, Geraadpleegd via
-\href{http://www.e-gold.com/news.html}{https://web.archive.org/web/20001209053900fw\_/http://www.e-gold.com/news.html.}
+\url{http://www.e-gold.com/news.html}
 
 e-gold. \emph{e-gold® Welcomes US Government Review of its Status as a
 Privately Issued Currency.} January 20, 2006. Geraadpleegd via
-\href{https://web.archive.org/web/20060322134922if_/https:/www.e-gold.com/letter2.html}{https://web.archive.org/web/20060304203618if\_/http://www.e-gold.com:80/letter2.html.}
+\url{https://web.archive.org/web/20060322134922if_/https:/www.e-gold.com/letter2.html}
 
 e-gold. \emph{Transcript of sentence before the honorable Rosemary M.
 Collyer United States District Judge.} 114. November 20,
@@ -13242,18 +13215,18 @@ no. 2 \& 3
 
 Federal Reserve Economic Data. \emph{Consumer Price Index for All Urban
 Consumers (CPIAUCSL).} Beschikbaar
-op~\href{https://fred.stlouisfed.org/series/CPIAUCSL}{https://fred.stlouisfed.org/series/CPIAUCSL.}
+op~\url{https://fred.stlouisfed.org/series/CPIAUCSL}
 
 Finney, Hal. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk verstuurd
-naar de Cryptografie-mailinglijst. November 7, 2008. Beschikbaar op:
+naar de Cryptografie-mailinglijst. November 7, 2008. Beschikbaar op
 \url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014827.html}.
 
 Finney, Hal. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk verstuurd
-naar de Cryptografie-mailinglijst. November 13, 2008. Beschikbaar op:
+naar de Cryptografie-mailinglijst. November 13, 2008. Beschikbaar op
 \url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014848.html}.
 
 Finney, Hal. \emph{Bitcoin v0.1 released.} Oorspronkelijk verstuurd naar
-de Cryptografie-mailinglijst. January 10, 2009. Beschikbaar op:
+de Cryptografie-mailinglijst. January 10, 2009. Beschikbaar op
 \url{https://www.metzdowd.com/pipermail/cryptography/2009-January/015004.html}
 
 Finney, Hal. \emph{Chaum on the wrong foot?} Oorspronkelijk verstuurd
@@ -13262,11 +13235,11 @@ naar de Cypherpunk-mailinglijst. August 22, 1993. Beschikbaar op
 
 Finney, Hal. \emph{Digital Gold, a bearer instrument?} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. August 26, 1993. Beschikbaar
-op: \url{https://cypherpunks.venona.com/date/1993/08/msg00788.html.}
+op \url{https://cypherpunks.venona.com/date/1993/08/msg00788.html.}
 
 Finney, Hal. \emph{POLI: Politics vs Technology.} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. January 2, 1994. Beschikbaar
-op: \url{https://cypherpunks.venona.com/date/1994/01/msg00014.html}.
+op \url{https://cypherpunks.venona.com/date/1994/01/msg00014.html}.
 
 Finney, Hal. \emph{Protecting Privacy with Electronic Cash.} Extropy 10
 (Winter/Spring 1993):
@@ -13274,29 +13247,29 @@ Finney, Hal. \emph{Protecting Privacy with Electronic Cash.} Extropy 10
 
 Finney, Hal. \emph{Re: Re: re: re: digital cash.} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. March 16, 1994. Beschikbaar
-op: \url{https://cypherpunks.venona.com/date/1994/03/msg00694.html.}
+op \url{https://cypherpunks.venona.com/date/1994/03/msg00694.html.}
 
 Finney, Hal. \emph{Re: Voluntary Governments?} Oorspronkelijk verstuurd
-naar de Cypherpunk-mailinglijst. August 4, 1994. Beschikbaar op:
+naar de Cypherpunk-mailinglijst. August 4, 1994. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1994/08/msg00239.html}.
 
 Finney, Hal. \emph{Reusable Proofs of Work.} RPOW website index page.
-Beschikbaar op:
-\href{https://web.archive.org/web/20090217090451/http:/rpow.net/index.html.}{https://web.archive.org/web/20090217090451/http://rpow.net/index.html.}
+Beschikbaar op
+\url{https://web.archive.org/web/20090217090451/http:/rpow.net/index.html.}
 
 Finney, Hal. \emph{RPOW FAQs.} RPOW website FAQ page. Geraadpleegd
-via~\href{https://nakamotoinstitute.org/rpow/}{https://web.archive.org/web/20090217090439/http://rpow.net/faqs.html\#inflation.}
+via~\url{https://nakamotoinstitute.org/rpow/}
 
 Finney, Hal. \emph{RPOW Theory,} RPOW website theory page. Geraadpleegd
-via~\href{https://nakamotoinstitute.org/finney/rpow/theory.html}{https://web.archive.org/web/20040815154951/http://rpow.net/theory.html.}
+via~\url{https://nakamotoinstitute.org/finney/rpow/theory.html}
 
 Finney, Hal. \emph{Why remailers\ldots{}} Oorspronkelijk verstuurd naar
-de Cypherpunk-mailinglijst. November 15, 1992. Beschikbaar op:
+de Cypherpunk-mailinglijst. November 15, 1992. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1992/11/msg00108.html}.
 
 Finney, Hal. \emph{Re: Physical to digital cash, and back again.}
 Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, August 19,
-1993. Beschikbaar op:
+1993. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1993/08/msg00581.html}.
 
 Fisher, Irving. The Purchasing Power of Money. New York: The Macmillan
@@ -13308,7 +13281,7 @@ Extropy 15 (2nd--3d Quarter 1995):
 
 Frauenfelder, Mark. \emph{Homeless Cypherpunks Turn to Usenet.} Wired.
 February 17,
-1997.~\href{https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/}{https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/.}
+1997.~\url{https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/}
 
 Friedman, Milton and Anna Schwartz, A Monetary History of the United
 States. Princeton, NJ: Princeton University Press, 1963.
@@ -13333,7 +13306,7 @@ Haven: Yale University Press, 2019.
 
 Grant, Mark. \emph{Introduction to Digital Cash.} Extropy 15 (2nd--3d
 Quarter 1995):
-14--16.~\href{https://archive.org/details/extropy-15/Extropy-15/}{https://archive.org/details/extropy-15/Extropy-15/.}
+14--16.~\url{https://archive.org/details/extropy-15/Extropy-15/}
 
 Haber, Stuart and Scott W. Stornetta, \emph{How to Time-Stamp a Digital
 Document.} Journal of Cryptology 3 (1991): 99--111.
@@ -13350,8 +13323,7 @@ Ebeling, 93--110. New York: Center for Libertarian Studies, 1978.
 Hayek, Friedrich A. \emph{F. A. Hayek on Monetary Policy, the Gold
 Standard, Deficits, Inflation, and John Maynard Keynes.} Interview door
 James U. Blanchard III. Re-uploaded by Libertarianism.org on April 19,
-2015.~\href{https://youtu.be/EYhEDxFwFRU\%2026:27.}{https://youtu.be/EYhEDxFwFRU
-26:27.}
+2015.~\url{https://youtu.be/EYhEDxFwFRU\%2026:27.}
 
 Hayek, Friedrich A. \emph{Intertemporal Price Equilibrium and Movements
 in the Value of Money,} in The Collected Works of F.A. Hayek, Good
@@ -13389,12 +13361,12 @@ Publishers, 1967.
 
 Hettinga, Robert. \emph{Re: Bypassing the Digicash Patents.}
 Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst, April 29,
-1997. Beschikbaar op:
+1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/04/msg00811.html}.
 
 Hettinga, Robert. \emph{Re: digital cc transactions, digital checks vs
 real digital cash.} Oorspronkelijk verstuurd naar de
-Cypherpunk-mailinglijst. May 3, 1997. Beschikbaar op:
+Cypherpunk-mailinglijst. May 3, 1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/05/msg00147.html}.
 
 Hill, Austin. Draft document from 2005 shared with author, March 30,
@@ -13412,12 +13384,12 @@ naar de Cypherpunk-mailinglijst. March 17, 1993. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1993/03/msg00392.html}.
 
 Hughes, Eric. \emph{Kid Gloves or Megaphones.} Oorspronkelijk verstuurd
-naar de Cypherpunk-mailinglijst. March 14, 1996. Beschikbaar op:
+naar de Cypherpunk-mailinglijst. March 14, 1996. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1996/03/msg00932.html}.
 
 Hughes, Eric. \emph{No digital coins (was: Chaum on the wrong foot?).}
 Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. August 24,
-1993. Beschikbaar op:
+1993. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1993/08/msg00690.html}.
 
 Keynes, John Maynard. A Tract on Monetary Reform. London: Macmillan and
@@ -13431,12 +13403,12 @@ Indianapolis, IN: Liberty Fund, 2009.
 
 Kutler, Jeffrey. \emph{Credit Suisse, Digicash in E-Commerce Test.}
 American Banker. June 16,
-1998.~\href{https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test}{https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test.}
+1998.~\url{https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test}
 
 Lamport, Leslie, Robert Shostak, and Marshall Pease. \emph{The Byzantine
 Generals Problem,} ACM Transactions on Programming Languages and Systems
 (July 1982):
-382--401.~\href{https://dl.acm.org/doi/10.1145/357172.357176}{https://dl.acm.org/doi/10.1145/357172.357176.}
+382--401.~\url{https://dl.acm.org/doi/10.1145/357172.357176}
 
 Lavoie, Don, Howard Baetjer, and William Tulloh. \emph{High-Tech
 Hayekians: Some Possible Research Topics in the Economics of
@@ -13446,14 +13418,14 @@ Law, Laurie, Susan Sabett, and Jerry Solinas. \emph{How To Make a Mint:
 The Cryptography of Anonymous Electronic Cash.} National Security Agency
 Office of Information Security Research and Technology, Cryptology
 Division. June 18,
-1996.~\href{https://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm}{https://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm.}
+1996.~\url{https://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm}
 
 Levine, John. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk verstuurd
-naar de Cryptografie-mailinglijst. November 3, 2008. Beschikbaar op:
-\href{https://www.metzdowd.com/pipermail/cryptography/2008-November/014817.html}{https://www.metzdowd.com/pipermail/cryptography/2008-November/014817.html.}
+naar de Cryptografie-mailinglijst. November 3, 2008. Beschikbaar op
+\url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014817.html}
 
 Levy, Steven. \emph{E-Money (That's What I Want).} Wired. December 1,
-1994.~\href{https://www.wired.com/1994/12/emoney/}{https://www.wired.com/1994/12/emoney/.}
+1994.~\url{https://www.wired.com/1994/12/emoney/}
 
 Levy, Steven. Crypto: How the Code Rebels Beat the Government--Saving
 Privacy in the Digital Age. New York: Viking, 2001.
@@ -13463,7 +13435,7 @@ CA: O'Reilly, 2010.
 
 Lewis, Peter H. \emph{Attention Internet Shoppers: E-Cash Is Here.} The
 New York Times. October 19, 1994.
-\href{https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html}{https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html.}
+\url{https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html}
 
 Lindenfors, Patrick, Andreas Wartel, and Johan Lind, \emph{`Dunbar's
 Number' Deconstructed.} Biology Letters. May 5, 2021.
@@ -13480,25 +13452,25 @@ Bank for Reconstruction. Washington, DC: Brookings Institution, 1973.
 Maxwell, Gregory. IRC message to author, August 13, 2020.
 
 May Tim. \emph{What backs up digital money?} Oorspronkelijk verstuurd
-naar de Cypherpunk-mailinglijst. March 27, 1996. Beschikbaar op:
-\href{https://cypherpunks.venona.com/date/1996/03/msg01576.html}{https://cypherpunks.venona.com/date/1996/03/msg01576.html.}
+naar de Cypherpunk-mailinglijst. March 27, 1996. Beschikbaar op
+\url{https://cypherpunks.venona.com/date/1996/03/msg01576.html}
 
 May, Tim. \emph{`Stopping Crime' Necessarily Means Invasiveness.}
 Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. October 17,
-1996. Beschikbaar op:
-\href{https://cypherpunks.venona.com/date/1996/10/msg01269.html}{https://cypherpunks.venona.com/date/1996/10/msg01269.html.}
+1996. Beschikbaar op
+\url{https://cypherpunks.venona.com/date/1996/10/msg01269.html}
 
 May, Tim. \emph{`Who shall speak for us?'} Oorspronkelijk verstuurd naar
-de Cypherpunk-mailinglijst. September 29, 1995. Beschikbaar op:
-\href{https://cypherpunks.venona.com/date/1995/09/msg02189.html}{https://cypherpunks.venona.com/date/1995/09/msg02189.html.}
+de Cypherpunk-mailinglijst. September 29, 1995. Beschikbaar op
+\url{https://cypherpunks.venona.com/date/1995/09/msg02189.html}
 
 May, Tim. \emph{Crypto Activism and Respectability.} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. April 21, 1993. Beschikbaar
-op: \url{https://cypherpunks.venona.com/date/1993/04/msg00400.html}.
+op \url{https://cypherpunks.venona.com/date/1993/04/msg00400.html}.
 
 May, Tim. \emph{Crypto Anarchy, the Government, and the National
 Information Infrastructure.} Oorspronkelijk verstuurd naar de
-Cypherpunk-mailinglijst. November 29, 1993, Beschikbaar op:
+Cypherpunk-mailinglijst. November 29, 1993, Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1993/11/msg01106.html}.
 
 May, Tim. \emph{Cyberspace, Crypto Anarchy, and Pushing Limits.}
@@ -13512,7 +13484,7 @@ Cypherpunk-mailinglijst. February 8, 1996. Beschikbaar op
 
 May, Tim. \emph{DigiCash can use whatever currencies are valued}
 Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. May 4, 1994.
-Beschikbaar op:
+Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1994/05/msg00243.html}.
 
 May, Tim. \emph{Hayek (was: Cato Institute conference on
@@ -13526,44 +13498,42 @@ de Cypherpunk-mailinglijst. August 9, 1993. Geraadpleegd via
 
 May, Tim. \emph{My Departure, Moderation, and *Ownership of the List.}
 Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. February 2,
-1997. Beschikbaar op:
+1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/02/msg02898.html}.
 
 May, Tim. \emph{Opportunities in Cyberspace.} Oorspronkelijk verstuurd
-naar de Cypherpunk-mailinglijst. September 8, 1993. Beschikbaar op:
+naar de Cypherpunk-mailinglijst. September 8, 1993. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1993/09/msg00140.html}.
 
 May, Tim. \emph{Re: alternative b-money creation.} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. December 11, 1998.
-Beschikbaar op:
+Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1998/12/msg00455.html}.
 
 May, Tim. \emph{Re: Hettinga's e\$yllogism.} Oorspronkelijk verstuurd
-naar de Cypherpunk-mailinglijst. June 28, 1997. Beschikbaar op:
+naar de Cypherpunk-mailinglijst. June 28, 1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/06/msg01637.html}.
 
 May, Tim. \emph{Re: More on digital postage.} Oorspronkelijk verstuurd
-naar de Cypherpunk-mailinglijst. February 15, 1997. Beschikbaar op:
+naar de Cypherpunk-mailinglijst. February 15, 1997. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1997/02/msg02295.html}.
 
 May, Tim. \emph{Re: Stalling the crypto legislation for 2-3 more years.}
 Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. July 23, 1994.
-Beschikbaar op:
+Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1994/07/msg01245.html}.
 
-May, Tim. \emph{Re: The War on Some Money {[}long{]}.} Oorspronkelijk
-verstuurd naar de Cypherpunk-mailinglijst. December 21, 1995.
-Geraadpleegd via
+May, Tim. \emph{Re: The War on Some Money}
 \url{https://cypherpunks.venona.com/date/1995/12/msg01044.html}.
 
 May, Tim. \emph{Scenario for a Ban on Cash Transactions.} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. November 24, 1992.
-Beschikbaar op:
+Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1992/11/msg00211.html}.
 
 May, Tim. \emph{Software Patents are Freezing Evolution of Products.}
 Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. October 7,
-1995. Beschikbaar op:
+1995. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1995/10/msg00685.html}.
 
 May, Tim. \emph{The Crypto Anarchist Manifesto} Oorspronkelijk verstuurd
@@ -13578,22 +13548,22 @@ May, Tim. \emph{Untraceable Digital Cash, Information Markets, and
 BlackNet (`Governmental and Social Implications of Digital Money' panel
 at CFP '97).} The Computers Freedom \& Privacy Conference (1997).
 Geraadpleegd
-via~\href{https://web.archive.org/web/20130501134401/https:/osaka.law.miami.edu/~froomkin/articles/tcmay.htm}{https://web.archive.org/web/20130501134401/https://osaka.law.miami.edu/\textasciitilde froomkin/articles/tcmay.htm}.
+via~\url{https://web.archive.org/web/20130501134401/https:/osaka.law.miami.edu/~froomkin/articles/tcmay.htm}.
 
 May, Tim. \emph{Untraceable Payments, Extortion, and Other Bad Things.}
 Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst. December 21,
-1996. Beschikbaar op:
+1996. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1996/12/msg01468.html}.
 
-McCloskey, Deirdre N. How to be Human*-- *Though an Economist. Ann
+McCloskey, Deirdre N. \emph{How to be Human -- Though an Economist}. Ann
 Arbor: The University of Michigan Press, 2000.
 
 McCullagh, Declan. \emph{Digging Those Digicash Blues.} Wired. June 14,
 2001.~\url{https://www.wired.com/2001/06/digging-those-digicash-blues/}.
 
-Menger, Carl. Untersuchungen über die Methode der Sozialwissenschaften
-und der Politischen Oekonomie insbesondere. Leipzig: Dunker und Humblot,
-1883.
+Menger, Carl. \emph{Untersuchungen über die Methode der
+Sozialwissenschaften und der Politischen Oekonomie insbesondere}.
+Leipzig: Dunker und Humblot, 1883.
 
 Merkle, Ralph C. \emph{A Certified Signature.} Advances in
 Cryptology---CRYPTO '89: Proceedings (1989): 218--238.
@@ -13601,87 +13571,86 @@ Cryptology---CRYPTO '89: Proceedings (1989): 218--238.
 
 Metzger, Perry E. \emph{ADMIN: end of bitcoin discussion for now.}
 Oorspronkelijk verstuurd naar de Cryptografie-mailinglijst. November 17,
-2008. Beschikbaar op:
+2008. Beschikbaar op
 \url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014867.html}.
 
 Metzger, Perry E. \emph{Re: Virtual Cash.} Oorspronkelijk verstuurd naar
-de Cypherpunk-mailinglijst. May 3, 1994. Beschikbaar op:
+de Cypherpunk-mailinglijst. May 3, 1994. Beschikbaar op
 \url{https://cypherpunks.venona.com/date/1994/05/msg00131.html}.
 
 Mor, Federico. \emph{Bank Rescues of 2007-09: Outcomes and Cost.} House
-of Commons Research Briefing. October 8, 2018. Beschikbaar op:
+of Commons Research Briefing. October 8, 2018. Beschikbaar op
 \url{https://commonslibrary.parliament.uk/research-briefings/sn05748/}.
 
 More, Max. \emph{Hayek's Denationalisation of Money.} Extropy 15
 (2nd--3d Quarter 1995):
-19--20.~\href{https://archive.org/details/extropy-15/Extropy-15/}{https://archive.org/details/extropy-15/Extropy-15/.}
+19--20.~\url{https://archive.org/details/extropy-15/Extropy-15/}
 
 More, Max. \emph{The Extropian Principles: A Transhumanist Declaration.}
 maxmore.com, Geraadpleegd
-via~\href{https://web.archive.org/web/20090130143449/https:/www.maxmore.com/extprn3.htm}{https://web.archive.org/web/20090130143449/https://www.maxmore.com/extprn3.htm.}
+via~\url{https://web.archive.org/web/20090130143449/https:/www.maxmore.com/extprn3.htm}
 
 More, Max. \emph{Transhumanism: Towards a Futurist Philosophy.}
 maxmore.com, Geraadpleegd
-via~\href{https://web.archive.org/web/20051029125153/http:/www.maxmore.com/transhum.htm}{https://web.archive.org/web/20051029125153/http://www.maxmore.com/transhum.htm.}
+via~\url{https://web.archive.org/web/20051029125153/http:/www.maxmore.com/transhum.htm}
 
 Nagy, Daniel A. comments in response to \emph{The Mojo Nation
 Story---Part 2.} Financial Cryptography. October 12, 2005.
 \url{https://www.financialcryptography.com/mt/archives/000572.html}
 
 Nakamoto, Satoshi. \emph{Bitcoin: A Peer-to-Peer Electronic Cash
-System.} 2008. Beschikbaar op:~\url{https://bitcoin.org/bitcoin.pdf}
+System.} 2008. Beschikbaar op~\url{https://bitcoin.org/bitcoin.pdf}
 
-Nakamoto, Satoshi and Wei Dai. \emph{Wei Dai/Satoshi Nakamot{o }2009
-Bitcoin emails.} gwern.net. Last modified September 14, 2017.
-\href{https://gwern.net/doc/bitcoin/2008-nakamoto}{https://gwern.net/doc/bitcoin/2008-nakamoto.}
+Nakamoto, Satoshi and Wei Dai. *Wei Dai/Satoshi
+Nakamot\url{https://gwern.net/doc/bitcoin/2008-nakamoto}
 
 Nakamoto, Satoshi. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. October 31, 2008.
-Beschikbaar op:
-\href{https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html}{https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html.}
+Beschikbaar op
+\url{https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html}
 
 Nakamoto, Satoshi. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. November 2, 2008.
-Beschikbaar op:
-\href{https://www.metzdowd.com/pipermail/cryptography/2008-November/014815.html}{https://www.metzdowd.com/pipermail/cryptography/2008-November/014815.html.}
+Beschikbaar op
+\url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014815.html}
 
 Nakamoto, Satoshi. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. November 6, 2008.
-Beschikbaar op:
-\href{https://www.metzdowd.com/pipermail/cryptography/2008-November/014823.html}{https://www.metzdowd.com/pipermail/cryptography/2008-November/014823.html.}
+Beschikbaar op
+\url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014823.html}
 
 Nakamoto, Satoshi. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. November 14, 2008.
-Beschikbaar op:
-\href{https://www.metzdowd.com/pipermail/cryptography/2008-November/014853.html}{https://www.metzdowd.com/pipermail/cryptography/2008-November/014853.html.}
+Beschikbaar op
+\url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014853.html}
 
 Nakamoto, Satoshi. \emph{Bitcoin P2P e-cash paper.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. November 8, 2008.
-Beschikbaar op:
-\href{https://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html}{https://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html.}
+Beschikbaar op
+\url{https://www.metzdowd.com/pipermail/cryptography/2008-November/014832.html}
 
 Nakamoto, Satoshi. \emph{Bitcoin v0.1 released.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. January 8, 2009.
-Beschikbaar op:
-\href{https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html}{https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html.}
+Beschikbaar op
+\url{https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html}
 
 Nakamoto, Satoshi. \emph{Bitcoin v0.1 released.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. January 16, 2009.
-Beschikbaar op:
-\href{https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html}{https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html.}
+Beschikbaar op
+\url{https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html}
 
 Nakamoto, Satoshi. \emph{Bitcoin v0.1 released.} Oorspronkelijk
 verstuurd naar de Cryptografie-mailinglijst. January 16, 2009.
-Beschikbaar op:
-\href{https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html}{https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html.}
+Beschikbaar op
+\url{https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html}
 
 Nash, Hadon. \emph{Digital Gold,} Oorspronkelijk verstuurd naar de
-Cypherpunk-mailinglijst. August 24, 1993. Beschikbaar op:
-\href{https://cypherpunks.venona.com/date/1993/08/msg00698.html}{https://cypherpunks.venona.com/date/1993/08/msg00698.html.}
+Cypherpunk-mailinglijst. August 24, 1993. Beschikbaar op
+\url{https://cypherpunks.venona.com/date/1993/08/msg00698.html}
 
 Next! Magazine. \emph{Hoe DigiCash alles verknalde.} Next! January 1999.
 Geraadpleegd
-via~\href{https://web.archive.org/web/19990427142412/https:/www.nextmagazine.nl/ecash.htm}{https://web.archive.org/web/19990427142412/https://www.nextmagazine.nl/ecash.htm.}
+via~\url{https://web.archive.org/web/19990427142412/https:/www.nextmagazine.nl/ecash.htm}
 
 Nixon, Richard. \emph{Address to the Nation Outlining a New Economic
 Policy: `The Challenge of Peace'.} August 15, 1971. Beschikbaar op The
@@ -13690,40 +13659,38 @@ Project.~\url{https://www.presidency.ucsb.edu/documents/address-the-nation-outli
 
 Officer, Lawrence H. \emph{Exchange Rates Between the United States
 Dollar and Forty-one Currencies,} MeasuringWorth, 2023.
-\href{https://www.measuringworth.com/datasets/exchangeglobal/}{https://www.measuringworth.com/datasets/exchangeglobal/.}
+\url{https://www.measuringworth.com/datasets/exchangeglobal/}
 
 Patel, Rupal and Jack Meaning. Can't We Just Print More Money? Economics
 in Ten Simple Questions. The Bank of England. London: Cornerstone Press,
 2022.
 
 Pitta, Julie. \emph{Requiem for a Bright Idea,} Forbes. November 1,
-1999.
-\href{https://www.forbes.com/forbes/1999/1101/6411390a.html}{https://www.forbes.com/forbes/1999/1101/6411390a.html.}
+1999. \url{https://www.forbes.com/forbes/1999/1101/6411390a.html}
 
 Pr0duct Cypher. \emph{Magic Money Digicash System.} Oorspronkelijk
 verstuurd naar de Cypherpunk-mailinglijst. February 4, 1994. Beschikbaar
-op:
-\href{https://cypherpunks.venona.com/date/1994/02/msg00247.html}{https://cypherpunks.venona.com/date/1994/02/msg00247.html.}
+op \url{https://cypherpunks.venona.com/date/1994/02/msg00247.html}
 
 Purdy, George B. \emph{A High Security Log-in Procedure.} Communications
 of the ACM 17, no. 8 (August 1974): 442--445.
 
 Quinn, Michelle. \emph{The Cypherpunks Who Cracked Netscape,} San
 Francisco Chronicle. September 20, 1995.
-\href{https://people.eecs.berkeley.edu/~daw/press/iang/ian1.html}{https://people.eecs.berkeley.edu/\textasciitilde daw/press/iang/ian1.html.}
+\url{https://people.eecs.berkeley.edu/~daw/press/iang/ian1.html}
 
 Raymond. Eric S. The Cathedral \& The Bazaar: Musings on Linux and Open
 Source by an Accidental Revolutionary. Sebastopol, CA: O'Reilly, 2001.
 
 Regis, Ed. \emph{Meet the Extropians.} Wired. October 1, 1994.
-\href{https://www.wired.com/1994/10/extropians/}{https://www.wired.com/1994/10/extropians/.}
+\url{https://www.wired.com/1994/10/extropians/}
 
 Richardson, Gary and Tim Sablik. \emph{Banking Panics of the Gilded Age:
 1863--1913.} Federal Reserve History. December 4, 2015.
-\href{https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age}{https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age.}
+\url{https://www.federalreservehistory.org/essays/banking-panics-of-the-gilded-age}
 
-Rickards, James. Currency Wars: The Making of the Next Global Crisis.
-New York: Portfolio 2012.
+Rickards, James. \emph{Currency Wars: The Making of the Next Global
+Crisis}. New York: Portfolio 2012.
 
 Roosevelt, Franklin D. \emph{Relating to the Hoarding, Export, and
 Earmarking of Gold Coin, Bullion, or Currency and to Transactions in
@@ -13745,74 +13712,70 @@ Ipoque.
 
 Selgin, George. \emph{The New Deal and Recovery, Part 15: The Keynesian
 Myth.} Cato Institute. March 16,
-2022.~\href{https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth}{https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth.}
+2022.~\url{https://www.cato.org/blog/new-deal-recovery-part-15-keynesian-myth}
 
 Stallman, Richard. \emph{Free Software Is Even More Important Now.}
-gnu.org,~\href{https://www.gnu.org/philosophy/free-software-even-more-important.en.html}{https://www.gnu.org/philosophy/free-software-even-more-important.en.html.}
+gnu.org,~\url{https://www.gnu.org/philosophy/free-software-even-more-important.en.html}
 
 Stallman, Richard. \emph{Free Unix!} September 27, 1983,
-\href{https://www.gnu.org/gnu/initial-announcement.en.html}{https://www.gnu.org/gnu/initial-announcement.en.html.}
+\url{https://www.gnu.org/gnu/initial-announcement.en.html}
 
 Stallman, Richard. \emph{Richard Stallman: High School Misfit, Symbol of
 Free Software, MacArthur-Certified Genius.} Interview door Michael
 Gross, mgross.com,
-1999.~\href{https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/}{https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/.}
+1999.~\url{https://www.mgross.com/writing/books/my-generation/bonus-chapters/richard-stallman-high-school-misfit-symbol-of-free-software-macarthur-certified-genius/}
 
 Stallman, Richard. \emph{RMS Berättar.} Linköping University,
-\href{http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt}{http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt.}
+\url{http://www.lysator.liu.se/history/garb/txt/87-2-rms.txt}
 
 Stallman, Richard. \emph{Talking to the Mailman.} Interview door Rob
 Lucas, New Left Review, Sept--Oct
-2018.~\href{https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman}{https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman.}
+2018.~\url{https://newleftreview.org/issues/ii113/articles/richard-stallman-talking-to-the-mailman}
 
 Stornetta, Scott. \emph{The Missing Link between Satoshi \& Bitcoin:
 Cypherpunk Scott Stornetta.} Interview door Naomi Brockwell. NBTV, with
 Naomi Brockwell. YouTube, September 6,
-2018,~\href{https://youtu.be/fYr-keVOQ18,\%2057:08}{https://youtu.be/fYr-keVOQ18,
-57:08.}
+2018,~\url{https://youtu.be/fYr-keVOQ18,\%2057:08}
 
 Szabo, Nick. (@NickSzabo4), \emph{Some of the most important books I've
 read.} X. January 31, 2016.
-\href{https://twitter.com/NickSzabo4/status/693682157525401601}{https://twitter.com/NickSzabo4/status/693682157525401601.}
+\url{https://twitter.com/NickSzabo4/status/693682157525401601}
 
 Szabo, Nick. \emph{Bit Gold Markets.} Unenumerated. December 27,
-2008.~\href{https://unenumerated.blogspot.com/2008/04/bit-gold-markets.html}{https://unenumerated.blogspot.com/2008/04/bit-gold-markets.html.}
+2008.~\url{https://unenumerated.blogspot.com/2008/04/bit-gold-markets.html}
 
 Szabo, Nick. \emph{Bit Gold.} Unenumerated. December 27, 2008.
-\href{https://unenumerated.blogspot.com/2005/12/bit-gold.html}{https://unenumerated.blogspot.com/2005/12/bit-gold.html.}
+\url{https://unenumerated.blogspot.com/2005/12/bit-gold.html}
 
 Szabo, Nick. \emph{Bit Gold: Towards Trust-Independent Digital Money.}
 1999. Geraadpleegd
-via~\href{https://web.archive.org/web/20140406003811/http:/szabo.best.vwh.net/bitgold.html}{https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html.}
+via~\url{https://web.archive.org/web/20140406003811/http:/szabo.best.vwh.net/bitgold.html}
 
 Szabo, Nick. \emph{Nick Szabo on Cypherpunks, Money and Bitcoin.}
 Interview door Peter McCormack, What Bitcoin Did, November 1, 2019,
-\href{https://www.whatbitcoindid.com/podcast/nick-szabo-on-cypherpunks-money-and-bitcoin\%201:39:37}{https://www.whatbitcoindid.com/podcast/nick-szabo-on-cypherpunks-money-and-bitcoin
-1:39:37.}
+\url{https://www.whatbitcoindid.com/podcast/nick-szabo-on-cypherpunks-money-and-bitcoin\%201:39:37}
 
 Szabo, Nick. \emph{Nick Szabo---The Quiet Master of Cryptocurrency
 \textbar{} Co-Hosted by Naval Ravikant.} Interview door Tim Ferriss, The
 Tim Ferriss Show. YouTube. August 12,
-2017.~\href{https://youtu.be/3FA3UjA0igY\%202:34:27}{https://youtu.be/3FA3UjA0igY
-2:34:27.}
+2017.~\url{https://youtu.be/3FA3UjA0igY\%202:34:27}
 
 Szabo, Nick. \emph{Re: Crypto + Economics + AI = Digital Money
 Economies.} Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst.
-September 19, 1995. Beschikbaar op:
-\href{https://cypherpunks.venona.com/date/1995/09/msg01303.html}{https://cypherpunks.venona.com/date/1995/09/msg01303.html.}
+September 19, 1995. Beschikbaar op
+\url{https://cypherpunks.venona.com/date/1995/09/msg01303.html}
 
 Szabo, Nick. \emph{Re: Crypto + Economics + AI = Digital Money
 Economies.} Oorspronkelijk verstuurd naar de Cypherpunk-mailinglijst.
-September 19, 1995. Beschikbaar op:
-\href{https://cypherpunks.venona.com/date/1995/09/msg01303.html}{https://cypherpunks.venona.com/date/1995/09/msg01303.html.}
+September 19, 1995. Beschikbaar op
+\url{https://cypherpunks.venona.com/date/1995/09/msg01303.html}
 
 Szabo, Nick. \emph{Secure Property Titles with Owner Authority.} Satoshi
 Nakamoto Institute
-(1998).~\href{https://nakamotoinstitute.org/secure-property-titles/}{https://nakamotoinstitute.org/secure-property-titles/.}
+(1998).~\url{https://nakamotoinstitute.org/secure-property-titles/}
 
 Szabo, Nick. \emph{Shelling Out: The Origins of Money.} Satoshi Nakamoto
-Institute
-(2002).~\href{https://nakamotoinstitute.org/shelling-out/}{https://nakamotoinstitute.org/shelling-out/.}
+Institute (2002).~\url{https://nakamotoinstitute.org/shelling-out/}
 
 Szabo, Nick. \emph{Smart Contracts: Building Blocks for Digital Free
 Markets.} Extropy 16 (1st Quarter of 1996):
@@ -13820,13 +13783,12 @@ Markets.} Extropy 16 (1st Quarter of 1996):
 
 Szabo, Nick. \emph{Trusted Third Parties are Security Holes.} Satoshi
 Nakamoto Institute
-(2001),~\href{https://nakamotoinstitute.org/trusted-third-parties/}{https://nakamotoinstitute.org/trusted-third-parties/.}
+(2001),~\url{https://nakamotoinstitute.org/trusted-third-parties/}
 
 Szabo, Nick. \emph{Why Cryptocurrency? Governments Abuse Their
 Power---Nick Szabo Interview Part 1.} Interview door Zulu Republic. Zulu
 Republic, YouTube. October 25, 2018.
-\href{https://youtu.be/LZw4LNLYUgc?si=_FilNeaFnWxpvv9U\%201:02}{https://youtu.be/LZw4LNLYUgc?si=\_FilNeaFnWxpvv9U
-1:02}.
+\url{https://youtu.be/LZw4LNLYUgc?si=_FilNeaFnWxpvv9U\%201:02}.
 
 Szabo, Nick. Personal correspondence, email to author, July 10, 2018.
 
@@ -13837,34 +13799,33 @@ Guilty to Money Laundering and Illegal Money Transmitting Charges.} July
 
 US Department of the Treasury. \emph{Troubled Asset Relief Program
 (TARP)} Beschikbaar
-op:~\url{https://home.treasury.gov/data/troubled-asset-relief-program}.
+op~\url{https://home.treasury.gov/data/troubled-asset-relief-program}.
 
-von Mises, Ludwig. Economic Calculation in the Socialist Commonwealth.
-Auburn, AL: Ludwig von Mises Institute, 2012.
+von Mises, Ludwig. \emph{Economic Calculation in the Socialist
+Commonwealth}. Auburn, AL: Ludwig von Mises Institute, 2012.
 
-von Mises, Ludwig. Human Action: A Treatise on Economics, The Scholar's
-Edition (Auburn, AL: Ludwig von Mises Institute, 1998).
+von Mises, Ludwig. \emph{Human Action: A Treatise on Economics, The
+Scholar's Edition} (Auburn, AL: Ludwig von Mises Institute, 1998).
 
-von Mises, Ludwig. The Historical Setting of the Austrian School of
-Economics. New Rochelle, NY: Arlington House, 1969.
+von Mises, Ludwig. \emph{The Historical Setting of the Austrian School
+of Economics}. New Rochelle, NY: Arlington House, 1969.
 
-von Mises, Ludwig. The Theory of Money and Credit, translated by J.E.
-Batson. New Haven, CT: Yale University Press, 1953.
+von Mises, Ludwig. \emph{The Theory of Money and Credit}, translated by
+J.E. Batson. New Haven, CT: Yale University Press, 1953.
 
 Wang, Liang. \emph{BitTorrent Mainline DHT Measurement.} MLDHT. 2013.
-Beschikbaar op:
-\href{https://www.cl.cam.ac.uk/~lw525/MLDHT/}{https://www.cl.cam.ac.uk/\textasciitilde lw525/MLDHT/.}
+Beschikbaar op \url{https://www.cl.cam.ac.uk/~lw525/MLDHT/}
 
-Wapshott, Nicholas. Keynes Hayek: The Clash That Defined Modern
-Economics. New York: Norton, 2011.
+Wapshott, Nicholas. Keynes \emph{Hayek: The Clash That Defined Modern
+Economics}. New York: Norton, 2011.
 
 Watercutter, Angela. \emph{Why Free Software Is More Important Now Than
 Ever Before.} Wired. September 20, 2013.
-\href{https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/}{https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/.}
+\url{https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-ever-before/}
 
 Weinstock, Nicole. \emph{Member Profile: Hal Finney.} Cryonics 40, issue
 2 (2nd Quarter 2019):
-3--9.~\href{https://cryonicsarchive.org/docs/cryonics-magazine-2019-02.pdf}{https://cryonicsarchive.org/docs/cryonics-magazine-2019-02.pdf.}
+3--9.~\url{https://cryonicsarchive.org/docs/cryonics-magazine-2019-02.pdf}
 
 White, Lawrence H. \emph{Thoughts on the Economics of `Digital
 Currency'.} Extropy 15 (2nd--3d Quarter 1995):
@@ -13872,8 +13833,8 @@ Currency'.} Extropy 15 (2nd--3d Quarter 1995):
 
 White, Lawrence H. \emph{The Troubling Suppression of Competition from
 Alternative Monies: The Cases of the Liberty Dollar and e-gold.} Cato
-Journal 34, no. 2 (2014):
-281--301.\url{https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2014/5/cato-journal-v34n2-5.pdf}
+Journal 34, no. 2 (2014): 281--301.
+\url{https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2014/5/cato-journal-v34n2-5.pdf}
 
 Wilcox-O'Hearn, Bryce. \emph{Experiences Deploying A Large-Scale
 Emergent Network.} Peer-to-Peer Systems (2002): 104--110.
@@ -13889,38 +13850,38 @@ werken}\label{andere-geraadpleegde-werken}
 
 \markright{Andere geraadpleegde werken}
 
-Ammous, Saifedean. The Bitcoin Standard: The Decentralized Alternative
-to Central Banking. Hoboken, NJ.: Wiley, 2018.
+Ammous, Saifedean. \emph{The Bitcoin Standard: The Decentralized
+Alternative to Central Banking}. Hoboken, NJ.: Wiley, 2018.
 
-Assange, Julian. Cypherpunks: Freedom and the Future of the Internet. OR
-Books, 2012.
+Assange, Julian. \emph{Cypherpunks: Freedom and the Future of the
+Internet}. OR Books, 2012.
 
 Back, Adam. \emph{Adam Back Reflects on the Cypherpunk Movement,
 Inventing Hashcash, Satoshi \& Bitcoin.} Interview door Cedric
-Youngelman. The Bitcoin Matrix 114, YouTube. July 11,
-2022.\url{https://youtu.be/uCavLyzQMbk} 1:06:35.
+Youngelman. The Bitcoin Matrix 114, YouTube. July 11, 2022.
+\url{https://youtu.be/uCavLyzQMbk} 1:06:35.
 
 Back, Adam. \emph{Hashcash --- A Denial of Service Counter-Measure.}
 cypherspace.org. August 1, 2002. Beschikbaar
-op:~\url{https://archive.li/W7QWn}.
+op~\url{https://archive.li/W7QWn}.
 
 Back, Adam. \emph{Hashcash information and documentation.}
 \url{http://www.hashcash.org/}.
 
 Back, Adam. \emph{who is this annoying Adam Back guy?,} Bitcoin Forum,
-June 4,
-2013,~\href{https://bitcointalk.org/index.php?topic=225463.0}{https://bitcointalk.org/index.php?topic=225463.0.}
+June 4, 2013,~\url{https://bitcointalk.org/index.php?topic=225463.0}
 
 Back, Adam. \emph{Why Dr Adam Back So Legendary.} Interview door Trace
 Mayer. Bitcoin Knowledge Podcast, YouTube. September 7, 2015.
-\href{https://youtu.be/0VboMe_2fnc}{https://youtu.be/0VboMe\_2fnc.}
+\url{https://youtu.be/0VboMe_2fnc}
 
 Backhouse, Roger E. \emph{Austrian Economics and the Mainstream: View
 From the Boundary.} The Quarterly Journal of Austrian Economics 3, no. 2
 (Summer 2000): 31--43.
 
-Barta, Silas and Robert B. Murphy. Understanding Bitcoin: The Liberty
-Lover's Guide to the Mechanics and Economics of Crypto-Currencies. 2017.
+Barta, Silas and Robert B. Murphy. \emph{Understanding Bitcoin: The
+Liberty Lover's Guide to the Mechanics and Economics of
+Crypto-Currencies}. 2017.
 
 Birch, David and Neil McEvoy. \emph{Downloadsamoney.} Demos Quarterly 8
 (1996): 85--94.
@@ -13932,124 +13893,122 @@ St.~Louis.~\url{https://www.federalreservehistory.org/people/arthur-f-burns.}
 Brands, Stefan. \emph{An Efficient Off-line Electronic Cash System Based
 On The Representation Problem.} Computer Science/Department of
 Algorithmics and Architecture, Report CS-R9323
-(1993).~\href{https://ir.cwi.nl/pub/5303}{https://ir.cwi.nl/pub/5303.}
+(1993).~\url{https://ir.cwi.nl/pub/5303}
 
 Chaum, David and Adam Back. \emph{Why Bitcoin Now: David Chaum and Adam
 Back Reflect on the Crypto Wars.} Interview door Laura Shin. Unchained
 Podcast 186, YouTube. August 18,
-2020.~\href{https://youtu.be/ZVZxRMAeIdo}{https://youtu.be/ZVZxRMAeIdo.}
+2020.~\url{https://youtu.be/ZVZxRMAeIdo}
 
 Chaum, David and Stefan Brands. \emph{`Minting' Electronic Cash.} IEEE
 Spectrum. January 4
-1999.~\href{https://spectrum.ieee.org/minting-electronic-cash}{https://spectrum.ieee.org/minting-electronic-cash.}
+1999.~\url{https://spectrum.ieee.org/minting-electronic-cash}
 
 Chaum, David, Amos Fiat, and Moni Naor. \emph{Untraceable Electronic
 Cash.} Crypto 1988: Advances in Cryptology (1988), 319--27.
 
 Chaum, David. \emph{The Dining Cryptographers Problem: Unconditional
 Sender and Recipient Untraceability.} Journal of Cryptology 1 (1988):
-65--75.~\href{https://link.springer.com/article/10.1007/BF00206326}{https://link.springer.com/article/10.1007/BF00206326.}
+65--75.~\url{https://link.springer.com/article/10.1007/BF00206326}
 
 Coulouris, George, Jean Dolllimore, and Tim Kindberg. \emph{Low-Value
 electronic transactions: the Millicent protocol.} Distributed Systems,
 ed.~3 (2001):
-303--306.~\href{https://www.cdk5.net/security/Ed3/Millicent.pdf}{https://www.cdk5.net/security/Ed3/Millicent.pdf.}
+303--306.~\url{https://www.cdk5.net/security/Ed3/Millicent.pdf}
 
 De Jong, Eduard, Nathaniel Tkacz, and Pablo Velasco. \emph{`Live As
 Friends and Count as Enemies': On Digital Cash and the Media of
 Payment.} Moneylab Reader (2015):
-258--267.~\href{https://www.academia.edu/31349137/_You_Will_Live_as_Friends_and_Count_as_Enemies_On_Digital_Cash_and_the_Media_of_Payment}{https://www.academia.edu/31349137/\_You\_Will\_Live\_as\_Friends\_and\_Count\_as\_Enemies\_On\_Digital\_Cash\_and\_the\_Media\_of\_Payment.}
+258--267.~\url{https://www.academia.edu/31349137/_You_Will_Live_as_Friends_and_Count_as_Enemies_On_Digital_Cash_and_the_Media_of_Payment}
 
 Diffie, Whitfield. \emph{Interview with Whitfield Diffie on the
 Development of Public Key Cryptography.} Interview door Franco Furger.
-January 16,
-2002.~\href{https://www.itas.kit.edu/pub/m/2002/wedi02a.htm}{https://www.itas.kit.edu/pub/m/2002/wedi02a.htm.}
+January 16, 2002.~\url{https://www.itas.kit.edu/pub/m/2002/wedi02a.htm}
 
 Drexler, K. Eric. \emph{Molecular engineering: An approach to the
 Development of General Capabilities for Molecular Manipulation.}
 Proceedings of the National Academy of Sciences 78, no. 9 (September
 1981): 5275--5278.
 
-Ebeling, Richard M. The Austrian Theory of the Trade Cycle. Auburn,
-AL.:Ludwig von Mises Institute, 1996.
+Ebeling, Richard M. \emph{The Austrian Theory of the Trade Cycle}.
+Auburn, AL.:Ludwig von Mises Institute, 1996.
 
 Epstein, Jim. \emph{Cypherpunks Write Code Series.} ReasonTV, YouTube.
 October 7-28,
-2020.~\href{https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42}{https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42.}
+2020.~\url{https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42}
 
 Epstein, Jim. \emph{How Will Bitcoin Lead to More Freedom?}, Reason.
 October 10, 2020.
-\href{https://reason.com/2020/10/16/how-will-bitcoin-lead-to-more-freedom/}{https://reason.com/2020/10/16/how-will-bitcoin-lead-to-more-freedom/.}
+\url{https://reason.com/2020/10/16/how-will-bitcoin-lead-to-more-freedom/}
 
 Finney, Hal. \emph{Bitcoin and me (Hal Finney).} Bitcoin Forum. March
-19, 2013.
-\href{https://bitcointalk.org/index.php?topic=155054.0}{https://bitcointalk.org/index.php?topic=155054.0.}
+19, 2013. \url{https://bitcointalk.org/index.php?topic=155054.0}
 
 Finney, Hal. \emph{Hal Finney interview.} Interview door Scott Stilphen.
 Atari
-Compendium,~\href{https://www.ataricompendium.com/archives/interviews/hal_finney/interview_hal_finney.html}{https://www.ataricompendium.com/archives/interviews/hal\_finney/interview\_hal\_finney.html.}
+Compendium,~\url{https://www.ataricompendium.com/archives/interviews/hal_finney/interview_hal_finney.html}
 
-George Edward Durell Foundation. Money and Banking: The American
-Experience. George Mason University Press, 1995.
+George Edward Durell Foundation. \emph{Money and Banking: The American
+Experience}. George Mason University Press, 1995.
 
-Gibson, William. Neuromancer. New York: Ace, 1984.
+Gibson, William. \emph{Neuromancer}. New York: Ace, 1984.
 
 Greenberg, Andy. \emph{Nakamoto's Neighbor: My Hunt For Bitcoin's
 Creator Led To a Paralyzed Crypto Genius.} Forbes. March 25, 2014.
-\href{https://www.forbes.com/sites/andygreenberg/2014/03/25/satoshi-nakamotos-neighbor-the-bitcoin-ghostwriter-who-wasnt/?sh=38f8f8854a37}{https://www.forbes.com/sites/andygreenberg/2014/03/25/satoshi-nakamotos-neighbor-the-bitcoin-ghostwriter-who-wasnt/?sh=38f8f8854a37.}
+\url{https://www.forbes.com/sites/andygreenberg/2014/03/25/satoshi-nakamotos-neighbor-the-bitcoin-ghostwriter-who-wasnt/?sh=38f8f8854a37}
 
-Greenberg, Andy. This Machine Kills Secrets: How WikiLeakers,
-Hacktivists and Cypherpunks Aim to Free the World's Information. London:
-Virgin Books, 2012.
+Greenberg, Andy. \emph{This Machine Kills Secrets: How WikiLeakers,
+Hacktivists and Cypherpunks Aim to Free the World's Information}.
+London: Virgin Books, 2012.
 
 Grigg, Ian. \emph{A Quick History of Cryptocurrencies BBTC --- Before
 Bitcoin.} Bitcoin Magazine. April 16, 2014.
-\href{https://bitcoinmagazine.com/business/quick-history-cryptocurrencies-bbtc-bitcoin-1397682630}{https://bitcoinmagazine.com/business/quick-history-cryptocurrencies-bbtc-bitcoin-1397682630.}
+\url{https://bitcoinmagazine.com/business/quick-history-cryptocurrencies-bbtc-bitcoin-1397682630}
 
 Hayek, Friedrich A. \emph{A Free-Market Monetary System.} Lecture
 delivered at the Gold and Monetary Conference, New Orleans. November 10,
 1977. Republished by the Mises
-Institute,~\href{https://mises.org/library/free-market-monetary-system}{https://mises.org/library/free-market-monetary-system.}
+Institute,~\url{https://mises.org/library/free-market-monetary-system}
 
-Hayek, Friedrich A. Choice in Currency: A Way to Stop Inflation. London:
-The Institute of Economic Affairs, 1976.
+Hayek, Friedrich A. \emph{Choice in Currency: A Way to Stop Inflation}.
+London: The Institute of Economic Affairs, 1976.
 
-Hayek, Friedrich A. A Tiger by the Tail: The Keynesian Legacy of
-Inflation, edited by Sudha R. Shenoy. The Institute of Economic Affairs
+Hayek, Friedrich A. \emph{A Tiger by the Tail: The Keynesian Legacy of
+Inflation}, edited by Sudha R. Shenoy. The Institute of Economic Affairs
 and the Ludwig von Mises Institute, 2009.
 
-Hellman, Dorothie and Martin Hellman. A New Map for Relationships:
-Creating True Love at Home \& Peace on the Planet. New Map Publishing,
+Hellman, Dorothie and Martin Hellman. \emph{A New Map for Relationships:
+Creating True Love at Home \& Peace on the Planet}. New Map Publishing,
 2016.
 
 Jackson, Douglas. \emph{The Story of egold.} Interview door Dustin. Did
 You Know Crypto 72. February 9,
-2020.~\href{https://didyouknowcrypto.com/ep72/}{https://didyouknowcrypto.com/ep72/.}
+2020.~\url{https://didyouknowcrypto.com/ep72/}
 
 Kawamoto, Dawn. \emph{Compaq to license digital cash technology.} CNET.
 January 2,
-2002.~\href{https://www.cnet.com/tech/tech-industry/compaq-to-license-digital-cash-technology/}{https://www.cnet.com/tech/tech-industry/compaq-to-license-digital-cash-technology/.}
+2002.~\url{https://www.cnet.com/tech/tech-industry/compaq-to-license-digital-cash-technology/}
 
 Koblitz, Neal. \emph{Elliptic Curve Cryptosystems,} Mathematics of
 Computation 48, no. 177 (January 1987): 203--9.
-\href{https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/S0025-5718-1987-0866109-5.pdf}{https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/S0025-5718-1987-0866109-5.pdf.}
+\url{https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/S0025-5718-1987-0866109-5.pdf}
 
 Kreling, Tom. \emph{Douglas Jackson bedacht de eerste digitale valuta en
 werd veroordeeld voor witwassen.} de Volkskrant. January 13, 2018.
-\href{https://www.volkskrant.nl/economie/douglas-jackson-bedacht-de-eerste-digitale-valuta-en-werd-veroordeeld-voor-witwassen~b6ea3bcd/}{https://www.volkskrant.nl/economie/douglas-jackson-bedacht-de-eerste-digitale-valuta-en-werd-veroordeeld-voor-witwassen\textasciitilde b6ea3bcd/.}
+\url{https://www.volkskrant.nl/economie/douglas-jackson-bedacht-de-eerste-digitale-valuta-en-werd-veroordeeld-voor-witwassen~b6ea3bcd/}
 
 Lopp, Jameson. \emph{Bitcoin and the Rise of the Cypherpunks.} CoinDesk.
 April 9,
-2016.~\href{https://www.coindesk.com/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/}{https://www.coindesk.com/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/.}
+2016.~\url{https://www.coindesk.com/markets/2016/04/09/bitcoin-and-the-rise-of-the-cypherpunks/}
 
-Lynch, Daniel C. and Leslie Lundquist. Digital Money: The New Era of
-Internet Commerce. Hoboken, NJ.: Wiley, 1996.
+Lynch, Daniel C. and Leslie Lundquist. \emph{Digital Money: The New Era
+of Internet Commerce}. Hoboken, NJ.: Wiley, 1996.
 
 Massias, H., X. Serret Avila, and J.-J. Quisquater. \emph{Design of a
 Secure Timestamping Service With Minimal Trust Requirement.} 20th
 Symposium in Information Theory in the Benelux. May 1999. Beschikbaar op
 Satoshi Nakamoto Institute:
-\href{https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf}{https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf.}
+\url{https://nakamotoinstitute.org/static/docs/secure-timestamping-service.pdf}
 
 Maxwell, Gregory. \emph{SF Bitcoin Devs Seminar: Greg Maxwell.} SF
 Bitcoin Developers, YouTube. April 29,
@@ -14058,20 +14017,19 @@ Bitcoin Developers, YouTube. April 29,
 Merkle, Ralph C. \emph{A Digital Signature Based on a Conventional
 Encryption Function} Crypto 1987: Advances in Cryptology (1987):
 369--378.
-\href{https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf}{https://people.eecs.berkeley.edu/\textasciitilde raluca/cs261-f15/readings/merkle.pdf.}
+\url{https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf}
 
 Miller, Victor S. \emph{Use of Elliptic Curves in Cryptography.} Crypto
 1985: Advances in Cryptology (1985): 417--26.
-\href{https://dl.acm.org/doi/10.5555/646751.704566}{https://dl.acm.org/doi/10.5555/646751.704566.}
+\url{https://dl.acm.org/doi/10.5555/646751.704566}
 
 Möller, Niels, \emph{Ncash --- An Experimental Digital Cash System}
-(1998).
-\href{https://www.lysator.liu.se/~nisse/NCash/}{https://www.lysator.liu.se/\textasciitilde nisse/NCash/.}
+(1998). \url{https://www.lysator.liu.se/~nisse/NCash/}
 
 More, Max and Natasha Vita-More. \emph{Max More \& Natasha Vita-More on
 the History of Transhumanism w/ Like Robert Mason.} Interview door Luke
-Robert Mason. Luke Robert Mason, YouTube. May 28,
-2020.\url{https://youtu.be/ffEDNLRq6y8} 1:23:58.
+Robert Mason. Luke Robert Mason, YouTube. May 28, 2020.
+\url{https://youtu.be/ffEDNLRq6y8} 1:23:58.
 
 More, Max. \emph{Max More --- Transhumanism and the Singularity.}
 Science, Technology \& the Future. YouTube. January 4, 2012.
@@ -14080,16 +14038,17 @@ Science, Technology \& the Future. YouTube. January 4, 2012.
 Narayanan, Arvind and Jeremy Clark. \emph{Bitcoin's Academic Pedigree:
 The concept of cryptocurrencies is built from forgotten ideas in
 research literature.} Queue 15, no. 4 (July--August 2017): 20--49.
-\href{https://dl.acm.org/doi/10.1145/3134434.3136559}{https://dl.acm.org/doi/10.1145/3134434.3136559.}
+\url{https://dl.acm.org/doi/10.1145/3134434.3136559}
 
 Okamoto, Tatsuaki and Kazuo Ohta. \emph{Universal Electronic Cash.}
 Crypto 1991: Advances in Cryptology (1991): 324--337.
-\href{https://dl.acm.org/doi/abs/10.5555/646756.705374}{https://dl.acm.org/doi/abs/10.5555/646756.705374.}
+\url{https://dl.acm.org/doi/abs/10.5555/646756.705374}
 
-Orwell, George. Nineteen Eighty-Four. London: Penguin Books, 2003.
+Orwell, George. \emph{Nineteen Eighty-Four}. London: Penguin Books,
+2003.
 
 Pein, Corey. \emph{Everybody Freeze!} The Baffler. March 2016.
-\href{https://thebaffler.com/salvos/everybody-freeze-pein}{https://thebaffler.com/salvos/everybody-freeze-pein.}
+\url{https://thebaffler.com/salvos/everybody-freeze-pein}
 
 Phillips, A. W. \emph{The Relationship Between Unemployment and the rate
 of Change of Money Wage Rates in the United Kingdom, 1861--1957.}
@@ -14104,7 +14063,7 @@ Truly Scarce and Decentralized Money Explained}. 2019.
 Rivest, Ronald, Adi Shamir, and Leonard Adleman. \emph{A Method for
 Obtaining Digital Signatures and Public-Key Cryptosystems.}
 Communications of the ACM 21, no. 2 (1978): 120--126.
-\href{https://web.williams.edu/Mathematics/lg5/302/RSA.pdf}{https://web.williams.edu/Mathematics/lg5/302/RSA.pdf.}
+\url{https://web.williams.edu/Mathematics/lg5/302/RSA.pdf}
 
 Rothbard, Murray N. \emph{The End of Socialism and the Calculation
 Debate Revisited.} The Review of Austrian Economics 5, no. 2 (1991):
@@ -14117,8 +14076,7 @@ Rothbard, Murray N. \emph{What Has Government Done to Our Money?}
 Auburn, AL.: Ludwig von Mises Institute, 2010.
 
 Salerno, Joseph T. \emph{Hayek on the Business Cycle.} Mises Daily.
-October 8,
-2008,~\href{https://mises.org/library/hayek-business-cycle}{https://mises.org/library/hayek-business-cycle.}
+October 8, 2008,~\url{https://mises.org/library/hayek-business-cycle}
 
 Schneier, Bruce. \emph{Applied Cryptography}, Second Edition: Protocols,
 Algorithms, and Source Code in C. London: John Wiley \& Sons, Inc.~1996.
@@ -14138,14 +14096,14 @@ Bitcoin in Asia 29, YouTube. November 16,
 2020,~\url{https://youtu.be/D5LpgX-pkUM} 43:33.
 
 Szabo, Nick. \emph{Bitcoin, what took ye so long?} Unenumerated. May 28,
-2011.~\href{https://unenumerated.blogspot.com/2011/05/bitcoin-what-took-ye-so-long.html}{https://unenumerated.blogspot.com/2011/05/bitcoin-what-took-ye-so-long.html.}
+2011.~\url{https://unenumerated.blogspot.com/2011/05/bitcoin-what-took-ye-so-long.html}
 
 UK Parliament. \emph{Small Change: Britain and the Gold Standard.} UK
-Parliament.~\href{https://www.parliament.uk/business/publications/research/olympic-britain/the-economy/small-change/}{https://www.parliament.uk/business/publications/research/olympic-britain/the-economy/small-change/.}
+Parliament.~\url{https://www.parliament.uk/business/publications/research/olympic-britain/the-economy/small-change/}
 
 US Office of the Historian. \emph{Nixon and the End of the Bretton Woods
 System,
-1971--1973.}~\href{https://history.state.gov/milestones/1969-1976/nixon-shock}{https://history.state.gov/milestones/1969-1976/nixon-shock.}
+1971--1973.}~\url{https://history.state.gov/milestones/1969-1976/nixon-shock}
 
 Vigna, Paul and Casey, Michael J. \emph{Cryptocurrency: The Future of
 Money?} London: Vintage, 2016.
@@ -14174,16 +14132,13 @@ Macmillan, 1991.
 
 Extropy magazines 1--17 (1988-1996).
 
-eCash news archieven op
-Chaum.com,~\href{https://chaum.com/ecash/}{https://chaum.com/ecash/.}
+eCash news archieven op Chaum.com,~\url{https://chaum.com/ecash/}
 
-Cypherpunks mailing list archieven, 1992--2000. Beschikbaar op:
-\href{https://cypherpunks.venona.com/}{https://cypherpunks.venona.com/.}
+Cypherpunks mailing list archieven, 1992--2000. Beschikbaar op
+\url{https://cypherpunks.venona.com/}
 
 Cryptography mailing list archieven, October 2008--January 2009.
-Beschikbaar
-op~\href{https://www.metzdowd.com/pipermail/cryptography/}{https://www.metzdowd.com/pipermail/cryptography/.}
-
+Beschikbaar op~\url{https://www.metzdowd.com/pipermail/cryptography/}
 
 
 

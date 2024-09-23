@@ -1,16 +1,8 @@
 # Opmerkingen
 
-Vertaling van Engelse associaties / conferenties / universiteiten etc.?
-
 p. 97 orig. ' every incentive not to provent this' ?
 
 trustless = consistentie / voetnoot toevoegen
-
-block chain = blokketen / ketting - consistentie
-
-vrijbankiersysteem
-vrije banken systeem
-systeem van vrij bankieren
 
 ## Afkortingen & Namen
 
@@ -24,3 +16,5 @@ Anti-Money Laundering
 Racketeering Act
 Grundsätze der Volkswirtschaftslehre
 Methodenstreit
+Stable Money Association
+Federal Reserve System

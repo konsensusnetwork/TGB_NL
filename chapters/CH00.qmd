@@ -20,7 +20,7 @@ Jackson was dus van plan om een alternatief aan te bieden.
 
 Tijdens zijn onderzoek naar valuta's, ontwikkelde Jackson een hernieuwde waardering voor het *klassieke geld* -- goud. Hij ontdekte dat mensen ten minste sinds de predynastieke Egyptische tijd waarde hechtten aan dit glanzende, gele metaal, en dat met goede reden: het natuurlijke element werd niet beïnvloed door de willekeur van mensen.
 
-Het pre-dynastieke Egypte was echter allang verdwenen en zelfs Jackson moest toegeven dat het kostbare metaal voor dagelijkse transacties niet echt praktisch was. Nu het nieuwe millennium naderde, besefte Jackson dat mensen niet zouden terugkeren naar de tijd waarin ze betaalden met gouden munten. Sterker nog, zelfs koperen munten en papiergeld zouden waarschijnlijk binnenkort ouderwets lijken.
+Het pre-dynastieke Egypte was echter allang verdwenen en zelfs Jackson moest toegeven dat het kostbare metaal voor dagelijkse transacties niet echt praktisch was. Nu het nieuwe millennium naderde, besefte Jackson dat mensen niet gingen terugkeren naar de tijd waarin ze betaalden met gouden munten. Sterker nog, zelfs koperen munten en papiergeld zouden waarschijnlijk binnenkort ouderwets lijken.
 
 Nee, de toekomst van geld moest digitaal zijn.
 
@@ -50,7 +50,7 @@ Vroeg in de jaren 2000 groeide e-goud snel, en Jackson werkte onvermoeid om zijn
 
 Maar Jackson was iets vergeten: hij had zijn bedrijf niet als betaaldienst geregistreerd. Daardoor voerde hij ook niet alle vereiste types van *Know-Your-Customer* (KYC) en *Anti-Money Laundering* (AML) controles uit. Hij was zich er niet van bewust dat hij dat moest doen.
 
-Het was niet zo dat hij nonchalant was. Het werd pas een federale misdaad om zonder licentie als betaaldienst te opereren (voor elke staat die er een vereist) na de invoering van de *Patriot Act*, die in het leven werd geroepen als reactie op de terroristische aanslagen van 11 september 2001, enkele jaren na de lancering van e-goud. Nog belangrijker: het was niet duidelijk dat Jacksons onderneming überhaupt als een betaaldienst beschouwd zou worden: het e-goudsysteem verstuurde geen dollars of andere nationale valuta, waarvoor zulke regels doorgaans van toepassing waren.
+Het was niet zo dat hij nonchalant was. Het werd pas een federale misdaad om zonder licentie als betaaldienst te opereren (voor elke staat die er een vereist) na de invoering van de *Patriot Act*, die in het leven werd geroepen als reactie op de terroristische aanslagen van 11 september 2001, enkele jaren na de lancering van e-goud. Nog belangrijker: het was niet duidelijk dat Jacksons onderneming überhaupt als een betaaldienst beschouwd zou worden. Het e-goudsysteem verstuurde geen dollars of andere nationale valuta, waarvoor zulke regels doorgaans van toepassing waren.
 
 Desondanks had Jackson geprobeerd meer duidelijkheid te krijgen over de kwestie. *Gold & Silver Reserve Inc.* had aan de relevante overheidsinstanties zelf voorgesteld dat e-goud voor reguleringsdoeleinden gecategoriseerd kon worden als valuta, waardoor het bedrijf zich ook als een valutawisseldienst kon registreren. Maar als reactie hierop had het Amerikaanse ministerie van Financiën opnieuw bevestigd dat de definities van valuta niet op e-goud van toepassingen waren.
 

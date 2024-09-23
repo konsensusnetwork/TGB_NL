@@ -37,10 +37,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,6 +116,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -340,7 +343,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Whitfield Diffie had altijd al een voorliefde voor codes. Al sinds zijn docent in het vijfde leerjaar hem de substitutiecipher leerde (een basistechniek in de wiskundige tak van de cryptografie), was hij gefascineerd door deze methode van geheimhouding. Het feit dat tekstversleutelingsalgoritmen in die tijd – de jaren vijftig – de specialiteit van het leger, geheime agenten en spionnen waren, droeg alleen maar bij tot de mysterieuze aantrekkingskracht.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 <p>De jonge Whitfield was al snel in de ban van elk cryptografieboek dat zijn vader, een universiteitsprofessor, in de bibliotheek van het <em>City College</em> in New York kon vinden. Hij stortte zich op werken zoals het boek <em>Cryptoanalysis</em> uit 1939 van Helen Forché Gaines, dat diverse methoden beschreef om berichten om te zetten in onleesbare versleutelde tekst, bij voorkeur zo dat alleen de beoogde ontvanger ze kon ontcijferen.</p>
 <p>Met de zeer simpele <em>Caesar-cipher</em> (vermoedelijk gebruikt door Julius Caesar), kunnen berichten bijvoorbeeld in <em>ciphertext</em> worden omgezet door elke letter te vervangen door een andere letter. De coderingssleutel ‘+1’ vervangt bijvoorbeeld elke letter door de volgende letter in het alfabet - ‘a’ wordt ‘b’, ‘b’ wordt ‘c’, enzovoort. Het woord ‘Secret’ verandert in ‘Tfdsfu’. Om de versleutelde tekst te ontcijferen, wordt dezelfde coderingssleutel gebruikt, maar in omgekeerde volgorde: elke letter wordt vervangen door de vorige letter in het alfabet ( ‘Tfdsfu’ wordt weer ‘Secret’).</p>
-<p>Deze +1 coderingssleutel is natuurlijk niet erg sterk. Een tegenstander die vastbesloten is om de resulterende ciphertext te ontcijferen - een <em>cryptanalist</em> - zou het waarschijnlijk bij hun eerste poging raden. En zelfs al zouden ze dat niet doen, er zijn een aantal patronen in een versleutelde tekst die gespecialiseerde codekrakers kunnen helpen te bepalen welke vervangende letters waarschijnlijk overeenkomen met welke originele letters. Vooral in langere teksten kunnen aanwijzingen worden gevonden in de frequentie van specifieke letters en de lengte van woorden, om maar een paar voorbeelden te noemen.</p>
+<p>Deze +1 coderingssleutel is natuurlijk niet erg sterk. Een tegenstander die vastbesloten is om de resulterende ciphertext te ontcijferen – een <em>cryptanalist</em> – zou het waarschijnlijk bij hun eerste poging raden. En zelfs al doen ze dat niet, zijn er toch een aantal patronen in een versleutelde tekst die gespecialiseerde codekrakers kunnen helpen te bepalen welke vervangende letters waarschijnlijk overeenkomen met welke originele letters. Vooral in langere teksten kunnen aanwijzingen worden gevonden in de frequentie van specifieke letters en de lengte van woorden, om maar een paar voorbeelden te noemen.</p>
 <p>Moderne coderingssleutels gebruikten daarom veel geavanceerdere technieken, en gebruikten bijvoorbeeld enkele delen van een tekst om andere delen te versleutelen. Tegen het midden van de twintigste eeuw was encryptie, en het breken ervan, essentieel voor militaire operaties. Het werk werd uitgevoerd door toegewijde specialisten die het vakgebied hadden uitgebreid tot het punt waarop ciphertext volledig willekeurig kon lijken. Zonder patronen om te analyseren, waren zelfs de beste cryptografen ter wereld niet in staat om de codes te breken.</p>
 <p>Desalniettemin bleef het basisidee grotendeels onveranderd. Net als bij de Caesar-cipher waren de geheime sleutels altijd <em>symmetrisch</em>: de decoderingssleutel was dezelfde als de coderingssleutel, alleen in omgekeerde volgorde gebruikt. Om veilig te communiceren, moesten mensen eerst een sleutel met elkaar uitwisselen.</p>
 <p>Een sleutel via een onbeveiligd communicatiekanaal delen, was echter geen optie. Als iemand meeluisterde en de sleutel kon onderscheppen, zouden ze alle daaropvolgende berichten die met die sleutel gecodeerd waren, kunnen ontcijferen. Hiermee zou dus het hele doel van het in de eerste plaats versleutelen van berichten teniet gedaan worden. De sleutels werden daarom meestal gedeeld in persoon. Beide partijen moesten eerst fysiek samenkomen voordat ze versleutelde berichten konden uitwisselen.</p>
@@ -354,15 +357,15 @@ ul.task-list li input[type="checkbox"] {
 <p>Diffie nam het initiatief om een virtuele <em>kluis</em> te bouwen. Net zoals een fysieke kluis, moest de digitale variant eenvoudig te openen zijn door de legitieme eigenaar van de gegevens, maar de toegang voor alle anderen beperken. Hij geloofde dat sterke versleuteling dit type probleem kon oplossen.</p>
 <p>Hoewel de hacker zijn kinderpassie eigenlijk niet echt had behouden (hij geloofde dat alle relevante paden in het domein van cryptografie al waren verkend) hielp zijn baas bij het AI Lab, wiskundige Roland Silver, hem weer op de been. En toen Diffie ontdekte hoeveel vooruitgang er, sinds hij het als kind bestudeerde, in het veld van crypto geboekt was, werd zijn interesse opnieuw aangewakkerd.</p>
 <p>Maar Diffie leerde nu ook dat de werkelijke voorhoede van cryptografie waarschijnlijk achter gesloten deuren verborgen bleef. De <em>National Security Agency</em> (NSA), de Amerikaanse inlichtingendienst die destijds in het geheim werkte en officieel niet bestond, had al jaren de beste cryptografen van het land binnengehaald. Waarschijnlijk bleef elk echt baanbrekend onderzoek, en de superieure cryptografische technieken die daaruit voortkwamen, geclassificeerd.</p>
-<p>Het idee dat de NSA belangrijke informatie voor het publiek zou kunnen achterhouden, zat helemaal niet lekker bij Diffie.</p>
+<p>Het idee dat de NSA belangrijke informatie voor het publiek kon achterhouden, zat helemaal niet lekker bij Diffie.</p>
 </section>
 <section id="stanford" class="level2">
 <h2 class="anchored" data-anchor-id="stanford">Stanford</h2>
 <p>Toen de hackercultuur zich voor het eerst buiten de campus van MIT begon te verspreiden, vond het een vroege thuis in de San Francisco Bay Area, op de Stanford University. En zo zou ook Diffie zijn weg daarheen vinden. Toen hij in 1969 vierentwintig werd en de leeftijdsgrens voor zijn dienstplicht naderde, ruilde de afgestudeerde van MIT Mitre in om voor het AI Lab van Stanford te werken. Hier vond hij nieuwe uitdagingen die bij zijn hernieuwde interesse in cryptografie pasten.</p>
 <p>De eerste van deze uitdagingen werd geïnspireerd door John McCarthy. De mede-oprichter van het AI Lab van MIT en originele ontwerper van de LISP programmeertaal was verder gegaan met het oprichten van Stanfords AI Lab, en hij leidde het onderzoeksinstituut toen Diffie daar voor het eerst aankwam. Tegen die tijd had McCarthy een interesse ontwikkeld in de toekomst van digitale handel, wat op zijn beurt Diffie ertoe aanzette om te dromen van het geautomatiseerde kantoor, waar software wordt gebruikt om werkgerelateerde documenten digitaal te creëren, verzamelen, opslaan, bewerken en te verspreiden. Dit leidde hem tot het overwegen van het vraagstuk van <em>authenticatie</em>.</p>
-<p>In de fysieke wereld worden documenten doorgaans geverifieerd door middel van persoonlijke, geschreven handtekeningen. Mensen ondertekenen een brief om te bewijzen dat ze echt degenen zijn die hem hebben geschreven, of ze voegen hun handtekening toe aan een contract om het juridisch bindend te maken. Maar, zo bedacht Diffie, naarmate er meer documenten digitaal zouden worden, zouden mensen een digitaal equivalent van een handtekening nodig hebben om te bewijzen dat zij echt degenen zijn die de inhoud van deze documenten goedkeurden.</p>
+<p>In de fysieke wereld worden documenten doorgaans geverifieerd door middel van persoonlijke, geschreven handtekeningen. Mensen ondertekenen een brief om te bewijzen dat ze echt degenen zijn die hem geschreven hebben, of ze voegen hun handtekening toe aan een contract om het juridisch bindend te maken. Maar, zo bedacht Diffie, naarmate documenten meer digitaal worden, zouden mensen een digitaal equivalent van een handtekening nodig hebben om te bewijzen dat zij echt degenen zijn die de inhoud van deze documenten goedkeurden.</p>
 <p>Het creëren van een dergelijke vorm van digitale authenticatie was echter niet zo eenvoudig: Diffie en McCarthy brachten talloze uren door in het onderzoeksinstituut, peinzend over mogelijke oplossingen. Het hoofdprobleem was dat zelfs specifieke individuele gegevens, bijvoorbeeld een lang, persoonlijk nummer, makkelijk waren om te kopiëren. Iedereen kon zo’n digitale handtekening overnemen van één contract en toevoegen aan een ander contract. Dat zou ze nutteloos maken.</p>
-<p>Een andere uitdaging ontstond in de schoot van het Advanced Research Projects Agency (ARPA) van het ministerie van Defensie, dat in 1972 was begonnen met het verbinden van grote onderzoeksinstellingen in het land door middel van een computernetwerk: ARPAnet. Als onderdeel van dit project, zocht Larry Roberts, de directeur van Information Processing Techniques bij ARPA, naar manieren om berichten over het netwerk privé te houden. Nadat de NSA hem elke hulp had geweigerd - het geheime overheidsagentschap weigerde aan een dergelijk openbaar project te werken - hoopte hij dat een van zijn belangrijkste onderzoekers misschien een idee had.</p>
+<p>Een andere uitdaging ontstond in de schoot van het <em>Advanced Research Projects Agency</em> (ARPA) van het ministerie van Defensie, dat in 1972 was begonnen met het verbinden van grote onderzoeksinstellingen in het land door middel van een computernetwerk: ARPAnet. Als onderdeel van dit project, zocht Larry Roberts, de directeur van Information Processing Techniques bij ARPA, naar manieren om berichten over het netwerk privé te houden. Nadat de NSA hem elke hulp had geweigerd - het geheime overheidsagentschap weigerde aan een dergelijk openbaar project te werken - hoopte hij dat een van zijn belangrijkste onderzoekers misschien een idee had.</p>
 <p>Toen McCarthy, een van de belangrijkste onderzoekers, het probleem besprak met de hackers in Stanfords AI Lab, erkende Diffie het belang van dit vraagstuk. Als in de toekomst de communicatie steeds meer elektronisch zou plaatsvinden (en dit was al meer en meer het geval) zou het persoonlijk delen van coderingssleutels waarschijnlijk onhaalbaar worden, waardoor privégesprekken onmogelijk zouden zijn. Tenzij mensen toegang zouden hebben tot hulpmiddelen om hun communicatie te beveiligen, vreesde Diffie dat iedereen op elk moment potentieel in de gaten kon worden gehouden. Een verontrustend toekomstbeeld.</p>
 <p>Terwijl hij oplossingen probeerde te vinden voor deze uitdagingen, groeide Diffie’s hernieuwde interesse in cryptografie langzaam uit tot een obsessie. Zijn enthousiasme werd nog aangewakkerd door het lezen van <em>The Codebreakers</em>, een boek uit 1967 van David Kahn dat de gehele geschiedenis van cryptografie gedetailleerd beschrijft en deels gebaseerd is op informatie van twee NSA-overlopers die naar de Sovjet-Unie waren gevlucht. Hij was steeds meer vastberaden om de cryptografische technieken en inzichten te achterhalen die nog steeds door inlichtingendiensten werden onderdrukt.</p>
 <p>Dit was echter niet de enige reden waarom de hacker van het AI Lab uiteindelijk besloot om alles op alles te zetten.</p>
@@ -386,8 +389,8 @@ ul.task-list li input[type="checkbox"] {
 <p><em>Twee</em> sleutels.</p>
 <p>De oplossing was om <em>twee</em> sleutels te gebruiken.</p>
 <p>Cryptografen hadden altijd als vanzelfsprekend beschouwd dat coderingssleutels geheim moesten blijven, omdat ze ook dienden als decoderingssleutels. Maar Diffie negeerde deze <em>vanzelfsprekende waarheid</em> en kwam met het idee van <em>sleutelparen</em>. In plaats van slechts één geheime sleutel, zou iedereen twee sleutels hebben, namelijk een geheime sleutel die inderdaad geheim moest blijven, en een publieke sleutel die vrijuit gedeeld kon worden.</p>
-<p>Diffie was van mening dat de sleutels wiskundig met elkaar verbonden moesten zijn, waarbij de publieke sleutel in essentie zou worden afgeleid van de geheime sleutel door middel van een soort eenrichtingsfunctie. Zijn visie was erop gericht dat een verzender – laten we haar ‘Alice’ noemen, zoals cryptografen graag doen – een bericht zou versleutelen met haar geheime sleutel, waarna de beoogde ontvanger, ‘Bob’, het zou kunnen ontcijferen met behulp van haar publieke sleutel.</p>
-<p>Als Bob het bericht inderdaad kon ontcijferen met Alice’s publieke sleutel, zou dit bewijzen dat het bericht specifiek was versleuteld met Alice’s geheime sleutel. Dit zou in feite een vorm van authenticatie mogelijk maken, aangezien de versleutelde versie van een bericht zou dienen als Alice’s digitale handtekening.</p>
+<p>Diffie was van mening dat de sleutels wiskundig met elkaar verbonden moesten zijn, waarbij de publieke sleutel in essentie van de geheime sleutel afgeleid werd door middel van een soort eenrichtingsfunctie. Zijn visie was erop gericht dat een verzender – laten we haar ‘Alice’ noemen, zoals cryptografen graag doen – een bericht versleutelde met haar geheime sleutel, waarna de beoogde ontvanger, ‘Bob’, het kon ontcijferen met behulp van haar publieke sleutel.</p>
+<p>Als Bob het bericht inderdaad kon ontcijferen met Alice’s publieke sleutel, bewijst dit dat het bericht specifiek met Alice’s geheime sleutel was versleuteld. Dit maakt in feite een vorm van authenticatie mogelijk, aangezien de versleutelde versie van een bericht als Alice’s digitale handtekening zou dienen.</p>
 <p>Deze digitale handtekeningen zouden zelfs krachtiger zijn dan geschreven handtekeningen, aangezien een cryptografische handtekening alleen geldig zou zijn in combinatie met het precieze stuk data dat was ondertekend. Als een digitaal contract na ondertekening wordt gewijzigd, zou de cryptografische handtekening niet meer overeenkomen. Op een bepaalde manier zouden zowel de handtekening als de data zelf onmogelijk na te maken zijn.</p>
 <p>Bovendien zag Diffie in dat het omgekeerde ook kon werken. Alice zou een bericht naar Bob kunnen versleutelen met <em>Bob</em>’s publieke sleutel, waarna Bob, en alleen Bob, het zou kunnen ontcijferen met zijn geheime sleutel. <em>Publieke-sleutelcryptografie</em> beloofde zowel digitale authenticatie als veilige communicatie te bieden!</p>
 <p>Toen het concept die avond aan Hellman werd uitgelegd, was hij het ermee eens dat Diffie potentieel iets belangrijks had bedacht, ook al bestond het idee alleen nog maar in ontwerpfase en moest de exacte wiskunde nog worden uitgewerkt. In de weken die volgden, legde het duo de vroege wiskundige basis om het idee tastbaarder te maken.</p>
@@ -404,15 +407,15 @@ ul.task-list li input[type="checkbox"] {
 <p>In zijn laatste semester als student maakte hij tijdens een cursus over computerbeveiliging kennis met het veld van cryptografie. Maar toen de docent de cipher van Caeser en andere vormen van symmetrische versleuteling besprak, realiseerde hij zich meteen dat de noodzakelijke sleuteluitwisseling in persoon de toepasbaarheid ervan ernstig beperkte. Merkle geloofde dat in een wereld waarin steeds meer communicatie digitaal zou gaan verlopen, er dringend behoefte was aan een betere oplossing.</p>
 <p>In plaats van het hele land door te reizen op zoek naar antwoorden, beperkte Merkle zijn zoektocht naar een oplossing tot zijn eigen creatieve geest. En uiteindelijk bedacht hij een plan dat, althans tot op zekere hoogte, het probleem zou kunnen oplossen.</p>
 <p>Zo zou het werken.</p>
-<p>Eerst zou Alice een groot aantal cryptografische puzzels maken, misschien wel miljoenen of zelfs meer. De oplossing voor elke puzzel zou bestaan uit een uniek getal en een even unieke geheime sleutel. Alice zelf zou de oplossing voor elke puzzel al kennen; ze zou weten welke getallen bij welke geheime sleutels horen. Maar elke individuele puzzel zou ook door iemand anders kunnen worden opgelost, met een beetje rekenkracht.</p>
-<p>Alice zou vervolgens alle puzzels naar Bob sturen. Bob zou op zijn beurt willekeurig een puzzel kiezen, en deze oplossen met een beetje rekenkracht om het unieke nummer en de bijbehorende geheime sleutel te vinden. Daarna zou hij het nummer (maar niet de bijbehorende geheime sleutel) terugsturen naar Alice.</p>
-<p>Op basis van het unieke nummer dat Bob terugstuurt, weet Alice onmiddellijk welke geheime sleutel Bob daarbij heeft gevonden. Deze geheime sleutel zou dan de coderingssleutel zijn die ze met elkaar delen. Net als elke andere symmetrische coderingssleutel, zou deze worden gebruikt om berichten tussen hen te coderen en te decoderen.</p>
+<p>Eerst maakt Alice een groot aantal cryptografische puzzels, misschien wel miljoenen of zelfs meer. De oplossing voor elke puzzel bestaat uit een uniek getal en een even unieke geheime sleutel. Alice zelf kent de oplossing voor elke puzzel al: ze zeet welke getallen bij welke geheime sleutels horen. Maar elke individuele puzzel kan ook door iemand anders worden opgelost, mits een beetje rekenkracht.</p>
+<p>Alice stuurt vervolgens alle puzzels naar Bob. Bob zou op zijn beurt willekeurig een puzzel kiezen, en deze met een beetje rekenkracht oplossen om het unieke nummer en de bijbehorende geheime sleutel te vinden. Daarna zou hij het nummer (maar niet de bijbehorende geheime sleutel) naar Alice terugsturen.</p>
+<p>Op basis van het unieke nummer dat Bob terugstuurt, weet Alice onmiddellijk welke geheime sleutel Bob daarbij heeft gevonden. Deze geheime sleutel is dan de coderingssleutel die ze met elkaar delen. Net als elke andere symmetrische coderingssleutel, wordt deze gebruikt om berichten tussen hen te coderen en te decoderen.</p>
 <p>Een luistervink die alle puzzels van Alice naar Bob zag, en ook welk uniek nummer Bob naar Alice terugstuurde, zou nog steeds de bijbehorende geheime sleutel niet weten.</p>
-<p>Om erachter te komen welke sleutel Alice en Bob hebben gekozen, zou een luistervink beginnen met het willekeurig oplossen van alle puzzels (via <em>brute kracht</em>) om dat ene unieke nummer te vinden dat Bob terugstuurde, wat tevens de geheime sleutel zou onthullen. Dit zou echter een rekenkundig intensief proces zijn. Afhankelijk van de hoeveelheid puzzels die aanvankelijk werden gemaakt (en de moeilijkheidsgraad om elke puzzel op te lossen), zou het veel rekenkracht en tijd in beslag kunnen nemen.</p>
-<p>Alice en Bob zouden daarom een asymmetrisch voordeel hebben ten opzichte van de afluisteraar. Ze hoefden nauwelijks berekeningen uit te voeren om het eens te worden over een geheime sleutel, terwijl de afluisteraar heel veel berekeningen zou moeten uitvoeren om hun gesprek te decoderen.</p>
-<p>Deze oplossing vereiste echter wel dat Alice en Bob veel data met elkaar deelden in de vorm van puzzels. En de veiligheid van de oplossing zou lineair toenemen met het totale aantal puzzels. Om het systeem tien keer moeilijker te kraken, zouden ze tien keer zoveel puzzels moeten delen; om het systeem honderd keer moeilijker te kraken, zouden ze honderd keer zoveel puzzels moeten delen, en zo voorts. In de praktijk suggereren data bronbeperkingen van normale gebruikers dat een goed gefinancierde aanvaller met een supercomputer in veel gevallen berichten binnen enkele dagen zou kunnen ontcijferen.</p>
+<p>Om erachter te komen welke sleutel Alice en Bob hebben gekozen, zou een luistervink beginnen met het willekeurig oplossen van alle puzzels (via <em>brute kracht</em>) om dat ene unieke nummer te vinden dat Bob terugstuurde, wat tevens de geheime sleutel zou onthullen. Dit is echter een rekenkundig intensief proces. Afhankelijk van de hoeveelheid puzzels die aanvankelijk gemaakt werden (en de moeilijkheidsgraad om elke puzzel op te lossen), zou het veel rekenkracht en tijd in beslag kunnen nemen.</p>
+<p>Alice en Bob hebben daarom een asymmetrisch voordeel ten opzichte van de afluisteraar. Ze hoefden nauwelijks berekeningen uit te voeren om het over een geheime sleutel eens te worden, terwijl de afluisteraar heel veel berekeningen moest uitvoeren om hun gesprek te decoderen.</p>
+<p>Deze oplossing vereiste echter wel dat Alice en Bob veel data met elkaar deelden in de vorm van puzzels. En de veiligheid van de oplossing nam lineair toenemen met het totale aantal puzzels. Om het systeem tien keer moeilijker te kraken, moesten ze tien keer zoveel puzzels delen; om het systeem honderd keer moeilijker te kraken, moesten ze honderd keer zoveel puzzels delen, en zo voorts. In de praktijk suggereren limieten in data en rekenkracht van normale gebruikers dat een goed gefinancierde aanvaller met een supercomputer berichten in veel gevallen binnen enkele dagen zou kunnen ontcijferen.</p>
 <p>Desondanks had Merkle een oplossing bedacht die twee mensen de mogelijkheid bood om tamelijk privé te communiceren zonder dat ze elkaar vooraf persoonlijk hoefden te ontmoeten. Hoewel het niet perfect was, was hij van mening dat deze techniek voor sleuteluitwisseling zeker innovatief en potentieel nuttig was.</p>
-<p>Merkle was echter niet in staat om iemand anders te overtuigen. Zijn idee ontving weinig lof aan de Universiteit van Berkeley, en zijn artikel werd afgewezen door <em>Communications of the ACM</em>, het prestigieuze blad van de Association for Computing Machinery (ACM). Het verzenden van geheime sleutels via een onveilig netwerk werd door de recensenten als onacceptabel beschouwd. Bovendien merkten zij op, was er geen eerdere literatuur die sleuteluitwisseling had vastgesteld als een belangrijk probleem.</p>
+<p>Merkle was echter niet in staat om iemand anders te overtuigen. Zijn idee ontving weinig lof aan de Universiteit van Berkeley, en zijn artikel werd afgewezen door <em>Communications of the ACM</em>, het prestigieuze blad van de <em>Association for Computing Machinery</em> (ACM). Het verzenden van geheime sleutels via een onveilig netwerk werd door de recensenten als onacceptabel beschouwd. Bovendien merkten zij op, was er geen eerdere literatuur die sleuteluitwisseling had vastgesteld als een belangrijk probleem.</p>
 <p>Omdat hij het potentieel ervan aan niemand om hem heen kon uitleggen, stond de teleurgestelde student op het punt om zijn idee helemaal los te laten, totdat hij een proefdruk van Diffie en Hellmans paper in handen kreeg. Merkle zag meteen dat het duo een soortgelijk probleem probeerde op te lossen. Het bood een vorm van bevestiging die hij wanhopig nodig had en hij besloot om contact op te nemen.</p>
 <p>In tegenstelling tot Merkle’s professor in Berkeley en de recensenten van het tijdschrift, bewonderden Diffie en Hellman de vindingrijkheid van het voorstel. Waar het idee van Diffie draaide om sleutelparen, zorgde Merkle’s aanpak er op een slimme manier voor dat Alice en Bob overeen konden komen over een gedeelde sleutel op zo’n manier dat alleen zij (gemakkelijk) konden berekenen wat deze sleutel is. Hoewel Diffie en Hellman uiteindelijk concludeerden dat het schema niet robuust genoeg was voor wat ze probeerden te bereiken, nodigde het puzzelschema hen uit om het probleem vanuit een nieuw oogpunt te bekijken.</p>
 <p>Hellman besloot om Merkle een zomerstage aan te bieden, waarbij hij de student uit Berkeley bijstond in het herschrijven van zijn paper tot een versie die uiteindelijk geaccepteerd werd door het ACM-journaal. En door te bewijzen dat hij een creatieve en scherpzinnige denker was, werd Merkle bovendien ook betrokken bij verdere discussies rondom publieke-sleutelcryptografie.</p>
@@ -422,11 +425,11 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="de-doorbraak">De doorbraak</h2>
 <p>Uiteindelijk was het Hellman die de puzzelstukjes op hun plek liet vallen.</p>
 <p>Hoewel zijn oplossing niet aan alle vereisten voldeed waar hij en Diffie op mikten (want er was geen digitale authenticatie), bedacht Hellman wel een schema dat twee partijen privé liet communiceren, zonder de noodzaak om persoonlijk op voorhand een coderingssleutel te delen. Vergelijkbaar met het puzzelschema van Merkle is het idee achter de Diffie-Hellman-sleuteluitwisseling (zoals deze oplossing bekend zou worden) dat Alice en Bob een gezamenlijk geheim kunnen afspreken: in essentie, een symmetrische coderingssleutel die alleen zij kennen.</p>
-<p>Om dit gedeelde geheim te genereren, zouden Alice en Bob sleutelparen gebruiken, zoals oorspronkelijk door Diffie werd geopperd. Hun geheime sleutels zouden in wezen gewoon zeer grote willekeurige getallen zijn, die zelfs de snelste supercomputers niet binnen een miljoen jaar zouden kunnen raden. Elke publieke sleutel kan vervolgens afgeleid worden van een geheime sleutel door middel van een eenrichtingsfunctie. Het berekenen van de publieke sleutel uit de geheime sleutel zou gemakkelijk zijn, terwijl het berekenen van de geheime sleutel uit de publieke sleutel in principe onmogelijk zou zijn.</p>
-<p>Om het gedeelde geheim te produceren, zouden Alice en Bob elk hun eigen <em>geheime sleutel</em> vermenigvuldigen met de <em>publieke</em> sleutel van de ander. Dit zou hen beiden hetzelfde resultaat moeten geven: het gedeelde geheim.</p>
+<p>Om dit gedeelde geheim te genereren, gebruiken Alice en Bob sleutelparen, zoals oorspronkelijk door Diffie werd geopperd. Hun geheime sleutels zijn in wezen gewoon zeer grote willekeurige getallen, die zelfs de snelste supercomputers binnen een miljoen jaar niet kunnen raden. Elke publieke sleutel kan vervolgens van een geheime sleutel afgeleid worden door middel van een eenrichtingsfunctie. Het berekenen van de publieke sleutel uit de geheime sleutel is gemakkelijk, terwijl het berekenen van de geheime sleutel uit de publieke sleutel in principe onmogelijk is.</p>
+<p>Om het gedeelde geheim te produceren, vermenigvuldigen Alice en Bob elk hun eigen <em>geheime sleutel</em> met de <em>publieke</em> sleutel van de ander. Dit moet hen beiden hetzelfde resultaat geven: het gedeelde geheim.</p>
 <p>Dit werkt omdat in beide gevallen het gedeelde geheim in essentie een combinatie is van beide geheime sleutels die telkens <em>eenmaal</em> door een eenrichtingsfunctie zijn gehaald. Wanneer Alice haar geheime sleutel vermenigvuldigt met de publieke sleutel van Bob, is de eenrichtingsfunctie al <em>ingebed</em> in de publieke sleutel van Bob, en hetzelfde klopt als Bob zijn geheime sleutel vermenigvuldigt met de publieke sleutel van Alice. Hoewel Alice en Bob de wiskunde in een andere <em>volgorde</em> uitvoeren, moet de uitkomst hetzelfde zijn.</p>
 <p>(Dit is, weliswaar enigzins vereenvoudigd, vergelijkbaar met hoe de uitkomst van 2 x (3 x 5) en 3 x (2 x 5) beide 30 zijn. In deze analogie is de 2 de geheime sleutel van Alice, de 3 is de geheime sleutel van Bob, x 5 is de eenrichtingsfunctie, en 30 is het gedeelde geheim.)</p>
-<p>Tegelijk kan niemand anders het gedeelde geheim van Alice en Bob vinden. Immers, als de twee <em>publieke</em> sleutels worden vermenigvuldigd, is het resultaat in wezen een combinatie van beide geheime sleutels, maar dan <em>twee keer</em> door een eenrichtingsfunctie heen gegaan, en dus een keer te veel. (Als we de analogie voortzetten, is dit te vergelijken met (2 x 5) x (3 x 5), wat 150 zou zijn in plaats van 30.)</p>
+<p>Tegelijk kan niemand anders het gedeelde geheim van Alice en Bob vinden. Immers, als de twee <em>publieke</em> sleutels worden vermenigvuldigd, is het resultaat in wezen een combinatie van beide geheime sleutels, maar dan <em>twee keer</em> door een eenrichtingsfunctie heen gegaan, en dus een keer te veel (als we de analogie voortzetten, is dit te vergelijken met (2 x 5) x (3 x 5), wat 150 is in plaats van 30).</p>
 <p>Het genereren van het gedeelde geheim vereist dus toegang tot ofwel de geheime sleutel van Alice of van Bob. Zolang zij deze geheim houden, kunnen ze genieten van wiskundig gegarandeerde privécommunicatie.</p>
 <p>De Diffie-Hellman-sleuteluitwisseling doorbrak het status-quo in het veld van de cryptografie en was in staat om iets te realiseren dat lang onmogelijk werd geacht. Hun techniek had het potentieel om het volledige veld van cryptografie dramatisch te transformeren. De twee onconventionele cryptografen waren zich hier maar al te goed van bewust toen ze hun tweede paper, <em>New Directions in Cryptography</em>, indienden bij <em>IEEE Transactions on Information Theory</em>, een prestigieus wetenschappelijk tijdschrift uitgegeven door een professionele vereniging voor elektronische techniek.</p>
 <p>‘Vandaag staan we aan de vooravond van een revolutie in cryptografie’, kondigden Diffie en Hellmann aan in hun paper, gepubliceerd in de editie van november 1976 van het tijdschrift. Vooruitziend dat hun doorbraak het begin van een grote omwenteling zou markeren, vervolgden ze: ‘theoretische ontwikkelingen in informatietheorie en informatica beloven aantoonbaar veilige cryptosystemen mogelijk te maken, waardoor deze eeuwenoude kunst verandert in een wetenschap.’<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
@@ -468,13 +471,13 @@ ul.task-list li input[type="checkbox"] {
 <p>Dergelijke <em>metadata</em> kunnen meer over iemand onthullen dan iemand prettig zou vinden. Een onderzoeksjournalist wil misschien niet dat zijn bronnen bekend worden, bijvoorbeeld. Of burgers uit landen met autoritaire regimes willen misschien niet dat iemand weet dat ze communiceren met een politieke dissident. Of misschien geeft een werknemer die informeert naar werkgelegenheden bij een concurrerend bedrijf de voorkeur aan het feit dat zijn baas niet ontdekt dat hij contact heeft gehad met dit bedrijf.</p>
 <p>In zijn paper uit 1981 getiteld <em>Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms</em>, stelde Chaum een oplossing voor dit probleem voor, eveneens gebaseerd op publieke-sleutelcryptografie.<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a></p>
 <p>Dit is hoe het werkte.</p>
-<p>Als Alice een bericht aan Bob wil sturen, zou ze eerst zijn publieke sleutel moeten nemen en het bericht daarmee versleutelen. Op deze manier zou alleen Bob het bericht moeten kunnen ontcijferen.</p>
-<p>Maar ze zou het bericht niet rechtstreeks naar Bob sturen: een speurder die hun verbindingen monitort, zou dan kunnen zien dat de twee communiceren, wat Alice juist probeert te vermijden.</p>
-<p>In plaats daarvan zou Alice het versleutelde bericht nemen en daaraan het e-mailadres van Bob toevoegen. Vervolgens zou ze dit hele pakket (het versleutelde bericht voor Bob en zijn e-mailadres) nog een keer versleutelen, maar nu met de publieke sleutel die geassocieerd is met een speciale mixserver. Het bericht zou nu twee lagen van codering hebben: één laag voor het originele bericht en een andere laag voor het hele pakket. Alice zou dit dubbel versleutelde pakket dan naar de mixer sturen.</p>
-<p>De server van de mixer zou op zijn beurt het pakket ontcijferen met zijn geheime sleutel, om het originele gecodeerde bericht en Bobs e-mailadres te vinden. De mixer zou dit gebruiken om het gecodeerde bericht naar Bob te sturen, die het vervolgens zou ontcijferen om Alice’s originele bericht te lezen. Als tussenpersoon brak de mixer de directe link tussen Alice en Bob, waardoor het moeilijker werd voor de speurneus om te concluderen dat ze communiceerden. Tenzij het duidelijk is uit de inhoud van het bericht, zou Bob zelf ook niet weten dat het van Alice afkomstig was.</p>
+<p>Als Alice een bericht aan Bob wil sturen, moest ze eerst zijn publieke sleutel nemen en het bericht daarmee versleutelen. Op deze manier kon alleen Bob het bericht ontcijferen.</p>
+<p>Maar ze stuurt het bericht niet rechtstreeks naar Bob: een speurder die hun verbindingen monitort, zou dan kunnen zien dat de twee communiceren, wat Alice juist probeert te vermijden.</p>
+<p>In plaats daarvan neemt Alice het versleutelde bericht en voegt daar het e-mailadres van Bob aan toe. Vervolgens versleutelt ze dit hele pakket (het versleutelde bericht voor Bob en zijn e-mailadres) nog een keer, maar nu met de publieke sleutel die geassocieerd is met een speciale mixserver. Het bericht heeft nu twee lagen van codering: één laag voor het originele bericht en een andere laag voor het hele pakket. Alice stuurt dit dubbel versleutelde pakket dan naar de mixer.</p>
+<p>Om het originele gecodeerde bericht en Bobs e-mailadres te vinden, ontcijfert de server van de mixer op zijn beurt het pakket met zijn geheime sleutel. De mixer gebruikt dit om het gecodeerde bericht naar Bob te sturen, die het vervolgens ontcijfert om Alice’s originele bericht te lezen. Als tussenpersoon brak de mixer de directe link tussen Alice en Bob, waardoor het voor de speurneus moeilijker werd om te concluderen dat ze communiceerden. Tenzij het duidelijk is uit de inhoud van het bericht, weet Bob zelf ook niet dat het van Alice afkomstig was.</p>
 <p>Dit basisopzet functioneert zolang je op de mixer kan rekenen en zolang deze niet aan de gluurder (of aan Bob) onthult dat hij het versleutelde pakket eerst van Alice heeft ontvangen. Maar Chaum maakte duidelijk dat het zelfs niet nodig is om de mixer te vertrouwen.</p>
 <p>Om het risico van een onbetrouwbare mixer te verminderen, kan Alice meerdere mixers gebruiken. In dat geval zou Alice een gecodeerd pakket naar mixer 1 sturen, dat mixer 1 kan ontcijferen om het e-mailadres van mixer 2 en een ander gecodeerd bericht te vinden. Dit bericht kan mixer 2 vervolgens ontcijferen om het e-mailadres van mixer 3 te vinden en nog een ander gecodeerd bericht. Dit bericht kan mixer 3 dan ontcijferen om inderdaad het e-mailadres van Bob en nog een gecodeerd bericht te vinden. Dit laatste bericht kan Bob ten slotte ontcijferen om het originele bericht te lezen. Door elk één laag van de encryptie te verwijderen en het pakket naar de volgende ontvanger door te sturen, zouden de mixers weten van wie ze het pakket hebben ontvangen en naar wie ze het hebben doorgestuurd, maar geen van hen zou weten waar het pakket oorspronkelijk vandaan kwam en wie de eindontvanger was.</p>
-<p>Een luistervink die Bobs communicatie probeert te monitoren, zou mogelijk kunnen weten dat mixer 3 uiteindelijk het bericht naar Bob stuurde, maar zelfs als mixer 3 deze informatie met de indringer deelt op verzoek (of gerechtelijk bevel), helpt dit de indringer slechts één stap vooruit. Als er ook maar één van de mixers weigert mee te werken, stopt het spoor. (En als de mixers in verschillende rechtsgebieden verblijven, kunnen zelfs wetshandhavingsautoriteiten uit een bepaald land het moeilijk hebben om de oorsprong van een bericht na te gaan.)</p>
+<p>Een luistervink die Bobs communicatie probeert te monitoren, zou mogelijk kunnen weten dat mixer 3 uiteindelijk het bericht naar Bob stuurde, maar zelfs als mixer 3 deze informatie met de indringer deelt op verzoek (of gerechtelijk bevel), helpt dit de indringer slechts één stap vooruit. Als er ook maar één van de mixers weigert mee te werken, stopt het spoor (en als de mixers in verschillende rechtsgebieden verblijven, kunnen zelfs wetshandhavingsautoriteiten uit een bepaald land het moeilijk hebben om de oorsprong van een bericht na te gaan).</p>
 <p>Zo had Chaum het cruciale conceptuele fundament gelegd voor wat later bekend zou worden als <em>remailers</em>.</p>
 <p>En zijn bijdragen aan het veld van cryptografie zouden daar niet ophouden…</p>
 
@@ -513,6 +516,150 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -934,7 +1081,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link active" href="../index.html" aria-current="page">
+    <a class="nav-link" href="../license.html">
 <p>License</p>
 </a>
   </li>  

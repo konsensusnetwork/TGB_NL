@@ -37,10 +37,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,6 +116,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -371,7 +374,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Maar halverwege de jaren 90 meende Szabo dat hij een beter idee had. Hij bedacht een oplossing die niet door een van de handelspartijen kon worden bedrogen en geen betrouwbare scheidsrechter nodig had. Szabo stelde <em>slimme contracten</em> voor; digitale contracten die uit zichzelf hun eigen voorwaarden zouden afdwingen, zoals vastgelegd in computercodes.<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
 <p>Stel dat Alice, bij wijze van vereenvoudigd voorbeeld, een geheime code van Bob wil kopen voor $ 10. Een slim contract kan dan zo worden geprogrammeerd dat zodra Bob de geheime code invoert op een vooraf afgesproken plek waar Alice hem kan vinden (misschien door het toe te voegen aan het contract zelf, niet ongelijk aan een digitale handtekening), de code van het contract dit herkent en verifieert, om vervolgens <em>automatisch</em> $ 10 van Alice’s account af te trekken en over te maken naar Bob (Szabo gebruikte een frisdrankautomaat als een primitieve analogie: het <em>contract</em> tussen een consument en een frisdrankautomaat stelt dat als de consument een muntje in de automaat stopt, de machine — door een geautomatiseerde respons — een blikje frisdrank of een reep chocolade teruggeeft, zonder verdere menselijke tussenkomst).</p>
 <p>In theorie zouden <em>smart contracts</em> (slimme contracten) buitengewoon complex kunnen worden opgesteld, en kunnen ze in principe alle soorten contractuele clausules bevatten, waaronder pandrechten, obligaties, of omschrijving van eigendomsrechten. Dit zou zelfs volledig nieuwe zakelijke regelingen mogelijk maken, opperde Szabo, waarbij hij het voorbeeld gaf van een smart contract voor een autolening die, bij het niet terugbetalen van de lening, automatisch de controle over de digitale autosleutels terug zou geven aan de bank.</p>
-<p>Nick Szabo geloofde dat de meeste eigenschappen en kenmerken die een slim contract zou moeten bevatten, konden worden geïmplementeerd door gebruik te maken van de steeds groter wordende gereedschapskist van de Cypherpunks: ‘Protocollen gebaseerd op wiskunde, genaamd <em>cryptografische protocollen</em>, zijn de fundamentele bouwstenen die de verbeterde afwegingen tussen waarneembaarheid, verifieerbaarheid, privaatrechtelijkheid, en afdwingbaarheid in slimme contracten implementeren’, schreef hij. <a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
+<p>Nick Szabo geloofde dat de meeste eigenschappen en kenmerken die een slim contract zou moeten bevatten, konden worden geïmplementeerd door gebruik te maken van de steeds groter wordende gereedschapskist van de Cypherpunks: ‘Protocollen gebaseerd op wiskunde, genaamd <em>cryptografische protocollen</em>, zijn de fundamentele bouwstenen die de verbeterde afwegingen tussen waarneembaarheid, verifieerbaarheid, privaatrechtelijkheid, en afdwingbaarheid in slimme contracten implementeren’, schreef hij.<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
 <p>De grootste uitdaging was echter om ervoor te zorgen dat het contract automatisch, betrouwbaar en onvoorwaardelijk uitgevoerd zou worden. Dit hield vooral in dat geen van de partijen bij het contract verantwoordelijk zou moeten zijn voor de uitvoering ervan.</p>
 <p>Als algemeen vertrekpunt vermoedde Szabo dat de beste oplossing te vinden was in het domein van gedistribueerd berekening, waar deelnemende computers strikte protocollen moesten volgen om met elkaar overeen te stemmen. Hoewel het Byzantijnse Generaalsprobleem (het coördinatieprobleem dat Adam Back op de universiteit leerde kennen) inderdaad nog niet volledig was opgelost (er bleven enkele risico’s als er te veel onbetrouwbare deelnemers waren) geloofde hij dat er robuuste protocollen waren ontworpen voor de meeste scenario’s.</p>
 <p>‘De modaliteiten van contractuele relaties kunnen vaak worden geformaliseerd en gestandaardiseerd, en vervolgens worden uitgevoerd via netwerkgebaseerde protocollen’, legde Szabo uit op de Cypherpunk-mailinglijst. ‘Deze protocollen, samen met economische prikkels, beschermen de uitvoering van het contract tegen zowel fraude door de hoofdpartijen als aanvallen van derden.’ <a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a></p>
@@ -410,12 +413,12 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="de-oorsprong-van-geld">De oorsprong van geld</h2>
 <p>Om geld te kunnen creëren, moest Szabo het eerst begrijpen.</p>
 <p>De Cypherpunk was natuurlijk niet de eerste die de natuur van geld bestudeerde, en hij dacht ook niet dat hij dat was. Hij was goed op de hoogte van de theorieën van Carl Menger en Ludwig von Mises over de oorsprong van geld, en deelde grotendeels hun inschatting dat geld voortkwam uit ruilhandel. Maar waar Menger en Mises hun stelling hadden ontwikkeld door logica en redeneren, ging Szabo op zoek naar daadwerkelijke historische documenten, en zelfs archeologische resten.</p>
-<p>In zijn zoektocht graafde Szabo in de prehistorie van de mensheid en deed hij onderzoek naar pre-industriële samenlevingen zoals die van de <em>Native Americans</em>. Hij ontdekte dat geld zelfs ouder was dan tekst: vroege vormen van geld werden al gebruikt door jager-verzamelaarstammen. Dit leidde uiteindelijk tot zijn hypothese dat geld letterlijk zo oud zou kunnen zijn als de mensheid zelf. Zoals eerst gesuggereerd door evolutiebioloog Richard Dawkins in zijn baanbrekende werk <em>The Selfish Gene</em>,<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a> zou het vermogen om geld te gebruiken diep ingebed kunnen zijn in het menselijk DNA en zou het de overleving van de soort ten voordele gekomen kunnen zijn.</p>
-<p>In zijn latere essay <em>Shelling Out: The Origins of Money</em>,<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a> legt Szabo uit hoe.</p>
-<p>Een van de grote voordelen van de mensheid in de meedogenloze overlevingsstrijd van moeder natuur, ontdekte Szabo, is dat de meeste leden van de soort bereid en in staat zijn om samen te werken om hun krachten te bundelen of om arbeid te verdelen en zich te specialiseren om vervolgens de opbrengst te delen. Dit is waarschijnlijk altijd zo geweest: prehistorische jagers die succesvol een wild zwijn doodden, zouden het vlees delen met hun stamleden. Hun medestamleden zouden een andere keer de gunst retourneren, misschien door de blauwe bessen of eetbare paddenstoelen te delen die ze de volgende dag verzamelden.</p>
-<p>Deze vorm van altruïstisch gedrag zou iedereen kunnen ten goede komen, zolang alle stamleden elkaar kenden en min of meer konden bijhouden wat ieders bijdragen waren. Alle stamleden hadden een publieke reputatie. Omdat profiteurs, degenen die nooit iets bijdroegen aan de stam, uiteindelijk konden worden uitgesloten van de deelrondes of zelfs uit de stam konden worden verbannen, was iedereen sterk gemotiveerd om bij te dragen en hun deel te doen.</p>
-<p>Maar dit model zou onhoudbaar worden als een stam (of vaker: een groep stammen) te groot werd. Menselijke hersenen kunnen slechts een beperkt aantal sociale relaties onderhouden (populair bekend als <em>Dunbars nummer</em>, wat 150<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a> is), dus het wordt moeilijk om iedereens reputatie bij te houden als er meer mensen dan dit nummer zijn. Als niemand zich kan herinneren wie met de anderen heeft gedeeld en wie niet, brokkelt het <em>publieke reputatiesysteem</em> af, en krijgen profiteurs vrij spel op kosten van iedereen.</p>
-<p>Om te voorkomen dat er misbruik van ze wordt gemaakt, zou het zelfs rationeel worden voor elk individu om zelf ook te stoppen met delen en een profiteur te worden, ook al zou iedereen beter af zijn als iedereen zou delen. Met andere woorden, er zou iets van een groot <em>gevangenendilemma</em><a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a> ontstaan.</p>
+<p>In zijn zoektocht onderzocht Szabo de prehistorie van de mensheid en bestudeerde hij pre-industriële samenlevingen, zoals die van de Native Americans. Hij ontdekte dat geld zelfs ouder was dan tekst; vroege vormen van geld werden al gebruikt door jager-verzamelaarstammen. Dit leidde tot zijn hypothese dat geld letterlijk zo oud kan zijn als de mensheid zelf. Zoals eerder gesuggereerd door evolutiebioloog Richard Dawkins in zijn baanbrekende werk <em>The Selfish Gene</em><a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a>, kan het vermogen om geld te gebruiken diep geworteld zijn in ons DNA en kan het de overleving van de soort bevorderd hebben.</p>
+<p>In zijn latere essay <em>Shelling Out: The Origins of Money</em> legt Szabo dit verder uit.<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a></p>
+<p>Een van de grote voordelen van de mensheid in de meedogenloze overlevingsstrijd is, ontdekte Szabo, dat de meeste mensen bereid en in staat zijn om samen te werken. Ze bundelen hun krachten, verdelen arbeid en specialiseren zich, waarna ze de opbrengst delen. Dit fenomeen heeft waarschijnlijk altijd bestaan: prehistorische jagers die een wild zwijn doodden, deelden het vlees met hun stamleden. Op hun beurt zouden deze leden de gunst later teruggeven, bijvoorbeeld door blauwe bessen of eetbare paddenstoelen te delen die ze de volgende dag verzamelden.</p>
+<p>Dit altruïstische gedrag profiteerde iedereen, zolang alle stamleden elkaar kenden en wisten wat ieders bijdragen waren. Iedereen had een publieke reputatie. Profiteurs, degenen die nooit iets bijdroegen, konden uiteindelijk worden uitgesloten van de deelrondes of zelfs uit de stam worden verbannen. Dit zorgde ervoor dat iedereen sterk gemotiveerd was om bij te dragen.</p>
+<p>Echter, dit model werd onhoudbaar als een stam (of vaak een groep stammen) te groot werd. Menselijke hersenen kunnen maar een beperkt aantal sociale relaties onderhouden, bekend als <em>Dunbars nummer</em>, dat rond de 150 ligt.<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a> Wanneer er meer mensen zijn dan dit aantal, wordt het moeilijk om ieders reputatie bij te houden. Als niemand zich kan herinneren wie met wie heeft gedeeld, brokkelt het publieke reputatiesysteem af, waardoor profiteurs vrij spel krijgen ten koste van anderen.</p>
+<p>Om misbruik te voorkomen, kan het zelfs rationeel worden voor elk individu om te stoppen met delen en zelf een profiteur te worden, ondanks dat iedereen beter af zou zijn als iedereen deelde. Dit leidt tot een groot gevangenendilemma.<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a></p>
 <p>Maar Szabo legde uit dat genen strategieën kunnen coderen om oplossingen te vinden voor uitdagingen in de speltheroie van de echte wereld. Gedurende lange perioden en via natuurlijke selectie zouden de beste eigenschappen, die de overleving van een soort bevorderen, dominant worden.</p>
 <p>Het gebruik van geld werd door de Cypherpunk als zo’n eigenschap beschouwd.</p>
 <p>Voor het grootste deel van de menselijke geschiedenis was dit echter een heel ander soort geld dan wat moderne samenlevingen gebruiken.</p>
@@ -544,6 +547,150 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -965,7 +1112,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link active" href="../index.html" aria-current="page">
+    <a class="nav-link" href="../license.html">
 <p>License</p>
 </a>
   </li>  

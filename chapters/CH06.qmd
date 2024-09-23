@@ -88,7 +88,7 @@ Ongeveer in deze periode overwoog de regering van Nederland een nieuw toltarieve
 
 Toen de overheid naar het CWI-onderzoekscentrum kwam om te vragen of ze wisten van enige privacybeschermende oplossingen om dit soort tolsysteem te realiseren, zag Chaum de kans waar hij op had gewacht. Hij had zijn technologie van blinde handtekeningen gepatenteerd, maar tot zijn eigen verbazing was de interesse in het ontwikkelen van digitale geldschema's sinds de publicatie van zijn papers beperkt geweest. Hij zag nu in dat er een unieke kans was om zelf te helpen de technologie in gebruik te nemen.
 
-Chaum wist een groep studenten van de nabijgelegen Technische Universiteit Eindhoven te mobiliseren. Hij beloofde hen een reis naar de International Collegiate Programming Contest (ICPC) in Washington DC, op zijn kosten, en zelfs een vakantie naar Disney World in Florida, mits ze hielpen bij het omzetten van zijn blinde handtekening-technologie naar een werkbaar concept. Tijd was cruciaal, aangezien de Nederlandse overheid al een ontwikkelteam in gedachten had voor het project en niet echt zin had om het proces uit te stellen. Chaum en de studenten werkten dag en nacht, vanuit een van hun woonkamers.
+Chaum wist een groep studenten van de nabijgelegen Technische Universiteit Eindhoven te mobiliseren. Hij beloofde hen een reis naar de *International Collegiate Programming Contest* (ICPC) in Washington DC, op zijn kosten, en zelfs een vakantie naar Disney World in Florida, mits ze hielpen bij het omzetten van zijn blinde handtekening-technologie naar een werkbaar concept. Tijd was cruciaal, aangezien de Nederlandse overheid al een ontwikkelteam in gedachten had voor het project en niet echt zin had om het proces uit te stellen. Chaum en de studenten werkten dag en nacht, vanuit een van hun woonkamers.
 
 Ze slaagden binnen tien dagen en hun *proof-of-concept* leverde Chaum het contract op.
 
@@ -124,7 +124,7 @@ Na vier jaar ontwikkeling bereikte eCash een standaard van beveiliging gelijk aa
 
 De eerste bank die deze kans greep, was de Mark Twain Bank in St. Louis, niet bepaald een internationale grootmacht, maar het was een begin. Klanten en bedrijven met een rekening bij Mark Twain konden genieten van privacy in hun elektronische transacties door betalingen te doen en te ontvangen in eCash.
 
-Kort na de Mark Twain Bank volgden andere banken. Banken in verschillende landen, waaronder de Norske Bank en Bank Austria[^111], destijds de grootste banken in respectievelijk Noorwegen en Oostenrijk, alsook de Australian Advance Bank, [^112] begonnen kort daarna met eCash-proefprojecten. En begin 1996 stapte ook een van de grootste financiële instellingen ter wereld aan boord: Deutsche Bank begon de technologie van DigiCash te gebruiken. [^113] Credit Suisse, nog een grote internationale speler, sloot zich ook aan bij de proeven. [^114]
+Kort na de Mark Twain Bank volgden andere banken. Banken in verschillende landen, waaronder de Norske Bank en Bank Austria[^111], destijds de grootste banken in respectievelijk Noorwegen en Oostenrijk, alsook de Australian Advance Bank, [^112] begonnen kort daarna met eCash-proefprojecten. En begin 1996 stapte ook een van de grootste financiële instellingen ter wereld aan boord: Deutsche Bank begon de technologie van DigiCash te gebruiken.[^113] Credit Suisse, nog een grote internationale speler, sloot zich ook aan bij de proeven.[^114]
 
 Echter, misschien nog opmerkelijker dan de samenwerkingsverbanden die Chaum tot stand bracht, waren de zakendeals die hij niet wist af te ronden. En hier begint het verhaal over wat er precies gebeurde bij DigiCash te variëren, afhankelijk van wie je het vraagt.
 
@@ -254,7 +254,7 @@ Het zou een waardevol middel blijken te zijn in de strijd tegen digitale fraude.
 
 ## Een keten van wortels
 
-Goed bekend met de vele cryptografische voorstellen die in de anderhalf decennium vóór de publicatie van Stornetta en Habers eerste paper zijn geïntroduceerd, stelde Bayer aan de onderzoekers van Bellcore voor dat ze Merkle's hash-structuur konden gebruiken voor tijdstempels, wat het duo met plezier accepteerde. Hun tweede paper, *Improving the Efficiency and Reliability of Digital Time-Stamping*, werd gepubliceerd in 1993, en Bayer werd opgenomen als derde auteur. [^122]
+Goed bekend met de vele cryptografische voorstellen die in de anderhalf decennium vóór de publicatie van Stornetta en Habers eerste paper zijn geïntroduceerd, stelde Bayer aan de onderzoekers van Bellcore voor dat ze Merkle's hash-structuur konden gebruiken voor tijdstempels, wat het duo met plezier accepteerde. Hun tweede paper, *Improving the Efficiency and Reliability of Digital Time-Stamping*, werd gepubliceerd in 1993, en Bayer werd opgenomen als derde auteur.[^122]
 
 Stornetta, Haber en Bayer stelden voor om talrijke documenten tegelijkertijd te tijdstempelen door ze allemaal te bundelen in één grote Merkle-boom, waarvan er dagelijks één wordt aangemaakt. Gebruikers zouden dan niet voor elk getijdstempeld document een hash hoeven bij te houden. Integendeel, ze zouden alleen de dagelijkse Merkle-wortel als basisregistratie nodig hebben en enkel hun eigen Merkle-bewijzen om de hash van hun getijdstempelde documenten in de betreffende boom te vinden.
 

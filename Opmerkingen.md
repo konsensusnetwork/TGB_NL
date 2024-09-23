@@ -24,3 +24,5 @@ Anti-Money Laundering
 Racketeering Act
 Grundsätze der Volkswirtschaftslehre
 Methodenstreit
+Incompatible Time-Sharing System
+Compatible Time-Sharing System

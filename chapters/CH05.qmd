@@ -54,7 +54,7 @@ Sommige landen met grote dollarreserves besloten uiteindelijk om hun papieren ge
 
 Tot Nixon er op 15 augustus 1971 een einde aan maakte.
 
-Tegenwoordig bekend als de *Nixon-schok*, kondigde de president in een televisietoespraak aan dat de *opschorting* van de omwisselbaarheid van dollars naar goud 'in het belang van monetaire stabiliteit, en in het beste belang van de Verenigde Staten' was. [^83] Zonder voorafgaande waarschuwing zorgde Nixon met een Uitvoeringsbevel er eigenhandig voor dat er een bom terechtkwam onder het Bretton Woods-systeem: landen die dollars hielden als onderdeel van hun reserves konden het papieren geld niet langer omzetten in edelmetaal.
+Tegenwoordig bekend als de *Nixon-schok*, kondigde de president in een televisietoespraak aan dat de *opschorting* van de omwisselbaarheid van dollars naar goud 'in het belang van monetaire stabiliteit, en in het beste belang van de Verenigde Staten' was.[^83] Zonder voorafgaande waarschuwing zorgde Nixon met een Uitvoeringsbevel er eigenhandig voor dat er een bom terechtkwam onder het Bretton Woods-systeem: landen die dollars hielden als onderdeel van hun reserves konden het papieren geld niet langer omzetten in edelmetaal.
 
 Omdat de dollar de enige munteenheid was die onder het Bretton Woods-systeem omwisselbaar was naar goud, betekende dit onmiddellijk het einde van de goudstandaard. Wat overbleef waren nationale, ongedekte valuta, oftwel fiatvaluta. Toen kort daarna zes Europese landen ermee instemden om de waarde van hun munteenheden aan elkaar te koppelen en ze te laten fluctueren tegenover de dollar, werd het Bretton Woods-systeem effectief volledig verlaten.[^84]
 
@@ -96,7 +96,7 @@ Ten eerste kan inflatie het intertemporele prijssysteem verstoren. Misschien wel
 
 Een tweede aspect van inflatie, en in de ogen van Hayek wellicht nog bedrieglijker, is dat het de boekhoudkundige praktijken vertekent. Inflatie kan namelijk winstcijfers oppompen, waardoor het lijkt alsof het rendement op investeringen hoger is dan in werkelijkheid. Slimme individuen kunnen misschien de devaluatie van de munteenheid meenemen in hun winst-en-verliesberekeningen, maar de econoom merkt op dat belastinginspecteurs nog steeds zullen aandringen op het belasten van de *schijnwinsten*. Inflatie leidt in wezen tot een impliciete stijging van de belastingen.
 
-Maar Hayeks grootste bezorgdheid omtrent inflatie was een zorg die al in de achttiende eeuw beschreven was door de Iers-Franse econoom Richard Cantillon, en die bekend stond als het Cantillon-effect. [^87]
+Maar Hayeks grootste bezorgdheid omtrent inflatie was een zorg die al in de achttiende eeuw beschreven was door de Iers-Franse econoom Richard Cantillon, en die bekend stond als het Cantillon-effect.[^87]
 
 Het probleem, kort gezegd, is dat nieuw geld als eerste in omloop wordt gebracht door het in de economie te spenderen. En wanneer dit nieuwe geld voor het eerst wordt uitgegeven, wordt het uitgegeven in een economie die nog steeds de *oude* prijzen hanteert, die nog niet de extra bijgedrukte geldhoeveelheid weerspiegelen. Het spenderen van dit geld leidt vervolgens tot het opdrijven van de prijzen van de eerste goederen of diensten die ermee worden gekocht. De bedrijven die deze goederen of diensten verkopen, genieten van extra winst.
 

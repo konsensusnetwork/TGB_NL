@@ -150,7 +150,7 @@ Om *hashcash* te genereren, moest een gebruiker een hash creëren uit de metadat
 
 Het aantal vereiste voorafgaande nullen bepaalt hoe moeilijk het is om een geldige hash te vinden. Meer nullen maken het moeilijker, omdat computers gemiddeld meer pogingen moeten doen.
 
-"Het idee van het gebruik van partiële hashes is dat ze willekeurig moeilijk te berekenen kunnen zijn," legde Back uit, "maar ze kunnen tegelijkertijd onmiddellijk worden geverifieerd."
+'Het idee van het gebruik van partiële hashes is dat ze willekeurig moeilijk te berekenen kunnen zijn,' legde Back uit, 'maar ze kunnen tegelijkertijd onmiddellijk worden geverifieerd.'
 
 Net als bij de oplossing van Dwork en Naor was het doel dat gewone gebruikers snel, binnen enkele seconden, een geldige hash moesten kunnen vinden om een e-mail te versturen. Tegelijkertijd moesten spammers niet in staat zijn om dit duizenden of miljoenen keren te doen en toch winstgevend te blijven.
 

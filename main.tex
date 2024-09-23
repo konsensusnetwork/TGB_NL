@@ -8,9 +8,9 @@
 % PHYSICAL DOCUMENT SETUP
 \setstocksize{210mm}{148mm}
 \settrimmedsize{210mm}{148mm}{*}
-\setbinding{6mm}
-\setlrmarginsandblock{10mm}{14mm}{*}
-\setulmarginsandblock{17.5mm}{18mm}{*}
+\setbinding{7mm}
+\setlrmarginsandblock{10mm}{16mm}{*}
+\setulmarginsandblock{17.5mm}{15mm}{*}
 
 % DEFINITIONS TITLE PAGE / COPYRIGHT
 \title{Het Genesisboek}
@@ -39,8 +39,8 @@
 %\usepackage{float}
 \usepackage{microtype} % for micro-typographical adjustments
 \usepackage{setspace} % for line spacing
-\tolerance=2000
-\hyphenpenalty=3500
+\tolerance=3500
+\hyphenpenalty=5000
 \usepackage[dutch]{babel}	% language
 \selectlanguage{dutch}
 %\usepackage{multicol}
@@ -69,7 +69,7 @@
 \usepackage{fontspec}
 \setmainfont{stone-serif}[
     Path=./fonts/stone-serif-itc-pro/,
-    Scale=0.85,
+    Scale=0.80,
     Extension=.OTF,
     UprightFont=*-Medium,
     BoldFont=*-Bold,
@@ -79,7 +79,7 @@
 
 \setsansfont{stone-sans}[
     Path=./fonts/stone-sans/,
-    Scale=0.9,
+    Scale=0.80,
     Extension=.ttf,
     UprightFont=*-Regular,
     BoldFont=*-Bold,
@@ -246,7 +246,7 @@
 % PAGE HEADERS
 % for normal pages
 \nouppercaseheads
-\headsep = 4mm
+\headsep = 6mm
 \makepagestyle{mystyle} 
 \makeevenhead{mystyle}{\scriptsize\sffamily\mdseries\thepage}{}{}
 \makeoddhead{mystyle}{}{{\scriptsize\sffamily\mdseries\leftmark}}{\scriptsize\sffamily\mdseries\thepage}
@@ -287,7 +287,7 @@
 % typographical settings for the body text
 \setlength{\parskip}{0em}
 \setlength{\parindent}{2em}
-\linespread{1.20}
+\linespread{1.10}
 
 % don't reset footnotes every chapter
 \usepackage{chngcntr}
@@ -346,6 +346,10 @@
 %\newcommand{\footautocite}[1]{\footnotetext{\normalfont{\cite{#1}}}}
 %\newcommand{\footautocite}[1]{\footnotetext{\normalfont{\cite{#1}}}}
 
+\renewenvironment{quote}%
+               {\list{}{\rightmargin=.3cm\leftmargin=.3cm}%
+                \itshape \item[]\samepage}% <- The effect of \samepage is local!!!
+               {\endlist}
 
 % MAIN DOCUMENT
 \checkandfixthelayout

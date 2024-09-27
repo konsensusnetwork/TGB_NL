@@ -1,8 +1,12 @@
 project:
   type: book
+  preview: 
+    port: 4200
+    browser: false
 
 book:
   title: "Het Genesisboek"
+  output-file: main
   subtitle: "Het verhaal van de mensen en projecten die Bitcoin inspireerden"
   author: "Aaron van Wirdum"
   translator: Theo Hague
@@ -31,6 +35,7 @@ book:
   twitter-card:
     site: "@konsensusn"
   chapters:
+    - opening-quote.qmd
     - index.qmd
     - chapters/CH00.qmd
     - part: "Grondslagen"
@@ -61,18 +66,27 @@ book:
 
 format:
   html:
+    lang: nl
     theme:
       light: [lux, theme-light.scss]
       dark: [lux, theme-dark.scss]
     linestretch: 1.6
     number-depth: 1
-  latex:
+  pdf:
+    lang: nl
     documentclass: memoir
-    classoption: smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes
+    classoption: smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes, hidelinks
     papersize: a5
+    toc-depth: 1
+    toc-title: Inhoudsopgave
+    keep-tex: true
+    colorlinks: false
+    include-in-header:
+      - preamble.tex
+
   epub:
     toc: true
     toc-depth: 1
-    toc-title: Inhoud
+    toc-title: Inhoudsopgave
     creator: Konsensus Network
     lang: "nl-NL"

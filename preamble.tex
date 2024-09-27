@@ -1,0 +1,231 @@
+% typographical packages
+\usepackage{microtype}
+\usepackage{setspace}
+\tolerance=4000
+\hyphenpenalty=1000
+
+% typographical settings for the body text
+\setlength{\parskip}{0em}
+\setlength{\parindent}{1em}
+\linespread{1.10}
+
+% DEFINITIONS TITLE PAGE / COPYRIGHT
+
+
+\newcommand{\titleoriginal}{The Genesis Book}
+\newcommand{\subtitleoriginal}{The Story of the People and Projects That Inspired Bitcoin}
+\newcommand{\subtitleB}{Het verhaal van de mensen en projecten die Bitcoin inspireerden}
+\newcommand{\ISBNHC}{978-}
+\newcommand{\ISBNSC}{978-}
+\newcommand{\ISBNEBOOK}{978-}
+\newcommand{\ISBNAUDIO}{978-}
+\newcommand{\press}{Konsensus Network}
+\newcommand{\translatorone}{Theo Hague}
+\newcommand{\translators}{
+\large\textit{Vertaling:}\\
+\translatorone\\
+}
+
+% PHYSICAL DOCUMENT SETUP
+\setstocksize{210mm}{148mm}
+\settrimmedsize{210mm}{148mm}{*}
+\setbinding{7mm}
+\setlrmarginsandblock{10mm}{15mm}{*}
+\setulmarginsandblock{17.5mm}{18mm}{*}
+
+% FONTS
+\usepackage{fontspec}
+\setmainfont{stone-serif}[
+    Path=./fonts/stone-serif-itc-pro/,
+    Scale=0.80,
+    Extension=.OTF,
+    UprightFont=*-Medium,
+    BoldFont=*-Bold,
+    ItalicFont=*-MediumIt,
+    BoldItalicFont=*-BoldIt
+    ]
+
+\setsansfont{stone-sans}[
+    Path=./fonts/stone-sans/,
+    Scale=0.80,
+    Extension=.ttf,
+    UprightFont=*-Regular,
+    BoldFont=*-Bold,
+    ItalicFont=*-Italic,
+    BoldItalicFont=*-BoldItalic
+    ]
+
+\usepackage{lettrine}
+\setcounter{DefaultLines}{3}
+\renewcommand{\DefaultLoversize}{0.1}
+\renewcommand{\DefaultLraise}{0}
+\renewcommand{\LettrineTextFont}{}
+\setlength{\DefaultFindent}{\fontdimen2\font}
+\setlength{\DefaultNindent}{0em}
+
+%\usepackage[footskip=8mm]{geometry}
+
+
+% custom second title page
+\makeatletter
+\newcommand*\halftitlepage{\begingroup % Misericords, T&H p 153
+  \setlength\drop{0.1\textheight}
+  \begin{center}
+  \vspace*{\drop}
+  \rule{\textwidth}{0in}\par
+  {\Large\sffamily\thetitle\par}
+  \rule{\textwidth}{0in}\par
+  \vfill
+  \end{center}
+\endgroup}
+\makeatother
+
+% custom title page
+\makeatletter
+\newlength\drop
+\newcommand*\titleM{\begingroup % Misericords, T&H p 153
+  \setlength\drop{0.15\textheight}
+  \begin{center}
+  \vspace*{\drop}
+  {\huge\sffamily\thetitle\par}
+  \vspace{2em}
+  {\normalsize\sffamily\textit\subtitleB\par}
+  \vspace{2em}
+  \rule{5.5cm}{0.3mm}\par
+  \vspace{2em}
+  {\Large\sffamily\textit\theauthor\par}
+  \vspace{3em}
+  {\footnotesize\sffamily\textit\translators\par}
+  \vfill
+  \includegraphics[width=3.5cm]{figures/knw.png}\par
+  \end{center}
+\endgroup}
+\makeatother
+
+% copyright page
+\makeatletter
+\newcommand*\copyrightpage{\begingroup
+  \setlength\drop{0.1\textheight}
+  \vphantom{just for the drop}
+  \vfill
+  \begin{scriptsize}
+  \noindent \copyright\space 2023: \theauthor
+  \par\noindent \textit{\titleoriginal: \subtitleoriginal}
+  \vspace{0.5\baselineskip}
+  \par\noindent \copyright\space 2024 Vertaling: \translatorone
+  \par\noindent \textit{\thetitle: \subtitleB}
+  \vspace{\baselineskip}
+  \par\noindent \textit{Alle rechten voorbehouden.}
+  \vspace{0.5\baselineskip}
+  \par\noindent Uitgever: \href{https://konsensus.network}{\textit{konsensus.network}}
+  \vspace{0.5\baselineskip}
+  \par\noindent v1.0.0
+  \vspace{0.5\baselineskip}
+  \setlength{\parindent}{2em}% default 20pt
+  \par\noindent ISBN \ISBNHC \:Hardcover
+  \par\hspace{0.28\parindent}\ISBNSC \:Paperback
+  \par\hspace{0.28\parindent}\ISBNEBOOK \:E-book\par
+  \setlength{\parindent}{0pt}
+  \end{scriptsize}
+  \vspace{3em}
+  \par\noindent \href{https://konsensus.network}{\large\MakeUppercase \press \hspace{3em} \includegraphics[width=1cm]{figures/freestarfish.png}}
+  \setcounter{footnote}{0}
+  \clearpage
+\endgroup}
+\makeatother
+
+% HEADER AND FOOTER MANIPULATION
+% for normal pages
+\nouppercaseheads
+\headsep = 6mm
+\makepagestyle{mystyle} 
+\makeevenhead{mystyle}{\scriptsize\sffamily\mdseries\thepage}{}{}
+\makeoddhead{mystyle}{}{{\scriptsize\sffamily\mdseries\leftmark}}{\scriptsize\sffamily\mdseries\thepage}
+\makeevenfoot{mystyle}{}{}{}
+\makeoddfoot{mystyle}{}{}{}
+\makeatletter
+
+% for pages where chapters begin
+\makepagestyle{plain}
+\makerunningwidth{plain}{\headwidth}
+\makeevenfoot{plain}{}{}{}
+\makeoddfoot{plain}{}{}{}
+\pagestyle{mystyle}
+
+% TOC
+\usepackage[]{tocloft}
+\renewcommand{\cftsectiondotsep}{\cftnodots}
+\renewcommand{\cftpartfont}{\Large\sffamily\MakeUppercase}
+\renewcommand{\cftchapterfont}{\normalfont\sffamily}
+\renewcommand{\cftsectionfont}{\small\sffamily}
+\renewcommand{\cftpartpagefont}{\Large\sffamily}
+\renewcommand{\cftchapterpagefont}{\normalfont}
+\renewcommand{\cftchapterpresnum}{HOOFDSTUK }
+\renewcommand{\cftchapternumwidth}{8em}
+\setlength{\cftchapterindent}{2em}
+\setlength{\cftsectionindent}{8em}
+\setsecnumdepth{chapter}
+\setcounter{tocdepth}{0}
+
+
+% Redefine footnote presentation
+\makeatletter
+\renewcommand\@makefntext[1]{%
+  \noindent\hb@xt@2em{% <-- Box of fixed size for footnote number and space
+    \@thefnmark\quad}% <-- Footnote number followed by a quad space
+  \parbox[t]{\dimexpr\linewidth-2em}{#1}% <-- Parbox to control the width of footnote content
+}
+\makeatother
+
+% layout check and fix
+\checkandfixthelayout
+
+% don't reset footnotes every chapter
+\usepackage{chngcntr}
+\counterwithout*{footnote}{chapter}
+
+% TITLE FORMATTING
+\usepackage{titlesec}
+\titleformat
+    {\chapter}[display]
+    {\huge\sffamily}
+    {\Large\sffamily\chaptertitlename  \thechapter}
+    {0pt}
+    {\vspace{28pt}}
+
+\titleformat
+  {\section}[block]
+  {\sffamily\large\mdseries}
+  {}
+  {0pt}
+  {}
+  
+\titlespacing*{\section}{0pt}{2em}{0.5em}
+
+% layout check and fix
+\renewenvironment{quote}%
+               {\list{}{\rightmargin=.3cm\leftmargin=.3cm}%
+                \itshape \item[]}% <- The effect of \samepage is local!!!
+               {\endlist}
+
+% layout check and fix
+\checkandfixthelayout
+
+\makeatletter
+\def\@maketitle{%
+  % the half title page
+  \pagestyle{empty}
+  \halftitlepage
+  \cleardoublepage
+
+  % the title page
+  \titleM
+  \clearpage
+
+  % the copyright page
+  \copyrightpage
+  \cleardoublepage
+  \pagestyle{mystyle}
+}
+\makeatother
+% END PREAMBLE

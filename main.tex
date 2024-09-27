@@ -1,24 +1,113 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
-\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
-\documentclass[smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes,hidelinks]{memoir}
+\documentclass[
+  a5paper,
+  smalldemyvopaper,11pt,twoside,onecolumn,openright,extrafontsizes,
+hidelinks]{memoir}
 
-% PHYSICAL DOCUMENT SETUP
-\setstocksize{210mm}{148mm}
-\settrimmedsize{210mm}{148mm}{*}
-\setbinding{7mm}
-\setlrmarginsandblock{10mm}{16mm}{*}
-\setulmarginsandblock{17.5mm}{15mm}{*}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{5}
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+% typographical packages
+\usepackage{microtype}
+\usepackage{setspace}
+\tolerance=4000
+\hyphenpenalty=1000
+
+% typographical settings for the body text
+\setlength{\parskip}{0em}
+\setlength{\parindent}{1em}
+\linespread{1.10}
 
 % DEFINITIONS TITLE PAGE / COPYRIGHT
-\title{Het Genesisboek}
-\author{Aaron van Wirdum}
 
-\newcommand{\subtitle}{Het verhaal van de mensen en projecten die Bitcoin inspireerden}
+
 \newcommand{\titleoriginal}{The Genesis Book}
 \newcommand{\subtitleoriginal}{The Story of the People and Projects That Inspired Bitcoin}
+\newcommand{\subtitleB}{Het verhaal van de mensen en projecten die Bitcoin inspireerden}
 \newcommand{\ISBNHC}{978-}
 \newcommand{\ISBNSC}{978-}
 \newcommand{\ISBNEBOOK}{978-}
@@ -30,40 +119,12 @@
 \translatorone\\
 }
 
-% PACKAGE DEFINITION
-\usepackage{etoolbox}
-%\usepackage{tcolorbox}
-%\usepackage{tabularx}
-%\usepackage{array}
-%\usepackage{colortbl}
-%\usepackage{float}
-\usepackage{microtype} % for micro-typographical adjustments
-\usepackage{setspace} % for line spacing
-\tolerance=3500
-\hyphenpenalty=5000
-\usepackage[dutch]{babel}	% language
-\selectlanguage{dutch}
-%\usepackage{multicol}
-%\usepackage{times}
-\usepackage{graphicx}
-\graphicspath{{./}{./figures/}}
-%\usepackage{lettrine}
-%\setcounter{DefaultLines}{3}
-%\renewcommand{\DefaultLoversize}{0.1}
-%\renewcommand{\DefaultLraise}{0}
-%\renewcommand{\LettrineTextFont}{}
-%\setlength{\DefaultFindent}{\fontdimen2\font}
-%\setlength{\DefaultNindent}{0em}
-%\usepackage{fancyhdr}
-%\usepackage{pgfplots}
-%\pgfplotsset{compat=1.18}
-\usepackage{import}
-\usepackage{enumitem}
-\usepackage{calc}
-%\usepackage[footskip=8mm]{geometry}
-%\usepackage{caption}
-%\usepackage[style=latin, latin=americanquotes]{csquotes}
-%\usepackage{hologo}
+% PHYSICAL DOCUMENT SETUP
+\setstocksize{210mm}{148mm}
+\settrimmedsize{210mm}{148mm}{*}
+\setbinding{7mm}
+\setlrmarginsandblock{10mm}{15mm}{*}
+\setulmarginsandblock{17.5mm}{18mm}{*}
 
 % FONTS
 \usepackage{fontspec}
@@ -87,122 +148,16 @@
     BoldItalicFont=*-BoldItalic
     ]
 
+\usepackage{lettrine}
+\setcounter{DefaultLines}{3}
+\renewcommand{\DefaultLoversize}{0.1}
+\renewcommand{\DefaultLraise}{0}
+\renewcommand{\LettrineTextFont}{}
+\setlength{\DefaultFindent}{\fontdimen2\font}
+\setlength{\DefaultNindent}{0em}
 
-%\usepackage{amsmath,amssymb}
-\usepackage{iftex}
-%\ifPDFTeX
-%  \usepackage[T1]{fontenc}
-%  \usepackage[utf8]{inputenc}
-%  \usepackage{textcomp} % provide euro and other symbols
-%\else % if luatex or xetex
-%  \usepackage{unicode-math}
-%  \defaultfontfeatures{Scale=MatchLowercase}
-%  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-%\fi
-%\usepackage{lmodern}
-%\ifPDFTeX\else  
-%    % xetex/luatex font selection
-%\fi
-% Use upquote if available, for straight quotes in verbatim environments
-%\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-%\IfFileExists{microtype.sty}{% use microtype if available
-%  \usepackage[]{microtype}
-%  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-%}{}
-%\makeatletter
-%\@ifundefined{KOMAClassName}{% if non-KOMA class
-%  \IfFileExists{parskip.sty}{%
-%    \usepackage{parskip}
-%  }{% else
-%    \setlength{\parindent}{0pt}
-%    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
-%}{% if KOMA class
-%  \KOMAoptions{parskip=half}}
-%\makeatother
-\usepackage{xcolor}
-\setlength{\emergencystretch}{3em} % prevent overfull lines
-\setcounter{secnumdepth}{5}
+%\usepackage[footskip=8mm]{geometry}
 
-
-
-%\providecommand{\tightlist}{%
-%  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
-%\usepackage{calc} % for calculating minipage widths
-
-% Allow footnotes in longtable head/foot
-%\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
-%\makesavenoteenv{longtable}
-\usepackage{graphicx}
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-% Set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
-%
-\makeatletter
-\@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
-\makeatother
-\makeatletter
-\@ifpackageloaded{caption}{}{\usepackage{caption}}
-\AtBeginDocument{%
-\ifdefined\contentsname
-  \renewcommand*\contentsname{\sffamily Inhoudsopgave}
-\else
-  \newcommand\contentsname{\sffamily Inhoudsopgave}
-\fi
-\ifdefined\listfigurename
-  \renewcommand*\listfigurename{List of Figures}
-\else
-  \newcommand\listfigurename{List of Figures}
-\fi
-\ifdefined\listtablename
-  \renewcommand*\listtablename{List of Tables}
-\else
-  \newcommand\listtablename{List of Tables}
-\fi
-\ifdefined\figurename
-  \renewcommand*\figurename{\sffamily Figuur}
-\else
-  \newcommand\figurename{\sffamily Figuur}
-\fi
-\ifdefined\tablename
-  \renewcommand*\tablename{Table}
-\else
-  \newcommand\tablename{Table}
-\fi
-}
-\@ifpackageloaded{float}{}{\usepackage{float}}
-\floatstyle{ruled}
-\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
-\floatname{codelisting}{Listing}
-\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
-\makeatother
-\makeatletter
-\makeatother
-\makeatletter
-\@ifpackageloaded{caption}{}{\usepackage{caption}}
-\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
-\makeatother
-
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
-%\hypersetup{
-%  pdftitle={Het Genesis Boek},
-%  pdfauthor={Aaron van Wirdum},
-%  linkcolor={black},
-%  filecolor={Maroon},
-%  citecolor={Blue},
-%  urlcolor={Blue},
-%  pdfcreator={LaTeX via pandoc}}
-%
 
 % custom second title page
 \makeatletter
@@ -219,17 +174,15 @@
 \makeatother
 
 % custom title page
-\thispagestyle{empty}
 \makeatletter
 \newlength\drop
 \newcommand*\titleM{\begingroup % Misericords, T&H p 153
   \setlength\drop{0.15\textheight}
   \begin{center}
   \vspace*{\drop}
-  %\rule{\textwidth}{0in}\par
   {\huge\sffamily\thetitle\par}
   \vspace{2em}
-  {\normalsize\sffamily\textit\subtitle\par}
+  {\normalsize\sffamily\textit\subtitleB\par}
   \vspace{2em}
   \rule{5.5cm}{0.3mm}\par
   \vspace{2em}
@@ -241,9 +194,40 @@
   \end{center}
 \endgroup}
 \makeatother
-    
 
-% PAGE HEADERS
+% copyright page
+\makeatletter
+\newcommand*\copyrightpage{\begingroup
+  \setlength\drop{0.1\textheight}
+  \vphantom{just for the drop}
+  \vfill
+  \begin{scriptsize}
+  \noindent \copyright\space 2023: \theauthor
+  \par\noindent \textit{\titleoriginal: \subtitleoriginal}
+  \vspace{0.5\baselineskip}
+  \par\noindent \copyright\space 2024 Vertaling: \translatorone
+  \par\noindent \textit{\thetitle: \subtitleB}
+  \vspace{\baselineskip}
+  \par\noindent \textit{Alle rechten voorbehouden.}
+  \vspace{0.5\baselineskip}
+  \par\noindent Uitgever: \href{https://konsensus.network}{\textit{konsensus.network}}
+  \vspace{0.5\baselineskip}
+  \par\noindent v1.0.0
+  \vspace{0.5\baselineskip}
+  \setlength{\parindent}{2em}% default 20pt
+  \par\noindent ISBN \ISBNHC \:Hardcover
+  \par\hspace{0.28\parindent}\ISBNSC \:Paperback
+  \par\hspace{0.28\parindent}\ISBNEBOOK \:E-book\par
+  \setlength{\parindent}{0pt}
+  \end{scriptsize}
+  \vspace{3em}
+  \par\noindent \href{https://konsensus.network}{\large\MakeUppercase \press \hspace{3em} \includegraphics[width=1cm]{figures/freestarfish.png}}
+  \setcounter{footnote}{0}
+  \clearpage
+\endgroup}
+\makeatother
+
+% HEADER AND FOOTER MANIPULATION
 % for normal pages
 \nouppercaseheads
 \headsep = 6mm
@@ -253,6 +237,7 @@
 \makeevenfoot{mystyle}{}{}{}
 \makeoddfoot{mystyle}{}{}{}
 \makeatletter
+
 % for pages where chapters begin
 \makepagestyle{plain}
 \makerunningwidth{plain}{\headwidth}
@@ -275,6 +260,7 @@
 \setsecnumdepth{chapter}
 \setcounter{tocdepth}{0}
 
+
 % Redefine footnote presentation
 \makeatletter
 \renewcommand\@makefntext[1]{%
@@ -284,10 +270,8 @@
 }
 \makeatother
 
-% typographical settings for the body text
-\setlength{\parskip}{0em}
-\setlength{\parindent}{2em}
-\linespread{1.10}
+% layout check and fix
+\checkandfixthelayout
 
 % don't reset footnotes every chapter
 \usepackage{chngcntr}
@@ -311,125 +295,217 @@
   
 \titlespacing*{\section}{0pt}{2em}{0.5em}
 
-% INDEX FORMATTING
-\usepackage{imakeidx}
-\makeindex[title=Index,columns=2,options={-s indexstyle.ist}]
-\indexsetup{othercode=\scriptsize} % index font size
-
-% Widows etc
-%\widowpenalty = 10000
-%\clubpenalty = 10000
-
-%\usepackage[all]{nowidow}
-%\setlength{\parfillskip}{0pt plus\dimexpr\textwidth-2\parindent}
-
-% EXTRA
-
-% Enviroment for blockquotes
-%\usepackage{mdframed}
-%% Redefine the blockquote environment
-%\newmdenv[
-%  leftline=true,
-%  rightline=false,
-%  topline=false,
-%  bottomline=false,
-%  linewidth=1.30pt,
-%  innerleftmargin=1em,
-%  innerrightmargin=0em,
-%  innertopmargin=0pt,
-%  innerbottommargin=0pt,
-%  skipabove=\baselineskip,
-%  skipbelow=\baselineskip
-%]{blockquotebox}
-
-% Footnotes in blockquoteboxes
-%\newcommand{\footautocite}[1]{\footnotetext{\normalfont{\cite{#1}}}}
-%\newcommand{\footautocite}[1]{\footnotetext{\normalfont{\cite{#1}}}}
-
+% layout check and fix
 \renewenvironment{quote}%
                {\list{}{\rightmargin=.3cm\leftmargin=.3cm}%
-                \itshape \item[]\samepage}% <- The effect of \samepage is local!!!
+                \itshape \item[]}% <- The effect of \samepage is local!!!
                {\endlist}
 
-% MAIN DOCUMENT
+% layout check and fix
 \checkandfixthelayout
+
+\makeatletter
+\def\@maketitle{%
+  % the half title page
+  \pagestyle{empty}
+  \halftitlepage
+  \cleardoublepage
+
+  % the title page
+  \titleM
+  \clearpage
+
+  % the copyright page
+  \copyrightpage
+  \cleardoublepage
+  \pagestyle{mystyle}
+}
+\makeatother
+% END PREAMBLE
+\makeatletter
+\@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Inhoudsopgave}
+\else
+  \newcommand\contentsname{Inhoudsopgave}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Lijst van figuren}
+\else
+  \newcommand\listfigurename{Lijst van figuren}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Lijst van tabellen}
+\else
+  \newcommand\listtablename{Lijst van tabellen}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figuur}
+\else
+  \newcommand\figurename{Figuur}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabel}
+\else
+  \newcommand\tablename{Tabel}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{Lijst van listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{dutch}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Het Genesisboek},
+  pdfauthor={Aaron van Wirdum},
+  pdflang={nl},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Het Genesisboek}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Het verhaal van de mensen en projecten die Bitcoin
+inspireerden}
+\author{Aaron van Wirdum}
+\date{2024-09-12}
+
 \begin{document}
-
 \frontmatter
-% the half title page
-\pagestyle{empty}
-\halftitlepage
-\cleardoublepage
+\maketitle
 
-% the title page
-\titleM
-\clearpage
-
-% copyright page
-\vphantom{just for the drop}
-\vfill
-\begin{scriptsize}
-\noindent \copyright\space 2024: \theauthor
-\par\noindent \textit{\titleoriginal : \subtitleoriginal}
-
-\vspace{0.5\baselineskip}
-
-\noindent \copyright\space 2024 vertaling: \translatorone\par\noindent \textit{\thetitle : \subtitle}
-
-\vspace{\baselineskip}
-
-\noindent \textit{LICENSIE.}
-
-\vspace{0.5\baselineskip}
-
-\noindent Uitgegeven door: \href{https://konsensus.network}{\textit{konsensus.network}}
-
-\vspace{0.5\baselineskip}
-
-\noindent v1.0.0
-
-\vspace{0.5\baselineskip}
-
-\setlength{\parindent}{2em}% default 20pt
-\noindent ISBN \ISBNHC \:Hardcover
-
-\hspace{0.28\parindent}\ISBNSC \:Paperback
-
-\hspace{0.28\parindent}\ISBNEBOOK \:E-book
-\setlength{\parindent}{0pt}
-
-\end{scriptsize}
-\vspace{3em}
-\par
-%\noindent \href{https://konsensus.network}{\large\MakeUppercase \press  \hfill \includegraphics[width=0.5cm]{freestarfish.png}} \space\url{https://konsensus.network}
-
-\setcounter{footnote}{0}
-\clearpage
-
-% dedication
-\begin{center}
-  \begin{vplace}[0.7]
-    \begin{quote}
-      Ik geloof niet dat we ooit weer een goede munteenheid zullen hebben
-      voordat we het uit de handen van de overheid nemen. Aangezien we ze niet
-      gewelddadig uit de handen van de overheid kunnen nemen, kunnen we alleen
-      maar op een sluwe, indirecte manier, iets introduceren wat ze niet
-      kunnen stoppen. --- Friedrich Hayek (1984)
-    \end{quote}
-  \end{vplace}
-\end{center}
-\cleardoublepage
-
-
-% table of contents
-\normalfont
-\pagestyle{empty}
-\tableofcontents*
-\thispagestyle{empty}
-\pagestyle{mystyle}
-
+\renewcommand*\contentsname{Inhoudsopgave}
+{
+\setcounter{tocdepth}{0}
+\tableofcontents
+}
 
 \mainmatter
+\bookmarksetup{startatroot}
+
+\chapter*{Over dit boek}\label{over-dit-boek}
+\addcontentsline{toc}{chapter}{Over dit boek}
+
+\markboth{Over dit boek}{Over dit boek}
+
+Bitcoin is niet uit het niets ontstaan. Voorafgaand aan de uitvinding
+van Satoshi Nakamoto hebben diverse groepen computerwetenschappers,
+privacyactivisten en niet-traditionele economen, gedurende tientallen
+jaren geprobeerd een digitale vorm van geld te creëren die onafhankelijk
+van overheidscontrole kon opereren. \emph{Het Genesisboek} vertelt het
+verhaal van de mensen en projecten die de uitvinding van 's werelds
+eerste succesvolle peer-to-peer elektronisch betaalsysteem inspireerden.
+
+\begin{quote}
+'Ik had al enige tijd het vermoeden dat Van Wirdum de beste historicus
+van Bitcoin is, en dit boek bevestigt dat.
+
+Het is een indrukwekkend werk. Het Genesisboek biedt een toegankelijk en
+essentieel overzicht van de geschiedenis, en onthult de vele verbanden
+tussen het Weense klassiek-liberalisme, de Anglo-Saksische
+Cypherpunkbeweging en de opkomst van Bitcoin.
+
+Waar andere boeken in de branche vaak de nadruk leggen op veelgeprezen
+ondernemers, heeft Van Wirdum de technische kennis om belangrijke
+figuren te belichten die de fundamenten legden waarop het Bitcoin-gebouw
+later is opgericht.
+
+In zestien informatieve hoofdstukken biedt Het Genesisboek een
+combinatie van diepgaand onderzoek en filosofische inzichten die je
+alleen verwacht van een veteraan in de sector (Van Wirdum was een van de
+eerste schrijvers die in de Bitcoin-industrie aan de slag ging), met de
+aantrekkelijke schrijfstijl die je zoekt in een gerespecteerd
+tijdschrift.
+
+Je kunt Bitcoin niet begrijpen zonder zijn bijzondere oorsprong te leren
+kennen, en ik ben blij dat dit boek bestaat om die kennis voor een breed
+publiek toegankelijk te maken.'
+
+\textbf{--- Tuur Demeester}
+\end{quote}
+
+\begin{quote}
+`Het Genesisboek neemt je mee op een eeuwenlange reis door minder
+bekende verhalen van visionairs, wiens inzichten en innovaties de basis
+vormden voor de revolutionaire creatie van Bitcoin. Van economen die de
+gevestigde orde uitdaagden tot Cypherpunks die nieuwe wegen op het
+gebied van privacy verkenden, weeft Aaron van Wirdum zorgvuldig een
+verhaal over technologische overwinningen, tegenslagen en bijzondere
+doorbraken. De anekdotes over mensen die buiten de gebaande paden
+durfden te dromen en grenzen verlegden om de financiële wereld te
+veranderen, zullen je zeker fascineren.'
+
+\textbf{--- Jameson Lopp}
+\end{quote}
+
+\begin{quote}
+`Waarom verschilt Bitcoin zo van eerdere versies? Dit boek werpt licht
+op de \emph{problemen} die slimme en hardwerkende mensen in de tijd vóór
+Bitcoin bezig hielden. Dit is de juiste manier om het verhaal van een
+technologie te vertellen. Alle belangrijke kwesties worden behandeld en
+zijn in een logische volgorde gepresenteerd. Dit is het beste boek dat
+ooit over Bitcoin geschreven is.'
+
+\textbf{--- Paul Sztorc}
+\end{quote}
+
+\begin{quote}
+`Tot nu toe waren er veel boeken over Bitcoin, maar geen enkel boek
+pakte de veelzijdige culturele achtergrond zo compleet, gestructureerd
+en elegant aan. Aaron van Wirdum, bekend om zijn talent om technische
+materie helder naar een breder publiek over te brengen, heeft dat nu
+gedaan. Dit is een \emph{must-read} als je wilt begrijpen waar Bitcoin
+vandaan komt.'
+
+\textbf{--- Giacomo Zucco}
+\end{quote}
+
+\bookmarksetup{startatroot}
+
+\chapter*{Openingscitaat}\label{openingscitaat}
+
+\markboth{Openingscitaat}{Openingscitaat}
+
+\begin{quote}
+Ik geloof niet dat we ooit weer een goede munteenheid zullen hebben
+voordat we het uit de handen van de overheid nemen. Aangezien we ze niet
+gewelddadig uit de handen van de overheid kunnen nemen, kunnen we alleen
+maar op een sluwe, indirecte manier, iets introduceren wat ze niet
+kunnen stoppen. - Friedrich Hayek (1984)
+\end{quote}
 
 \bookmarksetup{startatroot}
 
@@ -779,16 +855,16 @@ dubbele monarchie weggelaten) zijn woonplaats Wenen in totale
 verwoesting terug. De oorlog was verloren, de economie vernietigd en het
 rijk was niet meer. Het moreel in de stad was gebroken.
 
-Om de zaken nog erger te maken, spendeerde de nieuwe Oostenrijkse
-regering zoveel om de naoorlogse kosten te dekken dat de waarde van hun
-nationale munteenheid enorm kelderde. Hoewel de krone tijdens de oorlog
-al meer dan 90 procent van zijn koopkracht had verloren, liep dit in de
-naoorlogse jaren pas echt uit de hand. Terwijl een Amerikaanse dollar
-voor ongeveer negen kronen verkocht werd in 1917, kon diezelfde dollar
-tegen 1923 meer dan 70.000 van de Oostenrijkse munteenheden opbrengen.
-Het nationale geld was in feite vernietigd.\footnote{\hspace{0pt}Lawrence
-  H. Officer, \emph{Exchange Rates Between the United States Dollar and
-  Forty-one Currencies}, MeasuringWorth, 2023.}
+Erger nog, de nieuwe Oostenrijkse regering spendeerde zoveel om de
+naoorlogse kosten te dekken dat de waarde van hun nationale munteenheid
+enorm kelderde. Hoewel de krone tijdens de oorlog al meer dan 90 procent
+van zijn koopkracht had verloren, liep dit in de naoorlogse jaren pas
+echt uit de hand. Terwijl een Amerikaanse dollar voor ongeveer negen
+kronen verkocht werd in 1917, kon diezelfde dollar tegen 1923 meer dan
+70.000 van de Oostenrijkse munteenheden opbrengen. Het nationale geld
+was in feite vernietigd.\footnote{\hspace{0pt}Lawrence H. Officer,
+  \emph{Exchange Rates Between the United States Dollar and Forty-one
+  Currencies}, MeasuringWorth, 2023.}
 
 Nadat hij van dichtbij geconfronteerd was met de verschrikkingen van de
 Grote Oorlog, waarin bijna achttien miljoen mannen en vrouwen het leven
@@ -8484,9 +8560,9 @@ Het aantal vereiste voorafgaande nullen bepaalt hoe moeilijk het is om
 een geldige hash te vinden. Meer nullen maken het moeilijker, omdat
 computers gemiddeld meer pogingen moeten doen.
 
-``Het idee van het gebruik van partiële hashes is dat ze willekeurig
-moeilijk te berekenen kunnen zijn,'' legde Back uit, ``maar ze kunnen
-tegelijkertijd onmiddellijk worden geverifieerd.''
+`Het idee van het gebruik van partiële hashes is dat ze willekeurig
+moeilijk te berekenen kunnen zijn,' legde Back uit, `maar ze kunnen
+tegelijkertijd onmiddellijk worden geverifieerd.'
 
 Net als bij de oplossing van Dwork en Naor was het doel dat gewone
 gebruikers snel, binnen enkele seconden, een geldige hash moesten kunnen
@@ -12872,8 +12948,6 @@ In een wereld met van bovenaf, centraal beheerde fiatvaluta's en al hun
 problemen, vertegenwoordigt Bitcoin een krachtig voorbeeld van spontane
 orde.
 
-\backmatter
-
 \bookmarksetup{startatroot}
 
 \chapter*{Erkenningen}\label{erkenningen}
@@ -12966,14 +13040,6 @@ de gedrukte editie. \emph{Het Genesis Boek} is zijn eerste boek.
 
 \chapter*{Bibliografie}\label{bibliografie}
 \addcontentsline{toc}{chapter}{Bibliografie}
-
-
-% typographical settings for the body text
-\setlength{\parskip}{1em}
-\setlength{\parindent}{0em}
-\linespread{1.10}
-\footnotesize
-\setlength{\emergencystretch}{0em} % prevent overfull lines
 
 \markboth{Bibliografie}{Bibliografie}
 
@@ -14144,6 +14210,8 @@ Cypherpunks mailing list archieven, 1992--2000. Beschikbaar op
 Cryptography mailing list archieven, October 2008--January 2009.
 Beschikbaar op~\url{https://www.metzdowd.com/pipermail/cryptography/}
 
+
+\backmatter
 
 
 \end{document}

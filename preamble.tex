@@ -1,7 +1,7 @@
 % typographical packages
 \usepackage{microtype}
 \usepackage{setspace}
-\tolerance=4000
+\tolerance=6000
 \hyphenpenalty=1000
 
 % typographical settings for the body text
@@ -10,8 +10,6 @@
 \linespread{1.10}
 
 % DEFINITIONS TITLE PAGE / COPYRIGHT
-
-
 \newcommand{\titleoriginal}{The Genesis Book}
 \newcommand{\subtitleoriginal}{The Story of the People and Projects That Inspired Bitcoin}
 \newcommand{\subtitleB}{Het verhaal van de mensen en projecten die Bitcoin inspireerden}
@@ -64,7 +62,6 @@
 \setlength{\DefaultNindent}{0em}
 
 %\usepackage[footskip=8mm]{geometry}
-
 
 % custom second title page
 \makeatletter
@@ -180,7 +177,7 @@
 % layout check and fix
 \checkandfixthelayout
 
-% don't reset footnotes every chapter
+% COUNTERS FOOTNOTES
 \usepackage{chngcntr}
 \counterwithout*{footnote}{chapter}
 
@@ -202,15 +199,16 @@
   
 \titlespacing*{\section}{0pt}{2em}{0.5em}
 
-% layout check and fix
+% QUOTE FORMATTING
 \renewenvironment{quote}%
                {\list{}{\rightmargin=.3cm\leftmargin=.3cm}%
                 \itshape \item[]}% <- The effect of \samepage is local!!!
                {\endlist}
 
-% layout check and fix
+% LAYOUT CHECK AND FIX
 \checkandfixthelayout
 
+% CUSTOM TITLE PAGE
 \makeatletter
 \def\@maketitle{%
   % the half title page

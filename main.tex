@@ -94,7 +94,7 @@ hidelinks]{memoir}
 % typographical packages
 \usepackage{microtype}
 \usepackage{setspace}
-\tolerance=4000
+\tolerance=6000
 \hyphenpenalty=1000
 
 % typographical settings for the body text
@@ -103,11 +103,14 @@ hidelinks]{memoir}
 \linespread{1.10}
 
 % DEFINITIONS TITLE PAGE / COPYRIGHT
-
-
 \newcommand{\titleoriginal}{The Genesis Book}
 \newcommand{\subtitleoriginal}{The Story of the People and Projects That Inspired Bitcoin}
-\newcommand{\subtitleB}{Het verhaal van de mensen en projecten die Bitcoin inspireerden}
+\newcommand{\yearoriginal}{2023}
+\newcommand{\subtitletranslation}{Het verhaal van de mensen en projecten die Bitcoin inspireerden}
+\newcommand{\yeartranslation}{2024}
+\newcommand{\stringtranslation}{Vertaling}
+\newcommand{\stringlicense}{Alle rechten voorbehouden.}
+\newcommand{\stringpublisher}{Uitgever}
 \newcommand{\ISBNHC}{978-}
 \newcommand{\ISBNSC}{978-}
 \newcommand{\ISBNEBOOK}{978-}
@@ -115,7 +118,7 @@ hidelinks]{memoir}
 \newcommand{\press}{Konsensus Network}
 \newcommand{\translatorone}{Theo Hague}
 \newcommand{\translators}{
-\large\textit{Vertaling:}\\
+\large\textit{\stringtranslation:}\\
 \translatorone\\
 }
 
@@ -158,7 +161,6 @@ hidelinks]{memoir}
 
 %\usepackage[footskip=8mm]{geometry}
 
-
 % custom second title page
 \makeatletter
 \newcommand*\halftitlepage{\begingroup % Misericords, T&H p 153
@@ -182,7 +184,7 @@ hidelinks]{memoir}
   \vspace*{\drop}
   {\huge\sffamily\thetitle\par}
   \vspace{2em}
-  {\normalsize\sffamily\textit\subtitleB\par}
+  {\normalsize\sffamily\textit\subtitletranslation\par}
   \vspace{2em}
   \rule{5.5cm}{0.3mm}\par
   \vspace{2em}
@@ -202,15 +204,15 @@ hidelinks]{memoir}
   \vphantom{just for the drop}
   \vfill
   \begin{scriptsize}
-  \noindent \copyright\space 2023: \theauthor
+  \noindent \copyright\space \yearoriginal: \theauthor
   \par\noindent \textit{\titleoriginal: \subtitleoriginal}
   \vspace{0.5\baselineskip}
-  \par\noindent \copyright\space 2024 Vertaling: \translatorone
-  \par\noindent \textit{\thetitle: \subtitleB}
+  \par\noindent \copyright\space \yeartranslation\space \stringtranslation: \translatorone
+  \par\noindent \textit{\thetitle: \subtitletranslation}
   \vspace{\baselineskip}
-  \par\noindent \textit{Alle rechten voorbehouden.}
+  \par\noindent \textit{\stringlicense}
   \vspace{0.5\baselineskip}
-  \par\noindent Uitgever: \href{https://konsensus.network}{\textit{konsensus.network}}
+  \par\noindent \stringpublisher: \href{https://konsensus.network}{\textit{konsensus.network}}
   \vspace{0.5\baselineskip}
   \par\noindent v1.0.0
   \vspace{0.5\baselineskip}
@@ -273,7 +275,7 @@ hidelinks]{memoir}
 % layout check and fix
 \checkandfixthelayout
 
-% don't reset footnotes every chapter
+% COUNTERS FOOTNOTES
 \usepackage{chngcntr}
 \counterwithout*{footnote}{chapter}
 
@@ -295,15 +297,16 @@ hidelinks]{memoir}
   
 \titlespacing*{\section}{0pt}{2em}{0.5em}
 
-% layout check and fix
+% QUOTE FORMATTING
 \renewenvironment{quote}%
                {\list{}{\rightmargin=.3cm\leftmargin=.3cm}%
                 \itshape \item[]}% <- The effect of \samepage is local!!!
                {\endlist}
 
-% layout check and fix
+% LAYOUT CHECK AND FIX
 \checkandfixthelayout
 
+% CUSTOM TITLE PAGE
 \makeatletter
 \def\@maketitle{%
   % the half title page

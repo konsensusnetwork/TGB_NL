@@ -1,0 +1,1384 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl" xml:lang="nl"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>6&nbsp; eCash (en vertrouwensloze tijdstempels) – Het Genesisboek</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../hoofdstuk/CH07.html" rel="next">
+<link href="../hoofdstuk/CH05.html" rel="prev">
+<link href="..//figures/freestarfish.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "Geen resultaten",
+    "search-matching-documents-text": "Gevonden documenten",
+    "search-copy-link-title": "Kopieer link om te zoeken",
+    "search-hide-matches-text": "Extra overeenkomsten verbergen",
+    "search-more-match-text": "meer overeenkomst in dit document",
+    "search-more-matches-text": "meer overeenkomsten in dit document",
+    "search-clear-button-title": "Wissen",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Annuleren",
+    "search-submit-button-title": "Verzenden",
+    "search-label": "Zoeken"
+  }
+}</script>
+
+
+<meta property="og:title" content="6&nbsp; eCash (en vertrouwensloze tijdstempels) – Het Genesisboek">
+<meta property="og:description" content="">
+<meta property="og:image" content="../cover.png">
+<meta property="og:site_name" content="Het Genesisboek">
+<meta name="twitter:title" content="6&nbsp; eCash (en vertrouwensloze tijdstempels) – Het Genesisboek">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="../cover.png">
+<meta name="twitter:site" content="@konsensusn">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body class="nav-sidebar floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../cover.png" alt="Cover" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Het Genesisboek</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Schakel navigatie" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/konsensusnetwork/TGB_NL"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://bitcoinbook.shop/products/het-genesisboek"> <i class="bi bi-shop" role="img" aria-label="Shop">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+    <a href="https://github.com/konsensusnetwork/TGB_NL" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Schakel donkere modus"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Schakel zijbalknavigatie" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../hoofdstuk/CH01.html">Grondslagen</a></li><li class="breadcrumb-item"><a href="../hoofdstuk/CH06.html"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">eCash (en vertrouwensloze tijdstempels)</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Schakel zijbalknavigatie" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Zoeken" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+        <div class="sidebar-tools-main">
+    <div id="quarto-search" class="quarto-navigation-tool px-1" title="Zoeken"></div>
+</div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Over dit boek</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH00a.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Reviews</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../opening-quote.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Openingscitaat</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH00b.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Inleiding</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Grondslagen</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Schakel sectie">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH01.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Spontane orde</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH02.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Vrije en open source software</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH03.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Neutraal geld</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH04.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Cryptografie</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH05.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Denationalisatie van geld</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH06.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">eCash (en vertrouwensloze tijdstempels)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH07.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">De Extropianen</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Cypherpunks</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Schakel sectie">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH08.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">De Cypherpunk-beweging</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH09.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Cypherpunk-valuta</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH10.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Hashcash</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH11.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Bit Gold</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH12.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">B-money (en BitTorrent)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH13.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">RPOW</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Bitcoin</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Schakel sectie">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH14.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Fiat in de 21ste eeuw</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH15.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Het witboek</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CH16.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">De release</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CHXX.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Erkenningen</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../hoofdstuk/CHYY.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Over de auteur</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Bibliografie</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Inhoudsopgave</h2>
+   
+  <ul>
+  <li><a href="#het-dubbele-uitgavenprobleem" id="toc-het-dubbele-uitgavenprobleem" class="nav-link active" data-scroll-target="#het-dubbele-uitgavenprobleem">Het dubbele-uitgavenprobleem</a></li>
+  <li><a href="#blinde-handtekeningen" id="toc-blinde-handtekeningen" class="nav-link" data-scroll-target="#blinde-handtekeningen">Blinde handtekeningen</a></li>
+  <li><a href="#anonieme-betalingen" id="toc-anonieme-betalingen" class="nav-link" data-scroll-target="#anonieme-betalingen">Anonieme betalingen</a></li>
+  <li><a href="#digicash" id="toc-digicash" class="nav-link" data-scroll-target="#digicash">DigiCash</a></li>
+  <li><a href="#cyberbucks" id="toc-cyberbucks" class="nav-link" data-scroll-target="#cyberbucks">CyberBucks</a></li>
+  <li><a href="#ecash" id="toc-ecash" class="nav-link" data-scroll-target="#ecash">eCash</a></li>
+  <li><a href="#faillissement" id="toc-faillissement" class="nav-link" data-scroll-target="#faillissement">Faillissement</a></li>
+  <li><a href="#scott-stornetta" id="toc-scott-stornetta" class="nav-link" data-scroll-target="#scott-stornetta">Scott Stornetta</a></li>
+  <li><a href="#hash-ketens" id="toc-hash-ketens" class="nav-link" data-scroll-target="#hash-ketens">Hash-ketens</a></li>
+  <li><a href="#het-verdelen-van-vertrouwen" id="toc-het-verdelen-van-vertrouwen" class="nav-link" data-scroll-target="#het-verdelen-van-vertrouwen">Het verdelen van vertrouwen</a></li>
+  <li><a href="#een-boom-van-hashes" id="toc-een-boom-van-hashes" class="nav-link" data-scroll-target="#een-boom-van-hashes">Een boom van hashes</a></li>
+  <li><a href="#een-keten-van-wortels" id="toc-een-keten-van-wortels" class="nav-link" data-scroll-target="#een-keten-van-wortels">Een keten van wortels</a></li>
+  <li><a href="#bestel-dit-boek" id="toc-bestel-dit-boek" class="nav-link" data-scroll-target="#bestel-dit-boek">Bestel dit boek</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/konsensusnetwork/TGB_NL/edit/main/hoofdstuk/CH06.qmd" class="toc-action"><i class="bi bi-github"></i>Pagina bewerken</a></li><li><a href="https://github.com/konsensusnetwork/TGB_NL/blob/main/hoofdstuk/CH06.qmd" class="toc-action"><i class="bi empty"></i>Broncode bekijken</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../hoofdstuk/CH01.html">Grondslagen</a></li><li class="breadcrumb-item"><a href="../hoofdstuk/CH06.html"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">eCash (en vertrouwensloze tijdstempels)</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">eCash (en vertrouwensloze tijdstempels)</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Sinds Whitfield Diffie en Martin Hellman de Diffie-Hellman-sleuteluitwisseling introduceerden in 1976, begrepen cryptografen hoe twee mensen die elkaar nooit eerder ontmoet hadden de inhoud van hun onderlinge berichten konden versleutelen voor iedereen behalve voor zichzelf. Ondertussen hadden de mixnetwerken van David Chaum al in de vroege jaren ’80 de basis gelegd voor remailers: een digitale infrastructuur ontworpen om metadata te verbergen. Gecombineerd konden deze instrumenten een lange weg afleggen naar het bieden van privacy voor de meeste soorten van elektronische communicatie.</p>
+<p>Maar het was ook Chaum die erkende dat het nog geen privacy kon bieden voor een zeer specifiek soort communicatie: communicatie van <em>waarde</em>.</p>
+<p>Gedurende de jaren 70 en begin jaren 80 begon het bankwezen steeds meer geautomatiseerd te raken. Papieren bankbiljetten en metalen munten, die in die tijd niet langer door goud werden gedekt, begonnen steeds meer te worden verdrongen door betaalkaarten, terwijl banken onderling elektronisch schulden begonnen te vereffenen. Met de komst van de PC, en in zijn kielzog het internet, verwachtte Chaum dat de digitalisering van geld alleen maar zou versnellen. Dit zou financiële instellingen in staat stellen om kosten te besparen en hun beveiliging te verbeteren, terwijl het gemak voor de consument wordt verhoogd.</p>
+<p>Maar Chaum realiseerde zich dat ook deze trend tot duistere situaties kon leiden. Als betalingsverkeer digitaal zou worden, zouden de banken die dit mogelijk maken door financiële regelgeving verplicht kunnen worden om gebruikers zichzelf te laten identificeren voordat ze toegang krijgen tot deze kanalen. Banken, en bij uitbreiding de overheidsinstellingen die op hen toezicht houden, zouden dan precies kunnen weten wie hoeveel geld naar wie stuurt, waar en wanneer.</p>
+<p>Chaum zag de mogelijkheid van massasurveillance van betalingen als even zorgwekkend als de massasurveillance van elke andere vorm van communicatie. En niet zonder reden: iemands transactieverleden onthult mogelijk net zoveel persoonlijke informatie als hun tekstcommunicatie, zo niet meer.</p>
+<p>‘Er wordt een basis gelegd voor een dossiermaatschappij, waarin computers gebruikt kunnen worden om op basis van gegevens uit alledaagse consumententransacties de leefstijlen, gewoonten, locaties en relaties van individuen af te leiden’, waarschuwde Chaum. ‘Onzekerheid over of gegevens veilig blijven tegen misbruik door degenen die ze onderhouden of ervan gebruik maken kan een <em>afschrikwekkend effect</em> hebben, wat mensen ertoe kan brengen hun zichtbare activiteiten te veranderen. Naarmate de computerisering meer verspreid raakt, zal het potentieel voor deze problemen aanzienlijk toenemen.’ <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>Maar, zo stelde hij voor, er was een alternatieve toekomst mogelijk.</p>
+<p>David Chaum legde uit: ‘Elke keer dat een regering of bedrijf besluit om nog een set transacties te automatiseren, wordt de keuze gemaakt om informatie in handen van individuen of van organisaties te houden. Aan de ene kant ligt een ongekende controle en inspectie van mensenlevens, aan de andere kant een veilige gelijkwaardigheid tussen individuen en organisaties. De vorm van de samenleving in de volgende eeuw kan afhangen van welke aanpak de overhand heeft.’<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
+<p>Volgens Chaum zou een maatschappij waarin anonieme transacties wel of niet mogelijk zijn uiteindelijk het verschil maken tussen democratie en dictatuur. Hij concludeerde daarom dat er een soort digitaal geld nodig was dat gebruikers een vergelijkbaar niveau van privacy bood als fysiek contant geld.</p>
+<p>De wereld had behoefte aan <em>elektronisch geld</em>.</p>
+<section id="het-dubbele-uitgavenprobleem" class="level2">
+<h2 class="anchored" data-anchor-id="het-dubbele-uitgavenprobleem">Het dubbele-uitgavenprobleem</h2>
+<p>Toen Chaum begon na te denken over ontwerpen voor een elektronisch geldsysteem, kwam hij al snel de eerste uitdaging tegen die iedereen die een digitale vorm van geld wil creëren, tegenkomt: <em>het probleem van dubbele uitgaven</em>.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<p>Eenvoudig gezegd, als valuta uitsluitend bestaat uit digitale informatie, enen en nullen, is het een fluitje van een cent om te kopiëren. Een enkele <em>digitale dollar</em> kan gerepliceerd worden en naar twee verschillende ontvangers worden gestuurd… of zelfs naar een miljoen verschillende ontvangers, tot het punt dat het geld last heeft van hyperinflatie. Het spreekt voor zich dat dit soort vervalsing de integriteit van de valuta fundamenteel zou schaden en het waardeloos zou maken.</p>
+<p>Traditionele digitale geldsystemen lossen dit probleem van dubbele uitgaven op door middel van een vertrouwde partij, zoals een bank of betalingsverwerker.</p>
+<p>De meest eenvoudige oplossing is dan ook het gebruik van een rekeningensysteem. In zo’n systeem hebben alle klanten van de bank een elektronische rekening bij de bank. Wanneer één van hen een andere wil betalen, sturen ze simpelweg een bericht naar de bank met de betalingsdetails. Ervan uitgaande dat de betaler voldoende saldo heeft, trekt de bank het bedrag af van zijn of haar rekeningsaldo en voegt het toe aan de rekening van de begunstigde.</p>
+<p>Als de betaler niet genoeg geld heeft om de betaling uit te voeren, wordt de transactie geweigerd. Dus als iemand probeert zijn saldo dubbel te besteden door twee tegenstrijdige betalingsverzoeken naar de bank te sturen (terwijl hij niet genoeg geld heeft om beide betalingen te doen), zal de bank simpelweg kiezen welke transactie doorgaat (waarschijnlijk het eerste verzoek dat het ontving).</p>
+<p>Dit lost het probleem van dubbele uitgaven op… maar het illustreert ook het privacyprobleem waar Chaum zich zorgen over maakte: de bank weet precies wie aan wie betaalt, hoeveel en wanneer. Bovendien heeft de bank totale controle over ieders saldi, en zou het mogelijk betalingen kunnen blokkeren of terugdraaien, en zelfs geld kunnen confisceren of verwijderen.</p>
+<p>Daarom begon Chaum aan een zoektocht naar een manier waarop zo’n derde partij (de bank) dubbele uitgaven kon detecteren, zonder de mogelijkheid om te traceren hoe elke digitale dollar zich door de economie beweegt.</p>
+</section>
+<section id="blinde-handtekeningen" class="level2">
+<h2 class="anchored" data-anchor-id="blinde-handtekeningen">Blinde handtekeningen</h2>
+<p>De bekwaamde cryptoloog loste het probleem op in 1983. Nauwelijks nadat hij zijn doctoraat in informatica aan de Berkeley-universiteit had verdiend, werd Chaum aangesteld als professor aan diezelfde universiteit. Hij publiceerde zijn ontwerp voor een elektronisch geldsysteem in zijn paper getiteld <em>Blind Signatures for Untraceable Payments</em>.</p>
+<p>Zoals de titel van het artikel al aangeeft, was zijn uitvinding van <em>blinde handtekeningen</em> de sleutel tot zijn ontwerp voor een privacy-respecterend betaalsysteem.</p>
+<p>Chaums blinde handtekeningen waren een uitbreiding van de publieke-sleutelcryptografie en meer specifiek van het RSA cryptografische handtekening algoritme. Om even te herhalen, een cryptografische handtekening is in feite een stukje data (zoals een bericht) dat versleuteld is met een <em>geheime sleutel</em> en ontsleuteld kan worden met een <em>publieke sleutel</em>. Wanneer Alice een bericht en een bijbehorende cryptografische handtekening naar Bob stuurt, moet Bob in staat zijn het bericht te ontcijferen met Alice’s publieke sleutel. Hierdoor wordt het omgezet in hetzelfde bericht, waardoor wiskundig wordt bewezen dat de handtekening inderdaad is gemaakt met haar geheime sleutel.</p>
+<p>Een blinde handtekening voegt dus één laag van encryptie toe aan de mix.</p>
+<p>Om Alice een blinde handtekening te laten maken, maakt Bob eerst een speciaal soort coderingssleutel aan, de zogenaamde <em>verblindende sleutel</em>, waarmee hij een bericht versleutelt. Bob geeft het versleutelde bericht vervolgens aan Alice, die het met haar geheime sleutel cryptografisch ondertekent. Wanneer ze het gecodeerde bericht ondertekent, weet ze niet wat het originele bericht eigenlijk is: ze <em>ondertekent blind</em>.</p>
+<p>De resulterende handtekening is wiskundig aan Alice’s publieke sleutel verbonden, zoals elke handtekening. Dat wil zeggen, haar publieke sleutel kan gebruikt worden om het exacte versleutelde bericht dat zij ondertekende te reproduceren (het bericht zelf zou nog steeds versleuteld zijn; het zou hetzelfde versleutelde <em>blob</em> reproduceren dat zij van Bob ontving).</p>
+<p>Maar Bob kan ook <em>als eerste</em> de verblindende sleutel gebruiken om de laag encryptie die hiermee gecreëerd is, te verwijderen. In principe resulteert dit in een nieuwe, geldige handtekening van Alice, die dit keer overeenkomt met het originele bericht. Deze handtekening wordt de blinde handtekening genoemd. Met de eerste laag encryptie verwijderd door Bob, kan nu iedereen de publieke sleutel van Alice gebruiken om het originele bericht vanuit de blinde handtekening te reproduceren.</p>
+<p>Met andere woorden, iedereen die het originele bericht heeft, kan op dat moment Alice’s publieke sleutel gebruiken om te verifiëren dat de blinde handtekening overeenkomt met het bericht. Dit geldt uiteraard ook voor Alice zelf. Als Bob haar het originele bericht en de blinde handtekening geeft, kan zij haar eigen publieke sleutel gebruiken om te verifiëren dat zij inderdaad een versleutelde versie van dat originele bericht blind ondertekende.</p>
+<p>Als een realistische analogie die Chaum in zijn paper gebruikte, is het alsof Bob een brief in een envelop met carbonpapier stopt en deze envelop aan Alice overhandigt, die de buitenkant van de envelop ondertekent en deze teruggeeft aan Bob. Als Bob dan de envelop verwijdert en Alice de brief toont met een carbonkopie van haar handtekening, weet ze dat de brief inderdaad in de envelop zat die ze had ondertekend.</p>
+</section>
+<section id="anonieme-betalingen" class="level2">
+<h2 class="anchored" data-anchor-id="anonieme-betalingen">Anonieme betalingen</h2>
+<p>Om het blinde-handtekeningenschema te gebruiken voor een elektronisch geldsysteem, zou Alice uit het bovenstaande voorbeeld eigenlijk een bank zijn: laten we deze bank Alice Bank noemen. Alice Bank is een reguliere bank, waar klanten bankrekeningen hebben met dollardeposito’s. En laten we zeggen dat Alice Bank vier klanten heeft: Bob, Carol, Dan en Erin.</p>
+<p>Nu wil Bob iets kopen van Carol met elektronisch geld.</p>
+<p>Ten eerste heeft Bob elektronisch geld nodig. Om dit te verkrijgen, vraagt hij een <em>opname</em> aan bij Alice Bank (idealiter had hij deze opname al gedaan voordat hij Carol wilde betalen, maar dat is een detail). Vreemd genoeg creëert Bob de digitale dollars zelf in de vorm van unieke serienummers. Vervolgens versleutelt hij deze nummers met een verblindende sleutel en stuurt ze naar Alice Bank.</p>
+<p>Alice Bank ondertekent elke versleutelde dollar blindelings en stuurt de ondertekende versies terug naar Bob. Voor elke ondertekende dollar trekt Alice Bank een reguliere dollar van Bobs bankrekening af.</p>
+<p>Daarna verwijdert Bob een laag van de encryptie met behulp van zijn verblindende sleutel, waardoor Alice’s ondertekeningen worden omgezet in blinde handtekeningen. Om Carol te betalen, stuurt hij de digitale dollars en bijbehorende blinde handtekeningen naar haar. Carol gebruikt de publieke sleutel van Alice Bank om de handtekeningen te verifiëren. Als deze correct zijn, stuurt ze de digitale dollars en de blinde handtekeningen door naar Alice Bank.</p>
+<p>Alice Bank heeft deze digitale dollars nog nooit eerder gezien, omdat ze de eerste keer versleuteld waren. Het belangrijkste is dat ze kan bevestigen dat ze met haar eigen geheime sleutel zijn ondertekend. Vervolgens controleert Alice Bank de serienummers in haar lokale database om er zeker van te zijn dat dezelfde digitale dollars niet al door iemand anders zijn gedeponeerd, wat dubbele uitgaven voorkomt.<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+<p>Als de digitale dollars een geldige handtekening hebben en niet eerder zijn gebruikt, slagen ze voor beide controles. Alice Bank noteert dan deze digitale dollars in haar database om toekomstige dubbele uitgaven te voorkomen. Vervolgens wordt het equivalent van de digitale dollars als reguliere valuta op Carols bankrekening gestort, en krijgt ze hiervan een bevestiging. Carol weet nu dat ze een geldige betaling van Bob heeft ontvangen en levert hem het product of de dienst waarvoor hij betaalde.<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
+<p>Omdat Alice Bank de ondertekende bankbiljetten pas voor het eerst ziet wanneer Carol ze stort, heeft de bank geen manier om te achterhalen dat ze oorspronkelijk van Bob kwamen. Ze hadden ook van iemand anders, zoals Dan of Erin, kunnen komen. Bovendien kan Alice Bank, nadat ze de digitale dollars aan Bob heeft uitgegeven, hem niet verhinderen ze te besteden, omdat ze niet kan bepalen welke digitale dollars ongeldig zouden moeten worden verklaard.<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a></p>
+<p>Inderdaad, Chaum had een vorm van elektronisch geld ontworpen.<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a></p>
+<p>In de jaren na de publicatie van zijn eerste werk over ontraceerbare betalingen, breidde Chaum de mogelijkheden van elektronisch geld verder uit in presentaties tijdens de Crypto-conferenties en in verschillende andere papers. Deze vervolgartikelen werkten precies uit hoe een elektronische geldregeling te implementeren, waarbij het beste gedetailleerde voorbeeld hiervan zijn paper uit 1985 was met de beschrijvende titel <em>Security Without Identification: Transaction Systems to Make Big Brother Obsolete</em>.<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a></p>
+<p>‘De grootschalige geautomatiseerde transactiesystemen van de nabije toekomst kunnen zo worden ontworpen dat de privacy en de veiligheid van zowel individuen als organisaties beschermd blijven’, zo verklaarde de introductie van één zin triomfantelijk.</p>
+</section>
+<section id="digicash" class="level2">
+<h2 class="anchored" data-anchor-id="digicash">DigiCash</h2>
+<p>Een paar jaar later, tegen 1989, had Chaum zijn intrek genomen in Amsterdam. Tijdens een van zijn eerdere bezoeken aan Nederland hadden lokale academici hem een baan aangeboden als hoofdcryptograaf bij het Centrum voor Wiskunde en Informatica (CWI), welke hij dankbaar had geaccepteerd. Het stelde hem in staat dicht bij zijn Nederlandse vriendin te wonen.</p>
+<p>Ongeveer in deze periode overwoog de regering van Nederland een nieuw toltarievenproject. Het concept was dat auto’s zouden betalen voor het privilege om op bepaalde hoofdwegen te rijden door middel van een smartcard aan hun voorruit, die gescand zou worden door snelle kaartlezers op verschillende plekken langs de wegen. Maar het idee was controversieel: de Nederlanders waren niet enthousiast over het idee dat hun auto’s gevolgd zouden worden.</p>
+<p>Toen de overheid naar het CWI-onderzoekscentrum kwam om te vragen of ze wisten van enige privacybeschermende oplossingen om dit soort tolsysteem te realiseren, zag Chaum de kans waar hij op had gewacht. Hij had zijn technologie van blinde handtekeningen gepatenteerd, maar tot zijn eigen verbazing was de interesse in het ontwikkelen van digitale geldschema’s sinds de publicatie van zijn papers beperkt geweest. Hij zag nu in dat er een unieke kans was om zelf te helpen de technologie in gebruik te nemen.</p>
+<p>Chaum wist een groep studenten van de nabijgelegen Technische Universiteit Eindhoven te mobiliseren. Hij beloofde hen een reis naar de <em>International Collegiate Programming Contest</em> (ICPC) in Washington DC, op zijn kosten, en zelfs een vakantie naar Disney World in Florida, mits ze hielpen bij het omzetten van zijn blinde handtekening-technologie naar een werkbaar concept. Tijd was cruciaal, aangezien de Nederlandse overheid al een ontwikkelteam in gedachten had voor het project en niet echt zin had om het proces uit te stellen. Chaum en de studenten werkten dag en nacht, vanuit een van hun woonkamers.</p>
+<p>Ze slaagden binnen tien dagen en hun <em>proof-of-concept</em> leverde Chaum het contract op.</p>
+<p>Met deze initiële klus op zak, besloot de cryptograaf om DigiCash op te richten, een start-up gevestigd in Amsterdam die zich zou specialiseren in digitaal geld en betalingssystemen. Deze betalingssystemen omvatten uiteraard het overheidsproject voor tolheffing,<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a> maar Chaum, die nu een eigen bedrijf leidde, wilde ook zijn grotere visie realiseren.</p>
+<p>Het was begin jaren 90 steeds duidelijker geworden dat het internet mainstream zou worden, en Chaum was ervan overtuigd dat elektronische betalingen uiteindelijk een essentieel onderdeel van deze opkomende digitale wereld zouden zijn. Net als veel internetexperts in die tijd, verwachtte hij dat micro-betalingen alomtegenwoordig zouden worden: webdiensten moesten op de een of andere manier geld verdienen, en de voor de hand liggende oplossing was inderdaad om mensen kleine bedragen te laten betalen om ze te gebruiken.</p>
+<p>‘Naarmate betalingen op het netwerk volwassen worden, ga je voor allerlei kleine dingen betalen, meer betalingen dan je vandaag de dag doet’, voorspelde Chaum. ‘Elk artikel dat je leest, elke vraag die je hebt, je zult ervoor moeten betalen.’<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a></p>
+<p>Het prestigeproject van DigiCash was een digitaal betalingssysteem dat mensen in staat zou stellen om dergelijke betalingen privé te maken, met behulp van elektronisch geld — <em>eCash</em>.</p>
+</section>
+<section id="cyberbucks" class="level2">
+<h2 class="anchored" data-anchor-id="cyberbucks">CyberBucks</h2>
+<p>DigiCash begon snel internationaal onder de aandacht te komen. In een tijd waarin bedrijven als Netscape en Yahoo! bevestigden dat het grote geld zich verplaatste naar beginnende internetstart-ups, werd Chaums start-up door veel techondernemers in de vroege jaren 90 gezien als een rijzende ster in deze snelgroeiende industrie.</p>
+<p>Het zou Chaum en zijn team, dat enkele van de studenten omvatte waarmee hij het project begon, meerdere jaren kosten om hun eerste proof-of-concept om te zetten in een volwaardig betalingssysteem. Met als uiteindelijk doel hun eCash-technologie te verkopen aan banken, was een niveau van beveiliging nodig vereist door banken.</p>
+<p>In de tussentijd hebben ze wel een vroege versie van hun technologie uitgebracht. De eerste implementatie van Chaums elektronische geldontwerp door DigiCash werd uitgerold vanuit het eigen bedrijfskantoor, maar in plaats van Amerikaanse dollars, Nederlandse guldens of een andere fiatvaluta, gebruikte dit vroege elektronische geldsysteem <em>CyberBucks</em>.</p>
+<p>CyberBucks was een verzinsel, niet gedekt door echte waarde, denk aan speelgeld, als je wilt. Maar het bedrijf beloofde wel nooit meer dan een miljoen eenheden in omloop te brengen. De virtuele munten werden meestal gratis weggegeven, en iedereen kon het digitale geld op zijn computer opslaan, of het laden op een smartcard om een frisdrank of wat beltegoed te kopen in het DigiCash-gebouw zelf. Deze smartcards waren in feite onkraakbare, creditcard-achtige computers die speciaal waren ontworpen om dit soort betalingen te doen, en ze werden een belangrijke focus voor DigiCash: Chaum geloofde dat de smartcards essentieel waren voor de privacy van betalingen, omdat betalingen in persoon met een creditcard zelfs nog grotere privacyproblemen met zich meebrachten dan online betalingen.</p>
+<p>Het idee achter CyberBucks was dat DigiCash-medewerkers konden experimenteren met de eCash-technologie, terwijl bezoekers konden proeven van de toekomst. Toen Chaum en zijn collega’s besloten om 100 CyberBucks te schenken aan elke handelaar die bereid was om de internetmunteenheid als betaalmiddel te accepteren, begon een kleine groep enthousiastelingen CyberBucks ook buiten de kantoren van DigiCash te gebruiken. Hoewel het doorgaans alleen kon worden uitgegeven aan gadgetachtige producten zoals digitale afbeeldingen of kleine puzzelspellen voor Apple’s Macintosh-computer, genoot de bedrijfsmunteenheid toch enige bredere acceptatie.</p>
+<p>Daarnaast zijn de CyberBucks uiteindelijk op een niet-officiële CyberBucks-beurs verhandeld. Gebruikers konden de digitale geld-eenheden omzetten in daadwerkelijke fiatvaluta en vice versa. Na enige tijd kregen de CyberBucks een echte marktprijs, terwijl sommige gebruikers zelfs een klein beetje van de digitale valuta begonnen te verzamelen als een vorm van sparen of speculeren.</p>
+<p>Dit vereiste wel veel vertrouwen in DigiCash. Hoewel het bedrijf beloofde de CyberBucks-voorraad te beperken tot één miljoen, was er geen ingebouwde methode om dit plafond af te dwingen. Theoretisch gezien konden Chaum en zijn collega’s veel meer dan een miljoen CyberBucks uitgeven als ze dat wilden, en door de sterke privacyfuncties van het systeem zou er voor buitenstaanders geen manier zijn om te controleren of dit al dan niet was gebeurd.</p>
+<p>Bovendien was het valutasysteem volledig afhankelijk van de voortdurende steun van DigiCash: de bedrijfsserver voorkwam dubbele uitgaven. Hoewel CyberBucks een leuk en interessant experiment was, was de uiteindelijke topprioriteit van DigiCash om hun belangrijkste elektronische geldproduct klaar te stomen voor het grote publiek…</p>
+</section>
+<section id="ecash" class="level2">
+<h2 class="anchored" data-anchor-id="ecash">eCash</h2>
+<p>Na vier jaar ontwikkeling bereikte eCash een standaard van beveiliging gelijk aan die van banken. In 1994 begonnen de proeven met echt geld, waarna financiële instellingen een licentie konden aanvragen bij de start-up van Chaum om de nieuwe technologie te gebruiken.</p>
+<p>De eerste bank die deze kans greep, was de Mark Twain Bank in St.&nbsp;Louis, niet bepaald een internationale grootmacht, maar het was een begin. Klanten en bedrijven met een rekening bij Mark Twain konden genieten van privacy in hun elektronische transacties door betalingen te doen en te ontvangen in eCash.</p>
+<p>Kort na de Mark Twain Bank volgden andere banken. Banken in verschillende landen, waaronder de Norske Bank en Bank Austria<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a>, destijds de grootste banken in respectievelijk Noorwegen en Oostenrijk, alsook de Australian Advance Bank, <a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a> begonnen kort daarna met eCash-proefprojecten. En begin 1996 stapte ook een van de grootste financiële instellingen ter wereld aan boord: Deutsche Bank begon de technologie van DigiCash te gebruiken.<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a> Credit Suisse, nog een grote internationale speler, sloot zich ook aan bij de proeven.<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a></p>
+<p>Echter, misschien nog opmerkelijker dan de samenwerkingsverbanden die Chaum tot stand bracht, waren de zakendeals die hij niet wist af te ronden. En hier begint het verhaal over wat er precies gebeurde bij DigiCash te variëren, afhankelijk van wie je het vraagt.</p>
+<p>Volgens diverse medewerkers van DigiCash hadden grote spelers in de tech- en financiële industrie grote interesse getoond.<a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a> Twee van de drie meest prominente Nederlandse banken, ING en ABN Amro, zouden naar verluidt aanbiedingen voor samenwerkingen gemaakt hebben aan DigiCash ter waarde van tientallen miljoenen dollars. Ook betalingsreus Visa zou Chaum een deal van in de miljoenen hebben voorgelegd. Er wordt verder gezegd dat ook Netscape geïnteresseerd was: eCash had een mogelijke toevoeging kunnen zijn aan de populairste webbrowser van die tijd, maar deze samenwerking kwam niet tot stand.</p>
+<p>Het grootste aanbod van allemaal zou echter zijn gekomen van niemand minder dan Microsoft. Zo luidt het verhaal, Bill Gates wilde eCash integreren in het Windows 95-besturingssysteem en bood DigiCash ongeveer 100 miljoen dollar om dit mogelijk te maken. In plaats daarvan zou Chaum twee dollar hebben gevraagd voor elke verkochte versie van Windows 95. Dit was te hoog gegrepen voor de Amerikaanse softwaregigant en daarmee was de deal van de baan.</p>
+<p>Medewerkers van DigiCash stonden in eerste instantie achter de aanpak van Chaum, maar elke keer dat ze hoorden over het uiteenvallen van weer een miljoenendeal, groeide hun twijfel over zijn zakelijk inzicht. Een medewerker suggereerde later tegenover een Nederlandse reporter dat dezelfde eigenschap van wantrouwen, die Chaum tot een uitstekend cryptograaf maakte, hem in de weg stond als zakenman. Zijn ‘paranoïde’ karakter zou hem ongeschikt maken om zakenrelaties op te bouwen, wat ertoe leidde dat hij op het laatste moment uit zakenovereenkomsten stapte.</p>
+<p>Bij de DigiCash kantoren nam de irritatie steeds verder toe. Naast het besef dat hun eigen baan op het spel stond als het bedrijf niet snel winstgevend zou worden, frustreerde het hen ook op ideologisch gebied dat Chaum er niet in slaagde om eCash bij meer mensen te introduceren. DigiCash wist ontwikkelaars aan te trekken die zich inzetten voor digitale privacy, en in een tijd waarin e-commerce populair begon te worden bij het grote publiek, waren ze bezorgd dat DigiCash niet mee ging doen.</p>
+<p>Chaum zelf verwerpt deze beweringen echter krachtig als kwaadwillige laster. Hij beweert dat de verschillende aanbiedingen van meerdere miljoenen dollars niet zo concreet waren als deze werknemers leken te denken. In plaats van zijn persoonlijke tekortkomingen als zakenman, stelt hij dat er simpelweg geen grote markt was voor digitaal geld, een interpretatie die sommige van de meer commercieel ingestelde DigiCash-medewerkers ook hebben bevestigd.</p>
+<p>Het maakt niet uit welke versie van het verhaal de waarheid dichter benadert, het is duidelijk dat eind 1996 het geduld in het DigiCash kantoor op was. De medewerkers van Chaum eisten een verandering in het bedrijfsbeleid.</p>
+</section>
+<section id="faillissement" class="level2">
+<h2 class="anchored" data-anchor-id="faillissement">Faillissement</h2>
+<p>Uiteindelijk kwam de verandering vanuit Chaums thuisland.</p>
+<p>Op zoek naar nieuwe fondsen richtte zijn bedrijf zich tot Amerikaanse durfkapitalisten, aangezien de investeringscultuur in de VS immers beter bekend was, en een grotere honger naar dit soort hightech-start-ups met een hoog risico. DigiCash kreeg een financiële injectie, terwijl MIT-hoogleraar Nicholas Negroponte tot voorzitter van de raad van bestuur werd benoemd en Chaum als CEO vervangen werd door Michael Nash, een veteraan van Visa.<a href="#fn16" class="footnote-ref" id="fnref16" role="doc-noteref"><sup>16</sup></a> Illustratief voor de nieuwe koers van het bedrijf verhuisde het hoofdkantoor van Amsterdam naar Palo Alto, Californië, in het hart van Silicon Valley, waar de waarderingen van technologie-start-ups door het dak gingen. Chaum bleef wel deel uitmaken van DigiCash, maar dan nu als CTO.</p>
+<p>Dit was echter niet precies de soort verandering waarop de meeste Nederlandse werknemers van DigiCash hadden gehoopt. Verschillende van hen besloten op dit moment om het bedrijf te verlaten.</p>
+<p>En misschien nog belangrijker, het bleek uiteindelijk niet veel verschil te maken.</p>
+<p>eCash sloeg gewoonweg niet aan bij het publiek. De banken die de technologie uitprobeerden, promootten het niet echt bij hun klanten, en het hielp waarschijnlijk ook niet dat eCash relatief duur in gebruik was, waarbij het meestal enkele procenten van de transactiewaarde aan kosten in rekening bracht. Mark Twain bank had in een paar jaar tijd slechts 300 handelaren en 5.000 gebruikers ingeschreven, terwijl andere banken het niet veel beter deden.</p>
+<p>En, wellicht Chaums lezing van DigiCash’s geschiedenis kracht bijzettend, was het nieuwe leiderschap van het bedrijf ook niet in staat om grote deals te sluiten. Hoewel een samenwerking met CitiBank bijna rond was, wat DigiCash wellicht het broodnodige momentum had kunnen geven, liep het uiteindelijk spaak en de grote Amerikaanse financiële instelling trok zich terug.</p>
+<p>Tegen eind 1997 had DigiCash het merendeel van zijn fondsen opgebrand. Na een laatste herschikking van de organisatie en leiderschap van het bedrijf, vroeg de start-up van Chaum in 1998 het faillissement aan.</p>
+<p>Na acht jaar van bedrijvigheid, had DigiCash het niet kunnen waarmaken om aan de hype te voldoen die het had gegenereerd onder de eerste generatie van internetondernemers. Misschien is de onkunde van Chaum om zakelijke relaties op te bouwen wel de oorzaak voor de mislukking, zoals sommige voormalige werknemers concludeerden. Of misschien was de vraag naar anoniem digitaal geld, hoewel een verleidelijk verkooppunt in de vroege jaren ’90, gewoon niet zo hoog als de baanbrekende cryptograaf aanvankelijk had verwacht. In plaats van micro-betalingen, werd een groot deel van het web uiteindelijk gefinancierd door advertenties, en privacy leek niet erg hoog op de prioriteitenlijst van de gemiddelde consument te staan.</p>
+<p>Bovendien worstelde DigiCash met een kip-en-ei-probleem. eCash was alleen nuttig als mensen het ergens konden uitgeven: zonder plekken om het digitale geld te besteden, was er geen reden om het in de eerste plaats te bemachtigen. Tegelijkertijd was het voor handelaren alleen zinvol om eCash te accepteren, als er genoeg mensen waren die het wilden uitgeven.</p>
+<p>‘Het was moeilijk om voldoende handelaren te vinden die het wilden accepteren, zodat je genoeg consumenten kon vinden die het wilden gebruiken, of vice versa’, herinnert Chaum zich in 1999. Ook zei hij: ‘Naarmate het web groeide, nam de sofisticatie van de gebruikers af. Het was moeilijk om het belang van privacy aan hen uit te leggen.’<a href="#fn17" class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a></p>
+<p>De elektronisch geld-start-up van Chaum ging ten onder. De CyberBucks-server voor dubbele uitgaven ging ook offline. Zonder deze server was er geen manier om te weten welke valutaeenheden nog geldig waren. Het betekende, simpel gezegd, het einde van het experiment. Degenen die nog steeds CyberBucks bezaten, bleven achter met niets anders dan een stel waardeloze nummers op hun computer.</p>
+<p>Hieruit hebben alle betrokkenen bij het nicheproject voor digitaal geld een waardevolle les getrokken. Hoewel blinde handtekeningen een zekere mate van privacy garandeerden, bleek de afhankelijkheid van CyberBucks van een vertrouwde partij in de vorm van DigiCash de fatale fout van het project te zijn.</p>
+<p>Rond deze tijd probeerde iemand anders, toevallig en om een heel andere reden, een zeer vergelijkbaar soort fout te herstellen…</p>
+</section>
+<section id="scott-stornetta" class="level2">
+<h2 class="anchored" data-anchor-id="scott-stornetta">Scott Stornetta</h2>
+<p>Vers van de Stanford Universiteit met een PhD in natuurkunde, was Scott Stornetta enthousiast om zijn nieuwe baan te beginnen bij wat in 1989 het epicentrum van computerwetenschappelijke innovatie was: het in New Jersey-gevestigde telecom onderzoekscentrum Bellcore.</p>
+<p>Bellcore had in feite de leiding over de architectuur van een groot deel van de Amerikaanse telecommunicatiesystemen in een periode waarin de informatietechnologie zich in een razend tempo ontwikkelde en het internet iedere dag groter werd. Bovendien maakte de cryptografie een ware renaissance door. Ze bevonden zich, zoals Stornetta later omschreef, in een ‘gouden tijdperk van onderzoek’. Nieuwe medewerkers kregen zelfs geen specifieke taken toegewezen. De dertigjarige natuurkundige kreeg de instructie om <em>zelf</em> te ontdekken wat van belang was en vervolgens zijn aandacht hieraan te geven en hieraan te werken.</p>
+<p>Het bleek zo te zijn dat Stornetta al iets belangrijks in gedachten had voordat hij überhaupt een voet in zijn nieuwe werkomgeving had gezet.</p>
+<p>Voordat hij naar de oostkust verhuisde, bracht Stornetta enkele jaren door op Stanford, waar hij werkte vanuit het Xerox PARC-onderzoekscentrum in Palo Alto. De divisie van Xerox was een revolutionaire omgeving die baanbrekende innovaties zoals de personal computer, Ethernet en laserprinten mogelijk had gemaakt, maar de afgelopen jaren werd Stornetta ook geconfronteerd met een nieuw en lelijk probleem in het sterk gedigitaliseerde onderzoekscentrum: vervalsingen.</p>
+<p>Vervalsing is natuurlijk geen nieuw fenomeen. Mensen hebben in feite geprobeerd om documenten te vervalsen sinds de uitvinding van het schrift. Maar digitale vervalsingen waren een relatief nieuw concept, en Stornetta was gaan geloven dat ze een nog uitdagender probleem vertegenwoordigden. Terwijl fysieke vervalsing vaak sporen achterlaat, kan een digitaal document, of het nu een arbeidscontract is, verzekeringspapieren, of een universitair diploma, smetteloos worden aangepast.</p>
+<p>Digitale authenticatie loste inderdaad een deel van dat probleem op: cryptografische handtekeningen konden bewijzen dat een elektronisch document gecontroleerd (ondertekend) was door de juiste persoon. Maar dit zou niet voorkomen dat dezelfde persoon later gewijzigde documenten creëert en ondertekent. Je kan geen onderscheid maken tussen een oude bit en een nieuwe bit, dus hoe kan iemand ooit zeker zijn dat ze kijken naar een origineel document in plaats van een latere vervalsing?</p>
+<p>Stornetta voorzag een crisis in geloofwaardigheid en besloot zijn eerste periode bij Bellcore te besteden aan het oplossen van dit probleem.</p>
+<p>Hij had ook al een mogelijke oplossing in gedachten. Stornetta wilde een tijdregistratiesysteem voor digitale documenten ontwerpen. Het is veel moeilijker om met een vervalsing weg te komen als mensen kunnen bewijzen dat het originele document op een eerder moment in de tijd bestond.</p>
+<p>Stornetta had nog niet precies uitgevogeld hoe zo’n tijdregistratiesysteem zou werken, maar hij vermoedde dat cryptografie wel eens een belangrijk deel van de oplossing kon zijn. Hoewel hij zelf geen cryptograaf was, had hij het geluk dat de cryptograaf van Bellcore, Stuart Haber, tevens degene die Stornetta bij Bellcore in dienst nam, erin toestemde om met hem aan dit project te werken.</p>
+<p>In de daaropvolgende weken brainstormden Stornetta en Haber over ideeën, speculerend over mogelijke strategieën om de uitdaging waarvoor zij stonden op te lossen.</p>
+</section>
+<section id="hash-ketens" class="level2">
+<h2 class="anchored" data-anchor-id="hash-ketens">Hash-ketens</h2>
+<p>Een van hun meest veelbelovende ideeën maakte gebruik van een hash-functie<a href="#fn18" class="footnote-ref" id="fnref18" role="doc-noteref"><sup>18</sup></a>, een eenrichtingsfunctie die data omzet in een unieke en ogenschijnlijk willekeurige reeks cijfers van een vaste lengte. Alle digitale data kan worden gehasht, of het nu een enkele letter is, een heel boek, een muziekbestand of de broncode van een programma. Het cruciale aspect is dat dezelfde data altijd hetzelfde gehashte resultaat oplevert, maar zodra de oorspronkelijke data ook maar een beetje verandert, is de resulterende hash totaal anders. Verwijder je bijvoorbeeld een enkele komma uit een boek, dan lijkt de nieuwe hash totaal niet meer op die van het oorspronkelijke boek.</p>
+<p>Stornetta en Haber stelden voor om documenten van een tijdstempel te voorzien via een speciale tijdstempeldienst. Een document werd samen met een tijdcode gehasht, die vastlegt wanneer de dienst het document heeft ontvangen. Deze hash werd vervolgens cryptografisch ondertekend door de tijdstempelserver als een soort bewijs. Om aan te tonen dat een document op een bepaald moment bestond, kon de eigenaar het originele document en de tijdstempel tonen. Iedereen kon dit invoeren in een hashfunctie om te verifiëren dat er inderdaad een identieke hash door de tijdstempelserver was ondertekend.</p>
+<p>Daarnaast speculeerden Stornetta en Haber dat verschillende documenten chronologisch gekoppeld konden worden in een hash-keten. Dit betekent dat elk nieuw document dat de tijdstempeldienst ontving, niet alleen werd gehasht met een tijdcode, maar ook met de hash van het vorige document. Deze nieuwe hash werd vervolgens samen met het volgende document gehasht, en zo ontstond een keten van hashes. Deze ‘keten’ kon precies bewijzen welke documenten in welke volgorde waren getijdstempeld, en zou zo een chronologisch <em>ruggengraatrecord</em> vormen van alle verwerkte documenten.</p>
+<p>Dit bracht echter met zich mee dat de tijdstempeldienst zelf te vertrouwen moest zijn om niet te rommelen met het centrale archief. In theorie kon deze dienst vervalsingen creëren door dezelfde documenten te hashen en ondertekenen met verschillende tijdstempels. Zo kon de chronologische volgorde van documenten worden gewijzigd, of konden documenten zelfs volledig uit het archief verdwijnen.</p>
+<p>In de wereld van de informatica was het destijds vrij normaal om op zulke diensten te vertrouwen. Publieke sleutels werden bijvoorbeeld meestal verstrekt door een certificaatautoriteit die deze sleutels koppelde aan specifieke identiteiten. Voor Stornetta en Haber was dit echter geen ideale oplossing. Zij vonden dat veiligheid in de digitale ruimte niet afhankelijk zou moeten zijn van vertrouwen in een specifieke entiteit of persoon. Net zoals de cryptografische hulpmiddelen waarover zij beschikten, moest tijdstempeling idealiter onafhankelijk kunnen functioneren.</p>
+<p>Dit bleek het meest uitdagende deel van het probleem te zijn.</p>
+<p>Zolang één entiteit de tijdstempelservice verzorgde, was er altijd vertrouwen in die ene partij nodig. Het toevoegen van meerdere entiteiten om zo een systeem van <em>checks-and-balances</em> te creëren, bood ook geen oplossing. Zelfs als iemand de taak had om de eerlijkheid van de tijdstempeldienst te bewaken, bleef er een risico dat deze persoon samenspande met de dienst om de records te wijzigen. Om dezelfde reden bood het toevoegen van een derde, vierde of vijfde persoon als toezichthouder geen garantie. Dit vergrootte hoogstens de omvang van de samenzwering die nodig was om historische records te vervalsen, maar sloot de mogelijkheid van vervalsing niet volledig uit.</p>
+<p>Stornetta en Haber leken tegen een fundamenteel probleem te zijn aangelopen dat cryptografie niet kon oplossen. Na weken van vruchteloze brainstormsessies zagen de collega’s van Bellcore uiteindelijk geen andere optie dan te concluderen dat wat ze echt wilden bereiken niet mogelijk was.</p>
+<p>Als een soort van troost, besloten ze hun bevindingen te publiceren. Ook al hadden Stornetta en Haber het vertrouwensprobleem niet opgelost, ze konden nu tenminste aantonen dat dit probleem onoplosbaar was…</p>
+</section>
+<section id="het-verdelen-van-vertrouwen" class="level2">
+<h2 class="anchored" data-anchor-id="het-verdelen-van-vertrouwen">Het verdelen van vertrouwen</h2>
+<p>Pas toen Stornetta beargumenteerde dat het probleem onoplosbaar was, besefte hij dat ze daadwerkelijk fout zaten — althans technisch gezien.</p>
+<p>Stornetta en Haber hadden geconcludeerd dat het toevoegen van meer entiteiten om controles uit te voeren op de tijdstempeldienst het probleem van vertrouwen niet oplost, maar alleen verandert hoe groot de samenzwering zou moeten zijn. Inderdaad, dit lijkt logischerwijs waar te zijn, en in de meeste gevallen is het inderdaad waar.</p>
+<p>Maar Stornetta kwam nu tot het inzicht dat er een uitzondering op deze regel is: als iedereen de tijdstempeldienst controleert, kan niemand samenspannen: er zou niemand meer over zijn om tegen te samenzweren. Zolang iedereen iedereen in de gaten houdt, is er helemaal geen vertrouwde partij meer nodig!</p>
+<p>Stornetta stelde: ‘Als we in essentie een samenzwering kunnen creëren die zo groot is dat het de hele wereld omvat, dan zouden we in feite het probleem hebben omgekeerd en een systeem zonder vertrouwen hebben gecreëerd.’<a href="#fn19" class="footnote-ref" id="fnref19" role="doc-noteref"><sup>19</sup></a></p>
+<p>Het is uiteraard onwaarschijnlijk dat de groep die op vervalsingen controleert zo groot wordt dat letterlijk iedereen op aarde erbij hoort. Desalniettemin, deze nieuwe inzichten betekenden een echte doorbraak in het denken van Stornetta en Haber.</p>
+<p>Dit resulteerde uiteindelijk in de publicatie van hun onderzoek uit 1990: ‘Hoe plaatst men een tijdstempel op een digitaal document?’<a href="#fn20" class="footnote-ref" id="fnref20" role="doc-noteref"><sup>20</sup></a> De paper stelde nieuwe normen in het domein van digitale tijdstempels en presenteerde twee enigszins verschillende benaderingen.</p>
+<p>Het eerste voorstel leek sterk op hun idee van een hash-keten ruggengraatrecord, waarbij de tijdstempeldienst elk update cryptografisch zou ondertekenen en chronologisch aan het record zou linken. Dit zou bewijzen dat het daadwerkelijk de tijdstempeldienst was die het nieuwe document toevoegde, en in welke volgorde. Maar belangrijk was dat in plaats van enkel de tijdstempeldienst te vertrouwen met het ruggengraatrecord, dit record nu met alle deelnemers gedeeld zou worden.</p>
+<p>Het geniale van deze oplossing was dat als de tijdstempeldienst ooit zou proberen om te antidateren, te deleten of een eerder getijdstempeld document op een of andere manier te veranderen, elke gebruiker die een kopie van de ruggegraatrecord behield, de verandering zou opmerken. Als de inhoud of de tijdcodes van een document zelfs maar een klein beetje gewijzigd werd, zou dit de bijbehorende hash volledig veranderen, wat op zijn beurt weer elke volgende hash zou veranderen, waardoor het volledig onverenigbaar zou worden met de wijdverbreide record: de tijdstempeldienst zou nooit wegkomen met zijn vervalsingspoging.</p>
+<p>De tweede oplossing die Stornetta en Haber beschreven, schafte zelfs de tijdstempeldienst volledig af. In deze variant, zou een groep deelnemende gebruikers om de beurt een nieuw document aan de hash-keten toevoegen. Wanneer iemand een document wilde voorzien van een tijdstempel, zou de willekeur van de hash van dit document worden gebruikt om te bepalen welke deelnemer het moest ondertekenen, als een soort hash-loterij.</p>
+<p>Met niet één, maar twee briljante voorstellen, waarvan er één nog minder vertrouwen vereiste dan de andere, vormde de paper van Stornetta en Haber een grote sprong voorwaarts voor het digitaal tijdstempelen.</p>
+<p>Dat gezegd hebbende, brachten hash-kettingen wel een nieuw probleem met zich mee: ze waren niet bijzonder schaalbaar, vooral als je rekening hield met de bescheiden rekenkracht die een gemiddelde computergebruiker begin jaren ’90 ter beschikking had. Voor elk document dat aan het hoofdrecord werd toegevoegd, was er een nieuwe hash nodig, dus na verloop van tijd zouden de deelnemende gebruikers heel wat data moeten opslaan als deze systemen echt populair zouden worden.</p>
+<p>En aangezien deze gebruikers steeds meer data moesten opslaan om deel te kunnen nemen, zouden waarschijnlijk meer van hen ervoor kiezen om niet meer deel te nemen en gewoon het record te vertrouwen dat door de tijdstempeldienst en andere gebruikers wordt bijgehouden. Dit zou op zijn beurt weer (de nood aan) vertrouwen in deze systemen introduceren: om echt veilig te zijn, was het tijdstempelschema uitdrukkelijk afhankelijk van brede deelname.</p>
+<p>Het was wiskundige Dave Bayer die dit raadsel hielp oplossen, met behulp van <em>Merkle Trees</em>.</p>
+</section>
+<section id="een-boom-van-hashes" class="level2">
+<h2 class="anchored" data-anchor-id="een-boom-van-hashes">Een boom van hashes</h2>
+<p>In de jaren na het afronden van zijn stage bij Martin Hellman, had Ralph Merkle een naam voor zichzelf gemaakt als een van de vooraanstaande cryptografen van zijn generatie. Onder zijn vele innovaties had hij een nieuwe eenrichtingsfunctie ontworpen, een sneller versleutelingsprotocol geïntroduceerd en zijn eigen handtekeningsalgoritme voorgesteld. Hoewel hij technisch gezien niet medeauteur was van het onderzoek, zagen veel cryptografen Merkle als de derde uitvinder van de Diffie-Hellman-sleuteluitwisseling.</p>
+<p>Het meest opvallende is misschien wel dat Merkle in 1979 de Merkle Tree had uitgevonden.<a href="#fn21" class="footnote-ref" id="fnref21" role="doc-noteref"><sup>21</sup></a> Oorspronkelijk ontworpen als onderdeel van een systeem voor het produceren van authenticatiecertificaten voor een raadpleegbare lijst van publieke sleutels, bieden Merkle-bomen een compacte en veilige controle op de inhoud van allerlei soorten gegevenssets door hashes op een slimme wiskundige manier te combineren.</p>
+<p>Concreet genomen, aggregeert een Merkle-boom verschillende stukken data cryptografisch via een aantal eenvoudige stappen. Allereerst worden de verschillende stukken individueel gehasht, zodat elk stuk data zijn eigen unieke hash heeft. Vervolgens worden al deze hashes in paren van twee gegroepeerd. Elk paar hashes wordt dan samen gehasht, wat één nieuwe hash per paar produceert. Al de nieuwe hashes worden dan opnieuw gepaard, en deze paren worden weer samen gehasht. Dit proces herhaalt zich totdat er nog maar één hash over blijft, de zogenaamde <em>Merkle-wortel</em> (gevisualiseerd, lijkt de resulterende datastructuur op een soort stamboom, maar dan voor grote getallen in plaats van personen).</p>
+<p>Merkle-bomen vergemakkelijken controles om te zien of de hash van een specifiek stuk data in de boom is opgenomen. Belangrijk is dat dit mogelijk is zonder dat men de overige data die gecodeerd werd, noch zelfs de meeste andere hashes, hoeft te zien. Alles wat nodig is, is een <em>Merkle-bewijs</em>, dat bestaat uit de relevante ‘takken’ van de boom. Dit dient in wezen als een compacte set van ‘aanwijzingen’ om het pad te vinden van de Merkle-wortel naar de hash van het specifieke stuk data.</p>
+<p>Ondertussen is het strikt onmogelijk om iets in een boom te bewerken of te verwijderen zonder de hele boom te veranderen of, nauwkeuriger, zonder de wortel te veranderen. Als een stukje data wordt gewijzigd of verwijderd, zou de overeenkomstige hash ook veranderen, wat op zijn beurt noodzakelijkerwijs de weergave van zijn ‘kind’-hash beïnvloedt, wat natuurlijk de volgende hash beïnvloedt, en zo verder, helemaal tot aan de wortel van de boom. Niet ongelijk aan hash-ketens tonen Merkle-bomen ondubbelzinnig aan of data is gewijzigd, maar dan in een veel compacter formaat.</p>
+<p>Het zou een waardevol middel blijken te zijn in de strijd tegen digitale fraude.</p>
+</section>
+<section id="een-keten-van-wortels" class="level2">
+<h2 class="anchored" data-anchor-id="een-keten-van-wortels">Een keten van wortels</h2>
+<p>Goed bekend met de vele cryptografische voorstellen die in de anderhalf decennium vóór de publicatie van Stornetta en Habers eerste paper zijn geïntroduceerd, stelde Bayer aan de onderzoekers van Bellcore voor dat ze Merkle’s hash-structuur konden gebruiken voor tijdstempels, wat het duo met plezier accepteerde. Hun tweede paper, <em>Improving the Efficiency and Reliability of Digital Time-Stamping</em>, werd gepubliceerd in 1993, en Bayer werd opgenomen als derde auteur.<a href="#fn22" class="footnote-ref" id="fnref22" role="doc-noteref"><sup>22</sup></a></p>
+<p>Stornetta, Haber en Bayer stelden voor om meerdere documenten tegelijkertijd te tijdstempelen door ze te bundelen in één grote Merkle-boom, die dagelijks werd aangemaakt. Gebruikers hoefden dan niet voor elk getijdstempeld document een afzonderlijke hash bij te houden. In plaats daarvan volstond het om enkel de dagelijkse Merkle-wortel als basisregistratie te bewaren, samen met hun eigen Merkle-bewijzen om de hash van hun documenten in de betreffende boom te vinden.</p>
+<p>Dit verbeterde de efficiëntie aanzienlijk, waardoor meer gebruikers konden deelnemen aan het tijdstempelproces. Het werd zelfs mogelijk om de dagelijkse Merkle-wortel te publiceren in een krant, waar deze publiek zichtbaar zou zijn en bewaard kon worden in fysieke krantenarchieven (Stornetta en Haber richtten later de tijdstempel-start-up <em>Surety</em> op, die inderdaad Merkle-wortels opnam in de geclassificeerde advertenties van de New York Times).</p>
+<p>Daarnaast kan, zoals verder uitgewerkt in hun derde paper Secure Names for Bit-Strings<a href="#fn23" class="footnote-ref" id="fnref23" role="doc-noteref"><sup>23</sup></a>, elke nieuwe Merkle-boom de vorige Merkle-wortel bevatten. Dit creëerde een reeks Merkle-wortels die zelf een chronologische hash-keten vormden. Bij het dagelijks creëren van een Merkle-boom werd de Merkle-wortel van gisteren opgenomen in de boom van vandaag, en de wortel van vandaag werd op zijn beurt verwerkt in de boom van morgen, enzovoort.</p>
+<p>Op deze manier waren ook de Merkle-bomen zelf cryptografisch met elkaar verbonden. Vervalsing werd hierdoor nog moeilijker. Zelfs als iemand erin zou slagen om bijvoorbeeld één editie van de <em>New York Times</em> in het fysieke archief te vervalsen met een andere Merkle-wortel, zou dit niet overeenkomen met de Merkle-wortels die in alle kranten sinds die tijd zijn gepubliceerd, en ook niet met de persoonlijke archieven van mensen. Deze methode maakte het bijna onmogelijk om gegevens te vervalsen.</p>
+<p>Als iemand zou proberen een document te antidateren, zou dit niet alleen de Merkle-wortel van die specifieke dag veranderen, maar het zou ook in strijd zijn met elke tijdstempelregistratie die daarna is gepubliceerd. Vervalsing werd daarmee in de praktijk onmogelijk. Feitelijk ontwierpen Scott Stornetta en Stuart Haber hiermee een systeem voor historische gegevensverificatie.</p>
+<p>De sleutel tot hun succes, was de verdeling van vertrouwen.</p>
+</section>
+<section id="bestel-dit-boek" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="bestel-dit-boek">Bestel dit boek</h2>
+<div id="product-component-1727304923644">
+
+</div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'konsensus-network.myshopify.com',
+      storefrontAccessToken: '34b6f153cba00ad78ed6697a27d3f6e3',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '14682916651357',
+        node: document.getElementById('product-component-1727304923644'),
+        moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        }
+      },
+      "title": {
+        "font-family": "Open Sans, sans-serif",
+        "font-weight": "normal",
+        "color": "#f4b324"
+      },
+      "button": {
+        "font-family": "Open Sans, sans-serif",
+        ":hover": {
+          "background-color": "#dca120"
+        },
+        "background-color": "#f4b324",
+        ":focus": {
+          "background-color": "#dca120"
+        },
+        "border-radius": "15px",
+        "padding-left": "50px",
+        "padding-right": "50px"
+      },
+      "price": {
+        "font-family": "Open Sans, sans-serif",
+        "color": "#dc9b0b"
+      },
+      "compareAt": {
+        "font-family": "Open Sans, sans-serif",
+        "color": "#dc9b0b"
+      },
+      "unitPrice": {
+        "font-family": "Open Sans, sans-serif",
+        "color": "#dc9b0b"
+      }
+    },
+    "text": {
+      "button": "Add to cart"
+    },
+    "googleFonts": [
+      "Open Sans"
+    ]
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-family": "Open Sans, sans-serif",
+        ":hover": {
+          "background-color": "#dca120"
+        },
+        "background-color": "#f4b324",
+        ":focus": {
+          "background-color": "#dca120"
+        },
+        "border-radius": "15px",
+        "padding-left": "50px",
+        "padding-right": "50px"
+      },
+      "title": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "bold",
+        "font-size": "26px",
+        "color": "#4c4c4c"
+      },
+      "price": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "18px",
+        "color": "#4c4c4c"
+      },
+      "compareAt": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "15.299999999999999px",
+        "color": "#4c4c4c"
+      },
+      "unitPrice": {
+        "font-family": "Helvetica Neue, sans-serif",
+        "font-weight": "normal",
+        "font-size": "15.299999999999999px",
+        "color": "#4c4c4c"
+      }
+    },
+    "googleFonts": [
+      "Open Sans"
+    ],
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "option": {},
+  "cart": {
+    "styles": {
+      "button": {
+        "font-family": "Open Sans, sans-serif",
+        ":hover": {
+          "background-color": "#dca120"
+        },
+        "background-color": "#f4b324",
+        ":focus": {
+          "background-color": "#dca120"
+        },
+        "border-radius": "15px"
+      }
+    },
+    "text": {
+      "total": "Subtotal",
+      "button": "Checkout"
+    },
+    "googleFonts": [
+      "Open Sans"
+    ]
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-family": "Open Sans, sans-serif",
+        "background-color": "#f4b324",
+        ":hover": {
+          "background-color": "#dca120"
+        },
+        ":focus": {
+          "background-color": "#dca120"
+        }
+      }
+    },
+    "googleFonts": [
+      "Open Sans"
+    ]
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
+
+
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>David Chaum, <em>Security Without Identification: Transaction Systems to Make Big Brother Obsolete</em>, Communications of the ACM 28, no. 10: 1030–1044.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>David Chaum, <em>Achieving Electronic Privacy</em>, Scientific American 267, 2: 96–101.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>David Chaum, <em>Blind Signatures for Untraceable Payments</em>, Advances in Cryptology: Proceedings of Crypto 82: 199–203.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>Chaum zou later ook een oplossing voorstellen waarbij dubbel uitgeven de anonimiteit van de dader zou kunnen opheffen, waardoor de noodzaak om elke binnenkomende betaling direct te controleren aan de hand van de bankgegevens enigszins wordt beperkt, aangezien de dader van een dubbele-uitgavenaanval kan worden geïdentificeerd.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Als een handig extra detail bevat het systeem ook een soort fraudepreventiecontrole, zij het een die ten koste gaat van privacy als en wanneer gebruikers ervoor zouden kiezen deze te gebruiken. Als Carol ten onrechte zou beweren dat ze nooit betaald is, zou Bob kunnen kiezen om de nonce aan Alice Bank te onthullen. Hiermee kan hij bewijzen dat hij de digitale dollars heeft gemaakt die Carol heeft gestort en dat hij ze aan haar heeft betaald.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>Dat gezegd zijnde, zijn er nog enkele andere, mogelijk meer drastische maatregelen die Alice Bank had kunnen nemen. Naast het weigeren om digitale dollars aan Bob uit te geven, had ze ook alle elektronische contante betalingen kunnen blokkeren. Evenzo zou ze bepaalde gebruikers kunnen blokkeren van het accepteren van betalingen; zelfs als betalingen niet kunnen worden getraceerd, kunnen sommige gebruikers nog steeds worden uitgesloten van deelname aan het systeem.<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>Er kan worden gesteld dat Chaum een tamelijk losse definitie van <em>contant geld</em> gebruikte, aangezien contant geld meestal meer onderscheidende eigenschappen heeft. Chaums vorm van digitaal contant geld bood bijvoorbeeld beperkte overdraagbaarheid van persoon tot persoon — een kenmerk dat fysiek contant geld wel heeft, omdat het vrij kan worden doorgegeven. Niettemin heeft Chaum een vorm van digitaal geld uitgevonden die ten minste een vergelijkbaar niveau van privacy bood als fysiek contant geld, wat zijn hoofddoel was.<a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>David Chaum, <em>Security Without Identification</em>.<a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>Uiteindelijk werd het tolproject niet aangenomen: het idee bleek te controversieel in Nederland. De technologie zou echter later worden gelicentieerd onder de naam <em>DyniCash</em> aan een onderneming in Dallas, Texas die gespecialiseerd was in communicatie op microgolf-frequenties voor treinen.<a href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10"><p>Peter H. Lewis, <em>Attention Internet Shoppers: E-Cash Is Here</em>, The New York Times, 19 oktober 1994, <a href="https://www.nytimes.com/1994/10/19/business/attention-internet-shoppers-e-cash-is-here.html">online</a><a href="#fnref10" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn11"><p>DigiCash, <em>Bank Austria and Den norske Bank to Issue ecash: the Electronic Cash for the Internet</em>, DigiCash, 14 april 1997, geraadpleegd <a href="https://web.archive.org/web/19970605025912/http://www.digicash.com:80/publish/ec_pres8.html">online</a><a href="#fnref11" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn12"><p>DigiCash, <em>Advance Bank First to Provide DigiCash’s ecash System in Australia</em>, DigiCash, October, 1996, geraadpleegd <a href="https://web.archive.org/web/19961102121407/https://www.digicash.com/publish/ec_pres6.html">online</a><a href="#fnref12" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn13"><p>DigiCash, <em>DigiCash’s Ecash to be Issued by Deutsche Bank</em>, DigiCash, 7 mei 1996, geraadpleegd <a href="https://web.archive.org/web/19961102121355/https://www.digicash.com/publish/ec_pres5.html">online</a><a href="#fnref13" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn14"><p>Jeffrey Kutler, <em>Credit Suisse, Digicash in E-Commerce Test</em>, American Banker, 16 juni 1998, <a href="https://www.americanbanker.com/news/credit-suisse-digicash-in-e-commerce-test">online</a><a href="#fnref14" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn15"><p>Next! Magazine <em>Hoe DigiCash alles verknalde</em>, Next!, January 1999, geraadpleegd <a href="https://web.archive.org/web/19990427142412/https://www.nextmagazine.nl/ecash.htm">online</a><a href="#fnref15" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn16"><p>American Banker, <em>Digicash Sends Signal by Hiring Visa Veteran</em>, American Banker, 6 mei 1997, <a href="https://www.americanbanker.com/news/digicash-sends-signal-by-hiring-visa-veteran">online</a><a href="#fnref16" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn17"><p>Julie Pitta, <em>Requiem for a Bright Idea</em>, Forbes, 1 november 1999, <a href="https://www.forbes.com/forbes/1999/1101/6411390a.html">online</a><a href="#fnref17" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn18"><p>Hash-functies werden voor het eerst voorgesteld door de wiskundige George B. Purdy van de University of Illinois at Urbana-Champaign in zijn artikel <em>A High Security Log-in Procedure</em>, Communications of the ACM 17, no. 8: 442–445.<a href="#fnref18" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn19"><p>Scott Stornetta, <em>The Missing Link between Satoshi &amp; Bitcoin: Cypherpunk Scott Stornetta</em>, interview by Naomi Brockwell, NBTV, with Naomi Brockwell, YouTube, 6 september 2018, <a href="https://www.youtube.com/watch?v=fYr-keVOQ18">online</a><a href="#fnref19" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn20"><p>Stuart Haber and Scott W. Stornetta, <em>How to Time-Stamp a Digital Document</em>, Journal of Cryptology 3: 99–111.<a href="#fnref20" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn21"><p>Ralph C. Merkle, <em>A Certified Signature</em>, Advances in Cryptology — CRYPTO ’89: Proceedings: 218–238.<a href="#fnref21" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn22"><p>Dave Bayer, Stuart Haber and Scott W. Stornetta, <em>Improving the Efficiency and Reliability of Digital Time-Stamping</em>, Conference Paper, Sequences II: Methods in Communication, Security, and Computer Science: 329–34.<a href="#fnref22" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn23"><p>Stuart Haber and Scott W. Stornetta, <em>Secure Names for Bit-strings</em>, CCS ’97: Proceedings of the 4th ACM Conference on Computer and Communications Security,: 28–35.<a href="#fnref23" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Gekopieerd!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Gekopieerd!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../hoofdstuk/CH05.html" class="pagination-link" aria-label="Denationalisatie van geld">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Denationalisatie van geld</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../hoofdstuk/CH07.html" class="pagination-link" aria-label="De Extropianen">
+        <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">De Extropianen</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ © 2024 Konsensus Network
+  </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="../license.html">
+<p>License</p>
+</a>
+  </li>  
+</ul>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/konsensusnetwork/TGB_NL/edit/main/hoofdstuk/CH06.qmd" class="toc-action"><i class="bi bi-github"></i>Pagina bewerken</a></li><li><a href="https://github.com/konsensusnetwork/TGB_NL/blob/main/hoofdstuk/CH06.qmd" class="toc-action"><i class="bi empty"></i>Broncode bekijken</a></li></ul></div></div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/konsensusn">
+      <i class="bi bi-twitter" role="img" aria-label="Twitter">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/konsensusnetwork">
+      <i class="bi bi-github" role="img" aria-label="Github">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/konsensusnetwork">
+      <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.youtube.com/konsensusnetwork">
+      <i class="bi bi-youtube" role="img" aria-label="YouTube">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

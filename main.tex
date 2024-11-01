@@ -231,7 +231,7 @@ hidelinks]{memoir}
 % HEADER AND FOOTER MANIPULATION
 % for normal pages
 \nouppercaseheads
-\headsep = 6mm
+\headsep = 4mm
 \makepagestyle{mystyle} 
 \makeevenhead{mystyle}{\scriptsize\sffamily\mdseries\thepage}{}{}
 \makeoddhead{mystyle}{\scriptsize\sffamily\mdseries\leftmark}{}{\scriptsize\sffamily\mdseries\thepage}
@@ -270,6 +270,21 @@ hidelinks]{memoir}
   \parbox[t]{\dimexpr\linewidth-2em}{#1}% <-- Parbox to control the width of footnote content
 }
 \makeatother
+
+% Endnotes
+% \usepackage{enotez} % Include the enotez package
+% % Automatically print endnotes at the end of each chapter
+% \let\oldchapter\chapter
+% \renewcommand{\chapter}[1]{%
+%   \oldchapter{#1}%
+%   \newpage
+%   \printendnotes % Print endnotes at the end of each chapter
+%   \clearpage
+% }
+
+% % Redefine \footnote to \endnote
+% \let\oldfootnote\footnote
+% \renewcommand{\footnote}[1]{\endnote{#1}}
 
 % layout check and fix
 \checkandfixthelayout
@@ -415,8 +430,95 @@ inspireerden}
 \renewcommand*\contentsname{Inhoudsopgave}
 {
 \setcounter{tocdepth}{0}
-\tableofcontents*
+\tableofcontents
 }
+
+\mainmatter
+\bookmarksetup{startatroot}
+
+\chapter*{Over dit boek}\label{over-dit-boek}
+\addcontentsline{toc}{chapter}{Over dit boek}
+
+\markboth{Over dit boek}{Over dit boek}
+
+Bitcoin is niet zomaar uit het niets ontstaan. Al decennia vóór de
+uitvinding van Satoshi Nakamoto probeerden groepen
+computerwetenschappers, privacyactivisten en alternatieve economen een
+digitale vorm van geld te ontwikkelen die onafhankelijk van de overheid
+kon bestaan. Het Genesisboek vertelt het verhaal van de mensen en
+projecten die de weg vrijmaakten voor 's werelds eerste succesvolle
+peer-to-peer elektronisch betaalsysteem.
+
+\bookmarksetup{startatroot}
+
+\chapter*{Reviews}\label{reviews}
+\addcontentsline{toc}{chapter}{Reviews}
+
+\markboth{Reviews}{Reviews}
+
+\begin{quote}
+'Ik had al enige tijd het vermoeden dat Van Wirdum de beste historicus
+van Bitcoin is, en dit boek bevestigt dat.
+
+Het is een indrukwekkend werk. Het Genesisboek biedt een toegankelijk en
+essentieel overzicht van de geschiedenis, en onthult de vele verbanden
+tussen het Weense klassiek-liberalisme, de Anglo-Saksische
+Cypherpunkbeweging en de opkomst van Bitcoin.
+
+Waar andere boeken in de branche vaak de nadruk leggen op veelgeprezen
+ondernemers, heeft Van Wirdum de technische kennis om belangrijke
+figuren te belichten die de fundamenten legden waarop het Bitcoin-gebouw
+later is opgericht.
+
+In zestien informatieve hoofdstukken biedt Het Genesisboek een
+combinatie van diepgaand onderzoek en filosofische inzichten die je
+alleen verwacht van een veteraan in de sector (Van Wirdum was een van de
+eerste schrijvers die in de Bitcoin-industrie aan de slag ging), met de
+aantrekkelijke schrijfstijl die je zoekt in een gerespecteerd
+tijdschrift.
+
+Je kunt Bitcoin niet begrijpen zonder kennis te maken met zijn
+bijzondere oorsprong, en ik ben blij dat dit boek bestaat om die kennis
+voor een breed publiek toegankelijk te maken.'
+
+\textbf{--- Tuur Demeester}
+\end{quote}
+
+\begin{quote}
+`Het Genesisboek neemt je mee op een eeuwenlange reis door minder
+bekende verhalen van visionairs, wiens inzichten en innovaties de basis
+vormden voor de revolutionaire creatie van Bitcoin. Van economen die de
+gevestigde orde uitdaagden tot Cypherpunks die nieuwe wegen op het
+gebied van privacy verkenden, weeft Aaron van Wirdum zorgvuldig een
+verhaal over technologische overwinningen, tegenslagen en bijzondere
+doorbraken. De anekdotes over mensen die buiten de gebaande paden
+durfden te dromen en grenzen verlegden om de financiële wereld te
+veranderen, zullen je zeker fascineren.'
+
+\textbf{--- Jameson Lopp}
+\end{quote}
+
+\begin{quote}
+`Waarom verschilt Bitcoin zo van eerdere versies? Dit boek werpt licht
+op de \emph{problemen} die slimme en hardwerkende mensen in de tijd vóór
+Bitcoin bezig hielden. Dit is de juiste manier om het verhaal van een
+technologie te vertellen. Alle belangrijke kwesties worden behandeld en
+zijn in een logische volgorde gepresenteerd. Dit is het beste boek dat
+ooit over Bitcoin geschreven is.'
+
+\textbf{--- Paul Sztorc}
+\end{quote}
+
+\begin{quote}
+`Tot nu toe waren er veel boeken over Bitcoin, maar geen enkel boek
+pakte de veelzijdige culturele achtergrond zo compleet, gestructureerd
+en elegant aan. Aaron van Wirdum, bekend om zijn talent om technische
+materie helder naar een breder publiek over te brengen, heeft dat nu
+gedaan. Dit is een \emph{must-read} als je wilt begrijpen waar Bitcoin
+vandaan komt.'
+
+\textbf{--- Giacomo Zucco}
+\end{quote}
 
 \bookmarksetup{startatroot}
 
@@ -432,8 +534,6 @@ gewelddadig uit de handen van de overheid kunnen nemen, kunnen we alleen
 maar op een sluwe, indirecte manier, iets introduceren wat ze niet
 kunnen stoppen. - Friedrich Hayek (1984)
 \end{quote}
-
-\mainmatter
 
 \bookmarksetup{startatroot}
 
@@ -12876,8 +12976,6 @@ In een wereld met van bovenaf, centraal beheerde fiatvaluta's en al hun
 problemen, vertegenwoordigt Bitcoin een krachtig voorbeeld van spontane
 orde.
 
-\backmatter
-
 \bookmarksetup{startatroot}
 
 \chapter*{Erkenningen}\label{erkenningen}
@@ -12971,18 +13069,12 @@ hoofdredacteur van de gedrukte editie.
 \chapter*{Bibliografie}\label{bibliografie}
 \addcontentsline{toc}{chapter}{Bibliografie}
 
-% Set up for bibliography formatting
-\setlength{\parindent}{0pt} % No indentation
-\setlength{\parskip}{0.5em}   % Space between entries
-
 \markboth{Bibliografie}{Bibliografie}
 
 \section*{Alfabetisch}\label{alfabetisch}
 \addcontentsline{toc}{section}{Alfabetisch}
 
 \markright{Alfabetisch}
-
-{\footnotesize
 
 American Banker. \emph{Digicash Sends Signal by Hiring Visa Veteran.}
 American Banker. May 6,
@@ -14146,92 +14238,8 @@ Cypherpunks mailing list archieven, 1992--2000. Beschikbaar op
 Cryptography mailing list archieven, October 2008--January 2009.
 Beschikbaar op~\url{https://www.metzdowd.com/pipermail/cryptography/}
 
-}
 
-\bookmarksetup{startatroot}
+\backmatter
 
-\chapter*{Over dit boek}\label{over-dit-boek}
-\addcontentsline{toc}{chapter}{Over dit boek}
-
-\markboth{Over dit boek}{Over dit boek}
-
-Bitcoin is niet zomaar uit het niets ontstaan. Al decennia vóór de
-uitvinding van Satoshi Nakamoto probeerden groepen
-computerwetenschappers, privacyactivisten en alternatieve economen een
-digitale vorm van geld te ontwikkelen die onafhankelijk van de overheid
-kon bestaan. Het Genesisboek vertelt het verhaal van de mensen en
-projecten die de weg vrijmaakten voor 's werelds eerste succesvolle
-peer-to-peer elektronisch betaalsysteem.
-
-\bookmarksetup{startatroot}
-
-\chapter*{Reviews}\label{reviews}
-\addcontentsline{toc}{chapter}{Reviews}
-
-\markboth{Reviews}{Reviews}
-
-\begin{quote}
-'Ik had al enige tijd het vermoeden dat Van Wirdum de beste historicus
-van Bitcoin is, en dit boek bevestigt dat.
-
-Het is een indrukwekkend werk. Het Genesisboek biedt een toegankelijk en
-essentieel overzicht van de geschiedenis, en onthult de vele verbanden
-tussen het Weense klassiek-liberalisme, de Anglo-Saksische
-Cypherpunkbeweging en de opkomst van Bitcoin.
-
-Waar andere boeken in de branche vaak de nadruk leggen op veelgeprezen
-ondernemers, heeft Van Wirdum de technische kennis om belangrijke
-figuren te belichten die de fundamenten legden waarop het Bitcoin-gebouw
-later is opgericht.
-
-In zestien informatieve hoofdstukken biedt Het Genesisboek een
-combinatie van diepgaand onderzoek en filosofische inzichten die je
-alleen verwacht van een veteraan in de sector (Van Wirdum was een van de
-eerste schrijvers die in de Bitcoin-industrie aan de slag ging), met de
-aantrekkelijke schrijfstijl die je zoekt in een gerespecteerd
-tijdschrift.
-
-Je kunt Bitcoin niet begrijpen zonder kennis te maken met zijn
-bijzondere oorsprong, en ik ben blij dat dit boek bestaat om die kennis
-voor een breed publiek toegankelijk te maken.'
-
-\textbf{--- Tuur Demeester}
-\end{quote}
-
-\begin{quote}
-`Het Genesisboek neemt je mee op een eeuwenlange reis door minder
-bekende verhalen van visionairs, wiens inzichten en innovaties de basis
-vormden voor de revolutionaire creatie van Bitcoin. Van economen die de
-gevestigde orde uitdaagden tot Cypherpunks die nieuwe wegen op het
-gebied van privacy verkenden, weeft Aaron van Wirdum zorgvuldig een
-verhaal over technologische overwinningen, tegenslagen en bijzondere
-doorbraken. De anekdotes over mensen die buiten de gebaande paden
-durfden te dromen en grenzen verlegden om de financiële wereld te
-veranderen, zullen je zeker fascineren.'
-
-\textbf{--- Jameson Lopp}
-\end{quote}
-
-\begin{quote}
-`Waarom verschilt Bitcoin zo van eerdere versies? Dit boek werpt licht
-op de \emph{problemen} die slimme en hardwerkende mensen in de tijd vóór
-Bitcoin bezig hielden. Dit is de juiste manier om het verhaal van een
-technologie te vertellen. Alle belangrijke kwesties worden behandeld en
-zijn in een logische volgorde gepresenteerd. Dit is het beste boek dat
-ooit over Bitcoin geschreven is.'
-
-\textbf{--- Paul Sztorc}
-\end{quote}
-
-\begin{quote}
-`Tot nu toe waren er veel boeken over Bitcoin, maar geen enkel boek
-pakte de veelzijdige culturele achtergrond zo compleet, gestructureerd
-en elegant aan. Aaron van Wirdum, bekend om zijn talent om technische
-materie helder naar een breder publiek over te brengen, heeft dat nu
-gedaan. Dit is een \emph{must-read} als je wilt begrijpen waar Bitcoin
-vandaan komt.'
-
-\textbf{--- Giacomo Zucco}
-\end{quote}
 
 \end{document}

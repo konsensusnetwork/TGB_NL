@@ -10,13 +10,21 @@ book:
   subtitle: "Het verhaal van de mensen en projecten die Bitcoin inspireerden"
   author: "Aaron van Wirdum"
   translator: Theo Hague
-  date: "2024-09-12"
-  cover-image: cover.png
+  date: "2024-10-31"
   isbn: 978-3-16-123450-0
-  license: CC BY-ND
+  license: CC BY-NC-ND
   language: nl
   original-title: "The Genesis Book"
   publisher: Konsensus Network
+  original-publisher: BTC Media Books
+  repo-url: https://github.com/konsensusnetwork/TGB_NL
+  repo-actions: [edit, source]
+  search:
+    location: sidebar
+    type: overlay
+  sidebar:
+    style: floating
+    border: true
   navbar:
     logo: cover.png
     logo-alt: Cover
@@ -25,51 +33,68 @@ book:
         href: https://github.com/konsensusnetwork/TGB_NL
         aria-label: GitHub
       - icon: shop
-        href: https://bitcoinbook.shop/
+        href: https://bitcoinbook.shop/products/het-genesisboek
         aria-label: Shop
   page-footer:
+    left:
+      - text: "© 2024 Konsensus Network"
     center:
       - text: "License"
         href: license.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/konsensusn
+        aria-label: Twitter
+      - icon: github
+        href: https://github.com/konsensusnetwork
+        aria-label: Github
+      - icon: linkedin
+        href: https://www.linkedin.com/konsensusnetwork
+        aria-label: LinkedIn
+      - icon: youtube
+        href: https://www.youtube.com/konsensusnetwork
+        aria-label: YouTube
   open-graph: true
   twitter-card:
     site: "@konsensusn"
+  favicon: /figures/freestarfish.png
   chapters:
-    - opening-quote.qmd
     - index.qmd
-    - chapters/CH00.qmd
+    - hoofdstuk/CH00a.qmd
+    - opening-quote.qmd
+    - hoofdstuk/CH00b.qmd
     - part: "Grondslagen"
       chapters:
-      - chapters/CH01.qmd
-      - chapters/CH02.qmd
-      - chapters/CH03.qmd
-      - chapters/CH04.qmd
-      - chapters/CH05.qmd
-      - chapters/CH06.qmd
-      - chapters/CH07.qmd
+      - hoofdstuk/CH01.qmd
+      - hoofdstuk/CH02.qmd
+      - hoofdstuk/CH03.qmd
+      - hoofdstuk/CH04.qmd
+      - hoofdstuk/CH05.qmd
+      - hoofdstuk/CH06.qmd
+      - hoofdstuk/CH07.qmd
     - part: "Cypherpunks"
       chapters:
-      - chapters/CH08.qmd
-      - chapters/CH09.qmd
-      - chapters/CH10.qmd
-      - chapters/CH11.qmd
-      - chapters/CH12.qmd
-      - chapters/CH13.qmd
+      - hoofdstuk/CH08.qmd
+      - hoofdstuk/CH09.qmd
+      - hoofdstuk/CH10.qmd
+      - hoofdstuk/CH11.qmd
+      - hoofdstuk/CH12.qmd
+      - hoofdstuk/CH13.qmd
     - part: "Bitcoin"
       chapters:
-      - chapters/CH14.qmd
-      - chapters/CH15.qmd
-      - chapters/CH16.qmd
-    - chapters/CHXX.qmd
-    - chapters/CHYY.qmd
+      - hoofdstuk/CH14.qmd
+      - hoofdstuk/CH15.qmd
+      - hoofdstuk/CH16.qmd
+    - hoofdstuk/CHXX.qmd
+    - hoofdstuk/CHYY.qmd
     - references.qmd
 
 format:
   html:
     lang: nl
     theme:
-      light: [lux, theme-light.scss]
-      dark: [lux, theme-dark.scss]
+      light: [lux, theme.scss, theme-light.scss]
+      dark: [lux, theme.scss, theme-dark.scss]
     linestretch: 1.6
     number-depth: 1
   pdf:
@@ -85,6 +110,7 @@ format:
       - preamble.tex
 
   epub:
+    cover-image: cover.png
     toc: true
     toc-depth: 1
     toc-title: Inhoudsopgave

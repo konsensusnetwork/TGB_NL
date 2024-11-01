@@ -1,5 +1,3 @@
-::: {.unlisted .content-visible when-format="pdf"}
-# Openingscitaat {.unnumbered .unlisted}
+# Openingscitaat {.unnumbered}
 
 > Ik geloof niet dat we ooit weer een goede munteenheid zullen hebben voordat we het uit de handen van de overheid nemen. Aangezien we ze niet gewelddadig uit de handen van de overheid kunnen nemen, kunnen we alleen maar op een sluwe, indirecte manier, iets introduceren wat ze niet kunnen stoppen. - Friedrich Hayek (1984)
-:::

@@ -126,29 +126,29 @@ hidelinks]{memoir}
 \setstocksize{210mm}{148mm}
 \settrimmedsize{210mm}{148mm}{*}
 \setbinding{7mm}
-\setlrmarginsandblock{10mm}{15mm}{*}
-\setulmarginsandblock{17.5mm}{18mm}{*}
+\setlrmarginsandblock{12mm}{18mm}{*}
+\setulmarginsandblock{17.5mm}{22mm}{*}
 
 % FONTS
 \usepackage{fontspec}
 \setmainfont{stone-serif}[
     Path=./fonts/stone-serif-itc-pro/,
-    Scale=0.80,
+    Scale=0.83,
     Extension=.OTF,
-    UprightFont=*-Medium,
-    BoldFont=*-Bold,
+    UprightFont=*-Regular,
+    BoldFont=*-SemiBd,
     ItalicFont=*-MediumIt,
-    BoldItalicFont=*-BoldIt
+    BoldItalicFont=*-SemiBdIt
     ]
 
 \setsansfont{stone-sans}[
     Path=./fonts/stone-sans/,
-    Scale=0.80,
-    Extension=.ttf,
-    UprightFont=*-Regular,
-    BoldFont=*-Bold,
-    ItalicFont=*-Italic,
-    BoldItalicFont=*-BoldItalic
+    Scale=0.85,
+    Extension=.otf,
+    UprightFont=*-Medium,
+    BoldFont=*-Semibold,
+    ItalicFont=*-MediumItalic,
+    BoldItalicFont=*-SemiBoldItalic
     ]
 
 \usepackage{lettrine}
@@ -159,19 +159,17 @@ hidelinks]{memoir}
 \setlength{\DefaultFindent}{\fontdimen2\font}
 \setlength{\DefaultNindent}{0em}
 
-%\usepackage[footskip=8mm]{geometry}
-
 % custom second title page
 \makeatletter
 \newcommand*\halftitlepage{\begingroup % Misericords, T&H p 153
   \setlength\drop{0.1\textheight}
-  \begin{center}
+  %\begin{center}
   \vspace*{\drop}
   \rule{\textwidth}{0in}\par
   {\Large\sffamily\thetitle\par}
   \rule{\textwidth}{0in}\par
   \vfill
-  \end{center}
+  %\end{center}
 \endgroup}
 \makeatother
 
@@ -180,20 +178,20 @@ hidelinks]{memoir}
 \newlength\drop
 \newcommand*\titleM{\begingroup % Misericords, T&H p 153
   \setlength\drop{0.15\textheight}
-  \begin{center}
+  %\begin{center}
   \vspace*{\drop}
-  {\huge\sffamily\thetitle\par}
+  {\HUGE\sffamily\thetitle\par}
   \vspace{2em}
-  {\normalsize\sffamily\textit\subtitletranslation\par}
-  \vspace{2em}
+  {\large\sffamily\textit\subtitletranslation\par}
+  \vspace{4em}
   \rule{5.5cm}{0.3mm}\par
-  \vspace{2em}
+  \vspace{4em}
   {\Large\sffamily\textit\theauthor\par}
-  \vspace{3em}
-  {\footnotesize\sffamily\textit\translators\par}
+  \vspace{6em}
+  % {\footnotesize\sffamily\textit\translators\par}
   \vfill
   \includegraphics[width=3.5cm]{figures/knw.png}\par
-  \end{center}
+  %\end{center}
 \endgroup}
 \makeatother
 
@@ -203,7 +201,7 @@ hidelinks]{memoir}
   \setlength\drop{0.1\textheight}
   \vphantom{just for the drop}
   \vfill
-  \begin{scriptsize}
+  \begin{footnotesize}
   \noindent \copyright\space \yearoriginal: \theauthor
   \par\noindent \textit{\titleoriginal: \subtitleoriginal}
   \vspace{0.5\baselineskip}
@@ -221,9 +219,10 @@ hidelinks]{memoir}
   \par\hspace{0.28\parindent}\ISBNSC \:Paperback
   \par\hspace{0.28\parindent}\ISBNEBOOK \:E-book\par
   \setlength{\parindent}{0pt}
-  \end{scriptsize}
+  \end{footnotesize}
   \vspace{3em}
-  \par\noindent \href{https://konsensus.network}{\large\MakeUppercase \press \hspace{3em} \includegraphics[width=1cm]{figures/freestarfish.png}}
+  \par\noindent \href{https://konsensus.network}{\includegraphics[width=1cm]{figures/freestarfish.png}}
+  \par\noindent \href{https://konsensus.network}{\includegraphics[width=3.5cm]{figures/knw.png}}
   \setcounter{footnote}{0}
   \clearpage
 \endgroup}
@@ -255,7 +254,7 @@ hidelinks]{memoir}
 \renewcommand{\cftsectionfont}{\small\sffamily}
 \renewcommand{\cftpartpagefont}{\Large\sffamily}
 \renewcommand{\cftchapterpagefont}{\normalfont}
-\renewcommand{\cftchapterpresnum}{HOOFDSTUK }
+\renewcommand{\cftchapterpresnum}{HOOFDSTUK\space}
 \renewcommand{\cftchapternumwidth}{8em}
 \setlength{\cftchapterindent}{2em}
 \setlength{\cftsectionindent}{8em}
@@ -284,7 +283,7 @@ hidelinks]{memoir}
 \titleformat
     {\chapter}[display]
     {\huge\sffamily}
-    {\Large\sffamily\chaptertitlename  \thechapter}
+    {\Large\sffamily\chaptertitlename \thechapter}
     {0pt}
     {\vspace{28pt}}
 
@@ -296,6 +295,9 @@ hidelinks]{memoir}
   {}
   
 \titlespacing*{\section}{0pt}{2em}{0.5em}
+
+\titleformat{\subsection}{\sffamily\bfseries}{}{}{}
+\titlespacing*{\subsection}{0pt}{2em}{0em}
 
 % QUOTE FORMATTING
 \renewenvironment{quote}%
@@ -424,13 +426,31 @@ inspireerden}
 
 \markboth{Over dit boek}{Over dit boek}
 
-Bitcoin is niet uit het niets ontstaan. Voorafgaand aan de uitvinding
-van Satoshi Nakamoto hebben diverse groepen computerwetenschappers,
-privacyactivisten en niet-traditionele economen, gedurende tientallen
-jaren geprobeerd een digitale vorm van geld te creëren die onafhankelijk
-van overheidscontrole kon opereren. \emph{Het Genesisboek} vertelt het
-verhaal van de mensen en projecten die de uitvinding van 's werelds
-eerste succesvolle peer-to-peer elektronisch betaalsysteem inspireerden.
+Bitcoin is niet zomaar uit het niets ontstaan. Al decennia vóór de
+uitvinding van Satoshi Nakamoto probeerden groepen
+computerwetenschappers, privacyactivisten en alternatieve economen een
+digitale vorm van geld te ontwikkelen die onafhankelijk van de overheid
+kon bestaan. Het Genesisboek vertelt het verhaal van de mensen en
+projecten die de weg vrijmaakten voor 's werelds eerste succesvolle
+peer-to-peer elektronisch betaalsysteem.
+
+\bookmarksetup{startatroot}
+
+\chapter*{VOORVERKOOP}\label{voorverkoop}
+\addcontentsline{toc}{chapter}{VOORVERKOOP}
+
+\markboth{VOORVERKOOP}{VOORVERKOOP}
+
+Koop het boek tijdens de voorverkoop met korting.
+
+\phantomsection\label{product-component-1727304923644}
+
+\bookmarksetup{startatroot}
+
+\chapter*{Reviews}\label{reviews}
+\addcontentsline{toc}{chapter}{Reviews}
+
+\markboth{Reviews}{Reviews}
 
 \begin{quote}
 'Ik had al enige tijd het vermoeden dat Van Wirdum de beste historicus
@@ -453,9 +473,9 @@ eerste schrijvers die in de Bitcoin-industrie aan de slag ging), met de
 aantrekkelijke schrijfstijl die je zoekt in een gerespecteerd
 tijdschrift.
 
-Je kunt Bitcoin niet begrijpen zonder zijn bijzondere oorsprong te leren
-kennen, en ik ben blij dat dit boek bestaat om die kennis voor een breed
-publiek toegankelijk te maken.'
+Je kunt Bitcoin niet begrijpen zonder kennis te maken met zijn
+bijzondere oorsprong, en ik ben blij dat dit boek bestaat om die kennis
+voor een breed publiek toegankelijk te maken.'
 
 \textbf{--- Tuur Demeester}
 \end{quote}
@@ -499,6 +519,7 @@ vandaan komt.'
 \bookmarksetup{startatroot}
 
 \chapter*{Openingscitaat}\label{openingscitaat}
+\addcontentsline{toc}{chapter}{Openingscitaat}
 
 \markboth{Openingscitaat}{Openingscitaat}
 
@@ -13020,18 +13041,18 @@ Free Ross.
 \markboth{Over de auteur}{Over de auteur}
 
 Aaron van Wirdum studeerde Journalistiek aan de Hogeschool Utrecht en
-Politiek en Maatschappij in Historisch Perspectief aan de Hogeschool
-Utrecht, waar hij zich specifiek richtte op de historische impact van
-nieuwe technologieën op maatschappelijke structuren. Hij stuitte op
-Bitcoin in 2013, en sindsdien schrijft hij over `s werelds eerste
-succesvolle elektronische geldproject. Voor het grootste deel van deze
-jaren deed hij dit voor \emph{Bitcoin Magazine}: eerst als journalist,
-daarna als technisch redacteur, en uiteindelijk als hoofdredacteur van
-de gedrukte editie. \emph{Het Genesis Boek} is zijn eerste boek.
+Politiek en Maatschappij in Historisch Perspectief aan de Universiteit
+Utrecht, met speciale aandacht voor de invloed van nieuwe technologieën
+op maatschappelijke structuren door de geschiedenis heen. In 2013 maakte
+hij voor het eerst kennis met Bitcoin en legde zich sindsdien volledig
+toe op het schrijven over 's werelds eerste succesvolle elektronische
+geldsysteem. Jarenlang schreef hij voor Bitcoin Magazine: eerst als
+journalist, later als technisch redacteur en uiteindelijk als
+hoofdredacteur van de gedrukte editie.
 
 \begin{figure}[H]
 
-{\centering \includegraphics[width=3.125in,height=\textheight]{chapters/../figures/aaron-van-wirdum.jpg}
+{\centering \includegraphics[width=3.125in,height=\textheight]{hoofdstuk/../figures/aaron-van-wirdum.jpg}
 
 }
 

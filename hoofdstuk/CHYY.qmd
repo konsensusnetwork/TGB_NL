@@ -1,0 +1,10 @@
+---
+fig-cap: false
+fig-align: left
+---
+
+# Over de auteur {.unnumbered}
+
+Aaron van Wirdum studeerde Journalistiek aan de Hogeschool Utrecht en Politiek en Maatschappij in Historisch Perspectief aan de Universiteit Utrecht, met speciale aandacht voor de invloed van nieuwe technologieën op maatschappelijke structuren door de geschiedenis heen. In 2013 maakte hij voor het eerst kennis met Bitcoin en legde zich sindsdien volledig toe op het schrijven over ‘s werelds eerste succesvolle elektronische geldsysteem. Jarenlang schreef hij voor Bitcoin Magazine: eerst als journalist, later als technisch redacteur en uiteindelijk als hoofdredacteur van de gedrukte editie.
+
+![Aaron van Wirdum](../figures/aaron-van-wirdum.jpg){width=300 fig-alt="Foto van de auteur"}

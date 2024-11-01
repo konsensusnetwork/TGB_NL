@@ -33,14 +33,14 @@
 \setstocksize{210mm}{148mm}
 \settrimmedsize{210mm}{148mm}{*}
 \setbinding{7mm}
-\setlrmarginsandblock{12mm}{18mm}{*}
-\setulmarginsandblock{17.5mm}{22mm}{*}
+\setlrmarginsandblock{11mm}{15mm}{*}
+\setulmarginsandblock{18mm}{15mm}{*}
 
 % FONTS
 \usepackage{fontspec}
 \setmainfont{stone-serif}[
     Path=./fonts/stone-serif-itc-pro/,
-    Scale=0.83,
+    Scale=0.80,
     Extension=.OTF,
     UprightFont=*-Regular,
     BoldFont=*-SemiBd,
@@ -178,6 +178,21 @@
 }
 \makeatother
 
+% Endnotes
+% \usepackage{enotez} % Include the enotez package
+% % Automatically print endnotes at the end of each chapter
+% \let\oldchapter\chapter
+% \renewcommand{\chapter}[1]{%
+%   \oldchapter{#1}%
+%   \newpage
+%   \printendnotes % Print endnotes at the end of each chapter
+%   \clearpage
+% }
+
+% % Redefine \footnote to \endnote
+% \let\oldfootnote\footnote
+% \renewcommand{\footnote}[1]{\endnote{#1}}
+
 % layout check and fix
 \checkandfixthelayout
 
@@ -190,7 +205,7 @@
 \titleformat
     {\chapter}[display]
     {\huge\sffamily}
-    {\Large\sffamily\chaptertitlename \thechapter}
+    {\Large\sffamily\chaptertitlename\space \thechapter}
     {0pt}
     {\vspace{28pt}}
 
@@ -201,7 +216,7 @@
   {0pt}
   {}
   
-\titlespacing*{\section}{0pt}{2em}{0.5em}
+\titlespacing*{\section}{0pt}{3em}{0.5em}
 
 \titleformat{\subsection}{\sffamily\bfseries}{}{}{}
 \titlespacing*{\subsection}{0pt}{2em}{0em}

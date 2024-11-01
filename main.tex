@@ -126,14 +126,14 @@ hidelinks]{memoir}
 \setstocksize{210mm}{148mm}
 \settrimmedsize{210mm}{148mm}{*}
 \setbinding{7mm}
-\setlrmarginsandblock{12mm}{18mm}{*}
-\setulmarginsandblock{17.5mm}{22mm}{*}
+\setlrmarginsandblock{11mm}{15mm}{*}
+\setulmarginsandblock{18mm}{15mm}{*}
 
 % FONTS
 \usepackage{fontspec}
 \setmainfont{stone-serif}[
     Path=./fonts/stone-serif-itc-pro/,
-    Scale=0.83,
+    Scale=0.80,
     Extension=.OTF,
     UprightFont=*-Regular,
     BoldFont=*-SemiBd,
@@ -231,7 +231,7 @@ hidelinks]{memoir}
 % HEADER AND FOOTER MANIPULATION
 % for normal pages
 \nouppercaseheads
-\headsep = 4mm
+\headsep = 6mm
 \makepagestyle{mystyle} 
 \makeevenhead{mystyle}{\scriptsize\sffamily\mdseries\thepage}{}{}
 \makeoddhead{mystyle}{\scriptsize\sffamily\mdseries\leftmark}{}{\scriptsize\sffamily\mdseries\thepage}
@@ -283,7 +283,7 @@ hidelinks]{memoir}
 \titleformat
     {\chapter}[display]
     {\huge\sffamily}
-    {\Large\sffamily\chaptertitlename \thechapter}
+    {\Large\sffamily\chaptertitlename\space \thechapter}
     {0pt}
     {\vspace{28pt}}
 
@@ -294,7 +294,7 @@ hidelinks]{memoir}
   {0pt}
   {}
   
-\titlespacing*{\section}{0pt}{2em}{0.5em}
+\titlespacing*{\section}{0pt}{3em}{0.5em}
 
 \titleformat{\subsection}{\sffamily\bfseries}{}{}{}
 \titlespacing*{\subsection}{0pt}{2em}{0em}
@@ -12973,7 +12973,7 @@ hoofdredacteur van de gedrukte editie.
 
 % Set up for bibliography formatting
 \setlength{\parindent}{0pt} % No indentation
-\setlength{\parskip}{1em}   % Space between entries
+\setlength{\parskip}{0.5em}   % Space between entries
 
 \markboth{Bibliografie}{Bibliografie}
 

@@ -1,4 +1,4 @@
-::: {.buy-button}
+::: {.buy-button .content-visible when-format="html"}
 ## Bestel dit boek {.unnumbered}
 
 <div id='product-component-1727304923644'></div>

@@ -234,6 +234,8 @@ Voor lijstbeheerder Perry Metzger --- een andere vroege Cypherpunk --- was het e
 
 'Ik zou graag voorlopig een einde willen maken aan de bitcoin e-cash-discussie --- er wordt veel gediscussieerd en dat zou beter kunnen als mensen op dit moment op zichzelf schrijven in plaats van dingen heen en weer te herhalen', schreef Metzger. 'Misschien kunnen we hier later op terugkomen wanneer Satoshi (of iemand anders) iets in detail opstelt en het publiceert.'[^286]
 
+{{< include ../buy-button.qmd >}}
+
 [^267]: Satoshi Nakamoto and Wei Dai, *Wei Dai/Satoshi Nakamoto 2009 Bitcoin emails*, *gwern.net*, laatste update op 14 september 2017, [online](https://gwern.net/doc/bitcoin/2008-nakamoto)
 
 [^268]: Nakamoto and Dai, *Wei Dai/Satoshi Nakamoto 2009 Bitcoin emails.*

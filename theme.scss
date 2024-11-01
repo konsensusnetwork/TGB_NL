@@ -88,3 +88,10 @@ blockquote {
 #quarto-content {
     margin-bottom: 2em;
 }
+
+// Buy button: center align component with this id
+.shopify-buy-frame--product {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}

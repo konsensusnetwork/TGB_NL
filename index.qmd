@@ -30,8 +30,4 @@ format:
 
 Bitcoin is niet zomaar uit het niets ontstaan. Al decennia vóór de uitvinding van Satoshi Nakamoto probeerden groepen computerwetenschappers, privacyactivisten en alternatieve economen een digitale vorm van geld te ontwikkelen die onafhankelijk van de overheid kon bestaan. Het Genesisboek vertelt het verhaal van de mensen en projecten die de weg vrijmaakten voor ‘s werelds eerste succesvolle peer-to-peer elektronisch betaalsysteem.
 
-# VOORVERKOOP {.unnumbered .content-visible when-format="html"}
-
-Koop het boek tijdens de voorverkoop met korting.
-
 {{< include buy-button.qmd >}}

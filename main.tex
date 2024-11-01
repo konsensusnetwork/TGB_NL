@@ -231,10 +231,10 @@ hidelinks]{memoir}
 % HEADER AND FOOTER MANIPULATION
 % for normal pages
 \nouppercaseheads
-\headsep = 6mm
+\headsep = 4mm
 \makepagestyle{mystyle} 
 \makeevenhead{mystyle}{\scriptsize\sffamily\mdseries\thepage}{}{}
-\makeoddhead{mystyle}{}{{\scriptsize\sffamily\mdseries\leftmark}}{\scriptsize\sffamily\mdseries\thepage}
+\makeoddhead{mystyle}{\scriptsize\sffamily\mdseries\leftmark}{}{\scriptsize\sffamily\mdseries\thepage}
 \makeevenfoot{mystyle}{}{}{}
 \makeoddfoot{mystyle}{}{}{}
 \makeatletter
@@ -406,7 +406,7 @@ hidelinks]{memoir}
 \subtitle{Het verhaal van de mensen en projecten die Bitcoin
 inspireerden}
 \author{Aaron van Wirdum}
-\date{2024-09-12}
+\date{2024-10-31}
 
 \begin{document}
 \frontmatter
@@ -12971,12 +12971,18 @@ hoofdredacteur van de gedrukte editie.
 \chapter*{Bibliografie}\label{bibliografie}
 \addcontentsline{toc}{chapter}{Bibliografie}
 
+% Set up for bibliography formatting
+\setlength{\parindent}{0pt} % No indentation
+\setlength{\parskip}{1em}   % Space between entries
+
 \markboth{Bibliografie}{Bibliografie}
 
 \section*{Alfabetisch}\label{alfabetisch}
 \addcontentsline{toc}{section}{Alfabetisch}
 
 \markright{Alfabetisch}
+
+{\footnotesize
 
 American Banker. \emph{Digicash Sends Signal by Hiring Visa Veteran.}
 American Banker. May 6,
@@ -14140,6 +14146,7 @@ Cypherpunks mailing list archieven, 1992--2000. Beschikbaar op
 Cryptography mailing list archieven, October 2008--January 2009.
 Beschikbaar op~\url{https://www.metzdowd.com/pipermail/cryptography/}
 
+}
 
 \bookmarksetup{startatroot}
 

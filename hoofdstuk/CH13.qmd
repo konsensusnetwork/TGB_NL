@@ -158,15 +158,15 @@ Maar waarschijnlijk slaagde het elektronische geldsysteem er ook niet in om van 
 
 Net als eCash en hashcash voorheen, leed ook RPOW aan een kip-en-ei-probleem.
 
-## E-goud
+## E-gold
 
 Ondanks de beste bedoelingen van Hal Finney is RPOW halverwege de jaren 2000 geëindigd als nog een mislukte poging om elektronisch geld te creëren.
 
-Het was op dit moment dat sommige techno-libertariërs wat nieuw perspectief vonden in een alternatieve vorm van internetgeld, die met een zeer verschillend ontwerp, succesvoller leek te zijn: e-goud.
+Het was op dit moment dat sommige techno-libertariërs wat nieuw perspectief vonden in een alternatieve vorm van internetgeld, die met een zeer verschillend ontwerp, succesvoller leek te zijn: e-gold.
 
-Het project van Douglas Jackson, een digitale valuta gedekt door goud, groeide rond het midden van de jaren 2000 snel. Het voldeed aan verschillende van de eisen die de Cypherpunks hadden gesteld aan elektronisch geld: transacties konden met enige mate van anonimiteit worden uitgevoerd, het systeem ondersteunde microtransacties tot op één tienduizendste van een gram goud en, natuurlijk, goud zelf vertegenwoordigde onvervalsbare kostbaarheid. Naarmate de technologie van e-goud verbeterde, konden ontwikkelaars zelfs computerprogramma's in het systeem integreren via een Application Programming Interface (API), waardoor oplossingen die op slimme contracten leken mogelijk werden.
+Het project van Douglas Jackson, een digitale valuta gedekt door goud, groeide rond het midden van de jaren 2000 snel. Het voldeed aan verschillende van de eisen die de Cypherpunks hadden gesteld aan elektronisch geld: transacties konden met enige mate van anonimiteit worden uitgevoerd, het systeem ondersteunde microtransacties tot op één tienduizendste van een gram goud en, natuurlijk, goud zelf vertegenwoordigde onvervalsbare kostbaarheid. Naarmate de technologie van e-gold verbeterde, konden ontwikkelaars zelfs computerprogramma's in het systeem integreren via een Application Programming Interface (API), waardoor oplossingen die op slimme contracten leken mogelijk werden.
 
-Er was natuurlijk één vereiste waaraan e-goud niet kon voldoen. De ervaring met DigiCash's Cyberbucks had de cypherpunks geleerd wat er kon gebeuren met een digitale munteenheid als het afhankelijk was van één enkel bedrijf, en de klanten van Douglas Jackson zouden deze les binnenkort ook leren. Met de arrestatie van de CEO en federale agenten die het kantoor van het bedrijf in 2006 binnenvielen, was er weer een internetvalutaproject mislukt. Szabo's stelling klonk nogmaals luid en duidelijk: *vertrouwde derde partijen zijn veiligheidslekken*.
+Er was natuurlijk één vereiste waaraan e-gold niet kon voldoen. De ervaring met DigiCash's Cyberbucks had de cypherpunks geleerd wat er kon gebeuren met een digitale munteenheid als het afhankelijk was van één enkel bedrijf, en de klanten van Douglas Jackson zouden deze les binnenkort ook leren. Met de arrestatie van de CEO en federale agenten die het kantoor van het bedrijf in 2006 binnenvielen, was er weer een internetvalutaproject mislukt. Szabo's stelling klonk nogmaals luid en duidelijk: *vertrouwde derde partijen zijn veiligheidslekken*.
 
 Na meer dan twintig jaar van niet-gerealiseerde voorstellen, verlaten projecten en mislukte start-ups, bestond er nog steeds geen elektronisch geld.
 

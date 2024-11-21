@@ -140,7 +140,7 @@
 % HEADER AND FOOTER MANIPULATION
 % for normal pages
 \nouppercaseheads
-\headsep = 6mm
+\headsep = 8mm
 \makepagestyle{mystyle} 
 \makeevenhead{mystyle}{\scriptsize\sffamily\mdseries\thepage}{}{}
 \makeoddhead{mystyle}{\scriptsize\sffamily\mdseries\leftmark}{}{\scriptsize\sffamily\mdseries\thepage}
@@ -161,13 +161,17 @@
 \renewcommand{\cftpartfont}{\Large\sffamily\MakeUppercase}
 \renewcommand{\cftchapterfont}{\normalfont\sffamily}
 \renewcommand{\cftsectionfont}{\small\sffamily}
-\renewcommand{\cftpartpagefont}{\Large\sffamily}
+%\renewcommand{\cftpartpagefont}{\Large\sffamily}
 \renewcommand{\cftchapterpagefont}{\normalfont}
 \renewcommand{\cftchapterpresnum}{HOOFDSTUK\space}
 \renewcommand{\cftchapternumwidth}{8em}
+
 \setlength{\cftchapterindent}{2em}
 \setlength{\cftsectionindent}{8em}
+\setlength{\cftbeforechapterskip}{0.1em}
+\setlength{\cftbeforepartskip}{1.5em}
 \setsecnumdepth{chapter}
+\cftpagenumbersoff{part}
 \setcounter{tocdepth}{0}
 
 

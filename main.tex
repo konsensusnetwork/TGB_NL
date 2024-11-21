@@ -134,7 +134,7 @@ hidelinks]{memoir}
 \usepackage{fontspec}
 \setmainfont{stone-serif}[
     Path=./fonts/stone-serif-itc-pro/,
-    Scale=0.80,
+    Scale=0.76,
     Extension=.OTF,
     UprightFont=*-Regular,
     BoldFont=*-SemiBd,
@@ -233,7 +233,7 @@ hidelinks]{memoir}
 % HEADER AND FOOTER MANIPULATION
 % for normal pages
 \nouppercaseheads
-\headsep = 6mm
+\headsep = 8mm
 \makepagestyle{mystyle} 
 \makeevenhead{mystyle}{\scriptsize\sffamily\mdseries\thepage}{}{}
 \makeoddhead{mystyle}{\scriptsize\sffamily\mdseries\leftmark}{}{\scriptsize\sffamily\mdseries\thepage}
@@ -262,7 +262,7 @@ hidelinks]{memoir}
 \setlength{\cftchapterindent}{2em}
 \setlength{\cftsectionindent}{8em}
 \setlength{\cftbeforechapterskip}{0.1em}
-\setlength{\cftbeforepartskip}{1em}
+\setlength{\cftbeforepartskip}{1.5em}
 \setsecnumdepth{chapter}
 \cftpagenumbersoff{part}
 \setcounter{tocdepth}{0}
@@ -1871,13 +1871,12 @@ begonnen te breken en werden nooit gefixt; soms werden ze gewoon
 weggegooid. Noodzakelijke veranderingen in software konden niet worden
 doorgevoerd. De niet-hackers reageerden hierop door over te schakelen
 naar commerciële systemen, wat fascisme en licentieovereenkomsten met
-zich meebracht. Ik slenterde door het lab, door de kamers die
-\texttt{s\ nachts\ leeg\ waar\ ze\ vroeger\ vol\ waren\ en\ dacht:}Oh
-mijn arme AI-lab! Je gaat dood en ik kan je niet redden.' Iedereen
-verwachtte dat als er meer hackers werden opgeleid, Symbolics ze zou
-wegkapen, dus het leek niet eens de moeite waard om het te
-proberen\ldots{} de hele cultuur werd uitgewist\ldots{}\footnote{\hspace{0pt}Levy,
-  \emph{Hackers}, 448.}
+zich meebracht. Ik slenterde door het lab, door de kamers die `s nachts
+leeg waar ze vroeger vol waren en dacht: `Oh mijn arme AI-lab! Je gaat
+dood en ik kan je niet redden.' Iedereen verwachtte dat als er meer
+hackers werden opgeleid, Symbolics ze zou wegkapen, dus het leek niet
+eens de moeite waard om het te proberen\ldots{} de hele cultuur werd
+uitgewist\ldots{}\footnote{\hspace{0pt}Levy, \emph{Hackers}, 448.}
 \end{quote}
 
 Stallman had ooit gedroomd van een toekomst geïnspireerd door de vrije
@@ -11594,6 +11593,7 @@ dat volledig van persoon tot persoon functioneert en geen vertrouwde
 derde partij vereist', luidde Nakamotos e-mail, alvorens de
 hoofdeigenschappen samen te vatten:
 
+\begin{quote}
 \begin{itemize}
 \item
   \emph{Dubbele uitgaven worden voorkomen met een peer-to-peer netwerk.}
@@ -11607,8 +11607,8 @@ hoofdeigenschappen samen te vatten:
 \item
   \emph{Het proof-of-work voor het genereren van nieuwe munten geeft het
   netwerk ook de energie om dubbele uitgaven te voorkomen.}
-\item
 \end{itemize}
+\end{quote}
 
 Bijgevoegd was een link naar de actuele versie van het
 witboek.\footnote{Satoshi Nakamoto, \emph{Bitcoin: A Peer-to-Peer
@@ -11764,7 +11764,7 @@ proof-of-work-hashes \emph{zelf} gebruikten als een vorm van geld, had
 Nakamoto, in wat een van zijn belangrijkste inzichten was, er een
 vernuftig nieuw gebruik voor bedacht.
 
-proof-of-work wordt in Bitcoin gebruikt als consensusmechanisme.
+Proof-of-work wordt in Bitcoin gebruikt als consensusmechanisme.
 
 Naast een set van transacties en de hash van het voorgaande blok, zouden
 Bitcoinblokken een derde ingrediënt bevatten: een nonce. Dit
@@ -11983,7 +11983,7 @@ gebaseerd.
 Toch was de reactie op de publieke aankondiging van Bitcoin grotendeels
 zonder erkenning of waardering.
 
-\section{\texorpdfstring{\textbf{Schaalcapaciteit}}{Schaalcapaciteit}}\label{schaalcapaciteit}
+\section{Schaalcapaciteit}\label{schaalcapaciteit}
 
 De eerste reactie op Nakamotos aankondiging kwam ongeveer een dag later,
 van James A. Donald, een Cypherpunk die toevallig bijna klaar was met
@@ -12535,20 +12535,22 @@ daaropvolgende jaren, en zo verder.
 
 Nakamoto kondigde in zijn e-mail aan:
 
+\begin{quote}
 De totale circulatie zal bestaan uit 21.000.000 munten. Ze worden
 verdeeld onder de netwerknodes wanneer ze blokken maken, waarbij de
 hoeveelheid elke 4 jaar gehalveerd wordt.
 
-\emph{In de eerste 4 jaren: 10,500,000 munten}
+In de eerste 4 jaren: 10,500,000 munten
 
-\emph{In de volgende 4 jaren: 5.250.000 munten.}
+In de volgende 4 jaren: 5.250.000 munten.
 
-\emph{In de volgende 4 jaren : 2.625.000 munten.}
+In de volgende 4 jaren : 2.625.000 munten.
 
-\emph{In de volgende 4 jaren : 1.312.500 munten.}
+In de volgende 4 jaren : 1.312.500 munten.
 
-\emph{Wanneer dit tot zijn einde komt, kan het systeem transactiekosten
-invoeren, indien nodig.}
+Wanneer dit tot zijn einde komt, kan het systeem transactiekosten
+invoeren, indien nodig.
+\end{quote}
 
 Eenentwintig miljoen munten.\footnote{Het is echter belangrijk op te
   merken dat elke bitcoin tot acht decimalen kan worden opgedeeld,

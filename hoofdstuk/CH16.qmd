@@ -64,17 +64,17 @@ Het bleek nu dat de code van Bitcoin zo was geprogrammeerd dat het aantal nieuwe
 
 Nakamoto kondigde in zijn e-mail aan:
 
-De totale circulatie zal bestaan uit 21.000.000 munten. Ze worden verdeeld onder de netwerknodes wanneer ze blokken maken, waarbij de hoeveelheid elke 4 jaar gehalveerd wordt.
-
-*In de eerste 4 jaren: 10,500,000 munten*
-
-*In de volgende 4 jaren: 5.250.000 munten.*
-
-*In de volgende 4 jaren : 2.625.000 munten.*
-
-*In de volgende 4 jaren : 1.312.500 munten.*
-
-*Wanneer dit tot zijn einde komt, kan het systeem transactiekosten invoeren, indien nodig.*
+> De totale circulatie zal bestaan uit 21.000.000 munten. Ze worden verdeeld onder de netwerknodes wanneer ze blokken maken, waarbij de hoeveelheid elke 4 jaar gehalveerd wordt.
+>
+> In de eerste 4 jaren: 10,500,000 munten
+>
+> In de volgende 4 jaren: 5.250.000 munten.
+>
+> In de volgende 4 jaren : 2.625.000 munten.
+>
+> In de volgende 4 jaren : 1.312.500 munten.
+>
+> Wanneer dit tot zijn einde komt, kan het systeem transactiekosten invoeren, indien nodig.
 
 Eenentwintig miljoen munten.[^292] Bitcoin was ontworpen met een vaste voorraad.
 

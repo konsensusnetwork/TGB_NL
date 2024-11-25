@@ -54,10 +54,18 @@ book:
       - icon: youtube
         href: https://www.youtube.com/konsensusnetwork
         aria-label: YouTube
-  open-graph: true
+  open-graph:
+    locale: nl_NL
+    site-name: Het Genesisboek - Het verhaal van de mensen en projecten die Bitcoin inspireerden
+    image: cover.png
+    description: Het Genesisboek is een boek over de mensen en projecten die Bitcoin inspireerden. Het vertelt het verhaal van de mensen en projecten die de weg vrijmaakten voor ‘s werelds eerste succesvolle peer-to-peer elektronisch betaalsysteem.
   twitter-card:
     site: "@konsensusn"
-  favicon: /figures/freestarfish.png
+    creator: "@svrnhdl"
+    image: cover.png
+    title: Het Genesisboek - Het verhaal van de mensen en projecten die Bitcoin inspireerden
+    description: Het Genesisboek is een boek over de mensen en projecten die Bitcoin inspireerden. Het vertelt het verhaal van de mensen en projecten die de weg vrijmaakten voor ‘s werelds eerste succesvolle peer-to-peer elektronisch betaalsysteem.
+  favicon: cover.png
   chapters:
     - index.qmd
     - hoofdstuk/CH00a.qmd

@@ -22,17 +22,15 @@ Inderdaad, het elektronische geldproject van Nakamoto had nu een naam: *Bitcoin*
 
 'Ik heb mij toegelegd om een nieuw elektronisch geldsysteem te creëren dat volledig van persoon tot persoon functioneert en geen vertrouwde derde partij vereist', luidde Nakamotos e-mail, alvorens de hoofdeigenschappen samen te vatten:
 
--   *Dubbele uitgaven worden voorkomen met een peer-to-peer netwerk.*
-
--   *Geen mint of andere vertrouwde partijen.*
-
--   *Deelnemers kunnen anoniem zijn.*
-
--   *Nieuwe munten worden gemaakt op basis van proof-of-work in de stijl van Hashcash.*
-
--   *Het proof-of-work voor het genereren van nieuwe munten geeft het netwerk ook de energie om dubbele uitgaven te voorkomen.*
-
--   
+> -   *Dubbele uitgaven worden voorkomen met een peer-to-peer netwerk.*
+> 
+> -   *Geen mint of andere vertrouwde partijen.*
+>
+> -   *Deelnemers kunnen anoniem zijn.*
+>
+> -   *Nieuwe munten worden gemaakt op basis van proof-of-work in de stijl van Hashcash.*
+>
+> -   *Het proof-of-work voor het genereren van nieuwe munten geeft het netwerk ook de energie om dubbele uitgaven te voorkomen.*
 
 Bijgevoegd was een link naar de actuele versie van het witboek.[^270] *Bitcoin: Een Peer-to-Peer Elektronisch Geldsysteem*, luidde nu de titel. In amper negen pagina's (inclusief een bladzijde voor externe referenties), schetste Nakamoto de kernmechanismen van zijn digitale valuta. Het maakte een compacte, maar zeer efficiënte beschrijving van --- zoals de inleiding van het paper omschreef --- 'een elektronisch betalingssysteem gebaseerd op cryptografisch bewijs in plaats van vertrouwen.'
 
@@ -76,7 +74,7 @@ Nakamoto wist dat alle Bitcoingebruikers zich moesten verenigen rond dezelfde bl
 
 Hier komt het proof-of-work-systeem van Adam Back bij kijken, met zijn originele hashcashvoorstel dat de volgende referentie is in het Bitcoin-witboek. proof-of-work vormde op dat moment al de basis voor verschillende digitale muntontwerpen van Cypherpunks, waaronder b-money, Bit Gold en RPOW. Maar waar deze ontwerpen gewoonlijk de proof-of-work-hashes *zelf* gebruikten als een vorm van geld, had Nakamoto, in wat een van zijn belangrijkste inzichten was, er een vernuftig nieuw gebruik voor bedacht.
 
-proof-of-work wordt in Bitcoin gebruikt als consensusmechanisme.
+Proof-of-work wordt in Bitcoin gebruikt als consensusmechanisme.
 
 Naast een set van transacties en de hash van het voorgaande blok, zouden Bitcoinblokken een derde ingrediënt bevatten: een nonce. Dit willekeurige getal zou samen met de rest van de inhoud van een blok gehasht worden om de blok-hash te genereren. De truc van het proof-of-work-systeem was dan ook dat niet elk blok als geldig zou worden beschouwd. Alleen blokken met een blok-hash die begint met een vooraf bepaald aantal nullen zouden worden geaccepteerd door het netwerk van gebruikers.
 
@@ -142,7 +140,7 @@ Daarbovenop was zijn timing ook verbazingwekkend. Net toen centrale banken over 
 
 Toch was de reactie op de publieke aankondiging van Bitcoin grotendeels zonder erkenning of waardering.
 
-## **Schaalcapaciteit**
+## Schaalcapaciteit
 
 De eerste reactie op Nakamotos aankondiging kwam ongeveer een dag later, van James A. Donald, een Cypherpunk die toevallig bijna klaar was met het ontwerpen van zijn eigen digitaal geldsysteem.
 

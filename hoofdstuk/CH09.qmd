@@ -28,7 +28,7 @@ May begreep goed dat elektronisch geld op zichzelf niet meteen de belastingambte
 
 En tot slot was er nog de mogelijkheid van monetaire hervorming.
 
-In het bijzonder zagen sommige van de Cypherpunks, zoals Tim May, die ook deel uitmaakte van de Extropiaanse gemeenschap, in elektronisch geld een instrument voor de verwezenlijking van Friedrich Hayeks vrije bankeneconomie. Ze beseften dat aangezien elektronisch geld in alles wat de markt wil kan worden uitgedrukt, dit concurrentie tussen valuta's veel praktischer kon maken en veel moeilijker te stoppen. Vrije banken konden overal ter wereld gevestigd zijn, terwijl iedereen met een internetverbinding hun valuta, anoniem, zou kunnen gebruiken.
+In het bijzonder zagen sommige van de Cypherpunks, zoals Tim May, die ook deel uitmaakte van de Extropiaanse gemeenschap, in elektronisch geld een instrument voor de verwezenlijking van Friedrich Hayeks vrije bankeneconomie. Ze beseften dat aangezien elektronisch geld in alles wat de markt wil kan worden uitgedrukt, dit concurrentie tussen valuta veel praktischer kon maken en veel moeilijker te stoppen. Vrije banken konden overal ter wereld gevestigd zijn, terwijl iedereen met een internetverbinding hun valuta, anoniem, zou kunnen gebruiken.
 
 'De sterke encryptie die wordt gebruikt, biedt meer flexibiliteit in het omzeilen van normale valutaregels en kan gebruikers in staat stellen om onderling overeen te komen welke valuta ze willen gebruiken', schreef May op de Cypherpunk-mailinglijst.[^162] En: 'een van de potentiële voordelen van sterke encryptie is de vaak besproken `denationalisatie van geld.''[^163]
 
@@ -122,7 +122,7 @@ Bovendien presenteerde iemand die zichzelf Black Unicorn noemt, zelfs het 'volle
 
 'DigiFrancs worden gedekt door 10 kratten Light Cola, die zich bevinden in de `kluis' reserves van UniBank in Washington, DC. DigiFrancs kunnen worden ingeruild voor hun equivalent in ongekoelde, 16 oz Light Cola blikjes op aanvraag, in Washington, DC. Deze regeling impliceert geen overeenkomst tussen enige van de partijen en de Coca-Cola maatschappij.'[^173]
 
-Hoewel dit uiteraard bedoeld was als grap, zelfs de door Light Cola gedekte DigiFrancs waren niet daadwerkelijk bedoeld om als geld te worden gebruikt, kregen de verschillende soorten elektronisch geld toch enige bekendheid als ruilmiddel. Sommige Cypherpunks accepteerden deze speelvaluta's in ruil voor digitale snuisterijen zoals GIFs.
+Hoewel dit uiteraard bedoeld was als grap, zelfs de door Light Cola gedekte DigiFrancs waren niet daadwerkelijk bedoeld om als geld te worden gebruikt, kregen de verschillende soorten elektronisch geld toch enige bekendheid als ruilmiddel. Sommige Cypherpunks accepteerden deze speelvaluta in ruil voor digitale snuisterijen zoals GIFs.
 
 Het waren niet bepaald grote waardeoverdrachten, maar het riep wel een interessante vraag op.
 

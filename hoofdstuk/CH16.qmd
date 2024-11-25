@@ -4,7 +4,7 @@
 
 In een van zijn laatst opgenomen interviews in 1984 aan de Universiteit van Freiburg bleef de op leeftijd geraakte Friedrich Hayek pleiten voor radicale monetaire hervormingen. De econoom was er nog steeds van overtuigd dat fiatvaluta en het rentebeleid van centrale banken de economie vergiftigden, en dat geld uiteindelijk het beste kon worden overgelaten aan de vrije markt.
 
-Echter, in de acht jaar sinds de publicatie van *Denationalisation of Money*, was de Oostenrijker nog minder hoopvol geworden dat bestaande regeringen bereid zouden zijn om wetten aan te passen om concurrentie tussen valuta's mogelijk te maken. Hij vermoedde dat ze te veel voordeel haalden uit de status quo.
+Echter, in de acht jaar sinds de publicatie van *Denationalisation of Money*, was de Oostenrijker nog minder hoopvol geworden dat bestaande regeringen bereid zouden zijn om wetten aan te passen om concurrentie tussen valuta mogelijk te maken. Hij vermoedde dat ze te veel voordeel haalden uit de status quo.
 
 'Ik geloof nog steeds dat mijn oorspronkelijke plan juist is, maar ik vrees dat ik tot de conclusie ben gekomen dat het politiek gezien volledig utopisch is', legde Hayek nuchter uit. 'Overheden zullen het nooit toestaan, en zelfs bankiers begrijpen het idee niet, omdat ze allemaal zijn opgegroeid in een systeem waarin ze zo volledig afhankelijk zijn van centrale banken, overheidsinstellingen, als kredietverstrekkers in uiterste nood.'[^288]
 
@@ -64,17 +64,17 @@ Het bleek nu dat de code van Bitcoin zo was geprogrammeerd dat het aantal nieuwe
 
 Nakamoto kondigde in zijn e-mail aan:
 
-De totale circulatie zal bestaan uit 21.000.000 munten. Ze worden verdeeld onder de netwerknodes wanneer ze blokken maken, waarbij de hoeveelheid elke 4 jaar gehalveerd wordt.
-
-*In de eerste 4 jaren: 10,500,000 munten*
-
-*In de volgende 4 jaren: 5.250.000 munten.*
-
-*In de volgende 4 jaren : 2.625.000 munten.*
-
-*In de volgende 4 jaren : 1.312.500 munten.*
-
-*Wanneer dit tot zijn einde komt, kan het systeem transactiekosten invoeren, indien nodig.*
+> De totale circulatie zal bestaan uit 21.000.000 munten. Ze worden verdeeld onder de netwerknodes wanneer ze blokken maken, waarbij de hoeveelheid elke 4 jaar gehalveerd wordt.
+>
+> In de eerste 4 jaren: 10,500,000 munten
+>
+> In de volgende 4 jaren: 5.250.000 munten.
+>
+> In de volgende 4 jaren : 2.625.000 munten.
+>
+> In de volgende 4 jaren : 1.312.500 munten.
+>
+> Wanneer dit tot zijn einde komt, kan het systeem transactiekosten invoeren, indien nodig.
 
 Eenentwintig miljoen munten.[^292] Bitcoin was ontworpen met een vaste voorraad.
 
@@ -106,7 +106,7 @@ In een vervolgmail suggereerde Nakamoto: '[...] zoals beloningspunten, donatieto
 
 Dit zou de vraag *nog* meer moeten stimuleren. Hierdoor zou bitcoin in feite het klassieke kip-en-ei-probleem, waar eerdere digitale geldprojecten onder te lijden hadden, kunnen overwinnen. Bitcoin zou zelfs een *positieve* feedbacklus kunnen vertonen!
 
-In zekere zin had Finney het regressietheorema van Ludwig von Mises ondersteboven gekeerd: in plaats van de waarde van een valuta te herleiden uit de koopkracht in het *verleden*, stelde de cypherpunk voor dat een valuta's waarde in eerste instantie kan worden afgeleid uit de verwachte koopkracht in de *toekomst*.
+In zekere zin had Finney het regressietheorema van Ludwig von Mises ondersteboven gekeerd: in plaats van de waarde van een valuta te herleiden uit de koopkracht in het *verleden*, stelde de cypherpunk voor dat een valuta waarde in eerste instantie kan worden afgeleid uit de verwachte koopkracht in de *toekomst*.
 
 'Het zou logisch kunnen zijn om er gewoon wat te bemachtigen in het geval dat het aanslaat', stemde Satoshi Nakamoto toe. 'Als genoeg mensen op dezelfde manier denken, wordt dat een *self-fulfilling prophecy*.'[^295]
 
@@ -180,7 +180,7 @@ Toch heeft dit niet tot chaos geleid. De meeste gebruikers willen geen veranderi
 
 In de meer dan tien jaar sinds Satoshi Nakamoto vertrok, hebben ontwikkelaars en gebruikers zich op eigen kracht georganiseerd om gezamenlijk tot een zeer betrouwbaar Bitcoinprotocol te komen: nieuwe blokken worden ongeveer elke tien minuten gevonden, splitsingen in de blokketen zijn zeldzaam en kortstondig, en dubbele uitgaven zijn onbestaande. Ondertussen zijn het aantal gebruiksmogelijkheden, het totale transactievolume en de marktwaarde van Bitcoin spectaculair toegenomen.
 
-In een wereld met van bovenaf, centraal beheerde fiatvaluta's en al hun problemen, vertegenwoordigt Bitcoin een krachtig voorbeeld van spontane orde.
+In een wereld met van bovenaf, centraal beheerde fiatvaluta en al hun problemen, vertegenwoordigt Bitcoin een krachtig voorbeeld van spontane orde.
 
 [^287]: Friedrich A. Hayek, *F. A. Hayek on Monetary Policy, the Gold Standard, Deficits, Inflation, and John Maynard Keynes*, interview door James U. Blanchard III, opnieuw gepubliceerd door *Libertarianism.org* op 19 april 2015, [online](https://www.youtube.com/watch?v=EYhEDxFwFRU)
 

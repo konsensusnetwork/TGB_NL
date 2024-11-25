@@ -105,16 +105,17 @@ hidelinks]{memoir}
 % DEFINITIONS TITLE PAGE / COPYRIGHT
 \newcommand{\titleoriginal}{The Genesis Book}
 \newcommand{\subtitleoriginal}{The Story of the People and Projects That Inspired Bitcoin}
-\newcommand{\yearoriginal}{2023}
+\newcommand{\originalpublisher}{Bitcoin Magazine Books}
+\newcommand{\yearoriginal}{2024}
 \newcommand{\subtitletranslation}{Het verhaal van de mensen en projecten die Bitcoin inspireerden}
 \newcommand{\yeartranslation}{2024}
 \newcommand{\stringtranslation}{Vertaling}
-\newcommand{\stringlicense}{Alle rechten voorbehouden.}
+\newcommand{\stringlicense}{Dit werk is gelicentieerd onder de CC BY-NC-ND 4.0-licentie. Om een kopie van deze licentie te bekijken, ga naar \url{https://creativecommons.org/licenses/by-nc-nd/4.0/}. }
 \newcommand{\stringpublisher}{Uitgever}
-\newcommand{\ISBNHC}{978-}
-\newcommand{\ISBNSC}{978-}
-\newcommand{\ISBNEBOOK}{978-}
-\newcommand{\ISBNAUDIO}{978-}
+\newcommand{\ISBNHC}{978-9916-749-40-1}
+\newcommand{\ISBNSC}{978-9916-749-41-8}
+\newcommand{\ISBNEBOOK}{978-9916-749-43-2}
+\newcommand{\ISBNAUDIO}{978-9916-749-45-6}
 \newcommand{\press}{Konsensus Network}
 \newcommand{\translatorone}{Theo Hague}
 \newcommand{\translators}{
@@ -125,15 +126,15 @@ hidelinks]{memoir}
 % PHYSICAL DOCUMENT SETUP
 \setstocksize{210mm}{148mm}
 \settrimmedsize{210mm}{148mm}{*}
-\setbinding{7mm}
-\setlrmarginsandblock{11mm}{15mm}{*}
-\setulmarginsandblock{18mm}{15mm}{*}
+\setbinding{8mm}
+\setlrmarginsandblock{12mm}{18mm}{*}
+\setulmarginsandblock{20mm}{15mm}{*}
 
 % FONTS
 \usepackage{fontspec}
 \setmainfont{stone-serif}[
     Path=./fonts/stone-serif-itc-pro/,
-    Scale=0.80,
+    Scale=0.76,
     Extension=.OTF,
     UprightFont=*-Regular,
     BoldFont=*-SemiBd,
@@ -204,14 +205,15 @@ hidelinks]{memoir}
   \begin{footnotesize}
   \noindent \copyright\space \yearoriginal: \theauthor
   \par\noindent \textit{\titleoriginal: \subtitleoriginal}
-  \vspace{0.5\baselineskip}
+  \par\noindent Uitgegeven door \space \originalpublisher
+  \vspace{\baselineskip}
   \par\noindent \copyright\space \yeartranslation\space \stringtranslation: \translatorone
   \par\noindent \textit{\thetitle: \subtitletranslation}
-  \vspace{\baselineskip}
+  \vspace{0.5\baselineskip}
   \par\noindent \textit{\stringlicense}
   \vspace{0.5\baselineskip}
   \par\noindent \stringpublisher: \href{https://konsensus.network}{\textit{konsensus.network}}
-  \vspace{0.5\baselineskip}
+  \vspace{\baselineskip}
   \par\noindent v1.0.0
   \vspace{0.5\baselineskip}
   \setlength{\parindent}{2em}% default 20pt
@@ -231,7 +233,7 @@ hidelinks]{memoir}
 % HEADER AND FOOTER MANIPULATION
 % for normal pages
 \nouppercaseheads
-\headsep = 4mm
+\headsep = 8mm
 \makepagestyle{mystyle} 
 \makeevenhead{mystyle}{\scriptsize\sffamily\mdseries\thepage}{}{}
 \makeoddhead{mystyle}{\scriptsize\sffamily\mdseries\leftmark}{}{\scriptsize\sffamily\mdseries\thepage}
@@ -252,13 +254,16 @@ hidelinks]{memoir}
 \renewcommand{\cftpartfont}{\Large\sffamily\MakeUppercase}
 \renewcommand{\cftchapterfont}{\normalfont\sffamily}
 \renewcommand{\cftsectionfont}{\small\sffamily}
-\renewcommand{\cftpartpagefont}{\Large\sffamily}
 \renewcommand{\cftchapterpagefont}{\normalfont}
 \renewcommand{\cftchapterpresnum}{HOOFDSTUK\space}
-\renewcommand{\cftchapternumwidth}{8em}
+\renewcommand{\cftchapternumwidth}{9em}
+
 \setlength{\cftchapterindent}{2em}
-\setlength{\cftsectionindent}{8em}
+\setlength{\cftbeforechapterskip}{0.1em}
+\setlength{\cftbeforepartskip}{1.5em}
+
 \setsecnumdepth{chapter}
+\cftpagenumbersoff{part}
 \setcounter{tocdepth}{0}
 
 
@@ -427,98 +432,15 @@ inspireerden}
 \frontmatter
 \maketitle
 
+
 \renewcommand*\contentsname{Inhoudsopgave}
 {
+\pagestyle{empty}
 \setcounter{tocdepth}{0}
-\tableofcontents
+\tableofcontents*
 }
+\pagestyle{mystyle}
 
-\mainmatter
-\bookmarksetup{startatroot}
-
-\chapter*{Over dit boek}\label{over-dit-boek}
-\addcontentsline{toc}{chapter}{Over dit boek}
-
-\markboth{Over dit boek}{Over dit boek}
-
-Bitcoin is niet zomaar uit het niets ontstaan. Al decennia vóór de
-uitvinding van Satoshi Nakamoto probeerden groepen
-computerwetenschappers, privacyactivisten en alternatieve economen een
-digitale vorm van geld te ontwikkelen die onafhankelijk van de overheid
-kon bestaan. Het Genesisboek vertelt het verhaal van de mensen en
-projecten die de weg vrijmaakten voor 's werelds eerste succesvolle
-peer-to-peer elektronisch betaalsysteem.
-
-\bookmarksetup{startatroot}
-
-\chapter*{Reviews}\label{reviews}
-\addcontentsline{toc}{chapter}{Reviews}
-
-\markboth{Reviews}{Reviews}
-
-\begin{quote}
-'Ik had al enige tijd het vermoeden dat Van Wirdum de beste historicus
-van Bitcoin is, en dit boek bevestigt dat.
-
-Het is een indrukwekkend werk. Het Genesisboek biedt een toegankelijk en
-essentieel overzicht van de geschiedenis, en onthult de vele verbanden
-tussen het Weense klassiek-liberalisme, de Anglo-Saksische
-Cypherpunkbeweging en de opkomst van Bitcoin.
-
-Waar andere boeken in de branche vaak de nadruk leggen op veelgeprezen
-ondernemers, heeft Van Wirdum de technische kennis om belangrijke
-figuren te belichten die de fundamenten legden waarop het Bitcoin-gebouw
-later is opgericht.
-
-In zestien informatieve hoofdstukken biedt Het Genesisboek een
-combinatie van diepgaand onderzoek en filosofische inzichten die je
-alleen verwacht van een veteraan in de sector (Van Wirdum was een van de
-eerste schrijvers die in de Bitcoin-industrie aan de slag ging), met de
-aantrekkelijke schrijfstijl die je zoekt in een gerespecteerd
-tijdschrift.
-
-Je kunt Bitcoin niet begrijpen zonder kennis te maken met zijn
-bijzondere oorsprong, en ik ben blij dat dit boek bestaat om die kennis
-voor een breed publiek toegankelijk te maken.'
-
-\textbf{--- Tuur Demeester}
-\end{quote}
-
-\begin{quote}
-`Het Genesisboek neemt je mee op een eeuwenlange reis door minder
-bekende verhalen van visionairs, wiens inzichten en innovaties de basis
-vormden voor de revolutionaire creatie van Bitcoin. Van economen die de
-gevestigde orde uitdaagden tot Cypherpunks die nieuwe wegen op het
-gebied van privacy verkenden, weeft Aaron van Wirdum zorgvuldig een
-verhaal over technologische overwinningen, tegenslagen en bijzondere
-doorbraken. De anekdotes over mensen die buiten de gebaande paden
-durfden te dromen en grenzen verlegden om de financiële wereld te
-veranderen, zullen je zeker fascineren.'
-
-\textbf{--- Jameson Lopp}
-\end{quote}
-
-\begin{quote}
-`Waarom verschilt Bitcoin zo van eerdere versies? Dit boek werpt licht
-op de \emph{problemen} die slimme en hardwerkende mensen in de tijd vóór
-Bitcoin bezig hielden. Dit is de juiste manier om het verhaal van een
-technologie te vertellen. Alle belangrijke kwesties worden behandeld en
-zijn in een logische volgorde gepresenteerd. Dit is het beste boek dat
-ooit over Bitcoin geschreven is.'
-
-\textbf{--- Paul Sztorc}
-\end{quote}
-
-\begin{quote}
-`Tot nu toe waren er veel boeken over Bitcoin, maar geen enkel boek
-pakte de veelzijdige culturele achtergrond zo compleet, gestructureerd
-en elegant aan. Aaron van Wirdum, bekend om zijn talent om technische
-materie helder naar een breder publiek over te brengen, heeft dat nu
-gedaan. Dit is een \emph{must-read} als je wilt begrijpen waar Bitcoin
-vandaan komt.'
-
-\textbf{--- Giacomo Zucco}
-\end{quote}
 
 \bookmarksetup{startatroot}
 
@@ -542,37 +464,36 @@ kunnen stoppen. - Friedrich Hayek (1984)
 
 \markboth{Inleiding}{Inleiding}
 
-E-goud was in volle bloei. Tegen het jaar 2005 had het innovatieve
+E-gold was in volle bloei. Tegen het jaar 2005 had het innovatieve
 online betalingssysteem van Douglas Jackson meer dan een miljoen
 accounts, die samen verantwoordelijk waren voor bijna \$ 2 miljard aan
 transacties per jaar. De volledig gedekte digitale tokens die
-e-goudklanten gebruikten om al deze transacties uit te voeren,
+e-goldklanten gebruikten om al deze transacties uit te voeren,
 vertegenwoordigden 3,8 ton goud, opgeborgen in kluizen over de hele
 wereld. Als een van de eerste werkende implementaties van elektronisch
-geld, was e-goud in minder dan tien jaar tijd uitgegroeid tot de
+geld, was e-gold in minder dan tien jaar tijd uitgegroeid tot de
 populairste digitale valuta op het internet.
 
-Maar Jackson stond een onaangename verrassing te wachten.
-
-In december 2005, net voor het einde van het jaar, voerde de Amerikaanse
-geheime dienst een inval uit bij het bedrijf van Jackson en zijn woning
-in Melbourne, Florida. Ze namen boeken en administratieve gegevens mee,
-en federale agenten namen alles wat zelfs maar enigszins interessant
-leek in beslag: naast juridische documenten en zakelijke contracten,
-omvatte dit ook het adresboek van zijn vrouw, de paspoorten van hun
-kinderen en de creditcards van op het nachtkastje. Op datzelfde moment
-werden de servers van e-goud, in een AT\&T-gebouw in Orlando, zo'n 110
-kilometer verder naar het noordwesten, offline gehaald, en werden alle
+Maar Jackson stond een onaangename verrassing te wachten. In december
+2005, net voor het einde van het jaar, voerde de Amerikaanse geheime
+dienst een inval uit bij zijn bedrijf en zijn woning in Melbourne,
+Florida. Ze namen boeken en administratieve gegevens mee, en federale
+agenten namen alles wat zelfs maar enigszins interessant leek in beslag:
+naast juridische documenten en zakelijke contracten, omvatte dit ook het
+adresboek van zijn vrouw, de paspoorten van hun kinderen en de
+creditcards van op het nachtkastje. Op datzelfde moment werden de
+servers van e-gold, in een AT\&T-gebouw in Orlando, zo'n 110 kilometer
+verder naar het noordwesten, offline gehaald, en werden alle
 transactiegegevens in beslag genomen.
 
 De Amerikaanse geheime dienst, bijgestaan door de IRS en de FBI, was van
 mening dat de betalingsverwerker een broedplaats was geworden voor
-criminelen, die met slechts een e-mailadres hun e-goudaccounts konden
+criminelen, die met slechts een e-mailadres hun e-goldaccounts konden
 aanmaken --- dus vrijwel anoniem. In een tijdperk waarin
 creditcardfraude op het internet hoogtij vierde, zou het betaalsysteem
 van Jackson als een magneet voor oplichters functioneren. Erger nog,
 wetshandhavers vermoedden dat kinderpornografen en terroristen van de
-relatieve anonimiteit van e-goud misbruik maakten.
+relatieve anonimiteit van e-gold misbruik maakten.
 
 Jackson werd aangeklaagd en beschuldigd van het witwassen van geld en
 het runnen van een niet-gelicentieerde betaaldienst.\footnote{\hspace{0pt}Lawrence
@@ -585,33 +506,33 @@ het runnen van een niet-gelicentieerde betaaldienst.\footnote{\hspace{0pt}Lawren
 
 \markright{Digitaal goud}
 
-Jackson had nooit beoogd dat e-goud voor illegale doeleinden misbruikt
+Jackson had nooit beoogd dat e-gold voor illegale doeleinden misbruikt
 zou worden. Hij geloofde ook niet dat dit op een serieuze schaal
-gebeurde. Sterker nog, hij beweerde dat e-goud een beter
+gebeurde. Sterker nog, hij beweerde dat e-gold een beter
 fraudedetectiesysteem had dan elke andere bestaande betalingsverwerker.
 Daarnaast was hij altijd meer dan bereid om met politie samen te werken.
-E-goud was ook een van de oprichtende leden van het \emph{National
+E-gold was ook een van de oprichtende leden van het \emph{National
 Center for Missing \& Exploited Children's Financial Coalition Against
 Child Pornography}. De gegevens die deze coalitie verzamelde, zo stelde
-Jackson, gaven aan dat e-goud vrijwel niet voor dergelijke doeleinden
+Jackson, gaven aan dat e-gold vrijwel niet voor dergelijke doeleinden
 werd gebruikt.
 
 Jackson, als succesvol en onafhankelijk oncoloog en veteraan van het
 medisch korps van het Amerikaanse leger, was in de jaren negentig al
 geïnteresseerd geraakt in het monetaire beleid en de invloed daarvan op
-de economie. Hij ontdekte dat moderne valuta's -- dollars, ponden, yen
--- niet langer gedekt waren, waardoor ze in feite, uit het niets, met
-een druk op de knop gecreëerd konden worden. Toen hij zich verder in het
+de economie. Hij ontdekte dat moderne valuta -- dollars, ponden, yen --
+niet langer gedekt waren, waardoor ze in feite, uit het niets, met een
+druk op de knop gecreëerd konden worden. Toen hij zich verder in het
 onderwerp verdiepte, raakte hij ervan overtuigd dat dit de economie op
 zeer schadelijke manieren beïnvloedde.
 
 Jackson was dus van plan om een alternatief aan te bieden.
 
-Tijdens zijn onderzoek naar valuta's, ontwikkelde Jackson een hernieuwde
+Tijdens zijn onderzoek naar valuta, ontwikkelde Jackson een hernieuwde
 waardering voor het \emph{klassieke geld} -- goud. Hij ontdekte dat
-mensen ten minste sinds de predynastieke Egyptische tijd waarde hechtten
-aan dit glanzende, gele metaal, en dat met goede reden: het natuurlijke
-element werd niet beïnvloed door de willekeur van mensen.
+mensen ten minste sinds de pre-dynastieke Egyptische tijd waarde
+hechtten aan dit glanzende, gele metaal, en dat met goede reden: het
+natuurlijke element werd niet beïnvloed door de willekeur van mensen.
 
 Het pre-dynastieke Egypte was echter allang verdwenen en zelfs Jackson
 moest toegeven dat het kostbare metaal voor dagelijkse transacties niet
@@ -620,14 +541,12 @@ dat mensen niet gingen terugkeren naar de tijd waarin ze betaalden met
 gouden munten. Sterker nog, zelfs koperen munten en papiergeld zouden
 waarschijnlijk binnenkort ouderwets lijken.
 
-Nee, de toekomst van geld moest digitaal zijn.
-
-Met dat toekomstbeeld zag Jackson (heel letterlijk) een gouden kans. Hij
-bundelde de krachten met advocaat Barry Downey en richtte in 1996, ,
-onder zijn leiderschap, \emph{Gold \& Silver Reserve Inc.} op. De
-start-up zou een betalingssysteem voor de eenentwintigste eeuw runnen,
-maar dan wel gebaseerd op dat klassieke geld. Ze zouden een elektronisch
-equivalent voor goud leveren: \emph{e-gold}.
+Nee, de toekomst van geld moest digitaal zijn. Met dat toekomstbeeld zag Jackson (heel letterlijk) een gouden kans. Hij
+bundelde de krachten met advocaat Barry Downey en richtte in 1996, onder
+zijn leiderschap, \emph{Gold \& Silver Reserve Inc.} op. De start-up zou
+een betalingssysteem voor de eenentwintigste eeuw runnen, maar dan wel
+gebaseerd op dat klassieke geld. Ze zouden een elektronisch equivalent
+voor goud leveren: \emph{e-gold}.
 
 Het basisidee was simpel. \emph{Gold \& Silver Reserve Inc.} huurde
 kluizen die ze vulden met het fysieke, gouden metaal zelf. Voor elk stuk
@@ -641,21 +560,21 @@ ook een server in stand hield die een openbaar toegankelijk
 boekhoudsysteem voor de tokens huisvestte. Mensen van over de hele
 wereld konden op de server inloggen en een persoonlijke rekening
 aanmaken, waardoor ze tokens naar en van elke andere rekening konden
-sturen en ontvangen. Bij elke transactie heeft \emph{Gold \& Silver
-Reserve Inc.} de rekeningsaldi dienovereenkomstig bijgewerkt.
+sturen en ontvangen. Bij elke transactie werkte \emph{Gold \& Silver
+Reserve Inc.} de rekeningsaldi dienovereenkomstig bij.
 
-Dankzij de kracht van het internet, konden e-goud gebruikers elkaar dus
+Dankzij de kracht van het internet, konden e-gold gebruikers elkaar dus
 in wezen over grote afstanden, direct, en tegen minimale kosten,
 betalen. Op de grenzeloze \emph{informatiesnelweg} kon iedereen met een
 internetverbinding iemand anders betalen, zonder beperkingen door
 nationale grenzen of bankregels.
 
-Jackson creëerde e-goud, zo zei hij vaak, als een instelling om het
+Jackson creëerde e-gold, zo zei hij vaak, als een instelling om het
 materiële welzijn van de mensheid te bevorderen door toegang te bieden
 tot wereldwijde markten:
 
 \begin{quote}
-`In tegenstelling tot andere, is e-goud een betalingssysteem dat mensen
+`In tegenstelling tot andere, is e-gold een betalingssysteem dat mensen
 van elke regio of economische achtergrond wereldwijd laat opereren: een
 migrant kan gemakkelijk waarde naar huis sturen en een handelaar kan
 betalingen accepteren van iemand in een derdewereldland die misschien
@@ -668,11 +587,11 @@ geen toegang heeft tot een creditcard of bankrekening.'\footnote{Huis
   2006,~\href{https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm}{online}}
 \end{quote}
 
-Bovendien beweerde Jackson dat e-goud de mogelijkheid bood om een soort
+Bovendien beweerde Jackson dat e-gold de mogelijkheid bood om een soort
 geld te gebruiken dat bestand is tegen inflatie. Omdat het digitaal was,
-was e-goud eigenlijk voor veel mensen toegankelijker dan echt goud.
+was e-gold eigenlijk voor veel mensen toegankelijker dan echt goud.
 
-Op de lange termijn had e-goud zelfs het potentieel om de ruggengraat
+Op de lange termijn had e-gold zelfs het potentieel om de ruggengraat
 van een geheel nieuw financieel systeem te worden, suggereerde Jackson
 optimistisch.
 
@@ -685,9 +604,9 @@ van onze tijd', citeerde hij op een gegeven moment uit het boek
 van econome Vera Smith.
 
 \begin{quote}
-`Een systeem en munteenheid zoals e-goud, vooral na opkomst en
+`Een systeem en munteenheid zoals e-gold, vooral na opkomst en
 integratie in de financiële mainstream als reserve-activum dat als
-betaalmiddel wordt gebruikt, kunnen dit probleem zeker en vast
+betaalmiddel wordt gebruikt, kan dit probleem zeker en vast
 oplossen.'\footnote{\hspace{0pt}White, \emph{Troubling Suppression},
   289.}
 \end{quote}
@@ -697,7 +616,7 @@ oplossen.'\footnote{\hspace{0pt}White, \emph{Troubling Suppression},
 
 \markright{Juridische kwesties}
 
-Vroeg in de jaren 2000 groeide e-goud snel, en Jackson werkte onvermoeid
+Vroeg in de jaren 2000 groeide e-gold snel, en Jackson werkte onvermoeid
 om zijn dienst te verbeteren. Hij stelde meer soorten edelmetalen
 beschikbaar, en voegde tevens nieuwe betalingsfuncties toe, zoals
 geautomatiseerde, maandelijkse betalingen. Bovendien maakte hij toegang
@@ -716,19 +635,19 @@ Het was niet zo dat hij nonchalant was. Het werd pas een federale
 misdaad om zonder licentie als betaaldienst te opereren (voor elke staat
 die er een vereist) na de invoering van de \emph{Patriot Act}, die in
 het leven werd geroepen als reactie op de terroristische aanslagen van
-11 september 2001, enkele jaren na de lancering van e-goud. Nog
+11 september 2001, enkele jaren na de lancering van e-gold. Nog
 belangrijker: het was niet duidelijk dat Jacksons onderneming überhaupt
-als een betaaldienst beschouwd zou worden. Het e-goudsysteem verstuurde
+als een betaaldienst beschouwd zou worden. Het e-goldsysteem verstuurde
 geen dollars of andere nationale valuta, waarvoor zulke regels doorgaans
 van toepassing waren.
 
 Desondanks had Jackson geprobeerd meer duidelijkheid te krijgen over de
 kwestie. \emph{Gold \& Silver Reserve Inc.} had aan de relevante
-overheidsinstanties zelf voorgesteld dat e-goud voor
+overheidsinstanties zelf voorgesteld dat e-gold voor
 reguleringsdoeleinden gecategoriseerd kon worden als valuta, waardoor
 het bedrijf zich ook als een valutawisseldienst kon registreren. Maar
 als reactie hierop had het Amerikaanse ministerie van Financiën opnieuw
-bevestigd dat de definities van valuta niet op e-goud van toepassingen
+bevestigd dat de definities van valuta niet op e-gold van toepassingen
 waren.
 
 Bovendien had Jackson vrijwillig een conformiteitsonderzoek op de
@@ -742,7 +661,7 @@ gereguleerd moest worden.\footnote{\hspace{0pt}e-gold, \emph{e-gold
 Toen de invallen plaatsvonden, wachtte hij nog op een antwoord.
 
 De daaropvolgende juridische procedures brachten ernstige schade toe aan
-de e-goudonderneming. Bankrekeningen werden bevroren en bedrijfsgelden
+de e-goldonderneming. Bankrekeningen werden bevroren en bedrijfsgelden
 in beslag genomen. De juridische strijd die zich tussen Jackson en de
 Amerikaanse regering ontvouwde, duurde twee jaar en putte zijn middelen
 uit: de juridische kosten zouden uiteindelijk oplopen tot in de
@@ -750,17 +669,17 @@ miljoenen. En voor zover het bedrijf van Jackson nog kon functioneren,
 moest dat nu onder een zweem van verdenking gebeuren.
 
 Intussen had de Amerikaanse overheid beslagleggingsbevelen uitgevaardigd
-om achtenvijftig grote e-goudaccounts op verdenking van witwassen te
-sluiten. De doelwitten van de actie waren onafhankelijke e-goudbeurzen,
+om achtenvijftig grote e-goldaccounts op verdenking van witwassen te
+sluiten. De doelwitten van de actie waren onafhankelijke e-goldbeurzen,
 waarvan sommige in het buitenland gevestigd waren. Door gebruik te maken
 van de \emph{Racketeering Act} uit 1961 (een instrument voor handhaving
 van de wet, oorspronkelijk opgesteld om georganiseerde misdaad te
 bestrijden) werd 1.000 kilogram goud die deze accounts ondersteunde
-(ongeveer een kwart van de totale voorraad van e-goud) in beslag genomen
+(ongeveer een kwart van de totale voorraad van e-gold) in beslag genomen
 en geliquideerd.
 
 Toen er in 2008 eindelijk een voorlopig vonnis kwam, bepaalde de rechter
-dat e-goud inderdaad een betaaldienst was, en verwierp daarmee Jacksons
+dat e-gold inderdaad een betaaldienst was, en verwierp daarmee Jacksons
 verzoek om de zaak te seponeren. Aangezien hij nu geconfronteerd werd
 met de mogelijkheid op een aanzienlijke gevangenisstraf en enorme
 boetes, besloot Jackson een schikking te treffen.\footnote{\hspace{0pt}US
@@ -777,26 +696,24 @@ intentie om illegale activiteiten te ondernemen er niet was'.\footnote{\hspace{0
   \href{https://legalupdate.e-gold.com/2008/11/transcript-of-sentence-before-the-honorable-rosemarie-m-collyer-united-states-district-judge.html}{online}}
 Toch werd Jackson veroordeeld tot zesendertig maanden voorwaardelijke
 vrijlating (huisarrest), waarvan zes werden afgedwongen door middel van
-een enkelband. Hij moest ook 300 uur openbare dienstverlening uitvoeren
-en een boete van \$ 200 betalen. Zijn bedrijf kreeg ondertussen een
-boete van \$ 600.000. Twee van zijn werknemers -- mede-oprichters Barry
-Downey en Douglas' broer Reid Jackson -- werden veroordeeld tot
-zesendertig maanden voorwaardelijke vrijlating, 300 uur dienstverlening
-aan de gemeenschap en een boete van \$ 2.500 plus een boete van \$ 100.
+een enkelband. Hij moest ook een werkstraf van 300 uur uitvoeren en een
+boete van \$ 200 betalen. Zijn bedrijf kreeg ondertussen een boete van
+\$ 600.000. Twee van zijn werknemers -- mede-oprichters Barry Downey en
+Douglas' broer Reid Jackson -- werden veroordeeld tot zesendertig
+maanden voorwaardelijke vrijlating, 300 uur werkstraf en een boete van
+\$ 2.500 plus een boete van \$ 100.
 
-En natuurlijk moest e-goud een licentie verkrijgen voor het opereren van
+En natuurlijk moest e-gold een licentie verkrijgen voor het opereren van
 een betaaldienst. Het enige probleem? Als veroordeelde misdadiger kwam
 Jackson niet langer in aanmerking voor zo'n licentie, iets wat hij niet
 onmiddellijk had beseft toen hij met de schikking instemde. Net toen hij
 dacht dat hij eindelijk de juridische strijd voor altijd kon achterlaten
 en zijn bedrijven op welke manier dan ook kon proberen te redden,
-ontdekte Jackson dat dit niet onder zijn leiding kon gebeuren.
+ontdekte Jackson dat dit niet onder zijn leiding kon gebeuren. Uiteindelijk heeft e-gold nooit opnieuw de deuren geopend.
 
-Uiteindelijk heeft e-goud nooit opnieuw de deuren geopend.
-
-Jackson had e-goud opgericht om het materiële welzijn van mensen te
+Jackson had e-gold opgericht om het materiële welzijn van mensen te
 verbeteren door een alternatief te bieden voor conventionele, ongedekte
-valuta's zoals de Amerikaanse dollar. Opgesloten in zijn eigen huis, met
+valuta zoals de Amerikaanse dollar. Opgesloten in zijn eigen huis, met
 meer dan een miljoen dollar aan juridische kosten op zijn naam, en zijn
 bedrijf noodgedwongen gesloten, had hij de pijnlijke les geleerd dat het
 aanbieden van een dergelijk alternatief niet zonder slag of stoot ging.
@@ -806,10 +723,10 @@ aanbieden van een dergelijk alternatief niet zonder slag of stoot ging.
 
 \markright{Satoshi Nakamoto}
 
-Het lot van Douglas Jackson en e-goud diende als een niet te miskennen
+Het lot van Douglas Jackson en e-gold diende als een niet te miskennen
 waarschuwing voor iedereen met ambities om een alternatieve vorm van
 geld aan te bieden. Overheden (en met name de Amerikaanse overheid)
-konden besluiten hard op te treden, met ernstige persoonlijke en
+konden besluiten om hard op te treden, met ernstige persoonlijke en
 financiële schade tot gevolg. Voor de meesten was dit waarschijnlijk het
 risico niet waard.
 
@@ -818,15 +735,15 @@ Nakamoto', niet tegen. Rond dezelfde tijd dat Jackson zijn dagen thuis
 doorbracht met een enkelband om, bereidde Nakamoto de lancering van een
 eigen elektronisch geldsysteem voor.
 
-Het ontwerp van Nakamoto's digitale valutasysteem was echter zeer
-verschillend van e-goud. Hoewel er niet veel bekend is over de
+Het ontwerp van Nakamoto's digitale geldsysteem was echter zeer
+verschillend van e-gold. Hoewel er niet veel bekend is over de
 achtergrond of beweegredenen van Satoshi Nakamoto, is het duidelijk dat
 deze mysterieuze entiteit (de naam is vrijwel zeker een pseudoniem) zijn
-eigen systeem bewust zodanig ontwierp om een soortgelijk lot als e-goud
+eigen systeem bewust zodanig ontwierp om een soortgelijk lot als e-gold
 te vermijden.
 
 Dit ontwerp was waarschijnlijk ook niet het resultaat van een spontane
-ingeving. Al jaren, zelfs ruim voor Jackson e-goud lanceerde, probeerde
+ingeving. Al jaren, zelfs ruim voor Jackson e-gold lanceerde, probeerde
 een kleine maar toegewijde groep technici een digitale vorm van contant
 geld te creëren: ze wisselden ideeën uit, ontwikkelden technieken, en
 ontworpen diverse voorstellen. Dit alles in de hoop dichter bij een
@@ -836,7 +753,7 @@ Totdat Nakamoto eindelijk de puzzelstukjes op hun plek wist te krijgen.
 
 In dit boek gaan we terug naar de ideeën en technologieën die Satoshi
 Nakamoto (waarschijnlijk) hebben geïnspireerd in het ontwikkelen van dit
-elektronisch geldsysteem.
+elektronische geldsysteem.
 
 In Deel I onderzoeken we de gevarieerde oorsprong van sommige van deze
 grondleggende ideeën en technologieën die de basis vormden voor
@@ -885,7 +802,7 @@ rijk was niet meer. Het moreel in de stad was gebroken.
 
 Erger nog, de nieuwe Oostenrijkse regering spendeerde zoveel om de
 naoorlogse kosten te dekken dat de waarde van hun nationale munteenheid
-enorm kelderde. Hoewel de krone tijdens de oorlog al meer dan 90 procent
+enorm kelderde. Hoewel de kroon tijdens de oorlog al meer dan 90 procent
 van zijn koopkracht had verloren, liep dit in de naoorlogse jaren pas
 echt uit de hand. Terwijl een Amerikaanse dollar voor ongeveer negen
 kronen verkocht werd in 1917, kon diezelfde dollar tegen 1923 meer dan
@@ -1005,14 +922,14 @@ waardeert hij waarschijnlijk een tweede, identiek paar schoenen niet
 even hoog als het eerste.\footnote{\hspace{0pt}Ludwig von Mises, Human
   Action: A Treatise on Economics, The Scholar's Edition, 21, 38--54.}
 
-Met deze \emph{subjectieve theorie van waarde}, plaatste Menger het
-individu opnieuw in het centrum van de economie. Hij stelde dat niet
-landen of andere collectieven de drijvende kracht waren achter
-economische beslissingen, maar mensen en hun subjectieve voorkeuren. In
-plaats van de staat als uitgangspunt te nemen voor analyse, geloofde
-Menger dus dat de studie van economie moest beginnen door te begrijpen
-wat de kleinste onderdelen van elk economisch systeem beïnvloedt.
-Precies, de individuen.
+Met deze \emph{subjectieve waardetheorie}, plaatste Menger het individu
+opnieuw in het centrum van de economie. Hij stelde dat niet landen of
+andere collectieven de drijvende kracht waren achter economische
+beslissingen, maar mensen en hun subjectieve voorkeuren. In plaats van
+de staat als uitgangspunt te nemen voor analyse, geloofde Menger dus dat
+de studie van economie moest beginnen door te begrijpen wat de kleinste
+onderdelen van elk economisch systeem beïnvloedt. Precies, de
+individuen.
 
 Met zijn benadering, wellicht het best beschreven als een herleving van
 de klassieke economie gericht op individuele subjectieve ervaring, won
@@ -1052,11 +969,11 @@ commentator Karl Marx, geloofden socialisten dat de economische
 geschiedenis van de wereld het best begrepen wordt als een klassenstrijd
 tussen degenen die kapitaal bezitten (goederen die kunnen worden
 gebruikt als productiemiddel, zoals fabrieken en hun machines) en de
-arbeidersklasse, die alleen hun arbeid te verkopen hebben. Marx
-voorspelde dat deze strijd in het voordeel van de kapitaalbezittende
-klasse (de \emph{kapitalisten}) moest uitdraaien, omdat ze steeds meer
-kapitaal en eindeloos groeiende winsten zouden genieten, totdat de
-arbeidersklasse (het proletariaat) onvermijdelijk in opstand kwam.
+arbeidersklasse, die alleen hun arbeid verkopen. Marx voorspelde dat
+deze strijd in het voordeel van de kapitaalbezittende klasse (de
+\emph{kapitalisten}) zou uitdraaien, omdat ze steeds meer kapitaal en
+eindeloos groeiende winsten zouden verwerven, totdat de arbeidersklasse
+(het proletariaat) onvermijdelijk in opstand zou komen.
 
 Volgens Marx was het socialisme de uiteindelijke oplossing voor
 economische ongelijkheid: een economisch systeem waarin de
@@ -1069,12 +986,12 @@ Hoewel de ideeën van Marx pas echt populair leken te worden na zijn dood
 in 1883, hadden ze ook een behoorlijk aantal critici. Een vaak gehoord
 bezwaar was dat mensen in een socialistisch systeem geen stimulans
 zouden hebben om te werken, aangezien ze toch een vast aandeel van alle
-geproduceerde goederen ontvingen, terwijl de goederen die ze zelf
-hielpen te maken, verspreid werden over de rest van de samenleving. Een
-tweede bezwaar was het risico dat socialistische leiders zich tegen hun
-eigen bevolking zouden keren en veel van de onder staatsbeheer
-geproduceerde goederen voor zichzelf zouden opeisen, in plaats van ze
-eerlijk te verdelen.
+geproduceerde goederen zouden ontvangen, terwijl de goederen die ze zelf
+zouden helpen te maken, verspreid zouden worden over de rest van de
+samenleving. Een tweede bezwaar was het risico dat socialistische
+leiders zich tegen hun eigen bevolking zouden keren en veel van de onder
+staatsbeheer geproduceerde goederen voor zichzelf zouden opeisen, in
+plaats van ze eerlijk te verdelen.
 
 Desondanks heeft het de opkomst van de socialistische leer in het
 Russische Rijk niet gestopt. In 1917, midden in de Eerste Wereldoorlog,
@@ -1184,8 +1101,8 @@ weet wat hij nodig heeft om ze te verkopen --- misschien een toonzaal op
 een gunstige locatie en wat was om de auto's er mooi en glanzend uit te
 laten zien. De prijzen die klanten bereid zijn te betalen voor auto's,
 en de prijs die hij moet betalen voor een toonzaal en was, zullen dus
-bepalen welke prijs hij zelf bereid is te betalen aan de autofabriek
-voor nieuwe auto's.
+bepalen welke prijs hij zelf voor nieuwe auto's bereid is te betalen aan
+de autofabriek.
 
 Intussen weet de staalproducent hoeveel hij moet betalen voor erts, wat
 zijn oven kost om het erts om te zetten in staal en wat hij aan
@@ -1203,39 +1120,40 @@ erts. Deze informatie wordt weerspiegeld in de prijzen die de autodealer
 biedt voor nieuwe auto's, en de prijs die de staalproducent vraagt voor
 nieuw staal.
 
-Bij uitbreiding, kunnen prijzen helpen bij de herverdeling van
-hulpbronnen wanneer er iets verandert in de economie.
+Als we dit concept verder uitwerken, blijken prijzen te kunnen helpen
+bij de herverdeling van hulpbronnen wanneer er iets verandert in de
+economie.
 
 Als de ijzerertsmijn bijvoorbeeld gedeeltelijk moet sluiten vanwege een
 brand, wordt het aanbod van erts kleiner, en de algehele vraag naar het
 overgebleven erts zal de prijs van ijzer opdrijven. De staalproducent
-zou dan op zijn beurt de prijs van zijn staal moeten verhogen om
+zal dan op zijn beurt de prijs van zijn staal moeten verhogen om
 winstgevend te blijven. Deze verhoogde prijs voor staal communiceert
 eigenlijk de relevante informatie aan de autofabriek die deze nodig
 heeft om economische beslissingen te nemen (de autofabriek zou
 bijvoorbeeld kunnen besluiten staal te kopen bij een andere producent
 die zijn erts van een andere mijn krijgt).
 
-Op dezelfde manier, als de consumentenvraag naar keukenapparatuur
-stijgt, zou de fabriek van keukenapparatuur meer staal willen kopen,
+Op dezelfde manier zal de fabriek van keukenapparatuur als de
+consumentenvraag naar keukenapparatuur stijgt, meer staal willen kopen,
 waardoor de staalprijs stijgt wanneer het de autofabriek overbiedt. De
-staalproducent zou de staallevering verplaatsen van de autofabriek naar
-de fabriek van keukenapparatuur, niet omdat hij iets weet over (de vraag
+staalproducent zal de staal leveren aan de fabriek van keukenapparatuur
+in plaats van de autofabriek, niet omdat hij iets weet over (de vraag
 naar) auto's of keukenapparatuur, maar simpelweg omdat het prijssysteem
-hem heeft geïnformeerd dat dit winstgevender zou zijn (op de lange
-termijn zou de staalproducent ook gestimuleerd worden om meer staal te
+hem heeft geïnformeerd dat dit winstgevender zal zijn (op de lange
+termijn zal de staalproducent ook gestimuleerd worden om meer staal te
 produceren).
 
 Hayek legde uit dat relevante informatie in de economie kenbaar wordt
 gemaakt door middel van het prijssysteem, wat ervoor zorgt dat markten
-efficiënt middelen kunnen toewijzen over de samenleving daar waar ze het
+efficiënt middelen kunnen toewijzen daar waar ze door de samenleving het
 meest gewaardeerd worden.
 
 `In wezen, in een systeem waarin de kennis van de relevante feiten is
 verspreid over vele mensen, kunnen prijzen fungeren om de afzonderlijke
-acties van verschillende mensen te coördineren op dezelfde manier als
-subjectieve waarderingen het individu helpen om de onderdelen van zijn
-plan te coördineren', schreef de Oostenrijker: `een wonder.'\footnote{Friedrich
+acties van verschillende mensen te coördineren net zoals dat subjectieve
+waarderingen het individu helpen om de onderdelen van zijn plan te
+coördineren', schreef de Oostenrijker: `een wonder.'\footnote{Friedrich
   A. Hayek, \emph{The Use of Knowledge in Society}, American Economic
   Review. XXXV, No.~4: 526--27.}
 
@@ -1247,23 +1165,23 @@ vorm van zelforganisatie van onderaf: een \emph{spontane orde}.
 
 Waar Mises Hayeks begrip van spontane orde vormde doorheen ruimte -- de
 toewijzing van middelen van het ene punt in de samenleving naar het
-andere -- hielpen de werken van Von Böhm-Bawerk om Hayeks begrip van
+andere -- hielpen de werken van von Böhm-Bawerk om Hayeks begrip van
 spontane orde in de tijd te vormen.
 
 Von Böhm-Bawerk kwam in de jaren 1890 op de proppen met een nieuw idee
-in het vakgebied van de economie, dat van groot belang werd voor de
+in het vakgebied economie, dat van groot belang werd voor de
 Oostenrijkse School: \emph{tijdsvoorkeur}. Von Böhm-Bawerk stelde dat
 mensen doorgaans liever vroeger dan later goederen en diensten willen
 ontvangen. De mate van deze voorkeur verschilt echter van persoon tot
-persoon. Iedereen heeft zijn eigen -- en subjectieve -- tijdsvoorkeur.
+persoon. Iedereen heeft zijn eigen subjectieve tijdsvoorkeur.
 
-Deze tijdsvoorkeuren, bepleitte von Böhm-Bawerk, worden weerspiegeld op
-de markt door middel van rentetarieven.
+Deze tijdsvoorkeuren, bepleitte von Böhm-Bawerk, manifesteren zich op de
+markt bijvoorbeeld in de vorm van rentetarieven.
 
 Stel je voor dat zowel Marie als Joris graag een nieuwe auto willen
 hebben. Ze hebben beiden liever vandaag dan volgend jaar een nieuwe
 auto. Maar Marie, wier auto net kapot is gegaan en die elke dag naar
-haar werk moet rijden, hechte veel meer waarde aan een nieuwe auto
+haar werk moet rijden, hechtte veel meer waarde aan een nieuwe auto
 vandaag dan aan een nieuwe auto volgend jaar. Joris daarentegen heeft
 nog steeds een redelijk goede auto en werkt van thuis uit, dus heeft hij
 niet zo'n haast om een nieuwe te krijgen. Marie heeft een hogere
@@ -1277,25 +1195,25 @@ moet sparen voordat ze een nieuwe auto kan betalen.
 
 Maar er is een andere optie. Joris zou Marie \$ 20.000 kunnen lenen.
 
-Of dit een goede deal is voor hen beiden, kan eenvoudig worden ontdekt
-door middel van rentetarieven. Laten we zeggen dat Marie, omdat ze een
+Of dit een goede deal is voor hen beiden, kan eenvoudig worden ingeschat
+met behulp van rentetarieven. Laten we zeggen dat Marie, omdat ze een
 hoge tijdsvoorkeur heeft, vandaag in principe een auto 10 procent meer
-zou waarderen dan een auto volgend jaar. Dat wil zeggen dat ze zou
-bereid zijn om \$ 22.000 voor een auto van \$ 20.000 te betalen als ze
-deze vandaag kan hebben in plaats van een jaar vanaf nu. Ze is daarom
-bereid om 10 procent rente te betalen op een lening van \$ 20.000.
-Joris, die een lage tijdsvoorkeur heeft, zou een nieuwe auto vandaag
-slechts 1 procent meer waarderen dan een auto volgend jaar, een verschil
-van slechts \$ 200.
+zou waarderen dan een auto volgend jaar. Dat wil zeggen dat ze bereid
+zou zijn om \$ 22.000 voor een auto van \$ 20.000 te betalen als ze deze
+vandaag kan hebben in plaats van een jaar vanaf nu. Ze is daarom bereid
+om 10 procent rente te betalen op een lening van \$ 20.000. Joris, die
+een lage tijdsvoorkeur heeft, zou een nieuwe auto vandaag slechts 1
+procent meer waarderen dan een auto volgend jaar, een verschil van
+slechts \$ 200.
 
 Joris zou dus kunnen besluiten om zijn aankoop uit te stellen en in
 plaats daarvan \$ 20.000 te lenen aan Marie. Na een jaar zal hij het
 geleende bedrag plus een extra \$ 2.000 aan rente terugkrijgen. Dit
 zorgt ervoor dat Marie de auto vandaag al kan kopen, terwijl de extra \$
 2.000 voor Joris de \emph{kosten} van het uitstellen van de aankoop van
-\$ 200 ruimschoots goedmaakt. Beide partijen zouden er voordeel uit
+\$ 200 ruimschoots goedmaakt. Beide partijen zullen er voordeel uit
 halen. Rentetarieven stellen hen in staat onderling hun middelen in de
-tijd te verdelen, zodat ze het beste overeenkwamen met hun individuele
+tijd te verdelen, zodat ze het beste overeenkomen met hun individuele
 tijdsvoorkeuren.
 
 Hoewel dit natuurlijk een zeer vereenvoudigd voorbeeld is, doen
@@ -1345,7 +1263,7 @@ Dat is natuurlijk zo, \emph{als} rentetarieven in feite de
 tijdsvoorkeuren nauwkeurig weerspiegelen. Hayek merkte echter op dat het
 in de praktijk vaak niet toegelaten werd om zo te zijn.
 
-\section{De Federale Reserve}\label{de-federale-reserve}
+\section{De Federal Reserve}\label{de-federal-reserve}
 
 Een aantal jaren voordat zijn student afstudeerde aan de Universiteit
 van Wenen, hielp Mises Hayek opnieuw om een tijdelijke functie te
@@ -1384,8 +1302,8 @@ doorstaan, zodat er geen reden was voor spaarders om zich zorgen te
 maken.
 
 Maar Hayek, die helemaal uit Oostenrijk was gekomen om de rol van de Fed
-als kredietverstrekker in uiterste nood te onderzoeken, en haar invloed
-op de Amerikaanse economie, was kritisch.
+als kredietverstrekker in uiterste nood, en haar invloed op de
+Amerikaanse economie te onderzoeken, was kritisch.
 
 Hayek vond dat de garanties van de nieuwe instelling economische
 prikkels verstoorden. Hij vreesde dat gunstige economische
@@ -1409,7 +1327,7 @@ Dit \emph{nieuwe geld} zou de algemene prijzen omhoog drijven --
 uitvallen en op hun beurt de gunstige economische vooruitzichten
 bevestigen. De mogelijkheid van commerciële banken om in wezen nieuw
 geld aan te maken door middel van leningen, zou een feedback-loop van
-uitbundige kredietcreatie kunnen veroorzaken.
+buitensporige kredietcreatie kunnen veroorzaken.
 
 Wanneer de kredietcreatie echter onvermijdelijk vertraagt, stopt de
 muziek. Als de hoeveelheid nieuw geld die in de economie wordt
@@ -1417,8 +1335,8 @@ geïnjecteerd afneemt, zullen de prijzen dalen --- deflatie. Bedrijven
 zullen geconfronteerd worden met hun te optimistische inschattingen van
 de economische vooruitzichten en kunnen hun producten niet voor de
 verwachte prijzen verkopen. Sommige bedrijven zullen moeten inkrimpen,
-wat leidt tot een stijging van de werkloosheid en de economie verder
-vertraagt, omdat mensen minder te besteden hebben. Andere bedrijven
+wat leidt tot een stijging van de werkloosheid en verdere vertraging van
+de economie, omdat mensen minder te besteden hebben. Andere bedrijven
 zullen failliet gaan omdat ze hun leningen niet kunnen terugbetalen, wat
 commerciële banken in de problemen brengt om aan de depositovereisten te
 voldoen. Deze banken zullen nieuwe leningen moeten stopzetten, wat de
@@ -1458,7 +1376,7 @@ dat dit tegelijkertijd de prikkel voor banken wegneemt om in eerste
 instantie enige terughoudendheid te tonen bij het verstrekken van
 leningen.
 
-`Het moet dus onvermijdelijk leiden tot een gestage toename in het
+`Het zal dus onvermijdelijk leiden tot een gestage toename in het
 gebruik van krediet en daardoor de herhaling van recessies nog
 onvermijdelijker maken', concludeerde Hayek.\footnote{\hspace{0pt}Hayek,
   \emph{Monetary Policy}, 146.}
@@ -1476,22 +1394,22 @@ bubbels stimuleerde.
 \section{De Oostenrijkse
 conjunctuurcyclus}\label{de-oostenrijkse-conjunctuurcyclus}
 
-Het lezen van het jaarverslag 1923 van de Federal Reserve bepaalde de
-koers van Hayeks carrière als econoom voor de komende decennia.
+Het lezen van het jaarverslag van 1923 van de Federal Reserve bepaalde
+de koers van Hayeks carrière als econoom voor de komende decennia.
 
 In het document legde de Amerikaanse centrale bank uit hoe ze haar
 beheer over de geldhoeveelheid gebruikte om economische activiteit te
-stabiliseren. Meer in het bijzonder verklaarde de Amerikaanse monetaire
-autoriteit hoe ze rentetarieven gebruikte als beleidsinstrument: een
-zeer nieuw concept op dat moment, geïntroduceerd door wat zelf een zeer
-nieuwe instelling was.\footnote{Stephen Kresge, \emph{The Collected
-  Works of F.A. Hayek, Good Money: part I}, 13.}
+stabiliseren. Specifiek verklaarde de Amerikaanse monetaire autoriteit
+hoe ze rentetarieven gebruikte als beleidsinstrument: een zeer nieuw
+concept op dat moment, geïntroduceerd door wat zelf een zeer nieuwe
+instelling was.\footnote{Stephen Kresge, \emph{The Collected Works of
+  F.A. Hayek, Good Money: part I}, 13.}
 
 Het idee was vrij eenvoudig. Door valuta in het bankensysteem te
 injecteren (doorgaans door overheidsobligaties te kopen), kon de Fed
-commerciële banken voorzien van meer reserves en daardoor bereid (en in
-staat) maken om leningen te verstrekken tegen steeds lagere
-rentetarieven. Dit zou bedrijven en mensen stimuleren om te lenen.
+commerciële banken voorzien van meer reserves en ze daardoor stimuleren
+(en in staat stellen) om leningen te verstrekken tegen steeds lagere
+rentetarieven. Dit zou bedrijven en mensen aanmoedigen om te lenen.
 Anderzijds, door reserves uit het bankensysteem te halen (door
 overheidsobligaties te verkopen), konden banken worden ontmoedigd om
 leningen te verstrekken, waardoor de rentetarieven stijgen en
@@ -1524,9 +1442,9 @@ bedrijven gedwongen zijn om werknemers te ontslaan en mogelijk in
 gebreke te blijven op hun leningen. Zo start een deflatoire
 schuldenspiraal.
 
-Toen Hayek in de Verenigde Staten aankwam, bloeide de economie: zowel
-consumptie als investeringen schoten omhoog. Maar hij kwam tot de
-conclusie dat dit niet stand kon houden. De manipulatie van
+Toen Hayek in de Verenigde Staten aankwam, floreerde de economie: zowel
+de consumptie als de hoeveelheid investeringen schoten omhoog. Maar hij
+kwam tot de conclusie dat dit niet stand kon houden. De manipulatie van
 rentetarieven verstoorde de opkomst van de spontane economische orde in
 de tijd. Hayek was bezorgd dat de Federal Reserve in plaats van het
 afvlakken van de hoogte- en dieptepunten van de economische cyclus, deze
@@ -1578,11 +1496,12 @@ geld uitgeven.
 
 In wat de basis zou worden van nog een nieuwe school van economisch
 denken - het \emph{Keynesianisme} - beargumenteerde de Britse econoom
-dat als het grote publiek geen geld zou uitgeven, de overheid het hun
+dat als het grote publiek geen geld zou uitgeven, de overheid het in hun
 plaats moest doen. De overheid kon bijvoorbeeld investeren in openbare
 infrastructuurwerken, zelfs als dat zou betekenen dat daarvoor geld
 geleend moest worden. Geld lenen zou volgens Keynes sowieso goedkoop
-moeten zijn, aangezien de centrale bank de rentetarieven moest verlagen.
+moeten zijn, aangezien hij vond dat de centrale bank de rentetarieven
+moest verlagen.
 
 Door geld te besteden aan openbare infrastructuurwerken, zou de overheid
 banen creëren. Dat zorgt ervoor dat mensen lonen hebben om uit te geven
@@ -1590,11 +1509,11 @@ en geld weer in de economie kan gaan circuleren. Wanneer mensen weer op
 eigen houtje gaan uitgeven, zou de overheid vervolgens haar uitgaven
 moeten verminderen. Keynes stelde voor dat beleidsmakers een
 \emph{anti-cyclische} aanpak van overheidsuitgaven zouden moeten
-adopteren.
+uitvoeren.
 
 Eén specifieke beleidsmaker was volledig klaar voor deze uitdaging.
 Franklin D. Roosevelt (FDR), die in 1932 de eerste Amerikaanse
-presidentsverkiezingen sinds de beurskrach won, had zijn campagne
+presidentsverkiezingen sinds de beurscrash won, had zijn campagne
 gevoerd met de belofte om via zijn presidentieel mandaat actief een
 einde te maken aan de depressie. Toen hij zijn ambt opnam, vormden
 Keynes' ideeën het economische kader om zijn beleid te ondersteunen (zij
@@ -1644,11 +1563,11 @@ En er was in belangrijke opzichten een scherp contrast. Terwijl Keynes
 geloofde dat de economie onder andere regels werkt wanneer deze op
 nationale schaal wordt geanalyseerd (het macro-niveau), hield Hayek vol
 dat alles uiteindelijk voortkomt uit individuen en hun subjectieve
-keuzes (het micro-domein). Waar Keynes graag focuste op prijsgemiddelden
+keuzes (het micro-niveau). Waar Keynes graag focuste op prijsgemiddelden
 en totalen, was Hayek meer geïnteresseerd in prijsverschillen. En
 terwijl Keynes betoogde dat overheden een actieve rol moesten spelen in
-het beheren van de economie, volhield Hayek dat de vrije markt het beste
-aan zichzelf kon worden overgelaten.
+het beheren van de economie, hield Hayek vol dat de vrije markt het
+beste aan zichzelf kon worden overgelaten.
 
 Als Hayek het boegbeeld was van spontane orde van onderaf, dan had hij
 in Keynes en zijn interventiebeleid van bovenaf zijn hedendaagse,
@@ -1945,13 +1864,12 @@ begonnen te breken en werden nooit gefixt; soms werden ze gewoon
 weggegooid. Noodzakelijke veranderingen in software konden niet worden
 doorgevoerd. De niet-hackers reageerden hierop door over te schakelen
 naar commerciële systemen, wat fascisme en licentieovereenkomsten met
-zich meebracht. Ik slenterde door het lab, door de kamers die
-\texttt{s\ nachts\ leeg\ waar\ ze\ vroeger\ vol\ waren\ en\ dacht:}Oh
-mijn arme AI-lab! Je gaat dood en ik kan je niet redden.' Iedereen
-verwachtte dat als er meer hackers werden opgeleid, Symbolics ze zou
-wegkapen, dus het leek niet eens de moeite waard om het te
-proberen\ldots{} de hele cultuur werd uitgewist\ldots{}\footnote{\hspace{0pt}Levy,
-  \emph{Hackers}, 448.}
+zich meebracht. Ik slenterde door het lab, door de kamers die `s nachts
+leeg waar ze vroeger vol waren en dacht: `Oh mijn arme AI-lab! Je gaat
+dood en ik kan je niet redden.' Iedereen verwachtte dat als er meer
+hackers werden opgeleid, Symbolics ze zou wegkapen, dus het leek niet
+eens de moeite waard om het te proberen\ldots{} de hele cultuur werd
+uitgewist\ldots{}\footnote{\hspace{0pt}Levy, \emph{Hackers}, 448.}
 \end{quote}
 
 Stallman had ooit gedroomd van een toekomst geïnspireerd door de vrije
@@ -2287,9 +2205,9 @@ centrale planning ooit zou kunnen bereiken.'\footnote{\hspace{0pt}Raymond,
 
 \chapter{Neutraal geld}\label{neutraal-geld}
 
-Friedrich Hayek legde het idee van de vrije markt uit in termen van
-spontane orde in de jaren dertig. Hij voerde aan dat individuen, door in
-hun eigen belang te handelen, in staat waren middelen op een efficiënte
+Friedrich Hayek legde in de jaren dertig het idee van de vrije markt uit
+in termen van spontane orde. Hij betoogde dat individuen, door in hun
+eigen belang te handelen, in staat waren middelen op een efficiënte
 manier over de samenleving te verdelen met behulp van het prijssysteem:
 een verbazingwekkend concept.
 
@@ -2312,9 +2230,9 @@ Deze schijnbare tegenstrijdigheid was in het begin van de twintigste
 eeuw al aangepakt door Hayeks mentor aan de Universiteit van Wenen,
 Ludwig von Mises.\footnote{\hspace{0pt}Ludwig von Mises, \emph{The
   Theory of Money and Credit}, vertaling. J.E. Batson.} De uitleg van
-Mises, de regressietheorie genoemd, accepteert dat mensen daadwerkelijk
-geen geld willen. Ze willen wat geld kan kopen. Ze verlangen naar
-koopkracht.
+Mises, de regressietheorie genoemd, erkent dat mensen daadwerkelijk geen
+geld willen. Ze willen de goederen en diensten die gekocht kunnen worden
+met geld. Ze verlangen naar koopkracht.
 
 Mises redeneerde dat de verwachte koopkracht van geld afgeleid is van
 eerdere prestaties. Als \$ 10 je gisteren in een restaurant een lunch
@@ -2333,23 +2251,24 @@ de tijd gaan -- regressie --, moet er ooit iemand de eerste zijn geweest
 die geld begon te accepteren, zonder enige vorige ervaring om op te
 vertrouwen bij het inschatten van toekomstige koopkrachtverwachtingen.
 
-Mises loste deze vraag op door de theorie van Carl Menger te accepteren,
-die stelde dat geld oorspronkelijk uit ruilhandel ontstond.
+Mises loste dit vraagstuk op door de theorie van Carl Menger over te
+nemen, die stelde dat geld oorspronkelijk is ontstaan uit ruilhandel.
 
 \section{Van ruilhandel naar geld}\label{van-ruilhandel-naar-geld}
 
-In een ruileconomie -- een economie zonder geld -- ruilen mensen direct
-goederen en diensten. Als de schoenmaker een paar schoenen heeft, maar
-liever een brood wil, en de bakker een brood heeft maar liever een paar
-schoenen wil, dan ruilen ze hun producten met elkaar. Na deze transactie
-zijn ze beiden (subjectief gezien) beter af dan daarvoor.
+In een ruileconomie -- een economie zonder geld -- ruilen mensen
+rechtstreeks goederen en diensten met elkaar. Als de schoenmaker een
+paar schoenen heeft, maar liever een brood wil, en de bakker een brood
+heeft maar liever een paar schoenen wil, dan ruilen ze hun producten met
+elkaar. Na deze transactie zijn ze beiden (subjectief gezien) beter af
+dan daarvoor.
 
-Zo'n ruilhandel economie lijdt echter onder een probleem wat bekend
-staat als de \emph{dubbele toevalligheid van behoeften}. Een ruil kan
-alleen plaatsvinden als twee personen precies het product willen dat de
-ander te bieden heeft. De schoenmaker kan alleen schoenen ruilen voor
-een brood als de bakker toevallig een nieuw paar nodig heeft\ldots{}
-maar dit gebeurt waarschijnlijk niet heel vaak.
+Zo'n ruileconomie lijdt echter onder een probleem wat bekend staat als
+de \emph{dubbele toevalligheid van behoeften}. Een ruil kan alleen
+plaatsvinden als twee personen precies het product willen dat de ander
+te bieden heeft. De schoenmaker kan alleen schoenen ruilen voor een
+brood als de bakker toevallig een nieuw paar nodig heeft\ldots{} maar
+dit gebeurt waarschijnlijk niet heel vaak.
 
 Meer gespecialiseerde vaklieden hebben het in een ruileconomie nog
 moeilijker om te bemachtigen wat ze willen, omdat minder mensen hun
@@ -2385,9 +2304,9 @@ nodig heeft.
 Daarnaast is het niet alleen voor de horlogemaker verstandig om zout in
 ruil aan te nemen, maar ook voor de schoenmaker. De bakker zou
 waarschijnlijk vaker zout dan een paar schoenen accepteren in
-ruilhandel. Dit geeft de horlogemaker op zijn beurt nog meer
-mogelijkheden met het zout dat hij in ruil krijgt, omdat hij het het
-uitgeven bij zowel de bakker als de schoenmaker.
+ruilhandel. Dit geeft de horlogemaker dus nog meer mogelijkheden met het
+zout dat hij in ruil krijgt, omdat hij het kan uitgeven bij zowel de
+bakker als de schoenmaker.
 
 Naarmate meer mensen in deze ruileconomie zout gaan accepteren in de
 verwachting dat anderen dat ook zullen doen, zet dit een
@@ -2396,14 +2315,14 @@ accepteert in ruilhandel, wordt zout voor iedereen aantrekkelijker om
 als ruilmiddel te accepteren. Op deze manier kan zout zich als een
 gangbaar \emph{ruilmiddel} ontwikkelen.
 
-Hoewel sommige mensen in deze economie zelf geen zout nodig zouden
-hebben, noch direct iets hadden om het aan uit te geven, zouden ze leren
-vertrouwen dat het uiteindelijk nuttig voor hen zal zijn. Daarom
-beginnen ze met het opslaan van zout voor toekomstig gebruik. Zo wordt
-zout ook een \emph{opslag van waarde}.
+Hoewel sommige mensen in deze economie zelf geen zout nodig hebben, of
+een dringende noodzaak om het aan iets uit te geven, zullen ze erop
+beginnen te vertrouwen dat het uiteindelijk nuttig voor hen zal zijn.
+Daarom beginnen ze met het opslaan van zout voor toekomstig gebruik. Zo
+wordt zout ook een \emph{opslag van waarde}.
 
-En uiteindelijk zouden mensen in deze economie beginnen de waarde van
-producten en diensten in zout te meten. Een horloge kost misschien een
+En uiteindelijk zullen mensen in deze economie de waarde van producten
+en diensten in zout beginnen te meten. Een horloge kost misschien een
 kilo zout, een paar schoenen een pond, en een brood een ons. Zout wordt
 gebruikt om prijzen vast te stellen, waardoor het een
 \emph{rekeneenheid} wordt.
@@ -2426,22 +2345,22 @@ voegt een \emph{monetaire} premie aan de waarde van zout toe.
 
 Deze premie verklaart waarom mensen bereid zijn geld -- in dit
 voorbeeld, zout -- aan te nemen in ruil voor goederen en diensten die op
-zichzelf meer verlangens of behoeften vervullen, waardoor de schijnbare
+zichzelf meer wensen of behoeften vervullen, waardoor de schijnbare
 tegenstrijdigheid wordt overwonnen die werd geïntroduceerd door de
-subjectieve waarde theorie.
+subjectieve waardetheorie.
 
-Zout is in het verleden inderdaad als vorm van betaling gebruikt. Enkele
-duizenden jaren geleden werden de soldaten van het Romeinse Rijk in zout
-uitbetaald; het hedendaagse woord \emph{salaris} is afgeleid van het
-Latijnse woord \emph{salarium}, dat \emph{zoutgeld} betekent. Toen de
-Italiaanse ontdekkingsreiziger Marco Polo in de dertiende eeuw naar
+In het verleden werd zout daadwerkelijk als betaalmiddel gebruikt.
+Enkele duizenden jaren geleden ontvingen soldaten in het Romeinse Rijk
+hun loon in zout; het hedendaagse woord \emph{salaris} is afgeleid van
+het Latijnse woord \emph{salarium}, dat \emph{zoutgeld} betekent. Toen
+de Italiaanse ontdekkingsreiziger Marco Polo in de dertiende eeuw naar
 China reisde, ontdekte hij dat de plaatselijke bevolking elkaar betaalde
 met een soort pannenkoeken gemaakt van zout. En er waren zelfs bepaalde
-Ethiopische stammen die zout als geld gebruikten, en dat zo recent als
-de twintigste eeuw.
+Ethiopische stammen die zout als geld gebruikten, zelfs zo recent als de
+twintigste eeuw.
 
-Desalniettemin, gedurende duizenden jaren, ontdekten diverse
-beschavingen van over de wereld dat er een beter ruilmiddel bestond dan
+Desalniettemin ontdekten diverse beschavingen wereldwijd over een
+periode van duizenden jaren dat er een beter ruilmiddel bestond dan
 zout. Tegen de tijd dat Mises zijn regressietheorema publiceerde, was
 het grootste deel van de wereld overgegaan op het gebruik van
 goud.\footnote{Recenter archeologisch onderzoek, gepubliceerd in David
@@ -2471,12 +2390,12 @@ enige mate van schaarste garandeert. En als bonus, het glanzende, gele
 metaal wordt door velen als mooi beschouwd.
 
 In de laatste eeuwen werd goud echter vrijwel nooit echt als munteenheid
-in transacties gebruikt; mensen gebruikten namelijk over het algemeen
+in transacties gebruikt; mensen gebruikten over het algemeen namelijk
 bankbiljetten. Deze bankbiljetten konden worden ingewisseld voor goud,
 dat in eerste instantie veilig bewaard werd door de banken die de
-biljetten uitgaven. Bankklanten vonden het handiger om de biljetten als
-ruilmiddel te gebruiken terwijl het goud opgesloten bleef in de
-bankkluizen.
+biljetten uitgaven. Klanten van banken vonden het handiger om de
+biljetten als ruilmiddel te gebruiken terwijl het goud veilig in de
+bankkluizen bleef liggen.
 
 Dit zorgde ervoor dat het merendeel van al het goud dat in de reserves
 van banken werd gehouden, nooit werd opgevraagd. Het stimuleerde banken
@@ -2491,26 +2410,26 @@ bredere financiële systeem.
 En uiteindelijk kwam dit allemaal onder toezicht te staan van centrale
 banken zoals de Federal Reserve. Deze centrale banken waren
 verantwoordelijk geworden voor het beheren van de goudreserves van hun
-landen, waar tegen zij nationale valuta's uitgaven --- papieren
+landen, waartegen zij nationale valuta uitgaven --- papieren
 bankbiljetten die konden worden ingewisseld voor een vastgestelde
 hoeveelheid goud. Het echte goud werd eigenlijk alleen maar gebruikt
 voor internationale handel. Aan het begin van de twintigste eeuw was de
-wereld georiënteerd op de goudstandaard.
+wereld gebonden aan de goudstandaard.
 
-Maar de Eerste Wereldoorlog had effectief een einde gemaakt aan \emph{de
-klassieke goudstandaard}. De meeste regeringen schaften de
-inwisselbaarheid van hun valuta af, waardoor ze hun oorlogsinspanningen
-vrijer konden financieren.\footnote{\hspace{0pt}Nicholas Dimsdale,
-  \emph{British Monetary Policy and the Exchange Rate 1920-1938}, Oxford
-  Economic Papers 33, New Series: 307--49.} In plaats van een
-vertegenwoordiging van goud, werden de ongedekte nationale valuta's
-simpelweg door overheidsbesluit als geld beschouwd, een vorm van geld
-genaamd \emph{fiatgeld} (het Latijnse woord `fiat' betekent \emph{laat
-het zo zijn}, en wordt meestal geassocieerd met overheidsdecreten.)
+De Eerste Wereldoorlog bracht echter een einde aan \emph{de klassieke
+goudstandaard}. De meeste regeringen schaften de inwisselbaarheid van
+hun valuta af, waardoor ze hun oorlogsinspanningen vrijer konden
+financieren.\footnote{\hspace{0pt}Nicholas Dimsdale, \emph{British
+  Monetary Policy and the Exchange Rate 1920-1938}, Oxford Economic
+  Papers 33, New Series: 307--49.} In plaats van een vertegenwoordiging
+van goud, werden de ongedekte nationale valuta simpelweg door
+overheidsbesluit als geld beschouwd, een vorm van geld genaamd
+\emph{fiatgeld} (het Latijnse woord `fiat' betekent \emph{laat het zo
+zijn}, en wordt meestal geassocieerd met overheidsdecreten.)
 
 In de eerste jaren nadat de oorlog was beëindigd, fluctueerden de
-fiatvaluta's vrij in waarde ten opzichte van elkaar. Dit betekende dat
-als iemand van bijvoorbeeld de Verenigde Staten een product uit Engeland
+fiatvaluta vrij in waarde ten opzichte van elkaar. Dit betekende dat als
+iemand van bijvoorbeeld de Verenigde Staten een product uit Engeland
 wilde kopen (importeren), ze eerst een deel van hun dollars moesten
 inwisselen voor ponden. Als dit op een grote schaal gebeurde, zou de
 extra vraag naar ponden op zijn beurt de wisselkoers tegenover de dollar
@@ -2533,9 +2452,9 @@ goudstandaard wat anders moest werken dan de klassieke goudstandaard.
 Aangezien het merendeel van het goud dat nationale munteenheden dekte
 nooit werd opgevraagd, konden centrale banken daadwerkelijk meer geld
 uitgeven dan ze in goud konden verantwoorden (in de VS mocht de Fed dit
-doen, zolang zij binnen de \emph{gouddekkingratio} bleven: de verhouding
-tussen goud in reserve en uitgegeven dollars moest ten minste 40 procent
-zijn).
+doen, zolang zij binnen de \emph{gouddekkingsratio} bleven: de
+verhouding tussen goud in reserve en uitgegeven dollars moest ten minste
+40 procent zijn).
 
 Deze flexibiliteit bood de mogelijkheid voor een nieuw soort monetair
 beleid: centrale banken konden geld toevoegen aan, of onttrekken uit het
@@ -2555,12 +2474,13 @@ instabiliteit' konden voorkomen.\footnote{\hspace{0pt}Irving Fisher,
   \emph{The Purchasing Power of Money}.}
 
 Fisher wist natuurlijk dat prijzen van specifieke goederen en diensten
-soms veranderen, omdat de vraag en aanbod van verschillende producten en
-diensten om allerlei redenen over tijd fluctueren. Maar hij geloofde dat
-het algemene, gemiddelde prijsniveau na verloop van tijd stabiel moest
-blijven. Om de stabiliteit van de koopkracht van een munteenheid te
-bepalen, had Fisher dus een manier nodig om gemiddelde prijzen vast te
-stellen. En hij wist precies waar hij moest zoeken.
+soms veranderen, omdat de vraag en het aanbod van verschillende
+producten en diensten om allerlei redenen door de tijd heen fluctueren.
+Maar hij geloofde dat het algemene, gemiddelde prijsniveau na verloop
+van tijd stabiel moest blijven. Om de stabiliteit van de koopkracht van
+een munteenheid te bepalen, had Fisher dus een manier nodig om
+gemiddelde prijzen vast te stellen. En hij wist precies waar hij moest
+zoeken.
 
 In eerder onderzoek leverde de econoom empirisch bewijs voor de
 kwantiteitstheorie van geld. Deze theorie stelt dat het algemene
@@ -2584,8 +2504,8 @@ hetzelfde moeten blijven.
 Fisher beweerde dat de Federal Reserve de stabiliteit van de dollar kon
 nastreven door de rentetarieven te manipuleren. Hij had in 1920 de
 \emph{Stable Money Association} opgericht om deze beleidswijziging te
-realiseren. Een collectief bestaande uit economen, politici en
-zakenleiders pleitte voor een stabilisatiebeleid via parlementaire
+realiseren. Een collectief, bestaande uit economen, politici en
+ondernemers, pleitte voor een stabilisatiebeleid via parlementaire
 ondervragingen, bekend als de `stabilisatiehoorzittingen', terwijl ze
 daarnaast ook hun zaak op internationale conferenties en andere
 bijeenkomsten bepleitten waar monetair beleid een gespreksonderwerp was.
@@ -2601,7 +2521,7 @@ College} dat het edelmetaal niet geschikt was om stabiele prijzen te
 garanderen, omdat het zelf onderhevig was aan marktsentimenten.
 
 Hoewel dit inderdaad gedeeltelijk verzacht kon worden als de centrale
-banken een flexibeler aanpak zouden adopteren om muntstabiliteit te
+banken een flexibelere aanpak zouden hanteren om muntstabiliteit te
 bereiken, betoogde Keynes dat de gouddekkingratio uiteindelijk de
 speelruimte van de centrale banken fundamenteel beperkte. En in de
 praktijk zou deze genegeerd worden wanneer dat als noodzakelijk werd
@@ -2685,7 +2605,7 @@ terwijl hij elke krat bananen voor dezelfde prijs als vandaag zal kunnen
 verkopen, en zo zijn totale winst kan verhogen.
 
 Als alle producenten in de economie op dezelfde manier denken, als ze
-allemaal dezelfde prikkels volgen en investeren in productie voor de
+allemaal dezelfde prikkels volgen, en investeren in productie voor de
 toekomst ten koste van productie vandaag, zou dit op korte termijn tot
 een tekort aan totale economische productie en op lange termijn tot een
 overschot leiden.
@@ -2721,7 +2641,7 @@ voorwaarde voor een ongestoorde economie zijn.'\footnote{\hspace{0pt}Hayek,
 Natuurlijk erkende de Oostenrijker ook dat een daling van de prijzen in
 sommige gevallen een negatieve impact op de economie kan hebben: hij
 waarschuwde tegen de manipulatie van rentetarieven juist omdat het
-uiteindelijk tot deflatie zou leiden. Maar Hayek stelde dat deflatie
+uiteindelijk tot deflatie zou leiden. Hayek stelde echter dat deflatie
 alleen een probleem is als de daling van de prijzen daadwerkelijk wordt
 veroorzaakt door een afname van de geldhoeveelheid. In dat geval zouden
 bedrijven inderdaad minder verdienen dan verwacht, wat, zoals ook Fisher
@@ -2752,18 +2672,19 @@ van 34 grote geïndustrialiseerde landen bijeen om de grote economische
 en politieke problemen van het naoorlogse Europa op te lossen.
 
 De vertegenwoordigers op de conferentie stemden in met het aannemen van
-een \emph{goudwisselstandaard}. Nationale valuta's zouden een vaste
+een \emph{goudwisselstandaard}. Nationale valuta zouden een vaste
 wisselkoers ten opzichte van goud aanhouden, maar centrale banken kregen
 relatieve flexibiliteit om een monetair beleid te voeren dat
-prijsstabiliteit nastreeft door het manipuleren van rentetarieven.
+prijsstabiliteit nastreeft door middel van het manipuleren van
+rentetarieven.
 
 Deze beleidslijnen voor prijsstabilisatie moesten per land worden
-beheerd: de stabilisatoren stelden voor dat de koopkracht van een valuta
-binnen de eigen nationale economie stabiel zou moeten blijven. Maar dit
-betekende dat als het totale prijspeil in verschillende landen zou
-beginnen te variëren, de waarde van hun nationale valuta tegenover
-elkaar kon fluctueren, wat de internationale handel potentieel kon
-beïnvloeden.
+gestuurd: de stabilisatoren stelden voor dat de koopkracht van een
+valuta binnen de eigen nationale economie stabiel zou moeten blijven.
+Maar dit betekende dat als het totale prijspeil in verschillende landen
+zou beginnen te variëren, de waarde van hun nationale valuta tegenover
+elkaar kon fluctueren, wat de internationale handel potentieel zou
+kunnen beïnvloeden.
 
 De stabilisatoren erkenden dit, maar vonden dat die afweging het waard
 was.
@@ -2792,9 +2713,9 @@ wat zou moeten helpen om de omvang van het handelsoverschot te
 verminderen. Tegelijkertijd zouden lagere prijzen in de landen met
 handelstekorten de producten van deze landen aantrekkelijker moeten
 maken voor export, wat zou moeten helpen om hun handelstekort te
-verminderen. Net als onder een systeem met zwevende fiatvaluta zou de
+verminderen. Net als in een systeem met zwevende fiatvaluta zou de
 verandering in totale prijzen tussen landen moeten helpen om het
-handelsevenwicht tussen hen in evenwicht te brengen.
+handelsevenwicht tussen hen in balans te brengen.
 
 Ook Hayek erkende dat een dergelijk handelsevenwicht onder de
 goudwisselstandaard behouden kon worden, net zoals onder de
@@ -2816,16 +2737,16 @@ noodzakelijkerwijs dezelfde bedrijven of individuen zijn die
 verantwoordelijk zijn voor de toename (of afname) van handel met het
 buitenland.
 
-`Als we kijken naar de methoden die beschikbaar zijn voor het bankwezen
-om een uitbreiding of inkrimping van krediet te realiseren, is er geen
-reden om aan te nemen dat zij het geld dat vernietigd moet worden exact
-kunnen halen bij die personen waar het tijdig vrijgegeven zou worden als
-er geen bankensysteem zou zijn, of dat ze het extra geld zullen plaatsen
-in handen van diegenen die het geld zouden ontvangen als het direct
-vanuit het buitenland naar het land kwam', schreef Hayek.\footnote{\hspace{0pt}Friedrich
-  A. Hayek, \emph{Monetary Nationalism and International Stability}, in
-  `The Collected Works of F.A. Hayek, Good Money: part II', ed.~Stephen
-  Kresge: 55.}
+`Als we kijken naar de methoden die voor banken beschikbaar zijn om de
+hoeveelheid krediet uit te breiden of te doen inkrimpen, is er geen
+reden om aan te nemen dat ze de exacte hoeveelheid geld dat vernietigd
+moet worden, kunnen halen bij die personen waar het tijdig vrijgegeven
+zou worden als er geen bankensysteem zou zijn, of dat ze het extra geld
+zullen overhandigen aan diegenen die het geld zouden ontvangen als het
+direct vanuit het buitenland naar het binnenland zou zijn gekomen',
+schreef Hayek.\footnote{\hspace{0pt}Friedrich A. Hayek, \emph{Monetary
+  Nationalism and International Stability}, in `The Collected Works of
+  F.A. Hayek, Good Money: part II', ed.~Stephen Kresge: 55.}
 
 Specifiek zal de verandering in rentetarieven onder de
 goudwisselstandaard waarschijnlijk niet reflecteren wat het rentetarief
@@ -2842,32 +2763,32 @@ goudwisselstandaard in wezen voor een herverdeling van middelen via de
 kredietmarkten, merkte Hayek op.
 
 \begin{quote}
-`Er zijn daarentegen sterke argumenten om te geloven dat de last van de
-verandering geheel, of tot een mate die op geen enkele manier
-gerechtvaardigd is door de onderliggende verandering in de werkelijke
-situatie, op de investeringsactiviteit in beide landen zal
-vallen.'\footnote{\hspace{0pt}Hayek, \emph{Monetary Nationalism},
+`Er zijn daarentegen sterke argumenten om aan te nemen dat de
+verandering in beide landen de investeringsactiviteit volledig, of tot
+een mate die totaal niet in verhouding staat tot de feitelijke
+veranderingen in de economische situatie, negatief zullen
+beïnvloeden.'\footnote{\hspace{0pt}Hayek, \emph{Monetary Nationalism},
   55--56.}
 \end{quote}
 
-Op een soortgelijke manier worden onder een systeem van zwevende
-fiatvaluta hulpbronnen ook verdeeld aan meer partijen dan enkel zij die
+Op een soortgelijke manier worden hulpbronnen in een systeem van
+zwevende fiatvaluta ook verdeeld aan meer partijen dan enkel zij die
 direct betrokken zijn bij de stijging (of daling) van de export, legde
 Hayek uit.
 
-Laten we inzien waarom. Stel dat er een verschuiving in de vraag
-plaatsvindt van de auto-industrie in de VS naar de auto-industrie in
-Engeland. Dit betekent dat Amerikanen dollars moeten wisselen voor
-ponden om een nieuwe auto te kopen, wat invloed heeft op de relatieve
-waardes van de dollar en het pond. Als gevolg hiervan worden \emph{alle}
-producten uit de Verenigde Staten goedkoper vanuit het perspectief van
-Engeland, terwijl alle producten uit Engeland duurder worden vanuit het
-perspectief van de Verenigde Staten. Alle exporteurs in de Verenigde
-Staten zouden daarom meer verkoop genieten ten koste van bedrijven in
-Engeland.
+Laten we even beredeneren waarom dit zo is. Stel dat er een verschuiving
+in de vraag plaatsvindt van de auto-industrie in de VS naar de
+auto-industrie in Engeland. Dit betekent dat Amerikanen dollars moeten
+wisselen voor ponden om een nieuwe auto te kopen, wat invloed heeft op
+de relatieve waardes van de dollar en de pond. Als gevolg hiervan worden
+\emph{alle} producten uit de Verenigde Staten goedkoper vanuit het
+perspectief van Engeland, terwijl alle producten uit Engeland duurder
+worden vanuit het perspectief van de Verenigde Staten. Alle exporteurs
+in de Verenigde Staten zullen daarom profiteren van hogere
+verkoopcijfers ten koste van bedrijven in Engeland.
 
 Hoewel in dit voorbeeld de initiële verschuiving in vraag enkel
-plaatsvindt tussen de twee auto-industrieën, zouden Britten ook
+plaatsvond binnen de twee auto-industrieën, zullen Britten ook
 aangemoedigd worden om Amerikaans voedsel, kleding, of elektronica te
 kopen. Niet omdat deze producten daadwerkelijk beter of goedkoper te
 produceren zijn, maar puur door de werking van het systeem van zwevende
@@ -2878,17 +2799,17 @@ over grenzen heen, concludeerde Hayek.
 
 \section{Neutraal geld}\label{neutraal-geld-1}
 
-Hayek verwierp stabilisatiebeleid en hij verwierp ook monetair
-nationalisme. Hij pleitte daarom voor een homogeen, internationaal soort
-geld met een vaste hoeveelheid. Of wat hij \emph{neutraal geld} noemde.
+Hayek verwierp stabilisatiebeleid en ook monetair nationalisme. Hij
+pleitte daarom voor een homogeen, internationaal soort geld met een
+vaste hoeveelheid, wat hij \emph{neutraal geld} noemde.
 
-Hayek verwierp resoluut de aanname van stabilisatoren dat monetaire
+Hayek was resoluut tegen de aanname van stabilisatoren dat monetaire
 stabiliteit op nationaal niveau gemeten moest worden. Hij betoogde dat,
 indien geld net zo gemakkelijk van het ene naar het andere land kan
 bewegen als binnen regio's van hetzelfde land, een algehele
 prijsstijging binnen een land simpelweg een toename in vraag naar
-goederen en diensten uit dat land weerspiegelt. Dit zou precies aan de
-markt signaleren dat middelen het best aan dat land kunnen worden
+goederen en diensten uit dat land weerspiegelt. Dit zou juist aan de
+markt signaleren dat middelen het beste aan dat land kunnen worden
 toegewezen, zodat het meer goederen en diensten kan produceren.
 
 Een homogeen geld zou eenvoudig functioneren in de internationale
@@ -2902,46 +2823,46 @@ Geld met een vaste geldhoeveelheid zou ook het intertemporele
 prijssysteem het beste faciliteren, omdat het mensen in staat stelt om
 prijzen op verschillende tijdstippen nauwkeurig te vergelijken:
 
-`Alleen met een geldsysteem waarin elke verandering in de hoeveelheid
-geld uitgesloten was, zou het mogelijk zijn om een structuur van
-geldprijzen op opeenvolgende momenten in de tijd te bedenken die
-correspondeert met het systeem van intertemporele evenwicht,' schreef
+`Alleen met een geldsysteem waarin elke verandering in de
+geldhoeveelheid uitgesloten is, zal het mogelijk zijn om een structuur
+van geldprijzen op opeenvolgende momenten in de tijd te bedenken die
+correspondeert met het systeem van intertemporeel evenwicht,' schreef
 Hayek.\footnote{\hspace{0pt}Hayek, \emph{Intertemporal Price
   Equilibrium}, 212.}
 
-Misschien wel het allerbelangrijkste is, als de geldhoeveelheid vast
-was, zouden veranderingen in de productiekosten door de tijd heen
-duidelijk weerspiegeld worden in overeenkomstige veranderingen in
+Misschien wel het allerbelangrijkste gevolg van een vaste
+geldhoeveelheid is dat veranderingen in de productiekosten door de tijd
+heen duidelijk weerspiegeld worden in overeenkomstige veranderingen in
 prijzen. Als alle andere factoren buiten beschouwing worden gelaten,
-zouden de prijzen dalen als de kosten voor de productie van goederen
+zullen de prijzen dalen als de kosten voor de productie van goederen
 dalen. Een geleidelijke daling van de prijzen -- deflatie -- was volgens
 Hayek de natuurlijke uitkomst van elke gezonde economie.
 
-Volgens hayek had zo'n homogeen geld met vaste geldhoeveelheid maar een
-groot probleem: hij geloofde niet dat het kon worden bewerkstelligd.
+Volgens hayek had zo'n homogeen geld met een vaste geldhoeveelheid maar
+één groot probleem: hij geloofde niet dat het kon worden gerealiseerd.
 
-Ten eerste, zelfs als een dergelijke munt gecreëerd kon worden, zouden
-mensen nog steeds kunnen kiezen om krediet en andere alternatieven te
-gebruiken in plaats van daadwerkelijk geld, wat neerkomt op een
-feitelijke verhoging van de geldhoeveelheid.
+Ten eerste, zelfs als een dergelijke munt gecreëerd zou kunnen worden,
+zouden mensen nog steeds kunnen kiezen om krediet en andere
+alternatieven te gebruiken in plaats van daadwerkelijk geld, wat
+neerkomt op een feitelijke vergroting van de geldhoeveelheid.
 
 `Het is uiteraard onmogelijk om {[}de hoeveelheid ruilmiddelen voor
 altijd vast te stellen{]}, gezien de altijd aanwezige mogelijkheid om
 een surrogaatgeld in plaats van echt geld te gebruiken', concludeerde de
 Oostenrijker droevig. `De hoeveelheid van dat surrogaat kan niet nauw
-gekoppeld zijn aan dat van het echte geld, en het creëren ervan zou
+gekoppeld zijn aan dat van het echte geld, en het creëren ervan zal
 exact hetzelfde effect hebben als dat van elke andere uitbreiding van de
 geldhoeveelheid.'\footnote{\hspace{0pt}Hayek, \emph{Intertemporal Price
   Equilibrium}, 217.}
 
-Maar nog belangrijker, Hayek was van mening dat een homegene valuta met
+Maar nog belangrijker, Hayek was van mening dat een homogene valuta met
 een vaste geldhoeveelheid überhaupt niet kon worden aangenomen, omdat
-hij er niet van overtuigd was dat er enige internationale autoriteit zou
-zijn die het vertrouwen kreeg om dergelijke valuta uit te geven. Iets zo
-belangrijk als een wereldwijde monetaire standaard zou de sterkste
-garantie moeten bieden dat het universeel aanvaardbaar en toegankelijk
-zal blijven. Maar Hayek dacht dat er geen bekende instantie was die deze
-garantie kon bieden.
+hij er niet van overtuigd was dat er ooit een enkele internationale
+autoriteit zal zijn die zal worden toevertrouwd om een dergelijke valuta
+uit te geven. Iets zo belangrijk als een wereldwijde monetaire standaard
+vereist de sterkste garantie dat het universeel aanvaardbaar en
+toegankelijk zal blijven, maar Hayek was ervan overtuigd dat er geen
+bekende instantie was die deze garantie zou kunnen bieden.
 
 \begin{quote}
 `{[}\ldots{]} zolang er afzonderlijke soevereine staten zijn, zal er
@@ -2961,8 +2882,8 @@ dertig ook bijgedragen aan de ineenstorting van de goudwisselstandaard.
 Voor zijn eigen kritiek op de goudwisselstandaard, ging Hayek uit van
 een ideaal scenario, waarbij de deelnemende landen zich hielden aan de
 regels van het spel. Deze regels schreven voor wanneer en hoe de
-centrale banken hun rentetarieven dienen aan te passen. Echter, het was
-al duidelijk dat zelfs dit ideaal scenario zich niet in de werkelijkheid
+centrale banken hun rentetarieven dienden aan te passen. Echter, het was
+al duidelijk dat zelfs dit ideale scenario zich niet in de werkelijkheid
 had voltrokken, aangezien meerdere van de deelnemende landen in plaats
 daarvan betrokken waren bij opeenvolgende competitieve devaluaties, in
 wat soms omschreven wordt als een \emph{valutaoorlog}.
@@ -2973,14 +2894,14 @@ van de munteenheid kan daardoor de export stimuleren en zo tenminste
 tijdelijk de nationale economie ten goede komen. Maar er is ook een
 keerzijde. Wanneer de internationale vraag verschuift naar het land dat
 zijn munteenheid heeft gedevalueerd, betekent dit ook dat de vraag
-verschuift \emph{weg} van andere landen. Hun economieën hebben hierdoor
+verschuift, \emph{weg} van andere landen. Hun economieën hebben hierdoor
 vaak te lijden.
 
 De snelste manier voor deze andere landen om hun concurrentievermogen
 terug te krijgen, is door hun eigen valuta te devalueren. Dit zou de
-handelsbalansen in hun oorspronkelijke staat moeten herstellen. Maar als
-gevolg hiervan zou al het geld, in al deze economieën, minder waard zijn
-dan voorheen. Dit treft vanzelfsprekend spaarders, schuldeisers en
+handelsbalansen moeten herstellen naar hun oorspronkelijke staat. Maar
+als gevolg hiervan zou al het geld, in al deze economieën, minder waard
+zijn dan voorheen. Dit treft vanzelfsprekend spaarders, schuldeisers en
 mensen met een vast inkomen. Als iedereen meedoet met een valutaoorlog,
 dan is er niemand die wint.
 
@@ -2994,34 +2915,35 @@ Eerste Wereldoorlog) niet in dezelfde extreme mate: het devalueerde de
 franc vlak voor de invoering van de nieuwe goudstandaard in 1925. Als
 reactie hierop schortte Engeland in 1931, slechts een paar jaar na
 invoering van de nieuwe internationale monetaire afspraken, de
-goudconvertibiliteit op om het pond te devalueren.
+goudconvertibiliteit op om de pond te kunnen devalueren.
 
 Als een van de weinige landen die tijdens de oorlog een beperkte vorm
 van goudconvertibiliteit had gehandhaafd, was de Verenigde Staten
-aanvankelijk terughoudend om deel te nemen aan enigerlei devaluatie van
-de munteenheid. Op dat moment was een \emph{troy ounce} goud precies \$
-20,67 waard, en de \emph{Federal Reserve} was in de vroege jaren 1930
-nog steeds verplicht om zich aan de gouddekkingsgraad van 40 procent te
+aanvankelijk terughoudend om een devaluatie van de munteenheid uit te
+voeren. Op dat moment was een \emph{troy ounce} goud precies \$ 20,67
+waard, en de \emph{Federal Reserve} was in de vroege jaren 1930 nog
+steeds verplicht om zich aan de gouddekkingsgraad van 40 procent te
 houden.
 
 Maar deze dekkingsratio begon een belemmerende factor te vormen toen
 president Franklin Roosevelt de Keynesiaanse methoden toepaste in een
 poging om de Amerikaanse economie uit de economische depressie te
-helpen. Uiteindelijk besloot hij diee obstakels op een ongekende manier
+helpen. Uiteindelijk besloot hij die obstakels op een ongekende manier
 te verwijderen.
 
-Via Uitvoeringsbevel 6102, goedgekeurd met warme steun van
+Via Executive Order 6102, goedgekeurd met warme steun van
 Keynes,\footnote{\hspace{0pt}Nicholas Wapshott, \emph{Keynes \& Hayek:
   The Clash That Defined Modern Economics}: 159.} verbood FDR in 1933
-resoluut `het hamsteren van gouden munten, goudstaaf en goudcertificaten
-binnen de continentale Verenigde Staten'.\footnote{\hspace{0pt}Franklin
+resoluut `het hamsteren van gouden munten, goudstaven en
+goudcertificaten binnen de continentale Verenigde Staten'.\footnote{\hspace{0pt}Franklin
   D. Roosevelt, \emph{Relating to the Hoarding, Export, and Earmarking
   of Gold Coin, Bullion, or Currency and to Transactions in Foreign
   Exchange}, 28 augustus 1993, beschikbaar via \emph{The American
-  Presidency Project}.} Alle Amerikaanse burgers werden bevolen elk goud
-dat ze hadden in te ruilen voor dollars bij hun lokale Federale Reserve
-lidbank tegen het vaste tarief van \$ 20.67. Bij niet-naleving stond een
-boete van \$ 10.000 en een gevangenisstraf van maximaal tien jaar.
+  Presidency Project}.} Alle Amerikaanse burgers werden bevolen al het
+goud dat ze bezaten in te ruilen voor dollars bij hun lokale Federale
+Reserve lidbank tegen het vaste tarief van \$ 20.67. Bij niet-naleving
+hing er een boete van \$ 10.000 en een gevangenisstraf van maximaal tien
+jaar boven het hoofd.
 
 Een paar maanden later devalueerde Roosevelt de dollar tot \$ 35 per
 troy ounce, waardoor de gouddekkingsratio van de Federal Reserve in
@@ -3031,10 +2953,10 @@ nieuwe klap voor de goudwisselstandaard.
 Daarna was Europa weer aan de beurt, te beginnen met de Fransen die in
 1936 hun munteenheid voor de tweede keer devalueerden. En toen in de
 volgende jaren meer landen het voorbeeld van Engeland volgden om goud
-volledig te laten vallen om hun munteenheden te devalueren, werd de
-goudwisselstandaard volledig verlaten, nauwelijks een decennium nadat
-deze was ingevoerd.\footnote{\hspace{0pt}Joris Rickards, \emph{Currency
-  Wars: The Making of the Next Global Crisis}, 56--77.}
+volledig te laten vallen zodat ze hun munteenheden konden devalueren,
+werd de goudwisselstandaard volledig losgelaten, nauwelijks een
+decennium nadat deze was ingevoerd.\footnote{\hspace{0pt}Joris Rickards,
+  \emph{Currency Wars: The Making of the Next Global Crisis}, 56--77.}
 
 De reeks van muntdevaluaties, gecombineerd met een diepe economische
 depressie, eiste haar tol, met name in de landen die de oorlog in 1918
@@ -3050,7 +2972,7 @@ voet aan de grond.
 \chapter{Cryptografie}\label{cryptografie}
 
 Whitfield Diffie had altijd al een voorliefde voor codes. Al sinds zijn
-docent in het vijfde leerjaar hem de substitutiecipher leerde (een
+docent in het vijfde leerjaar hem substitutieversleuteling leerde (een
 basistechniek in de wiskundige tak van de cryptografie), was hij
 gefascineerd door deze methode van geheimhouding. Het feit dat
 tekstversleutelingsalgoritmen in die tijd -- de jaren vijftig -- de
@@ -3093,9 +3015,9 @@ technieken, en gebruikten bijvoorbeeld enkele delen van een tekst om
 andere delen te versleutelen. Tegen het midden van de twintigste eeuw
 was encryptie, en het breken ervan, essentieel voor militaire operaties.
 Het werk werd uitgevoerd door toegewijde specialisten die het vakgebied
-hadden uitgebreid tot het punt waarop ciphertext volledig willekeurig
-kon lijken. Zonder patronen om te analyseren, waren zelfs de beste
-cryptografen ter wereld niet in staat om de codes te breken.
+verder hadden ontwikkeld tot het punt waarop ciphertext volledig
+willekeurig kon lijken. Zonder patronen om te analyseren, waren zelfs de
+beste cryptografen ter wereld niet in staat om de codes te breken.
 
 Desalniettemin bleef het basisidee grotendeels onveranderd. Net als bij
 de Caesar-cipher waren de geheime sleutels altijd \emph{symmetrisch}: de
@@ -3106,11 +3028,10 @@ eerst een sleutel met elkaar uitwisselen.
 Een sleutel via een onbeveiligd communicatiekanaal delen, was echter
 geen optie. Als iemand meeluisterde en de sleutel kon onderscheppen,
 zouden ze alle daaropvolgende berichten die met die sleutel gecodeerd
-waren, kunnen ontcijferen. Hiermee zou dus het hele doel van het in de
-eerste plaats versleutelen van berichten teniet gedaan worden. De
-sleutels werden daarom meestal gedeeld in persoon. Beide partijen
-moesten eerst fysiek samenkomen voordat ze versleutelde berichten konden
-uitwisselen.
+waren, kunnen ontcijferen. Hiermee zou dus het hele doel van het
+versleutelen van berichten teniet gedaan worden. De sleutels werden
+daarom meestal in persoon gedeeld. Beide partijen moesten eerst fysiek
+samenkomen voordat ze versleutelde berichten konden uitwisselen.
 
 Dit was natuurlijk niet altijd gemakkelijk, of zelfs mogelijk. Grote
 afstanden of extreme situaties zoals oorlog konden het proces
@@ -3127,8 +3048,8 @@ samen met de komst van de allereerste computers op de
 universiteitscampus. Hoewel hij zichzelf toen, als jonge twintiger en
 als een naar eigen zeggen vredelievend persoon, meer als een pure
 wiskundige dan als een informaticus zag, besloot Diffie toch om te leren
-programmeren. Zo wilde hij zijn vaardigheden uitbreiden met praktischere
-kennis.
+programmeren. Zo wilde hij zijn vaardigheden uitbreiden met meer
+praktische kennis.
 
 Het zou goed uitpakken voor hem. In 1965 studeerde hij af aan de
 technische universtiteit, en accepteerde hij een baan bij Mitre, een
@@ -3156,12 +3077,12 @@ zijn door de legitieme eigenaar van de gegevens, maar de toegang voor
 alle anderen beperken. Hij geloofde dat sterke versleuteling dit type
 probleem kon oplossen.
 
-Hoewel de hacker zijn kinderpassie eigenlijk niet echt had behouden (hij
+Hoewel de hacker zijn jeugdpassie eigenlijk niet echt had behouden (hij
 geloofde dat alle relevante paden in het domein van cryptografie al
-waren verkend) hielp zijn baas bij het AI Lab, wiskundige Roland Silver,
-hem weer op de been. En toen Diffie ontdekte hoeveel vooruitgang er,
-sinds hij het als kind bestudeerde, in het veld van crypto geboekt was,
-werd zijn interesse opnieuw aangewakkerd.
+waren verkend) hielp zijn baas bij het AI Lab, de wiskundige Roland
+Silver, hem weer op de been. En toen Diffie ontdekte dat er, sinds hij
+het als kind bestudeerde, significante vooruitgang in het veld van
+cryptografie geboekt was, werd zijn interesse opnieuw aangewakkerd.
 
 Maar Diffie leerde nu ook dat de werkelijke voorhoede van cryptografie
 waarschijnlijk achter gesloten deuren verborgen bleef. De \emph{National
@@ -3177,7 +3098,7 @@ achterhouden, zat helemaal niet lekker bij Diffie.
 \section{Stanford}\label{stanford}
 
 Toen de hackercultuur zich voor het eerst buiten de campus van MIT begon
-te verspreiden, vond het een vroege thuis in de San Francisco Bay Area,
+te verspreiden, vond het al snel een thuis in de San Francisco Bay Area,
 op de Stanford University. En zo zou ook Diffie zijn weg daarheen
 vinden. Toen hij in 1969 vierentwintig werd en de leeftijdsgrens voor
 zijn dienstplicht naderde, ruilde de afgestudeerde van MIT Mitre in om
@@ -3185,15 +3106,15 @@ voor het AI Lab van Stanford te werken. Hier vond hij nieuwe uitdagingen
 die bij zijn hernieuwde interesse in cryptografie pasten.
 
 De eerste van deze uitdagingen werd geïnspireerd door John McCarthy. De
-mede-oprichter van het AI Lab van MIT en originele ontwerper van de LISP
-programmeertaal was verder gegaan met het oprichten van Stanfords AI
-Lab, en hij leidde het onderzoeksinstituut toen Diffie daar voor het
+mede-oprichter van het AI Lab van MIT en de originele ontwerper van de
+LISP-programmeertaal was verder gegaan met het oprichten van Stanfords
+AI Lab, en hij leidde het onderzoeksinstituut toen Diffie daar voor het
 eerst aankwam. Tegen die tijd had McCarthy een interesse ontwikkeld in
 de toekomst van digitale handel, wat op zijn beurt Diffie ertoe aanzette
 om te dromen van het geautomatiseerde kantoor, waar software wordt
 gebruikt om werkgerelateerde documenten digitaal te creëren, verzamelen,
-opslaan, bewerken en te verspreiden. Dit leidde hem tot het overwegen
-van het vraagstuk van \emph{authenticatie}.
+opslaan, bewerken en te verspreiden. Dit motiveerde hem om zich te
+richten op het vraagstuk rondom \emph{authenticatie}.
 
 In de fysieke wereld worden documenten doorgaans geverifieerd door
 middel van persoonlijke, geschreven handtekeningen. Mensen ondertekenen
@@ -3235,10 +3156,10 @@ beveiligen, vreesde Diffie dat iedereen op elk moment potentieel in de
 gaten kon worden gehouden. Een verontrustend toekomstbeeld.
 
 Terwijl hij oplossingen probeerde te vinden voor deze uitdagingen,
-groeide Diffie's hernieuwde interesse in cryptografie langzaam uit tot
-een obsessie. Zijn enthousiasme werd nog aangewakkerd door het lezen van
-\emph{The Codebreakers}, een boek uit 1967 van David Kahn dat de gehele
-geschiedenis van cryptografie gedetailleerd beschrijft en deels
+groeide Diffies hernieuwde interesse in cryptografie langzaam uit tot
+een obsessie. Zijn enthousiasme werd verder aangewakkerd door het lezen
+van \emph{The Codebreakers}, een boek uit 1967 van David Kahn dat de
+gehele geschiedenis van cryptografie gedetailleerd beschrijft en deels
 gebaseerd is op informatie van twee NSA-overlopers die naar de
 Sovjet-Unie waren gevlucht. Hij was steeds meer vastberaden om de
 cryptografische technieken en inzichten te achterhalen die nog steeds
@@ -3262,12 +3183,12 @@ wijden aan het ontdekken van superieure cryptografische technieken.
 Levend van zijn spaargeld, nam hij Fischer mee op zijn zoektocht naar
 aanwijzingen. Ze bezochten David Kahn, de auteur van \emph{The
 Codebreakers}, in Great Neck op Long Island, snuffelden in bibliotheken
-op zoek naar referentiewerken, en maakten afspraken met experts in
+op zoek naar referentiewerken, en maakten afspraken met experts in de
 cryptografie uit zowel de academische wereld als het bedrijfsleven over
 heel de VS.
 
-Diffie hoopte uiteindelijk een \emph{logisch formele theorie} te
-ontwikkelen, een wiskundig systeem dat als basis zou dienen voor
+Diffie hoopte uiteindelijk een \emph{formele logicatheorie} te
+ontwikkelen, een wiskundig systeem dat als basis zou dienen voor de
 cryptografie. Om dit te bereiken, geloofde hij dat hij bij de basis
 moest beginnen.
 
@@ -3279,33 +3200,34 @@ om in de omgekeerde richting te berekenen.
 Een zeer simpele eenrichtingsfunctie --- aangeduid als een
 \emph{polynoom} --- zou herkenbaar moeten zijn voor iedereen die algebra
 heeft gestudeerd op de middelbare school. Het zou er bijvoorbeeld uit
-kunnen zien als x\^{}2 - 5x + 8. Als de invoer (x) in dit voorbeeld 16
-is, is het vrij makkelijk te berekenen dat de vergelijking het resultaat
-184 als uitkomst geeft. Echter, wanneer alleen de uitkomst van 184
-bekend is, kan de vergelijking niet eenvoudig omgekeerd worden gebruikt
-om te berekenen dat de oorspronkelijke invoer (x) 16 was. Een
+kunnen zien als \(x^{2} - 5x + 8\). Als de invoer (x) in dit voorbeeld
+16 is, is het vrij makkelijk te berekenen dat de vergelijking het
+resultaat 184 als uitkomst geeft. Echter, wanneer alleen de uitkomst van
+184 bekend is, kan de vergelijking niet eenvoudig worden omgekeerd om te
+berekenen dat de oorspronkelijke invoer (x) 16 was. Een
 eenrichtingsfunctie is het wiskundige equivalent van een
 eenrichtingsstraat.
 
-Bovendien leerde Diffie over het concept van een \emph{valdeur}, dat
-naar men aannam een onderdeel kon zijn van sommige soorten
+Bovendien leerde Diffie het concept van een \emph{valdeur} kennen,
+waarvan men aannam dat het een onderdeel kon zijn van sommige soorten
 eenrichtingsfuncties. Een valdeur was in feite een geheim stuk
 informatie, meestal een andere vergelijking, dat de omgekeerde
 berekening ook gemakkelijk zou maken. Als de vergelijking in het
 voorbeeld hierboven een valdeur bevatte, kon de uitkomst 184 worden
-gebruikt om de invoer 16 net zo gemakkelijk te berekenen als het
+gebruikt om de invoer 16 net zo gemakkelijk te berekenen als dat het
 oorspronkelijk was om 184 uit 16 te produceren. Als een
 eenrichtingsfunctie een eenrichtingsstraat is, dan is de valdeurfunctie
-een geheime tunnel in de tegenovergestelde richting zijn.
+een geheime tunnel in de tegenovergestelde richting.
 
 Deze concepten fascineerden Diffie. Eenrichtingsfuncties en valdeuren
-leken intuïtief iets te zijn wat van grote waarde kon zijn in het veld
-van cryptografie, hoewel hij niet precies wist hoe.
+leken intuïtief iets van grote waarde te zijn in het veld van de
+cryptografie, hoewel hij niet precies wist hoe ze gebruikt konden
+worden.
 
-Via een gemeenschappelijke kennis leidde Diffie's vermoeden hem
+Via een gemeenschappelijke kennis leidde Diffies vermoeden hem
 uiteindelijk naar Martin Hellman, een dertigjarige assistent-professor
-aan Stanford. Hellman deelde zowel Diffie's interesse in cryptografie
-als zijn ideologische overtuiging dat deze technologie veel breder
+aan Stanford. Hellman deelde zowel Diffies interesse in cryptografie als
+zijn ideologische overtuiging dat deze technologie veel breder
 beschikbaar moest zijn: hij had net een baan van de NSA afgewezen omdat
 hij wilde dat zijn werk de bevolking ten goede zou komen. En ook Hellman
 had nagedacht over hoe eenrichtingsfuncties breder toegepast konden
@@ -3315,7 +3237,7 @@ Toen Diffie en Hellman elkaar voor het eerst ontmoetten in 1974 en het
 idee bespraken in Hellmans kantoor aan Stanford, vonden ze niet meteen
 de oplossing waar ze naar op zoek waren. Maar in elkaar vonden ze iemand
 die geïnteresseerd was in hetzelfde probleem. Vanaf dat moment zouden ze
-hun denkvermogen bundelen door ideeën aan elkaar af te toetsen en nieuwe
+hun denkvermogen bundelen door ideeën aan elkaar te toetsen en nieuwe
 inzichten te delen.
 
 Toen Diffie na meer dan een jaar reizen besloot om zich te vestigen in
@@ -3336,42 +3258,42 @@ coderingssleutels geheim moesten blijven, omdat ze ook dienden als
 decoderingssleutels. Maar Diffie negeerde deze \emph{vanzelfsprekende
 waarheid} en kwam met het idee van \emph{sleutelparen}. In plaats van
 slechts één geheime sleutel, zou iedereen twee sleutels hebben, namelijk
-een geheime sleutel die inderdaad geheim moest blijven, en een publieke
-sleutel die vrijuit gedeeld kon worden.
+een geheime sleutel die daadwerkelijk geheim moest blijven, en een
+publieke sleutel die vrijuit gedeeld kon worden.
 
 Diffie was van mening dat de sleutels wiskundig met elkaar verbonden
 moesten zijn, waarbij de publieke sleutel in essentie van de geheime
 sleutel afgeleid werd door middel van een soort eenrichtingsfunctie.
 Zijn visie was erop gericht dat een verzender -- laten we haar `Alice'
 noemen, zoals cryptografen graag doen -- een bericht versleutelde met
-haar geheime sleutel, waarna de beoogde ontvanger, `Bob', het kon
+haar geheime sleutel, waarna de beoogde ontvanger, `Bob', het zou kunnen
 ontcijferen met behulp van haar publieke sleutel.
 
-Als Bob het bericht inderdaad kon ontcijferen met Alice's publieke
-sleutel, bewijst dit dat het bericht specifiek met Alice's geheime
-sleutel was versleuteld. Dit maakt in feite een vorm van authenticatie
+Als Bob het bericht inderdaad kan ontcijferen met de publieke sleutel
+van Alice, bewijst dit dat het bericht specifiek met Alice's geheime
+sleutel werd versleuteld. Dit maakt in feite een vorm van authenticatie
 mogelijk, aangezien de versleutelde versie van een bericht als Alice's
 digitale handtekening zou dienen.
 
 Deze digitale handtekeningen zouden zelfs krachtiger zijn dan geschreven
 handtekeningen, aangezien een cryptografische handtekening alleen geldig
-zou zijn in combinatie met het precieze stuk data dat was ondertekend.
-Als een digitaal contract na ondertekening wordt gewijzigd, zou de
+zou zijn in combinatie met het precieze stuk data dat werd ondertekend.
+Als een digitaal contract na ondertekening zou worden gewijzigd, zou de
 cryptografische handtekening niet meer overeenkomen. Op een bepaalde
 manier zouden zowel de handtekening als de data zelf onmogelijk na te
 maken zijn.
 
 Bovendien zag Diffie in dat het omgekeerde ook kon werken. Alice zou een
-bericht naar Bob kunnen versleutelen met \emph{Bob}'s publieke sleutel,
+bericht naar Bob kunnen versleutelen met \emph{Bobs} publieke sleutel,
 waarna Bob, en alleen Bob, het zou kunnen ontcijferen met zijn geheime
 sleutel. \emph{Publieke-sleutelcryptografie} beloofde zowel digitale
 authenticatie als veilige communicatie te bieden!
 
 Toen het concept die avond aan Hellman werd uitgelegd, was hij het ermee
-eens dat Diffie potentieel iets belangrijks had bedacht, ook al bestond
-het idee alleen nog maar in ontwerpfase en moest de exacte wiskunde nog
-worden uitgewerkt. In de weken die volgden, legde het duo de vroege
-wiskundige basis om het idee tastbaarder te maken.
+eens dat Diffie potentieel iets belangrijks had bedacht, ook al was het
+idee nog maar in de ontwerpfase en moest de exacte wiskunde nog worden
+uitgewerkt. In de weken die volgden, legde het duo de vroege wiskundige
+basis om het idee tastbaarder te maken.
 
 Dit resulteerde in het eerste gezamenlijk geschreven artikel van Diffie
 en Hellman. \emph{Multiuser Cryptographic Techniques}, dat in het
@@ -3382,14 +3304,14 @@ wisten nog niet precies hoe encryptie of decryptie zou werken, noch hoe
 een publieke sleutel zou worden afgeleid van een geheime sleutel.
 
 `Op dit moment hebben we noch een bewijs dat er publieke sleutelsystemen
-bestaan', gaven Diffie en Hellman toe in hun paper, `noch een
-demonstratiesysteem.'\footnote{Whitfield Diffie and Martin E. Hellman,
+bestaan, noch een demonstratiesysteem.', gaven Diffie en Hellman toe in
+hun paper\footnote{Whitfield Diffie and Martin E. Hellman,
   \emph{Multiuser Cryptographic Techniques}, AFIPS\ldots: Proceedings of
   the June 7-10, 1976, national computer conference and exposition:
   109--112.}
 
-Maar ze kondigden aan dat ze bezig waren met iets groots: ze brachten
-het idee van cryptografie met publieke sleutels naar voren.
+Ze kondigden echter aan dat ze bezig waren met iets groots: ze
+presenteerden het idee van cryptografie met publieke sleutels.
 
 \section{Ralph Merkle}\label{ralph-merkle}
 
@@ -3398,23 +3320,23 @@ afgestudeerde student aan de Universiteit van Californië, Berkeley
 ontving.
 
 De student had zelf ook een werkstuk geschreven, zo legde hij uit in
-zijn brief. Maar, `De mensen met wie ik probeer te praten, begrijpen
-totaal niet wat er aan de hand is, of zien elke poging tot oplossing als
-onmogelijk', schreef hij. Zijn frustratie druipte van de pagina. Hij
-concludeerde: `Ik zie de mogelijkheid om samen te werken ontstaan, en ik
-zou geïnteresseerd zijn in die mogelijkheid.'\footnote{\hspace{0pt}Levy,
+zijn brief. `De mensen met wie ik probeer te praten, begrijpen totaal
+niet wat er aan de hand is, of zien elke poging tot het vinden van een
+oplossing als onmogelijk', schreef hij. Zijn frustratie druipte van de
+pagina. Hij concludeerde: `Ik zie een kans voor samenwerking en ben
+geïnteresseerd om die verder te verkennen.'\footnote{\hspace{0pt}Levy,
   Crypto, 76.}
 
 Ondertekend: Ralph C. Merkle.
 
 Hoewel Merkle zo'n zeven of acht jaar jonger was dan Diffie en Hellman,
 leek zijn verhaal niet zo verschillend van dat van hen. Hij was altijd
-goed geweest met cijfers, stond consequent aan de top van elk wiskunde
+goed geweest met cijfers, stond consequent aan de top van elke wiskunde
 klas, en had sinds de aanvang van zijn universiteitsloopbaan een
 bijzondere interesse ontwikkeld voor computers.
 
 In zijn laatste semester als student maakte hij tijdens een cursus over
-computerbeveiliging kennis met het veld van cryptografie. Maar toen de
+computerbeveiliging kennis met het veld cryptografie. Maar toen de
 docent de cipher van Caeser en andere vormen van symmetrische
 versleuteling besprak, realiseerde hij zich meteen dat de noodzakelijke
 sleuteluitwisseling in persoon de toepasbaarheid ervan ernstig beperkte.
@@ -3427,20 +3349,20 @@ beperkte Merkle zijn zoektocht naar een oplossing tot zijn eigen
 creatieve geest. En uiteindelijk bedacht hij een plan dat, althans tot
 op zekere hoogte, het probleem zou kunnen oplossen.
 
-Zo zou het werken.
+Zo zou het werken:
 
 Eerst maakt Alice een groot aantal cryptografische puzzels, misschien
 wel miljoenen of zelfs meer. De oplossing voor elke puzzel bestaat uit
 een uniek getal en een even unieke geheime sleutel. Alice zelf kent de
-oplossing voor elke puzzel al: ze zeet welke getallen bij welke geheime
+oplossing voor elke puzzel al: ze weet welke getallen bij welke geheime
 sleutels horen. Maar elke individuele puzzel kan ook door iemand anders
 worden opgelost, mits een beetje rekenkracht.
 
-Alice stuurt vervolgens alle puzzels naar Bob. Bob zou op zijn beurt
-willekeurig een puzzel kiezen, en deze met een beetje rekenkracht
-oplossen om het unieke nummer en de bijbehorende geheime sleutel te
-vinden. Daarna zou hij het nummer (maar niet de bijbehorende geheime
-sleutel) naar Alice terugsturen.
+Alice stuurt vervolgens alle puzzels naar Bob. Bob kiest op zijn beurt
+willekeurig een puzzel, en lost deze met een beetje rekenkracht op om
+het unieke nummer en de bijbehorende geheime sleutel te vinden. Daarna
+stuurt hij het nummer (maar niet de bijbehorende geheime sleutel) naar
+Alice terug.
 
 Op basis van het unieke nummer dat Bob terugstuurt, weet Alice
 onmiddellijk welke geheime sleutel Bob daarbij heeft gevonden. Deze
@@ -3448,32 +3370,32 @@ geheime sleutel is dan de coderingssleutel die ze met elkaar delen. Net
 als elke andere symmetrische coderingssleutel, wordt deze gebruikt om
 berichten tussen hen te coderen en te decoderen.
 
-Een luistervink die alle puzzels van Alice naar Bob zag, en ook welk
-uniek nummer Bob naar Alice terugstuurde, zou nog steeds de bijbehorende
-geheime sleutel niet weten.
+Een afluisteraar die alle puzzels van Alice naar Bob heeft gezien, en
+ook welk uniek nummer Bob naar Alice heeft teruggestuurd, zal nog steeds
+de bijbehorende geheime sleutel niet weten.
 
-Om erachter te komen welke sleutel Alice en Bob hebben gekozen, zou een
-luistervink beginnen met het willekeurig oplossen van alle puzzels (via
-\emph{brute kracht}) om dat ene unieke nummer te vinden dat Bob
-terugstuurde, wat tevens de geheime sleutel zou onthullen. Dit is echter
-een rekenkundig intensief proces. Afhankelijk van de hoeveelheid puzzels
-die aanvankelijk gemaakt werden (en de moeilijkheidsgraad om elke puzzel
-op te lossen), zou het veel rekenkracht en tijd in beslag kunnen nemen.
+Om erachter te komen welke sleutel Alice en Bob hebben gekozen, moet een
+afluisteraar alle puzzels willekeurig oplossen (via \emph{brute kracht})
+om dat ene unieke nummer te vinden dat Bob terugstuurde, wat tevens de
+geheime sleutel zal onthullen. Dit is echter een intensief rekenkundig
+proces. Afhankelijk van de hoeveelheid puzzels die aanvankelijk gemaakt
+werden (en de moeilijkheidsgraad om elke puzzel op te lossen), zal het
+veel rekenkracht en tijd in beslag kunnen nemen.
 
 Alice en Bob hebben daarom een asymmetrisch voordeel ten opzichte van de
 afluisteraar. Ze hoefden nauwelijks berekeningen uit te voeren om het
 over een geheime sleutel eens te worden, terwijl de afluisteraar heel
-veel berekeningen moest uitvoeren om hun gesprek te decoderen.
+veel berekeningen moet uitvoeren om hun gesprek te decoderen.
 
 Deze oplossing vereiste echter wel dat Alice en Bob veel data met elkaar
-deelden in de vorm van puzzels. En de veiligheid van de oplossing nam
-lineair toenemen met het totale aantal puzzels. Om het systeem tien keer
-moeilijker te kraken, moesten ze tien keer zoveel puzzels delen; om het
-systeem honderd keer moeilijker te kraken, moesten ze honderd keer
-zoveel puzzels delen, en zo voorts. In de praktijk suggereren limieten
-in data en rekenkracht van normale gebruikers dat een goed gefinancierde
-aanvaller met een supercomputer berichten in veel gevallen binnen enkele
-dagen zou kunnen ontcijferen.
+deelden in de vorm van puzzels, en de veiligheid van de oplossing nam
+lineair toe met het totale aantal puzzels. Om het kraken van het systeem
+tien keer moeilijker te maken, moeten ze tien keer zoveel puzzels delen;
+om het systeem honderd keer moeilijker te kraken te maken, moeten ze
+honderd keer zoveel puzzels delen, enzovoort. In de praktijk impliceren
+de limieten in data en rekenkracht van normale gebruikers dat een goed
+gefinancierde aanvaller met een supercomputer berichten in veel gevallen
+binnen enkele dagen zou kunnen ontcijferen.
 
 Desondanks had Merkle een oplossing bedacht die twee mensen de
 mogelijkheid bood om tamelijk privé te communiceren zonder dat ze elkaar
@@ -3486,8 +3408,8 @@ idee ontving weinig lof aan de Universiteit van Berkeley, en zijn
 artikel werd afgewezen door \emph{Communications of the ACM}, het
 prestigieuze blad van de \emph{Association for Computing Machinery}
 (ACM). Het verzenden van geheime sleutels via een onveilig netwerk werd
-door de recensenten als onacceptabel beschouwd. Bovendien merkten zij
-op, was er geen eerdere literatuur die sleuteluitwisseling had
+door de recensenten als onacceptabel beschouwd. Bovendien merkten zij op
+dat er geen eerdere literatuur bestond die sleuteluitwisseling had
 vastgesteld als een belangrijk probleem.
 
 Omdat hij het potentieel ervan aan niemand om hem heen kon uitleggen,
@@ -3503,18 +3425,18 @@ van het voorstel. Waar het idee van Diffie draaide om sleutelparen,
 zorgde Merkle's aanpak er op een slimme manier voor dat Alice en Bob
 overeen konden komen over een gedeelde sleutel op zo'n manier dat alleen
 zij (gemakkelijk) konden berekenen wat deze sleutel is. Hoewel Diffie en
-Hellman uiteindelijk concludeerden dat het schema niet robuust genoeg
-was voor wat ze probeerden te bereiken, nodigde het puzzelschema hen uit
-om het probleem vanuit een nieuw oogpunt te bekijken.
+Hellman uiteindelijk concludeerden dat het protocol niet robuust genoeg
+was voor wat ze probeerden te bereiken, daagde het puzzelprotocol hen
+uit om het probleem vanuit een nieuw oogpunt te bekijken.
 
 Hellman besloot om Merkle een zomerstage aan te bieden, waarbij hij de
 student uit Berkeley bijstond in het herschrijven van zijn paper tot een
-versie die uiteindelijk geaccepteerd werd door het ACM-journaal. En door
-te bewijzen dat hij een creatieve en scherpzinnige denker was, werd
-Merkle bovendien ook betrokken bij verdere discussies rondom
+versie die uiteindelijk geaccepteerd werd door het ACM-blad. En door te
+bewijzen dat hij een creatieve en scherpzinnige denker was, werd Merkle
+bovendien ook betrokken bij verdere discussies rondom
 publieke-sleutelcryptografie.
 
-Nu waren ze met drie bezig met het probleem.
+Toen waren er drie indviduen bezig met het probleem.
 
 \section{De doorbraak}\label{de-doorbraak}
 
@@ -3523,9 +3445,9 @@ vallen.
 
 Hoewel zijn oplossing niet aan alle vereisten voldeed waar hij en Diffie
 op mikten (want er was geen digitale authenticatie), bedacht Hellman wel
-een schema dat twee partijen privé liet communiceren, zonder de noodzaak
-om persoonlijk op voorhand een coderingssleutel te delen. Vergelijkbaar
-met het puzzelschema van Merkle is het idee achter de
+een protocol dat twee partijen privé liet communiceren, zonder de
+noodzaak om persoonlijk op voorhand een coderingssleutel te delen.
+Vergelijkbaar met het puzzelprotocol van Merkle is het idee achter de
 Diffie-Hellman-sleuteluitwisseling (zoals deze oplossing bekend zou
 worden) dat Alice en Bob een gezamenlijk geheim kunnen afspreken: in
 essentie, een symmetrische coderingssleutel die alleen zij kennen.
@@ -3550,7 +3472,7 @@ combinatie is van beide geheime sleutels die telkens \emph{eenmaal} door
 een eenrichtingsfunctie zijn gehaald. Wanneer Alice haar geheime sleutel
 vermenigvuldigt met de publieke sleutel van Bob, is de
 eenrichtingsfunctie al \emph{ingebed} in de publieke sleutel van Bob, en
-hetzelfde klopt als Bob zijn geheime sleutel vermenigvuldigt met de
+hetzelfde is waar als Bob zijn geheime sleutel vermenigvuldigt met de
 publieke sleutel van Alice. Hoewel Alice en Bob de wiskunde in een
 andere \emph{volgorde} uitvoeren, moet de uitkomst hetzelfde zijn.
 
@@ -3568,27 +3490,30 @@ met (2 x 5) x (3 x 5), wat 150 is in plaats van 30).
 
 Het genereren van het gedeelde geheim vereist dus toegang tot ofwel de
 geheime sleutel van Alice of van Bob. Zolang zij deze geheim houden,
-kunnen ze genieten van wiskundig gegarandeerde privécommunicatie.
+kunnen ze gebruik maken van door de wiskunde gegarandeerde
+privécommunicatie.
 
-De Diffie-Hellman-sleuteluitwisseling doorbrak het status-quo in het
-veld van de cryptografie en was in staat om iets te realiseren dat lang
-onmogelijk werd geacht. Hun techniek had het potentieel om het volledige
-veld van cryptografie dramatisch te transformeren. De twee
-onconventionele cryptografen waren zich hier maar al te goed van bewust
-toen ze hun tweede paper, \emph{New Directions in Cryptography},
-indienden bij \emph{IEEE Transactions on Information Theory}, een
-prestigieus wetenschappelijk tijdschrift uitgegeven door een
-professionele vereniging voor elektronische techniek.
+Het Diffie-Hellman-sleuteluitwisselingsprotocol doorbrak de status-quo
+in het veld van de cryptografie en was in staat om iets te realiseren
+dat lang onmogelijk werd geacht. Hun techniek had de potentie om het
+volledige onderzoeksgebied van de cryptografie dramatisch te
+transformeren. De twee onconventionele cryptografen waren zich hier maar
+al te goed van bewust toen ze hun tweede publicatie, \emph{New
+Directions in Cryptography}, indienden bij \emph{IEEE Transactions on
+Information Theory}, een prestigieus wetenschappelijk tijdschrift,
+uitgegeven door een professionele vereniging voor elektronische
+techniek.
 
-`Vandaag staan we aan de vooravond van een revolutie in cryptografie',
-kondigden Diffie en Hellmann aan in hun paper, gepubliceerd in de editie
-van november 1976 van het tijdschrift. Vooruitziend dat hun doorbraak
-het begin van een grote omwenteling zou markeren, vervolgden ze:
-`theoretische ontwikkelingen in informatietheorie en informatica beloven
-aantoonbaar veilige cryptosystemen mogelijk te maken, waardoor deze
-eeuwenoude kunst verandert in een wetenschap.'\footnote{\hspace{0pt}Whitfield
-  Diffie and Martin E. Hellman, \emph{New Directions in Cryptography},
-  IEEE Transactions On Information Theory, vol.~IT-22, no. 6: 644.}
+`Vandaag staan we aan de vooravond van een revolutie in de
+cryptografie', kondigden Diffie en Hellmann aan in hun paper,
+gepubliceerd in de editie van november 1976 van het tijdschrift. In de
+overtuiging dat hun doorbraak het begin van een grote omwenteling zou
+markeren, vervolgden ze: `theoretische ontwikkelingen in
+informatietheorie en informatica beloven aantoonbaar veilige
+cryptosystemen mogelijk te maken, waardoor deze eeuwenoude kunst
+verandert in een wetenschap.'\footnote{\hspace{0pt}Whitfield Diffie and
+  Martin E. Hellman, \emph{New Directions in Cryptography}, IEEE
+  Transactions On Information Theory, vol.~IT-22, no. 6: 644.}
 
 Het werd al snel duidelijk dat Diffie en Hellman een stroomversnelling
 hadden veroorzaakt. Een nieuwe generatie cryptografen stond op het punt
@@ -3602,10 +3527,11 @@ Hellman waren drie jonge wiskundigen van het MIT. Niet alleen hielden ze
 allen van getallen, ze waren ook gedreven om lastige problemen op te
 lossen. Ron Rivest, een assistent-professor aan de universiteit, Adi
 Shamir, een gastprofessor, en Leonard Adleman, een computerspecialist
-aan hetzelfde instituut, begonnen samen aan het ontwerpen van een
-eenrichtingsfunctie specifiek voor publieke-sleutelcryptografie.
+aan hetzelfde instituut, begonnen samen aan het ontwerp van een
+eenrichtingsfunctie die specifiek voor publieke-sleutelcryptografie
+moest dienen.
 
-Enkele maanden later, in 1977, waren ze succesvol.
+Enkele maanden later, in 1977, was het ze gelukt.
 
 RSA, zoals hun algoritme werd genoemd (elke letter vertegenwoordigt een
 van de uitvinders), benutte eeuwenoude wiskundige inzichten in
@@ -3632,7 +3558,7 @@ publieke sleutel. Bob kon het bericht vervolgens ontcijferen met alleen
 zijn geheime sleutel. Bob had de publieke sleutel van Alice niet meer
 nodig, en beiden hadden geen gedeeld geheim meer nodig.
 
-Misschien nog belangrijker, werkte het algoritme net zo goed in
+Misschien nog belangrijker: het algoritme werkte net zo goed in
 omgekeerde volgorde. Twee opeenvolgende vermenigvuldigingen leverden
 altijd het oorspronkelijke getal terug, ongeacht welke van de twee
 vermenigvuldigingen eerst werd uitgevoerd. Voortbordurend op de
@@ -3643,7 +3569,7 @@ terug naar tien.
 In de praktijk betekende dit dat een geheime sleutel kon worden gebruikt
 om data te versleutelen, die vervolgens kon worden ontcijferd met de
 bijpassende publieke sleutel. Hierdoor maakte RSA een cryptografisch
-handtekeningenschema mogelijk: Alice kan een bericht versleutelen, dat
+handtekeningenprotocol mogelijk: Alice kan een bericht versleutelen, dat
 Bob (of iemand anders) kan ontcijferen met haar publieke sleutel, wat
 bewijst dat het bericht daadwerkelijk is versleuteld met Alice's geheime
 sleutel.
@@ -3653,14 +3579,14 @@ maakte, faciliteerde RSA voor het eerst ook een vorm van digitale
 authenticatie.
 
 En tot slot, RSA-encryptie schaalde (ongeveer) exponentieel. Gewoon een
-paar cijfers toevoegen aan de originele priemgetallen die in dit schema
-werden gebruikt, zou het veel moeilijker maken om later te ontdekken
-welke priemgetallen werden gebruikt, en daarmee ook veel moeilijker om
-de encryptie te breken. Met publieke sleutels zo klein dat zelfs
-informele computergebruikers ze gemakkelijk konden delen, was
-beveiliging voor miljoenen jaren wiskundig gegarandeerd.
+paar cijfers toevoegen aan de originele priemgetallen die in dit
+protocol werden gebruikt, zou het veel moeilijker maken om later te
+ontdekken welke priemgetallen werden gebruikt, en daarmee ook veel
+moeilijker om de encryptie te breken. Met publieke sleutels die zo klein
+zijn dat zelfs informele computergebruikers ze gemakkelijk konden delen,
+was beveiliging voor miljoenen jaren wiskundig gegarandeerd.
 
-Met RSA was Diffie's visie voor publieke-sleutelcryptografie echt
+Met RSA was Diffies visie voor publieke-sleutelcryptografie echt
 werkelijkheid geworden.
 
 \section{David Chaum}\label{david-chaum}
@@ -3673,94 +3599,95 @@ begin jaren 70, waar hij al op jonge leeftijd een natuurlijke interesse
 voor beveiligingstechnologie ontwikkelde. Aanvankelijk ging zijn
 belangstelling uit naar hardware, zoals deursloten, inbraakalarmen en
 fysieke kluizen. Aan het einde van zijn jeugdjaren resulteerde dit in
-het ontwerpen van een nieuw type slot. Chaum kwam zelfs dichtbij het
-verkopen van zijn ontwerp aan een grote fabrikant.
+het ontwerpen van een nieuw type slot. Chaum stond zelfs op het punt
+zijn ontwerp aan een grote fabrikant te verkopen.
 
-Maar tegen die tijd begon zijn interesse tevens te groeien op het
-relatief nieuwe gebied van informatietechnologie. Hij wisselde
-regelmatig van universiteit, beginnend aan de University of California,
-Los Angeles nog voordat hij de middelbare school had afgerond, schakelde
-over naar de University of Sonora in Mexico om dicht bij zijn vriendin
-van dat moment te zijn, en studeerde uiteindelijk af aan de University
-of California, San Diego. Chaum studeerde informatica en wiskunde, en
-tegen de late jaren '70 leerde hij over cryptografie en de recente
-doorbraken in dat veld.
+Maar tegen die tijd begon tevens zijn interesse in het relatief nieuwe
+gebied van de informatietechnologie te groeien. Hij wisselde regelmatig
+van universiteit. Zijn studie begon aan de University of California, Los
+Angeles nog voordat hij de middelbare school had afgerond. Hij schakelde
+daarna over naar de University of Sonora in Mexico om dicht bij zijn
+vriendin van dat moment te zijn, en studeerde uiteindelijk af aan de
+University of California, San Diego. Chaum studeerde informatica en
+wiskunde, en tegen de late jaren '70 leerde hij over cryptografie en de
+recente doorbraken in dat onderzoeksgebied.
 
-Chaum zag het potentieel van de publieke-sleutelcryptografie natuurlijk
-ook, omdat hij eveneens glimpsen van de toekomst had opgevangen. Hij
-voorzag dat computers steeds gebruikelijker zouden worden, tot het punt
-waarop elk huishouden er een in huis zou hebben. En terwijl ARPAnet
-langzaam begon te transformeren naar het (meer algemeen toegankelijke)
-vroege internet, verwachtte hij dat elektronische communicatie de wereld
-zou transformeren.
+Chaum zag natuurlijk ook de potentie van de publieke-sleutelcryptografie
+omdat hij eveneens glimpsen van de toekomst had opgevangen. Hij voorzag
+dat computers steeds gebruikelijker zouden worden, totdat uiteindelijk
+elk huishouden er een in huis zou hebben. En terwijl ARPAnet langzaam
+begon te transformeren naar het (meer algemeen toegankelijke) vroege
+internet, verwachtte hij dat elektronische communicatie de wereld zou
+transformeren.
 
 Net zoals Diffie dat voor hem deed, herkende Chaum ook dat deze
 transformatie naar een tamelijk dystopische toekomst kon leiden. Hij
 begreep dat als berichten, documenten of bestanden over het internet
-werden verzonden, al deze data het risico liep om op een nooit eerder
-geziene schaal gemonitord, onderschept en geëxploiteerd te worden door
-tirannen. Chaum maakte zich zorgen dat mensen zich anders gaan gedragen
-als ze geloven dat ze mogelijk bekeken worden. Massasurveillance zou een
-gevangenis voor de geest creëren, conformiteit bevorderen, en
-uiteindelijk fundamentele vrijheden vernietigen, aldus Chaum.
+zouden worden verzonden, al deze data het risico liep om op een nooit
+eerder geziene schaal door tirannen te worden gemonitord, onderschept en
+geëxploiteerd. Chaum maakte zich zorgen dat mensen zich anders zouden
+gaan gedragen als ze geloven dat ze mogelijk bekeken zouden worden.
+Massasurveillance zou een gevangenis voor de geest creëren, conformiteit
+bevorderen, en uiteindelijk fundamentele vrijheden vernietigen, aldus
+Chaum.
 
 `De cyberruimte kent niet dezelfde fysieke beperkingen', legde Chaum
 later uit aan een journalist van het technologiemagazine \emph{Wired}.
 `Er zijn geen muren\ldots{} het is een andere, angstaanjagende, vreemde
 plek en met identificatie wordt het een nachtmerrie van panoptisch
 toezicht. Juist? Alles wat je doet kan door iedereen gekend zijn, kan
-voor altijd worden opgenomen. Het is volkomen tegenstrijdig met het
-basisprincipe dat ten grondslag ligt aan de mechanismen van de
-democratie.'\footnote{Steven Levy, \emph{E-Money}, Wired, 1 december
-  1994, \href{https://www.wired.com/1994/12/emoney/.}{online}}
+voor altijd worden opgenomen. Het druist volledig in tegen het
+basisprincipe waarop de mechanismen van de democratie zijn
+gebaseerd'\footnote{Steven Levy, \emph{E-Money}, Wired, 1 december 1994,
+  \href{https://www.wired.com/1994/12/emoney/.}{online}}
 
 Maar hij zag dat er nu een alternatief was: een andere mogelijke
 toekomst. Chaum besefte dat de gloednieuwe ontwikkelingen in de
-cryptografie konden worden ingezet als verdediging. De maatschappij
+cryptografie konden worden ingezet ter verdediging. De maatschappij
 stond op een kruispunt, en innovaties zoals publieke-sleutelcryptografie
-boden hoop voor een wereld waarin mensen de macht hadden over hun eigen
+boden hoop op een wereld waarin mensen de macht hebben over hun eigen
 data.
 
 Gedeeltelijk omdat hij wist dat Ralph Merkle naar Berkeley was gegaan
-(maar niet op de hoogte was dat Merkle's initiële puzzelschema daar niet
-bepaald goed was ontvangen), koos Chaum voor de universiteit in de Bay
-Area om zijn doctoraat te behalen. Hier was hij van dichtbij getuige van
-hoe het veld van cryptografie tegen het einde van dat decennium
-evolueerde van een niche interesse, exclusief voor kleine
-universiteitsafdelingen en academische tijdschriften, naar een kleine
-revolutie in het veld van de informatica, aangedreven door een
-toegewijde en groeiende gemeenschap van gelijkgestemde wiskundigen.
+(maar niet op de hoogte was dat Merkle's initiële puzzelprotocol daar
+niet bepaald goed was ontvangen), koos Chaum voor de universiteit in de
+Bay Area om zijn doctoraat te behalen. Hier was hij van dichtbij getuige
+van hoe cryptografie tegen het einde van dat decennium evolueerde van
+een niche interesse, uitsluitend voor kleine universiteitsafdelingen en
+academische tijdschriften, naar een kleine revolutie in de informatica,
+aangedreven door een toegewijde en groeiende gemeenschap van
+gelijkgestemde wiskundigen.
 
 Het resulteerde in de allereerste \emph{Crypto}-conferentie in 1981,
 georganiseerd aan de Universiteit van Californië, Santa Barbara. De
-grootste vernieuwers in het veld -- Diffie, Hellman, Merkle, Rivest,
+grootste vernieuwers in het gebied -- Diffie, Hellman, Merkle, Rivest,
 Shamir, Adelman -- en ongeveer vijftig andere cryptografen waren
 aanwezig, met velen die elkaar voor het eerst in persoon ontmoetten. Ze
 presenteerden hun nieuwste documenten, bespraken mogelijke verbeteringen
-aan bestaande schema's, of leerden elkaar gewoon wat beter kennen
-terwijl ze een avond doorbrachten met barbecuen op het strand.
+aan bestaande protocollen, of leerden elkaar gewoon wat beter kennen
+terwijl ze een avond doorbrachten met een barbecue op het strand.
 
 Echter, dit gebeurde allemaal tot grote ontsteltenis van de NSA. Net als
 de nieuwe lichting cryptografen die samengekomen waren bij Crypto 1981,
-herkende ook de overheidsorganisatie het potentieel van
+herkende ook de overheidsorganisatie de potentie van
 publieke-sleutelcryptografie. Maar in tegenstelling tot het optimisme en
-de vreugde op de conferentie, waren mensen binnen de
+de vreugde van op de conferentie, waren mensen binnen de
 inlichtingengemeenschap bezorgd dat sterke encryptie hun hele werkwijze
-in gevaar kon brengen. Ze wilden deze cryptografische revolutie stoppen
-voordat het te ver ging, en in de nasleep van de conferentie begon de
-NSA waarschuwingen te geven aan wetenschappelijke organisaties om geen
-presentaties te faciliteren, zoals die tijdens Crypto 1981 zo openlijk
-tentoongesteld werden.
+in gevaar zou kunnen brengen. Ze wilden deze cryptografische revolutie
+stoppen voordat het te ver zou gaan, en in de nasleep van de conferentie
+begon de NSA waarschuwingen te geven aan wetenschappelijke organisaties
+om geen presentaties te faciliteren, zoals die tijdens Crypto 1981 zo
+openlijk tentoongesteld werden.
 
 Toen hij hiervan hoorde, besloot Chaum terug te vechten. Hij ondernam
 actie om ervoor te zorgen dat de conferentie geen eenmalig evenement zou
 blijven. Uitgerust met een lijst van namen en contactinformatie die door
 Adleman was verstrekt, begon de promovendus contact op te nemen met alle
-grote namen in het veld van crypto. Om geen aandacht te trekken van de
-NSA, stuurde hij fysieke brieven of ontmoette de mensen persoonlijk,
-maar vermeden telefoongesprekken over het onderwerp. Uiteindelijk wist
-Chaum iedereen terug samen te brengen in Santa Barbara op Crypto 1982,
-terwijl hij ook een Europese conventie (\emph{Eurocrypt}) in Duitsland
+grote namen in de cryptografie. Om geen aandacht te trekken van de NSA,
+stuurde hij fysieke brieven of ontmoette hij de mensen persoonlijk, maar
+vermeed telefoongesprekken over het onderwerp. Uiteindelijk wist Chaum
+iedereen terug samen te brengen in Santa Barbara op Crypto 1982, terwijl
+hij ook een Europese conventie (\emph{Eurocrypt}) in Duitsland
 organiseerde in datzelfde jaar.
 
 Daarnaast richtte Chaum de \emph{International Association for
@@ -3769,9 +3696,9 @@ het bevorderen van onderzoek in de cryptografie. Hij kondigde de
 oprichting van deze organisatie aan tijdens de Crypto conferentie van
 1982, wat opnieuw voor veel irritatie zorgde bij de NSA.
 
-De grootste bijdragen van Chaum aan het veld van de cryptografie waren
-echter niet de evenementen die hij organiseerde of de organisatie die
-hij oprichtte, maar de technieken die hij ontwierp.
+De grootste bijdragen van Chaum aan de cryptografie waren echter niet de
+evenementen die hij organiseerde of de organisatie die hij oprichtte,
+maar de technieken die hij ontwikkelde.
 
 \section{Remailers}\label{remailers}
 
@@ -3781,17 +3708,17 @@ zij konden lezen. Dit bood privacy in communicatie --- een baanbrekende
 ontwikkeling.
 
 Maar het was geen wondermiddel, besefte Chaum. Zelfs met de
-publieke-sleutelcryptografie, bleef een aanzienlijke privacy-risico
+publieke-sleutelcryptografie, bleef een aanzienlijk privacy-risico
 bestaan: verkeersanalyse kon onthullen wie met wie praatte, en wanneer.
 
-Dergelijke \emph{metadata} kunnen meer over iemand onthullen dan iemand
-prettig zou vinden. Een onderzoeksjournalist wil misschien niet dat zijn
-bronnen bekend worden, bijvoorbeeld. Of burgers uit landen met
-autoritaire regimes willen misschien niet dat iemand weet dat ze
-communiceren met een politieke dissident. Of misschien geeft een
-werknemer die informeert naar werkgelegenheden bij een concurrerend
-bedrijf de voorkeur aan het feit dat zijn baas niet ontdekt dat hij
-contact heeft gehad met dit bedrijf.
+Dergelijke \emph{metadata} kan meer over iemand onthullen dan men zou
+willen. Een onderzoeksjournalist wil misschien niet dat zijn bronnen
+bekend worden, bijvoorbeeld. Of burgers uit landen met autoritaire
+regimes willen misschien niet dat iemand weet dat ze communiceren met
+een politieke dissident. Ook zal een werknemer die naar vacatures bij
+een concurrerend bedrijf informeert er waarschijnlijk de voorkeur aan
+geven dat zijn baas niet ontdekt dat hij contact heeft gehad met dat
+bedrijf.
 
 In zijn paper uit 1981 getiteld \emph{Untraceable Electronic Mail,
 Return Addresses, and Digital Pseudonyms}, stelde Chaum een oplossing
@@ -3800,34 +3727,34 @@ publieke-sleutelcryptografie.\footnote{David Chaum, \emph{Untraceable
   Electronic Mail, Return Addresses, and Digital Pseudonyms},
   Communications of the ACM 24, 2: 84--90.}
 
-Dit is hoe het werkte.
+Dit is hoe het werkt.
 
-Als Alice een bericht aan Bob wil sturen, moest ze eerst zijn publieke
-sleutel nemen en het bericht daarmee versleutelen. Op deze manier kon
+Als Alice een bericht aan Bob wil sturen, moet ze eerst zijn publieke
+sleutel nemen en het bericht daarmee versleutelen. Op deze manier kan
 alleen Bob het bericht ontcijferen.
 
-Maar ze stuurt het bericht niet rechtstreeks naar Bob: een speurder die
-hun verbindingen monitort, zou dan kunnen zien dat de twee communiceren,
-wat Alice juist probeert te vermijden.
+Maar ze stuurt het bericht niet rechtstreeks naar Bob: een afluisteraar
+die hun verbindingen monitort, zou dan kunnen zien dat de twee
+communiceren, wat Alice juist probeert te vermijden.
 
 In plaats daarvan neemt Alice het versleutelde bericht en voegt daar het
 e-mailadres van Bob aan toe. Vervolgens versleutelt ze dit hele pakket
 (het versleutelde bericht voor Bob en zijn e-mailadres) nog een keer,
-maar nu met de publieke sleutel die geassocieerd is met een speciale
-mixserver. Het bericht heeft nu twee lagen van codering: één laag voor
-het originele bericht en een andere laag voor het hele pakket. Alice
-stuurt dit dubbel versleutelde pakket dan naar de mixer.
+maar nu met de publieke sleutel van een speciale mixserver. Het bericht
+heeft nu twee lagen van codering: één laag voor het originele bericht en
+een andere laag voor het hele pakket. Alice stuurt dit dubbel
+versleutelde pakket dan naar de mixer.
 
 Om het originele gecodeerde bericht en Bobs e-mailadres te vinden,
-ontcijfert de server van de mixer op zijn beurt het pakket met zijn
-geheime sleutel. De mixer gebruikt dit om het gecodeerde bericht naar
-Bob te sturen, die het vervolgens ontcijfert om Alice's originele
-bericht te lezen. Als tussenpersoon brak de mixer de directe link tussen
-Alice en Bob, waardoor het voor de speurneus moeilijker werd om te
-concluderen dat ze communiceerden. Tenzij het duidelijk is uit de inhoud
-van het bericht, weet Bob zelf ook niet dat het van Alice afkomstig was.
+ontcijfert de mixserver op zijn beurt het pakket met zijn geheime
+sleutel. De mixer gebruikt dit om het gecodeerde bericht naar Bob te
+sturen, die het vervolgens ontcijfert om Alice's originele bericht te
+lezen. Als tussenpersoon brak de mixer de directe link tussen Alice en
+Bob, waardoor het voor de afluisteraar moeilijker werd om te achterhalen
+dat ze communiceerden. Tenzij het duidelijk is uit de inhoud van het
+bericht, weet Bob zelf ook niet dat het van Alice afkomstig was.
 
-Dit basisopzet functioneert zolang je op de mixer kan rekenen en zolang
+Deze basisopzet functioneert zolang je op de mixer kan rekenen en zolang
 deze niet aan de gluurder (of aan Bob) onthult dat hij het versleutelde
 pakket eerst van Alice heeft ontvangen. Maar Chaum maakte duidelijk dat
 het zelfs niet nodig is om de mixer te vertrouwen.
@@ -3844,22 +3771,21 @@ originele bericht te lezen. Door elk één laag van de encryptie te
 verwijderen en het pakket naar de volgende ontvanger door te sturen,
 zouden de mixers weten van wie ze het pakket hebben ontvangen en naar
 wie ze het hebben doorgestuurd, maar geen van hen zou weten waar het
-pakket oorspronkelijk vandaan kwam en wie de eindontvanger was.
+pakket oorspronkelijk vandaan kwam en wie de eindontvanger is.
 
-Een luistervink die Bobs communicatie probeert te monitoren, zou
+Een afluisteraar die Bobs communicatie probeert te monitoren, zou
 mogelijk kunnen weten dat mixer 3 uiteindelijk het bericht naar Bob
 stuurde, maar zelfs als mixer 3 deze informatie met de indringer deelt
 op verzoek (of gerechtelijk bevel), helpt dit de indringer slechts één
 stap vooruit. Als er ook maar één van de mixers weigert mee te werken,
 stopt het spoor (en als de mixers in verschillende rechtsgebieden
-verblijven, kunnen zelfs wetshandhavingsautoriteiten uit een bepaald
-land het moeilijk hebben om de oorsprong van een bericht na te gaan).
+verblijven, kunnen zelfs handhavingsautoriteiten uit een bepaald land
+het moeilijk hebben om de oorsprong van een bericht na te gaan).
 
 Zo had Chaum het cruciale conceptuele fundament gelegd voor wat later
 bekend zou worden als \emph{remailers}.
 
-En zijn bijdragen aan het veld van cryptografie zouden daar niet
-ophouden\ldots{}
+En zijn bijdragen aan de cryptografie zouden daar niet ophouden\ldots{}
 
 \chapter{Denationalisatie van geld}\label{denationalisatie-van-geld}
 
@@ -3906,10 +3832,10 @@ beschouwd als een herinvoering van de goudwisselstandaard, maar in
 tegenstelling tot de vooroorlogse klassieke goudstandaard was deze sterk
 gericht op de Amerikaanse dollar. Internationale handel zou in dollars
 worden uitgevoerd, terwijl deze dollars op hun beurt konden worden
-ingewisseld voor goud: één troy ounce per \$ 35. Andere nationale
-valuta's zouden vaste wisselkoersen vaststellen ten opzichte van de
-dollar, en centrale banken werden verwacht de rentetarieven te sturen om
-hun nationale valuta's te stabiliseren.
+ingewisseld voor goud: één troy ounce per \$ 35. Andere nationale valuta
+zouden vaste wisselkoersen vaststellen ten opzichte van de dollar, en
+centrale banken werden verwacht de rentetarieven te sturen om hun
+nationale valuta te stabiliseren.
 
 Bretton Woods was ook de geboorteplaats van twee nieuwe internationale
 monetaire instellingen, met Keynes als drijvende kracht achter hun
@@ -4469,13 +4395,13 @@ dan welke instelling dan ook die dat zogenaamd nastreeft.'\footnote{Friedrich
 In \emph{The Argument Refined}, de herziene en uitgebreidere versie van
 het boek dat twee jaar later werd gepubliceerd, stelde Hayek voor dat
 het meest aannemelijke resultaat van een vrij bankensysteem niet een
-breed scala aan valuta's met verschillende doelen voor koopkracht zou
+breed scala aan valuta met verschillende doelen voor koopkracht zou
 zijn. In plaats daarvan speculeerde de econoom dat de overgrote
 meerderheid van de mensen zich zou richten op één type geld dat een
 algemeen acceptabel stabiliteitsdoel heeft. Dit stabiliteitsdoel zou op
-zijn beurt ook door andere valuta's worden aangenomen, verwachtte Hayek,
+zijn beurt ook door andere valuta worden aangenomen, verwachtte Hayek,
 in wezen het stabiliteitsdoel zelf veranderend in iets van een
-meta-valuta waarop andere valuta's zouden worden gebaseerd.
+meta-valuta waarop andere valuta zouden worden gebaseerd.
 
 Op het eerste gezicht zou dit als een toegeving aan het gebruik van een
 consumentenprijsindex om stabiliteit te bepalen kunnen worden beschouwd,
@@ -4497,8 +4423,8 @@ binnen de Oostenrijkse school van economie. Veel Oostenrijkers waren van
 mening dat de markt al een lange tijd geleden de beste vorm van geld had
 gekozen. In een strijd die duizenden jaren heeft geduurd, had goud
 gewonnen. Zij hielden vol dat goud nog steeds de beste vorm van geld
-was, en dat nieuwe valuta's op z'n minst \emph{gedekt} moesten worden
-door het kostbare metaal.
+was, en dat nieuwe valuta op z'n minst \emph{gedekt} moesten worden door
+het kostbare metaal.
 
 Hoewel het in een vrij bankensysteem uiteraard mogelijk was om een door
 goud gedekte valuta te bieden, verwachtte Hayek niet dat de meeste
@@ -4531,7 +4457,7 @@ economische prikkels tot het inzicht komen dat wat ze echt van geld
 verwachten, schaarste is.
 
 In een vrij bankensysteem zou er wel geen regulering zijn die garandeert
-dat gedekte valuta's inderdaad uitwisselbaar waren voor datgene waardoor
+dat gedekte valuta inderdaad uitwisselbaar waren voor datgene waardoor
 ze gedekt werden. Hoewel specifieke afspraken onder regulier
 contractrecht bindend kunnen zijn, zouden er geen bijzondere wetten zijn
 over de dekkingsratio en zou er ook geen kredietverstrekker in uiterste
@@ -4568,11 +4494,11 @@ Hayek zag geld als een spontane orde.
 \section{Het realiseren van vrij
 bankieren}\label{het-realiseren-van-vrij-bankieren}
 
-Hoewel de meeste landen technisch gezien alternatieve valuta's toestaan
+Hoewel de meeste landen technisch gezien alternatieve valuta toestaan
 (er zijn doorgaans geen wetten die ze expliciet illegaal maken) wordt
 dit vaak niet weerspiegeld in de praktijk. Bankregulaties, vergunningen
 voor geldtransfers, antiwitwasregels, wetten tegen vervalsing evenals
-belastingen (zoals vermogenswinstbelasting op alternatieve valuta's)
+belastingen (zoals vermogenswinstbelasting op alternatieve valuta)
 bieden wetshandhavingsinstanties meer dan voldoende middelen om
 bedrijven die valuta uitgeven compleet te sluiten, en hun operators
 veroordeeld te krijgen, of op zijn minst maken ze het opereren van
@@ -4587,7 +4513,7 @@ moesten doorvoeren en juridisch de ruimte voor valutaconcurrentie
 moesten faciliteren. Hayek was van mening dat overheden elke reden
 hadden om dit te voorkomen: zij waren de grootste begunstigden van het
 fiatgeldsysteem en hadden in feite het monopolie op geld. Hayek geloofde
-dat als overheidsvaluta moesten concurreren met vrijemarktvaluta's, deze
+dat als overheidsvaluta moesten concurreren met vrijemarktvaluta, deze
 geen schijn van kans zouden hebben, en overheden dus waarschijnlijk niet
 tevreden zijn met vrije banken.
 
@@ -6301,7 +6227,7 @@ geven.'\footnote{Lawrence H. White, \emph{Thoughts on the Economics of
 
 Maar misschien wel het meest opmerkelijke van alles, was het artikel van
 Max More waarin hij het op zich nam om Hayeks baanbrekende boek over
-concurrerende valuta's samen te vatten en te presenteren.
+concurrerende valuta samen te vatten en te presenteren.
 
 \section{Geld verder
 denationaliseren}\label{geld-verder-denationaliseren}
@@ -6391,8 +6317,8 @@ Via zijn artikel in het tijdschrift, riep de grondlegger van de beweging
 op om transactieprivacy en concurrentie in valuta gezamenlijk te
 overwegen.
 
-`Concurrerende valuta's zullen het huidige systeem aftroeven door
-inflatie te beheersen, de stabiliteit van dynamische markteconomieën te
+`Concurrerende valuta zullen het huidige systeem aftroeven door inflatie
+te beheersen, de stabiliteit van dynamische markteconomieën te
 maximaliseren, de omvang van de overheid te beperken en door de
 absurditeit van de natiestaat te erkennen', schreef More. `Deze
 hervorming combineren met de introductie van anoniem digitaal geld zou
@@ -6401,12 +6327,12 @@ moeilijker voor overheden om transacties te controleren en te belasten.'
 
 Concluderend stelde hij: `Ik betreur het recente overlijden van Hayek
 ten zeerste. {[}\ldots{]} Omdat hij niet in biostase is geplaatst, zal
-Hayek nooit de dagen van elektronisch geld en concurrerende
-privévaluta's meemaken die zijn denken mogelijk zal helpen realiseren.
-Als we het voortouw willen blijven nemen in de toekomst, laten we dan
-kijken wat we kunnen doen om deze cruciale ontwikkelingen te versnellen.
-Wie weet zien we ooit nog een privévaluta die zijn naam
-draagt.'\footnote{More, \emph{Hayek's Denationalisation of Money}, 20.}
+Hayek nooit de dagen van elektronisch geld en concurrerende privévaluta
+meemaken die zijn denken mogelijk zal helpen realiseren. Als we het
+voortouw willen blijven nemen in de toekomst, laten we dan kijken wat we
+kunnen doen om deze cruciale ontwikkelingen te versnellen. Wie weet zien
+we ooit nog een privévaluta die zijn naam draagt.'\footnote{More,
+  \emph{Hayek's Denationalisation of Money}, 20.}
 
 \part{Cypherpunks}
 
@@ -7490,9 +7416,9 @@ In het bijzonder zagen sommige van de Cypherpunks, zoals Tim May, die
 ook deel uitmaakte van de Extropiaanse gemeenschap, in elektronisch geld
 een instrument voor de verwezenlijking van Friedrich Hayeks vrije
 bankeneconomie. Ze beseften dat aangezien elektronisch geld in alles wat
-de markt wil kan worden uitgedrukt, dit concurrentie tussen valuta's
-veel praktischer kon maken en veel moeilijker te stoppen. Vrije banken
-konden overal ter wereld gevestigd zijn, terwijl iedereen met een
+de markt wil kan worden uitgedrukt, dit concurrentie tussen valuta veel
+praktischer kon maken en veel moeilijker te stoppen. Vrije banken konden
+overal ter wereld gevestigd zijn, terwijl iedereen met een
 internetverbinding hun valuta, anoniem, zou kunnen gebruiken.
 
 `De sterke encryptie die wordt gebruikt, biedt meer flexibiliteit in het
@@ -7843,7 +7769,7 @@ Hoewel dit uiteraard bedoeld was als grap, zelfs de door Light Cola
 gedekte DigiFrancs waren niet daadwerkelijk bedoeld om als geld te
 worden gebruikt, kregen de verschillende soorten elektronisch geld toch
 enige bekendheid als ruilmiddel. Sommige Cypherpunks accepteerden deze
-speelvaluta's in ruil voor digitale snuisterijen zoals GIFs.
+speelvaluta in ruil voor digitale snuisterijen zoals GIFs.
 
 Het waren niet bepaald grote waardeoverdrachten, maar het riep wel een
 interessante vraag op.
@@ -9328,7 +9254,7 @@ gereedschappen die ze ter beschikking hadden.
 Szabo ontdekte dat de oudste vormen van geld meestal makkelijk te
 beveiligen waren en aantoonbaar moeilijk te verkrijgen.
 
-Moderne fiatvaluta's bezaten volgens velen in wezen geen van de drie
+Moderne fiatvaluta bezaten volgens velen in wezen geen van de drie
 kwaliteiten van proto-geld. Ze waren niet bijzonder gemakkelijk te
 beschermen tegen diefstal, en de meeste mensen deden zelfs geen poging
 om hun eigen geld te beveiligen, in plaats daarvan vertrouwden ze op
@@ -10715,8 +10641,8 @@ compromissen die elk van hen met zich meebracht.
 Finney leek bijvoorbeeld grotendeels onbeslist, of misschien beter
 gezegd, open-minded over het onderwerp van dekking. Hij merkte op dat
 het dekken van elektronisch geld met fiatvaluta werkte, maar speculeerde
-soms ook over digitale valuta's gedekt door een mandje van goederen, of
-door een synthetisch gemiddelde van meerdere nationale valuta's, of
+soms ook over digitale valuta gedekt door een mandje van goederen, of
+door een synthetisch gemiddelde van meerdere nationale valuta, of
 helemaal niet gedekt.
 
 Elke keer wanneer een nieuw voorstel voor elektronisch geld opdook op de
@@ -10989,7 +10915,7 @@ houden.'\footnote{Gregory Maxwell, IRC message to author, 13 augustus
 Net als eCash en hashcash voorheen, leed ook RPOW aan een
 kip-en-ei-probleem.
 
-\section{E-goud}\label{e-goud}
+\section{E-gold}\label{e-gold}
 
 Ondanks de beste bedoelingen van Hal Finney is RPOW halverwege de jaren
 2000 geëindigd als nog een mislukte poging om elektronisch geld te
@@ -10997,7 +10923,7 @@ creëren.
 
 Het was op dit moment dat sommige techno-libertariërs wat nieuw
 perspectief vonden in een alternatieve vorm van internetgeld, die met
-een zeer verschillend ontwerp, succesvoller leek te zijn: e-goud.
+een zeer verschillend ontwerp, succesvoller leek te zijn: e-gold.
 
 Het project van Douglas Jackson, een digitale valuta gedekt door goud,
 groeide rond het midden van de jaren 2000 snel. Het voldeed aan
@@ -11006,11 +10932,11 @@ elektronisch geld: transacties konden met enige mate van anonimiteit
 worden uitgevoerd, het systeem ondersteunde microtransacties tot op één
 tienduizendste van een gram goud en, natuurlijk, goud zelf
 vertegenwoordigde onvervalsbare kostbaarheid. Naarmate de technologie
-van e-goud verbeterde, konden ontwikkelaars zelfs computerprogramma's in
+van e-gold verbeterde, konden ontwikkelaars zelfs computerprogramma's in
 het systeem integreren via een Application Programming Interface (API),
 waardoor oplossingen die op slimme contracten leken mogelijk werden.
 
-Er was natuurlijk één vereiste waaraan e-goud niet kon voldoen. De
+Er was natuurlijk één vereiste waaraan e-gold niet kon voldoen. De
 ervaring met DigiCash's Cyberbucks had de cypherpunks geleerd wat er kon
 gebeuren met een digitale munteenheid als het afhankelijk was van één
 enkel bedrijf, en de klanten van Douglas Jackson zouden deze les
@@ -11660,6 +11586,7 @@ dat volledig van persoon tot persoon functioneert en geen vertrouwde
 derde partij vereist', luidde Nakamotos e-mail, alvorens de
 hoofdeigenschappen samen te vatten:
 
+\begin{quote}
 \begin{itemize}
 \item
   \emph{Dubbele uitgaven worden voorkomen met een peer-to-peer netwerk.}
@@ -11673,8 +11600,8 @@ hoofdeigenschappen samen te vatten:
 \item
   \emph{Het proof-of-work voor het genereren van nieuwe munten geeft het
   netwerk ook de energie om dubbele uitgaven te voorkomen.}
-\item
 \end{itemize}
+\end{quote}
 
 Bijgevoegd was een link naar de actuele versie van het
 witboek.\footnote{Satoshi Nakamoto, \emph{Bitcoin: A Peer-to-Peer
@@ -11830,7 +11757,7 @@ proof-of-work-hashes \emph{zelf} gebruikten als een vorm van geld, had
 Nakamoto, in wat een van zijn belangrijkste inzichten was, er een
 vernuftig nieuw gebruik voor bedacht.
 
-proof-of-work wordt in Bitcoin gebruikt als consensusmechanisme.
+Proof-of-work wordt in Bitcoin gebruikt als consensusmechanisme.
 
 Naast een set van transacties en de hash van het voorgaande blok, zouden
 Bitcoinblokken een derde ingrediënt bevatten: een nonce. Dit
@@ -12049,7 +11976,7 @@ gebaseerd.
 Toch was de reactie op de publieke aankondiging van Bitcoin grotendeels
 zonder erkenning of waardering.
 
-\section{\texorpdfstring{\textbf{Schaalcapaciteit}}{Schaalcapaciteit}}\label{schaalcapaciteit}
+\section{Schaalcapaciteit}\label{schaalcapaciteit}
 
 De eerste reactie op Nakamotos aankondiging kwam ongeveer een dag later,
 van James A. Donald, een Cypherpunk die toevallig bijna klaar was met
@@ -12415,7 +12342,7 @@ overgelaten aan de vrije markt.
 Echter, in de acht jaar sinds de publicatie van \emph{Denationalisation
 of Money}, was de Oostenrijker nog minder hoopvol geworden dat bestaande
 regeringen bereid zouden zijn om wetten aan te passen om concurrentie
-tussen valuta's mogelijk te maken. Hij vermoedde dat ze te veel voordeel
+tussen valuta mogelijk te maken. Hij vermoedde dat ze te veel voordeel
 haalden uit de status quo.
 
 `Ik geloof nog steeds dat mijn oorspronkelijke plan juist is, maar ik
@@ -12601,20 +12528,22 @@ daaropvolgende jaren, en zo verder.
 
 Nakamoto kondigde in zijn e-mail aan:
 
+\begin{quote}
 De totale circulatie zal bestaan uit 21.000.000 munten. Ze worden
 verdeeld onder de netwerknodes wanneer ze blokken maken, waarbij de
 hoeveelheid elke 4 jaar gehalveerd wordt.
 
-\emph{In de eerste 4 jaren: 10,500,000 munten}
+In de eerste 4 jaren: 10,500,000 munten
 
-\emph{In de volgende 4 jaren: 5.250.000 munten.}
+In de volgende 4 jaren: 5.250.000 munten.
 
-\emph{In de volgende 4 jaren : 2.625.000 munten.}
+In de volgende 4 jaren : 2.625.000 munten.
 
-\emph{In de volgende 4 jaren : 1.312.500 munten.}
+In de volgende 4 jaren : 1.312.500 munten.
 
-\emph{Wanneer dit tot zijn einde komt, kan het systeem transactiekosten
-invoeren, indien nodig.}
+Wanneer dit tot zijn einde komt, kan het systeem transactiekosten
+invoeren, indien nodig.
+\end{quote}
 
 Eenentwintig miljoen munten.\footnote{Het is echter belangrijk op te
   merken dat elke bitcoin tot acht decimalen kan worden opgedeeld,
@@ -12709,7 +12638,7 @@ zelfs een \emph{positieve} feedbacklus kunnen vertonen!
 In zekere zin had Finney het regressietheorema van Ludwig von Mises
 ondersteboven gekeerd: in plaats van de waarde van een valuta te
 herleiden uit de koopkracht in het \emph{verleden}, stelde de cypherpunk
-voor dat een valuta's waarde in eerste instantie kan worden afgeleid uit
+voor dat een valuta waarde in eerste instantie kan worden afgeleid uit
 de verwachte koopkracht in de \emph{toekomst}.
 
 `Het zou logisch kunnen zijn om er gewoon wat te bemachtigen in het
@@ -12972,12 +12901,12 @@ onbestaande. Ondertussen zijn het aantal gebruiksmogelijkheden, het
 totale transactievolume en de marktwaarde van Bitcoin spectaculair
 toegenomen.
 
-In een wereld met van bovenaf, centraal beheerde fiatvaluta's en al hun
+In een wereld met van bovenaf, centraal beheerde fiatvaluta en al hun
 problemen, vertegenwoordigt Bitcoin een krachtig voorbeeld van spontane
 orde.
 
 \bookmarksetup{startatroot}
-
+\addtocontents{toc}{\protect\vspace{10pt}} % adjust the value as needed
 \chapter*{Erkenningen}\label{erkenningen}
 \addcontentsline{toc}{chapter}{Erkenningen}
 
@@ -13068,6 +12997,10 @@ hoofdredacteur van de gedrukte editie.
 
 \chapter*{Bibliografie}\label{bibliografie}
 \addcontentsline{toc}{chapter}{Bibliografie}
+
+% Set up for bibliography formatting
+\setlength{\parindent}{0pt} % No indentation
+\setlength{\parskip}{0.8em}   % Space between entries
 
 \markboth{Bibliografie}{Bibliografie}
 
@@ -14238,8 +14171,94 @@ Cypherpunks mailing list archieven, 1992--2000. Beschikbaar op
 Cryptography mailing list archieven, October 2008--January 2009.
 Beschikbaar op~\url{https://www.metzdowd.com/pipermail/cryptography/}
 
+}
 
-\backmatter
+\bookmarksetup{startatroot}
 
+\chapter*{Over dit boek}\label{over-dit-boek}
+\addcontentsline{toc}{chapter}{Over dit boek}
+
+\markboth{Over dit boek}{Over dit boek}
+
+Bitcoin is niet zomaar uit het niets ontstaan. Al decennia vóór de
+uitvinding van Satoshi Nakamoto probeerden groepen
+computerwetenschappers, privacyactivisten en alternatieve economen een
+digitale vorm van geld te ontwikkelen die onafhankelijk van de overheid
+kon bestaan. Het Genesisboek vertelt het verhaal van de mensen en
+projecten die de weg vrijmaakten voor 's werelds eerste succesvolle
+peer-to-peer elektronisch betaalsysteem.
+
+\bookmarksetup{startatroot}
+
+\chapter*{Reviews}\label{reviews}
+\addcontentsline{toc}{chapter}{Reviews}
+
+\markboth{Reviews}{Reviews}
+
+\begin{quote}
+'Ik had al enige tijd het vermoeden dat Van Wirdum de beste historicus
+van Bitcoin is, en dit boek bevestigt dat.
+
+Het is een indrukwekkend werk. Het Genesisboek biedt een toegankelijk en
+essentieel overzicht van de geschiedenis, en onthult de vele verbanden
+tussen het Weense klassiek-liberalisme, de Anglo-Saksische
+Cypherpunkbeweging en de opkomst van Bitcoin.
+
+Waar andere boeken in de branche vaak de nadruk leggen op veelgeprezen
+ondernemers, heeft Van Wirdum de technische kennis om belangrijke
+figuren te belichten die de fundamenten legden waarop het Bitcoin-gebouw
+later is opgericht.
+
+In zestien informatieve hoofdstukken biedt Het Genesisboek een
+combinatie van diepgaand onderzoek en filosofische inzichten die je
+alleen verwacht van een veteraan in de sector (Van Wirdum was een van de
+eerste schrijvers die in de Bitcoin-industrie aan de slag ging), met de
+aantrekkelijke schrijfstijl die je zoekt in een gerespecteerd
+tijdschrift.
+
+Je kunt Bitcoin niet begrijpen zonder kennis te maken met zijn
+bijzondere oorsprong, en ik ben blij dat dit boek bestaat om die kennis
+voor een breed publiek toegankelijk te maken.'
+
+\textbf{--- Tuur Demeester}
+\end{quote}
+
+\newpage
+
+\begin{quote}
+`Het Genesisboek neemt je mee op een eeuwenlange reis door minder
+bekende verhalen van visionairs, wiens inzichten en innovaties de basis
+vormden voor de revolutionaire creatie van Bitcoin. Van economen die de
+gevestigde orde uitdaagden tot Cypherpunks die nieuwe wegen op het
+gebied van privacy verkenden, weeft Aaron van Wirdum zorgvuldig een
+verhaal over technologische overwinningen, tegenslagen en bijzondere
+doorbraken. De anekdotes over mensen die buiten de gebaande paden
+durfden te dromen en grenzen verlegden om de financiële wereld te
+veranderen, zullen je zeker fascineren.'
+
+\textbf{--- Jameson Lopp}
+\end{quote}
+
+\begin{quote}
+`Waarom verschilt Bitcoin zo van eerdere versies? Dit boek werpt licht
+op de \emph{problemen} die slimme en hardwerkende mensen in de tijd vóór
+Bitcoin bezig hielden. Dit is de juiste manier om het verhaal van een
+technologie te vertellen. Alle belangrijke kwesties worden behandeld en
+zijn in een logische volgorde gepresenteerd. Dit is het beste boek dat
+ooit over Bitcoin geschreven is.'
+
+\textbf{--- Paul Sztorc}
+\end{quote}
+
+\begin{quote}
+`Tot nu toe waren er veel boeken over Bitcoin, maar geen enkel boek
+pakte de veelzijdige culturele achtergrond zo compleet, gestructureerd
+en elegant aan. Aaron van Wirdum, bekend om zijn talent om technische
+materie helder naar een breder publiek over te brengen, heeft dat nu
+gedaan. Dit is een \emph{must-read} als je wilt begrijpen waar Bitcoin
+vandaan komt.'
+
+\textbf{--- Giacomo Zucco}
+\end{quote}
 
 \end{document}

@@ -329,7 +329,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#muntuitgifte" id="toc-muntuitgifte" class="nav-link" data-scroll-target="#muntuitgifte">Muntuitgifte</a></li>
   <li><a href="#positieve-aansporing" id="toc-positieve-aansporing" class="nav-link" data-scroll-target="#positieve-aansporing">Positieve aansporing</a></li>
   <li><a href="#peer-to-peer" id="toc-peer-to-peer" class="nav-link" data-scroll-target="#peer-to-peer">Peer-To-Peer</a></li>
-  <li><a href="#schaalcapaciteit" id="toc-schaalcapaciteit" class="nav-link" data-scroll-target="#schaalcapaciteit"><strong>Schaalcapaciteit</strong></a></li>
+  <li><a href="#schaalcapaciteit" id="toc-schaalcapaciteit" class="nav-link" data-scroll-target="#schaalcapaciteit">Schaalcapaciteit</a></li>
   <li><a href="#zorgen-en-verwarring" id="toc-zorgen-en-verwarring" class="nav-link" data-scroll-target="#zorgen-en-verwarring">Zorgen en verwarring</a></li>
   <li><a href="#optimisme" id="toc-optimisme" class="nav-link" data-scroll-target="#optimisme">Optimisme</a></li>
   <li><a href="#het-pseudoniem" id="toc-het-pseudoniem" class="nav-link" data-scroll-target="#het-pseudoniem">Het pseudoniem</a></li>
@@ -370,14 +370,15 @@ ul.task-list li input[type="checkbox"] {
 <p>Tot en met 31 oktober. Alle abonnees van de Cryptography-mailinglijst ontvingen op dit moment een e-mail van Satoshi Nakamoto. Doordat deze lijst fungeerde als de feitelijke opvolger van de Cypherpunks-lijst, werden veel van de originele Cypherpunks nu voorgesteld aan het nieuwe voorstel voor een digitale valuta. ‘Bitcoin P2P e-cash paper’, luidde het onderwerp.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
 <p>Inderdaad, het elektronische geldproject van Nakamoto had nu een naam: <em>Bitcoin</em>.</p>
 <p>‘Ik heb mij toegelegd om een nieuw elektronisch geldsysteem te creëren dat volledig van persoon tot persoon functioneert en geen vertrouwde derde partij vereist’, luidde Nakamotos e-mail, alvorens de hoofdeigenschappen samen te vatten:</p>
+<blockquote class="blockquote">
 <ul>
 <li><p><em>Dubbele uitgaven worden voorkomen met een peer-to-peer netwerk.</em></p></li>
 <li><p><em>Geen mint of andere vertrouwde partijen.</em></p></li>
 <li><p><em>Deelnemers kunnen anoniem zijn.</em></p></li>
 <li><p><em>Nieuwe munten worden gemaakt op basis van proof-of-work in de stijl van Hashcash.</em></p></li>
 <li><p><em>Het proof-of-work voor het genereren van nieuwe munten geeft het netwerk ook de energie om dubbele uitgaven te voorkomen.</em></p></li>
-<li></li>
 </ul>
+</blockquote>
 <p>Bijgevoegd was een link naar de actuele versie van het witboek.<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> <em>Bitcoin: Een Peer-to-Peer Elektronisch Geldsysteem</em>, luidde nu de titel. In amper negen pagina’s (inclusief een bladzijde voor externe referenties), schetste Nakamoto de kernmechanismen van zijn digitale valuta. Het maakte een compacte, maar zeer efficiënte beschrijving van — zoals de inleiding van het paper omschreef — ‘een elektronisch betalingssysteem gebaseerd op cryptografisch bewijs in plaats van vertrouwen.’</p>
 <section id="de-blokketen" class="level2">
 <h2 class="anchored" data-anchor-id="de-blokketen">De blokketen</h2>
@@ -402,7 +403,7 @@ ul.task-list li input[type="checkbox"] {
 <p>En aangezien elk volgend blok de hash van het voorgaande blok zou bevatten, zou dit zelfs betekenen dat verschillende delen van het netwerk uiteindelijk compleet verschillende, onverenigbare blokketens zouden creëren. Hierdoor zouden gebruikers op termijn hun eigendomsrechten op diverse manieren bijhouden en permanent buiten consensus vallen. Gebruikers van de verschillende delen van het netwerk zouden niet meer met elkaar kunnen handelen.</p>
 <p>Nakamoto wist dat alle Bitcoingebruikers zich moesten verenigen rond dezelfde blokketen, ook al betekende dit dat sommige gebruikers af en toe de blokken moesten opgeven die ze als eerste hadden ontvangen in geval van een conflict. Maar met mogelijk onbetrouwbare deelnemers en niemand die de leiding heeft, was het bepalen van op welke blokketen zich te vestigen alweer een uitstekend voorbeeld van het Byzantijnse Generaalsprobleem.</p>
 <p>Hier komt het proof-of-work-systeem van Adam Back bij kijken, met zijn originele hashcashvoorstel dat de volgende referentie is in het Bitcoin-witboek. proof-of-work vormde op dat moment al de basis voor verschillende digitale muntontwerpen van Cypherpunks, waaronder b-money, Bit Gold en RPOW. Maar waar deze ontwerpen gewoonlijk de proof-of-work-hashes <em>zelf</em> gebruikten als een vorm van geld, had Nakamoto, in wat een van zijn belangrijkste inzichten was, er een vernuftig nieuw gebruik voor bedacht.</p>
-<p>proof-of-work wordt in Bitcoin gebruikt als consensusmechanisme.</p>
+<p>Proof-of-work wordt in Bitcoin gebruikt als consensusmechanisme.</p>
 <p>Naast een set van transacties en de hash van het voorgaande blok, zouden Bitcoinblokken een derde ingrediënt bevatten: een nonce. Dit willekeurige getal zou samen met de rest van de inhoud van een blok gehasht worden om de blok-hash te genereren. De truc van het proof-of-work-systeem was dan ook dat niet elk blok als geldig zou worden beschouwd. Alleen blokken met een blok-hash die begint met een vooraf bepaald aantal nullen zouden worden geaccepteerd door het netwerk van gebruikers.</p>
 <p>Net zoals bij de productie van hashcash, zou de enige manier om een geldig blok te vinden, via vallen en opstaan zijn: een proces dat Satoshi Nakamoto later <em>mining</em> zou noemen. De mensen die aan het <em>minen</em> zijn (of <em>de miners</em>) zouden willekeurig veel verschillende nonces in een gewenst blok moeten proberen op te nemen, totdat één van hen een geldige blok-hash zou genereren. Een geldig blok — dat door niemand zou kunnen worden aangepast nadat het geproduceerd was, omdat dat de blok-hash ook zou veranderen — zou dan over het netwerk worden verzonden, waarbij elke gebruiker hun eigendomsregister zou bijwerken met de transacties in dit blok.</p>
 <p>Miners zouden ondertussen hun inspanningen aanpassen om de nieuwe blok-hash op te nemen in een mogelijk volgend blok, dat op zijn beurt zijn eigen geldige blok-hash zou vereisen. Vergelijkbaar met hoe Bit Goldgebruikers (en vermoedelijk b-moneygebruikers) een cryptografische ketting van hashes zouden produceren om valuta te creëren, waarbij elke geldige hash diende als potentiële tekenreeks voor de volgende, zouden Bitcoinminers een cryptografische ketting van blok-hashes produceren.</p>
@@ -445,7 +446,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Toch was de reactie op de publieke aankondiging van Bitcoin grotendeels zonder erkenning of waardering.</p>
 </section>
 <section id="schaalcapaciteit" class="level2">
-<h2 class="anchored" data-anchor-id="schaalcapaciteit"><strong>Schaalcapaciteit</strong></h2>
+<h2 class="anchored" data-anchor-id="schaalcapaciteit">Schaalcapaciteit</h2>
 <p>De eerste reactie op Nakamotos aankondiging kwam ongeveer een dag later, van James A. Donald, een Cypherpunk die toevallig bijna klaar was met het ontwerpen van zijn eigen digitaal geldsysteem.</p>
 <p>‘Zo’n systeem hebben we zeer, zeer hard nodig, maar zoals ik jouw voorstel begrijp, lijkt het niet op te schalen naar de vereiste omvang’, schreef Donald. ‘Om tijdig dubbele uitgaven te detecteren en te verwerpen, moet men de meeste vorige transacties van de munten in de transactie hebben, wat, naïef geïmplementeerd, vereist dat elk persoon de meeste van eerdere transacties heeft, of de meeste transacties die recentelijk hebben plaatsgevonden. Als honderden miljoenen mensen transacties uitvoeren, is dat heel veel bandbreedte — iedereen moet alles weten, of een aanzienlijk deel daarvan.’<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
 <p>Inderdaad, Nakamotos ontwerp vereiste dat gebruikers alle transacties op het Bitcoinnetwerk bijhielden, om zo hun lokale versies van het eigendomsgrootboek te kunnen bijwerken. Ze zouden precies moeten weten welke munten al waren uitgegeven en welke niet, om er zeker van te zijn dat een munt die ze als betaling ontvingen nog niet aan iemand anders was uitgegeven. Als het Bitcoinnetwerk groot genoeg zou worden, kon dit onuitvoerbaar worden voor de meeste standaardgebruikers.</p>

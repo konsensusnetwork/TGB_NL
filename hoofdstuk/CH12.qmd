@@ -16,7 +16,7 @@ Gedurende die tijd nam Dai de filosofie en missie van de Cypherpunks als zijn ei
 
 *Cypherpunks schrijven code.*
 
-Ook Wei Dai ontwikkelde een aantal tools om de Cypherpunk-zaak te bevorderen. Dit bevatte een versleuteld tunneling-protocol (dat de overdracht van data van het ene netwerk naar het andere mogelijk maakte), een veilig systeem om bestanden te delen en de Crypto++ softwarebibliotheek (die vrij beschikbare cryptografische algoritmen bevat geschreven in de programmeertaal C++). Door zijn werk in codering en zijn doorgaans intelligente en inzichtelijke e-mails, verdiende Dai's bijdragen hem een reputatie als een van de meest productieve en waardevolle deelnemers aan de mailinglijst van de Cypherpunks, ondanks zijn meer ongrijpbare persoonlijkheid.
+Ook Wei Dai ontwikkelde een aantal tools om de Cypherpunk-zaak te bevorderen. Dit bevatte een versleuteld tunneling-protocol (dat de overdracht van data van het ene netwerk naar het andere mogelijk maakte), een veilig systeem om bestanden te delen en de Crypto++ softwarebibliotheek (die vrij beschikbare cryptografische algoritmen bevat geschreven in de programmeertaal C++). Door zijn werk in versleuteling en zijn doorgaans intelligente en inzichtelijke e-mails, verdiende Dai's bijdragen hem een reputatie als een van de meest productieve en waardevolle deelnemers aan de mailinglijst van de Cypherpunks, ondanks zijn meer ongrijpbare persoonlijkheid.
 
 Hoewel het op het eerste gezicht vreemd kan lijken, is het niet zo ongelooflijk dat sommigen vermoeden dat Nick Szabo en Wei Dai eigenlijk dezelfde persoon zijn: de twee hadden veel gemeen. Naast het volgen van dezelfde universitaire studies en dat ze beiden deel uitmaakten van zowel de Cypherpunk als de Extropian gemeenschappen, hadden Szabo en Dai een bijzondere interesse in elektronisch geld, en om vele van dezelfde redenen. Ze wilden helpen om Tim Mays *Galt's Gulch in cyberspace* te realiseren, en beiden begrepen het belang van digitale contracten in deze context.
 
@@ -38,9 +38,7 @@ Net zoals Szabo, legde Dai een sterke nadruk op het belang van contracten. B-mon
 
 Szabo was er ook in geslaagd om Wei Dai ervan te overtuigen dat het minimaliseren van vertrouwen essentieel was. *Vertrouwde derde partijen zijn beveiligingsrisico's*, gaf Dai toe, en hij kwam tot de conclusie dat een elektronisch geldsysteem niet mocht staan of vallen met één enkele entiteit om de saldo's van gebruikers bij te houden, transacties mogelijk te maken of dubbele uitgaven te voorkomen.
 
-In plaats daarvan bedacht Dai twee alternatieve oplossingen.
-
-De eerste variant van b-money was met name zeer ambitieus. In deze variant was er geen centrale instantie, maar onderhield *elke* gebruiker van het systeem zijn eigen exemplaar van het grootboek. Bij elke nieuwe b-moneytransactie zou iedere gebruiker afzonderlijk de geldigheid ervan controleren en hun eigen versie van het grootboek bijwerken als de transactie in orde bleek. Zolang iedereen actueel bleef, zouden de grootboeken gesynchroniseerd blijven onder alle gebruikers.
+In plaats daarvan bedacht Dai twee alternatieve oplossingen. De eerste variant van b-money was met name zeer ambitieus. In deze variant was er geen centrale instantie, maar onderhield *elke* gebruiker van het systeem zijn eigen exemplaar van het grootboek. Bij elke nieuwe b-moneytransactie zou iedere gebruiker afzonderlijk de geldigheid ervan controleren en hun eigen versie van het grootboek bijwerken als de transactie in orde bleek. Zolang iedereen actueel bleef, zouden de grootboeken gesynchroniseerd blijven onder alle gebruikers.
 
 In theorie is het grote voordeel van zo'n gedistribueerd systeem dat corruptie onmogelijk zou zijn. Als iemand bijvoorbeeld te veel geld toeschrijft aan zijn eigen publieke sleutels, zou dit geen enkel effect hebben op iemand anders: alle andere grootboeken zouden onveranderd blijven. Als de bedrieger probeerde zijn vervalste geld uit te geven, zou niemand anders die transactie als geldig zien. Net zoals bij de tijdstempeloplossing van Scott Stornetta en Stuart Haber zou iedereen ervoor zorgen dat alle anderen eerlijk zou blijven.
 
@@ -48,9 +46,7 @@ Het leek een ideale oplossing om het grootboek over alle gebruikers te verspreid
 
 Helaas wist Wei Dai dat het in de praktijk niet haalbaar zou zijn. Om dubbele uitgaven te voorkomen, vereiste het systeem een *synchroon en onverstoorbaar anoniem uitzendkanaal*.[^225] Alleen als alle gebruikers zeker konden zijn dat zij allemaal dezelfde transacties in precies dezelfde volgorde ontvingen, kon iedereen er vertrouwen in hebben dat hun grootboeken gesynchroniseerd waren en dat een betaling die zij zouden ontvangen ook door alle anderen zou worden geregistreerd. Dit leek onwerkbaar: dubbele uitgavetransacties konden tegelijkertijd naar verschillende delen van het netwerk worden gestuurd, terwijl onbetrouwbare deelnemers eenvoudigweg konden liegen over de volgorde van de transacties die ze hadden ontvangen.
 
-O in technische termen: Wei Dai's eerste oplossing negeerde het Byzantijnse Generaalsprobleem.
-
-Dit is waarom Dai in hetzelfde voorstel met een tweede oplossing kwam.
+Of in technische termen: Wei Dai's eerste oplossing negeerde het Byzantijnse Generaalsprobleem. Dit is waarom Dai in hetzelfde voorstel met een tweede oplossing kwam.
 
 In deze tweede versie van het b-money systeem, zou niet iedereen een versie van het hoofdregister bijhouden, maar zou het systeem bestaan uit twee soorten deelnemers: reguliere gebruikers en *servers*. Net zoals de *eigendomsclub* in Szabo's Bit Gold voorstel, zouden alleen deze servers de b-money hoofdregisters bijhouden. Om er zeker van te zijn dat een transactie werd voltooid, moesten reguliere gebruikers checken bij een willekeurige subset van servers, en een betaling pas als finaal beschouwen als die servers de transactie erkenden.
 
@@ -64,9 +60,7 @@ Echter, het b-money voorstel ging niet in detail in op een van deze oplossingen.
 
 ## Monetaire beleid van b-money
 
-Net als Bit Gold zou b-money een zuiver digitale munteenheid zijn. Er zou geen bank of bedrijf zijn die de digitale eenheden dekte met dollars of goud, en geen garantie dat iemand de munteenheid zou accepteren voor betaling.
-
-Maar net zoals Szabo, dacht Dai niet dat dit een probleem zou zijn.
+Net als Bit Gold zou b-money een zuiver digitale munteenheid zijn. Er zou geen bank of bedrijf zijn die de digitale eenheden dekte met dollars of goud, en geen garantie dat iemand de munteenheid zou accepteren voor betaling. Maar net zoals Szabo, dacht Dai niet dat dit een probleem zou zijn.
 
 'Denk er op deze manier over na', betoogde hij op de mailinglijst van de Cypherpunks. 'In het geval van goederengeld, wordt de waarde deels bepaald door de industriële/esthetische waarde van het goed en deels door het nut van het goederengeld als ruilmiddel. In het geval van fiatgeld en b-money, komt alle waarde voort uit zijn nut als ruilmiddel.'[^226]
 
@@ -86,23 +80,21 @@ Een grote voordeel van deze benaderingen was dat alle b-money hashes, ongeacht w
 
 Het was een innovatieve aanpak, maar opnieuw bleef er veel ongespecificeerd. Zowel voor de aanpassingsmethode van de moeilijkheidsgraad als het veilingmodel, bleef het in het voorstel van b-money onduidelijk hoe gebruikers (of servers) zouden beslissen over de volgende moeilijkheidsgraad voor proof-of-work, of de optimale toename van de geldvoorraad... en hoe geschillen in dit deel van het proces zouden kunnen worden opgelost (het Byzantijnse Generaalsprobleem bleef de kop opsteken).
 
-'B-money was nog geen volledig ontwerp om in de praktijk te brengen', erkende Dai later.[^227] Het voorstel bood een ruwe schets van hoe een elektronisch geldsysteem eruit kon zien, maar er waren nog meerdere problemen die moesten worden opgelost voordat het als een daadwerkelijke digitale valuta zou kunnen functioneren.
-
-Dai zelf besloot echter dat hij niet degene zou zijn die deze problemen zou oplossen.
+'B-money was nog geen volledig ontwerp om in de praktijk te brengen', erkende Dai later.[^227] Het voorstel bood een ruwe schets van hoe een elektronisch geldsysteem eruit kon zien, maar er waren nog meerdere problemen die moesten worden opgelost voordat het als een daadwerkelijke digitale valuta zou kunnen functioneren. Dai zelf besloot echter dat hij niet degene zou zijn die deze problemen zou oplossen.
 
 ## Ontgoocheling
 
 In zijn voorstel voor b-money leek Wei Dai nog altijd optimistisch over de mogelijkheden en het potentieel van Tim Mays crypto-anarchistische visie. Maar in werkelijkheid was de ongrijpbare informaticus de droom van de Cypherpunks aan het opgeven.
 
-'Ik ben niet verder gegaan met het ontwerpen omdat ik, tegen de tijd dat ik klaar was met het opschrijven van b-money, eigenlijk al wat gedesillusioneerd was geraakt door crypto-anarchie', herinnerde Dai zich later. 'Ik had niet voorzien dat zo'n systeem, eenmaal geïmplementeerd, zoveel aandacht en gebruik zou aantrekken buiten een kleine groep van *hardcore* cypherpunks.'[^228]
+'Ik ben niet verder gegaan met het ontwerpen omdat ik, tegen de tijd dat ik klaar was met het opschrijven van b-money, eigenlijk al wat gedesillusioneerd was geraakt door crypto-anarchie', herinnerde Dai zich later. 'Ik had niet voorzien dat zo'n systeem, eenmaal geïmplementeerd, zoveel aandacht en gebruik zou aantrekken buiten een kleine groep van *hardcore* Cypherpunks.'[^228]
 
-Dai's ontgoocheling weerspiegelde een groeiend sentiment binnen de Cypherpunk-gemeenschap tegen het einde van de jaren 90. Het internet was inmiddels echt mainstream geworden, maar de Cypherpunks ontdekten dat het grote publiek nogal onverschillig was over online privacy. Het leek erop dat de meeste mensen er geen probleem mee waren om betalingsverwerkers volledig inzicht te geven in hun uitgavenpatroon, en ze leken er ook geen probleem mee te hebben om een ​​spoor van hun andere online activiteiten achter te laten. De gemiddelde internetgebruiker dacht zelfs niet eens aan het versleutelen van hun e-mails.
+Dai's ontgoocheling weerspiegelde een groeiend sentiment binnen de Cypherpunk-gemeenschap tegen het einde van de jaren 90. Het internet was inmiddels echt mainstream geworden, maar de Cypherpunks ontdekten dat het grote publiek nogal onverschillig was over online privacy. Het leek erop dat de meeste mensen er geen probleem mee hadden om betalingsverwerkers volledig inzicht te geven in hun uitgavenpatroon, en ze leken er ook geen probleem mee te hebben om een ​​spoor van hun andere online activiteiten achter te laten. De gemiddelde internetgebruiker dacht zelfs niet eens aan het versleutelen van hun e-mails.
 
 Sinds de Cypherpunks voor het eerst bijeen kwamen in het ongemeubileerde appartement van Eric Hughes, hadden ze bijna tien jaar besteed aan het transformeren van revolutionaire cryptoprotocollen in werkende software. Tot hun grote teleurstelling bleek dat bijna niemand hierin geïnteresseerd was. Het doorzettingsvermogen in hun activisme voor privacy had hen weliswaar geholpen de crypto-oorlogen te winnen, maar dit leek nu een tamelijk nutteloze inspanning te zijn geweest. De meeste internetgebruikers bleken namelijk perfect op hun gemak met het opgeven van zowat al hun persoonlijke informatie in ruil voor iets meer gemak.
 
-Hughes had zich inmiddels vrijwel volledig teruggetrokken uit de gemeenschap en de mailinglijst. Maar niet voordat hij zijn nuchtere herbeoordeling van de *cypherpunks schrijven code*-filosofie had aangeboden, kenmerkend voor de recente desillusie van Wei Dai, hemzelf en andere Cypherpunks.
+Hughes had zich inmiddels vrijwel volledig teruggetrokken uit de gemeenschap en de mailinglijst. Maar niet voordat hij zijn nuchtere herbeoordeling van de *Cypherpunks schrijven code*-filosofie had aangeboden, kenmerkend voor de recente desillusie van Wei Dai, hemzelf en andere Cypherpunks.
 
-'Misschien het belangrijkste wat ik van de cypherpunks heb geleerd is dat alleen code niet voldoende is. Niet alleen code, niet wijdverspreide code, zelfs niet veelgebruikte code', schreef Hughes zich richtend tot de Cypherpunk-mailinglijst. 'Voor langdurig succes is een zekere mate van tolerantie in de samenleving nodig voor activiteiten die in privé worden ondernomen. Niet alleen gemakkelijk of makkelijker, maar noodzakelijk.'[^229]
+'Misschien het belangrijkste wat ik van de Cypherpunks heb geleerd is dat alleen code niet voldoende is. Niet alleen code, niet wijdverspreide code, zelfs niet veelgebruikte code', schreef Hughes zich richtend tot de Cypherpunk-mailinglijst. 'Voor langdurig succes is een zekere mate van tolerantie in de samenleving nodig voor activiteiten die in privé worden ondernomen. Niet alleen gemakkelijk of makkelijker, maar noodzakelijk.'[^229]
 
 Hughes was tot het inzicht gekomen dat het essentieel was dat het grote publiek zou begrijpen waarom privacy belangrijk was. Code was uiteraard ook nog steeds nodig --- code maakte privacy in eerste instantie mogelijk. Maar hij geloofde nu dat code uiteindelijk alleen maar nuttig was als er een brede publieke consensus bestond dat mensen daadwerkelijk het recht zouden moeten hebben om hun privacy te beschermen. Zonder zo'n publieke consensus zou het gebruik van cryptografie kunnen worden gemarginaliseerd en wellicht zelfs verboden, met als risico dat de overblijvende gebruikers mogelijk zouden worden geviseerd en vervolgd.
 
@@ -130,7 +122,7 @@ En wellicht nog het belangrijkst van alles, Zero-Knowledge Systems wist het best
 
 De Hills waren zeker niet kort van ambitie. Freedom was het hoofdproject van het bedrijf, maar Zero-Knowledge Systems wilde uiteindelijk de idealen van Cypherpunks breed realiseren. Het onderzoeks- en ontwikkelingsteam van de start-up, ook wel de 'Kwaadaardige Genieën' genoemd, kreeg de taak om aanvullende producten te ontwerpen. Dit omvatte onder andere een elektronisch geldsysteem gebaseerd op het ontwerp van Brands, met de codenaam Zorkmid (een verwijzing naar de munteenheid van een vroeg online spel).
 
-Oondanks alles, leek één probleem echter aan te houden. De meeste internetgebruikers gaven gewoon niet veel om privacy.
+Ondanks alles, leek één probleem echter aan te houden. De meeste internetgebruikers gaven gewoon niet veel om privacy.
 
 Zero Knowledge Systems had het plan om tegen 2000 zo'n 2,5 miljoen gebruikers van Freedom aan te kunnen. Maar hoewel de 250 medewerkers zich flink hebben ingezet om dit mogelijk te maken, waren er rond de eeuwwisseling slechts iets meer dan twaalfduizend actieve gebruikers op het netwerk, of minder dan een procent van het oorspronkelijke doel.
 
@@ -146,7 +138,7 @@ Ondanks een hoopvol begin, was dit een nieuwe tegenslag voor het doel van de Cyp
 
 ## Mojo Nation
 
-Een andere positieve impuls kwam van twee tot dusver onbekende tieners die een compleet ander deel van de cyberspace ontregelden: Met de lancering van Napster in 1999 gooiden Shawn Fanning en Sean Parker, achttien en negentien jaar oud respectievelijk, de digitale variant van een handgranaat recht in het hart van de muziekindustrie.
+Een andere positieve impuls kwam van twee tot dusver onbekende tieners die een compleet ander deel van de cyberspace ontregelden: Met de lancering van Napster in 1999 gooiden Shawn Fanning en Sean Parker, respectievelijk achttien en negentien jaar oud, de digitale variant van een handgranaat recht in het hart van de muziekindustrie.
 
 Napster was een krachtig idee om één specifieke, technische reden. In tegenstelling tot de meeste internetdiensten tot dat moment, die vertrouwden op een centrale server om gebruikers te voorzien van wat ze nodig hadden, was Napster ontworpen als een *peer-to-peer* (P2P) netwerk. De peers (Napster-gebruikers) op het Napster-netwerk fungeerden als gelijken, ze hielpen elkaar waar nodig: specifieker, ze deelden hun eigen muziekbestanden met elkaar. Omdat Napster zelf geen muziekbestanden verspreidde, dachten Fanning en Parker dat ze claims wegens inbreuk op auteursrechten konden omzeilen, terwijl gebruikers nog steeds gratis nummers konden downloaden.
 

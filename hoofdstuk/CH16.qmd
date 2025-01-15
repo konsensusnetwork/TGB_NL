@@ -2,9 +2,9 @@
 
 > '**Wet, taal, geld**: de drie paradigma's van spontaan ontstane instituties. Gelukkig hebben wet en taal zich mogen ontwikkelen. Geld is ontstaan in zijn oorspronkelijke vorm, maar zodra het er in zijn meest primitieve vorm was, werd het bevroren. Overheden zeiden dat het niet verder mocht ontwikkelen. En wat we sinds die ontwikkeling hebben gehad, waren zaken van overheidsuitvindingen, meestal verkeerde, meestal misbruik van geld, en ik ben tot het punt gekomen dat ik me afvraag: heeft monetair beleid ooit enig goed gedaan? Ik denk het niet. Ik denk dat het alleen maar schade heeft aangericht. Dat is waarom ik nu pleit voor wat ik *denationalisering van geld* heb genoemd.'[^287]
 
-In een van zijn laatst opgenomen interviews in 1984 aan de Universiteit van Freiburg bleef de op leeftijd geraakte Friedrich Hayek pleiten voor radicale monetaire hervormingen. De econoom was er nog steeds van overtuigd dat fiatvaluta en het rentebeleid van centrale banken de economie vergiftigden, en dat geld uiteindelijk het beste kon worden overgelaten aan de vrije markt.
+In een van zijn laatst opgenomen interviews in 1984 aan de Universiteit van Freiburg bleef de op leeftijd geraakte Friedrich Hayek pleiten voor radicale monetaire hervormingen. De econoom was er nog steeds van overtuigd dat fiatvaluta en het rentebeleid van centrale banken de economie vergiftigden, en dat geld uiteindelijk best kon worden overgelaten aan de vrije markt.
 
-Echter, in de acht jaar sinds de publicatie van *Denationalisation of Money*, was de Oostenrijker nog minder hoopvol geworden dat bestaande regeringen bereid zouden zijn om wetten aan te passen om concurrentie tussen valuta mogelijk te maken. Hij vermoedde dat ze te veel voordeel haalden uit de status quo.
+Maar in de acht jaar sinds de publicatie van *Denationalisation of Money*, was de Oostenrijker nog minder hoopvol geworden dat bestaande regeringen bereid zouden zijn om wetten aan te passen die concurrentie tussen valuta mogelijk zou maken. Hij vermoedde dat ze te veel voordeel haalden uit de status quo.
 
 'Ik geloof nog steeds dat mijn oorspronkelijke plan juist is, maar ik vrees dat ik tot de conclusie ben gekomen dat het politiek gezien volledig utopisch is', legde Hayek nuchter uit. 'Overheden zullen het nooit toestaan, en zelfs bankiers begrijpen het idee niet, omdat ze allemaal zijn opgegroeid in een systeem waarin ze zo volledig afhankelijk zijn van centrale banken, overheidsinstellingen, als kredietverstrekkers in uiterste nood.'[^288]
 
@@ -12,11 +12,9 @@ En toch koesterde de toen vierentachtigjarige econoom nog steeds de hoop dat gel
 
 In plaats van te proberen overheden te overtuigen hun feitelijke monopolie op geld op te geven, zouden mensen *op een of andere sluwe, indirecte manier iets moeten introduceren dat ze niet kunnen stoppen*.
 
-Toen Satoshi Nakamoto bijna vijfentwintig jaar later, op 8 januari 2009, terugkeerde naar de Cryptography-mailinglijst om een volledig vertrouwensloos en volledig peer-to-peer elektronisch geldsysteem te starten, deed hij exact wat Hayek suggereerde. Hij maakte gebruik van tientallen jaren onderzoek in privacytechnologie, de architectuur van gedecentraliseerde netwerken en digitale valutasystemen.
+Toen Satoshi Nakamoto bijna vijfentwintig jaar later, op 8 januari 2009, terugkeerde naar de Cryptography-mailinglijst om een volledig vertrouwensloos en volledig peer-to-peer elektronisch geldsysteem te starten, deed hij exact wat Hayek suggereerde. Hij maakte gebruik van tientallen jaren onderzoek in privacytechnologie, de architectuur van gedecentraliseerde netwerken en digitale valutasystemen. Satoshi Nakamoto introduceerde iets wat regeringen niet kunnen stoppen.
 
-Satoshi Nakamoto introduceerde iets wat regeringen niet kunnen stoppen.
-
-## De Codebasis
+## De broncode
 
 *Bitcoin v.0.1 is uitgebracht*, luidde de titel van Nakamotos e-mail deze keer.[^289]
 
@@ -24,15 +22,13 @@ De abonnees van de Cryptography-mailinglijst die de e-mail openden, troffen er e
 
 > 'Hierbij kondig ik de eerste release van Bitcoin aan, een nieuw elektronisch geldsysteem dat een peer-to-peer netwerk gebruikt om dubbele uitgaven te voorkomen. Het is volledig gedecentraliseerd zonder server of centrale autoriteit.'
 
-Naast de korte beschrijving, bevatte de e-mail een downloadlink voor de software, de link naar de website van het project --- bitcoin.org --- en verschillende alinea's met aanvullende informatie, disclaimers ('de software is nog in alfaversie en experimenteel') en basisinstructies voor hoe het te gebruiken.
+Naast de korte beschrijving, bevatte de e-mail een downloadlink voor de software, een link naar de website van het project --- bitcoin.org --- en verschillende alinea's met aanvullende informatie, disclaimers ('de software is nog in alfaversie en experimenteel') en basisinstructies om het te gebruiken.
 
-Iets meer dan twee maanden nadat hij zijn witboek aan de Cryptography-mailinglijst had voorgelegd, maakte Satoshi Nakamoto de eerste versie van de Bitcoinsoftware openbaar. Het programma, bekend als Bitcoin versie 0.1, was klaar om gedownload en gebruikt te worden: men kon sleutelparen aanmaken, transacties uitvoeren, en blokken minen.
-
-De release van de software onthulde ook belangrijke nieuwe informatie over het project.
+Iets meer dan twee maanden nadat hij zijn witboek aan de Cryptography-mailinglijst had voorgelegd, maakte Satoshi Nakamoto de eerste versie van de Bitcoinsoftware openbaar. Het programma, bekend als Bitcoin versie 0.1, was klaar om gedownload en gebruikt te worden: men kon sleutelparen aanmaken, transacties uitvoeren, en blokken minen. De release van de software onthulde ook belangrijke nieuwe informatie over het project.
 
 Wat meteen opviel --- hoewel het geen grote verrassing was --- was dat Satoshi Nakamoto Bitcoin had vrijgegeven als vrije en open source-software. Iedereen was vrij om de code te kopiëren, te gebruiken, te delen en te wijzigen. Gepubliceerd onder de MIT-licentie, konden zelfs commerciële projecten Nakamotos werk integreren (dit maakt de MIT-licentie minder restrictief dan Richard Stallmans GPL-licentie, die deze vrijheid enkel toekent aan andere vrije softwareprojecten).
 
-Het was essentieel dat Bitcoin vrije en open source-software was, omdat de code noodzakelijkerwijs controleerbaar moest zijn: om het systeem echt vertrouwensloos te laten functioneren, zouden gebruikers moeten kunnen verifiëren dat het werkt zoals beloofd. Dit was wellicht nog crucialer voor Bitcoin dan voor vele andere softwareprojecten, aangezien de code letterlijk geld vertegenwoordigde. Passend bij de filosofie van Stallman voor vrije software, zouden mensen Satoshi Nakamoto niet moeten vertrouwen om geen malware in te bouewen om munten te stelen of een geheime achterdeur voor het bijdrukken van geld te introduceren.
+Het was essentieel dat Bitcoin vrije en open source-software was, omdat de code noodzakelijkerwijs controleerbaar moest zijn: om het systeem echt vertrouwensloos te laten functioneren, zouden gebruikers moeten kunnen verifiëren dat het werkt zoals beloofd. Dit was wellicht nog crucialer voor Bitcoin dan voor vele andere softwareprojecten, aangezien de code letterlijk geld vertegenwoordigde. Passend bij de filosofie van Stallman voor vrije software, zouden mensen Satoshi Nakamoto niet moeten vertrouwen om geen malware in te bouwen om munten te stelen of een geheime achterdeur voor het bijdrukken van geld te introduceren.
 
 Meer in het algemeen maakte Nakamotos vrije en open source-code, geschreven in de programmeertaal C++ en jaren later door de eerste voltijdse Bitcoinontwikkelaar beschreven als 'briljant maar slordig', voor het eerst volledig inzichtelijk hoe het elektronische geldsysteem intern werkte.[^290]
 
@@ -42,9 +38,9 @@ Het handtekeningsysteem dat ingebed is in Bitcoin was de Elliptic Curve Digital 
 
 Tegelijkertijd had Nakamoto een aantal functies toegevoegd om Bitcoin wat gebruiksvriendelijker te maken. Hoewel betalingen technisch gezien nog altijd naar publieke sleutels gedaan werden, konden gebruikers hun publieke sleutel (of de hash van hun publieke sleutel) coderen in een Bitcoin-*adres*. Wanneer ze geld ontvingen, deelden ze doorgaans alleen deze adressen met andere gebruikers.
 
-De codebasis van Bitcoin onthulde ook veel van de min of meer willekeurige parameters die Nakamoto had gekozen. Zoals hij al eerder op de Cryptography-mailinglijst had gesuggereerd, zou er gemiddeld elke tien minuten een nieuw blok gevonden moeten worden. Clusters van 2.016 blokken zouden vervolgens worden gebruikt om de moeilijkheidsgraad van minen aan te passen: als de 2.016 blokken in minder dan twee weken werden gevonden, zou de moeilijkheidsgraad van Bitcoin proportioneel worden verhoogd, en als het meer dan twee weken duurde om de 2.016 blokken te vinden, zou de moeilijkheidsgraad van het proof-of-work naar beneden worden bijgesteld.
+De broncode van Bitcoin onthulde ook veel van de min of meer willekeurige parameters die Nakamoto had gekozen. Zoals hij al eerder op de Cryptography-mailinglijst had gesuggereerd, zou er gemiddeld elke tien minuten een nieuw blok gevonden moeten worden. Clusters van 2.016 blokken zouden vervolgens worden gebruikt om de moeilijkheidsgraad van minen aan te passen: als de 2.016 blokken in minder dan twee weken werden gevonden, zou de moeilijkheidsgraad van Bitcoin proportioneel worden verhoogd, en als het meer dan twee weken duurde om de 2.016 blokken te vinden, zou de moeilijkheidsgraad van het proof-of-work naar beneden worden bijgesteld.
 
-En om het Bitcoinnetwerk daadwerkelijk op gang te brengen, bevatte de codebasis ook de allereerste blok: het *Genesisblok*. Dit blok moest inderdaad ingebed worden in de release zelf; de blokketen had een startpunt nodig. Een interessant detail is echter dat de beloning voor dit Genesisblok in feite waardeloos was: de protocolregels stonden niet toe dat deze specifieke munten onder enige voorwaarde uitgegeven konden worden. In Bitcoin kunnen nieuwe munten alleen worden verdiend door competitief te minen, en Nakamoto weigerde een voorsprong van één blok voor zichzelf te accepteren. Als hij munten wilde hebben, moest zelfs hij, de maker van het systeem, ze verdienen --- net als alle anderen.
+En om het Bitcoinnetwerk daadwerkelijk op gang te brengen, bevatte de broncode ook de allereerste blok: het *Genesisblok*. Dit blok moest inderdaad ingebed worden in de release zelf; de blokketen had een startpunt nodig. Een interessant detail is echter dat de beloning voor dit Genesisblok in feite waardeloos was: de protocolregels stonden niet toe dat deze specifieke munten onder enige voorwaarde uitgegeven konden worden. In Bitcoin kunnen nieuwe munten alleen worden verdiend door competitief te minen, en Nakamoto weigerde een voorsprong van één blok voor zichzelf te accepteren. Als hij munten wilde hebben, moest zelfs hij, de maker van het systeem, ze verdienen --- net als alle anderen.
 
 Nakamoto benadrukte nog eens zijn expliciete weigering om enig oneerlijk voordeel te genieten boven andere Bitcoingebruikers. Hij had ook een bewijs toegevoegd dat hij in de weken of maanden voorafgaand aan het openbaar maken van de code niet privé had gemined. Hij had een kop van de voorpagina van de Engelse krant *The Times* van 3 januari in het Genesisblok opgenomen, wat aantoont dat deze blok niet voor die datum kon gecreëerd zijn. Dit betekent op zijn beurt dat elk daaropvolgend blok later gemined moest zijn.[^291]
 
@@ -56,13 +52,9 @@ De wereld van geld en financiën was een puinhoop geworden. Met Bitcoin stelde S
 
 ## Eenentwintig miljoen
 
-Het interessantste nieuw onthulde kenmerk was echter het *monetaire beleid* van Bitcoin.
+Het interessantste nieuw onthulde kenmerk was echter het *monetaire beleid* van Bitcoin. Het witboek beschreef hoe Bitcoin een voorspelbaar uitgifteschema kon garanderen, dankzij vaste blokbeloningen en het moeilijkheidsaanpassingsalgoritme. Maar het document gaf nog niet precies aan hoe dit schema eruit zou zien.
 
-Het witboek beschreef hoe Bitcoin een voorspelbaar uitgifteschema kon garanderen, dankzij vaste blokbeloningen en het moeilijkheidsaanpassingsalgoritme. Maar het document gaf nog niet precies aan hoe dit schema eruit zou zien.
-
-Het bleek nu dat de code van Bitcoin zo was geprogrammeerd dat het aantal nieuwe munten die per blok werden toegekend halveerde na elke 210.000 blokken, of ongeveer eens in de vier jaar. In de eerste vier jaar zouden miners 50 nieuwe munten per blok verdienen, maar in de vier jaar daarna zouden ze slechts 25 nieuwe munten per blok verdienen. In de volgende vier jaar zou dat 12,5 zijn, daarna 6,25 in de vier daaropvolgende jaren, en zo verder.
-
-Nakamoto kondigde in zijn e-mail aan:
+Het bleek nu dat de code van Bitcoin zo was geprogrammeerd dat het aantal nieuwe munten die per blok werden toegekend halveerde na elke 210.000 blokken, of ongeveer eens in de vier jaar. In de eerste vier jaar zouden miners 50 nieuwe munten per blok verdienen, maar in de vier jaar daarna zouden ze slechts 25 nieuwe munten per blok verdienen. In de volgende vier jaar zou dat 12,5 zijn, daarna 6,25 in de vier daaropvolgende jaren, en zo verder. Nakamoto kondigde in zijn e-mail aan:
 
 > De totale circulatie zal bestaan uit 21.000.000 munten. Ze worden verdeeld onder de netwerknodes wanneer ze blokken maken, waarbij de hoeveelheid elke 4 jaar gehalveerd wordt.
 >
@@ -76,15 +68,11 @@ Nakamoto kondigde in zijn e-mail aan:
 >
 > Wanneer dit tot zijn einde komt, kan het systeem transactiekosten invoeren, indien nodig.
 
-Eenentwintig miljoen munten.[^292] Bitcoin was ontworpen met een vaste voorraad.
-
-De gevolgen hiervan waren waarschijnlijk groter dan veel abonnees van de Cryptography-mailinglijst zich realiseerden.
+Eenentwintig miljoen munten.[^292] Bitcoin was ontworpen met een vaste voorraad. De gevolgen hiervan waren waarschijnlijk groter dan veel abonnees van de Cryptography-mailinglijst zich realiseerden.
 
 Slechts enkele jaren eerder was het RPOW-project van Hal Finney mislukt, grotendeels omdat mensen geen economische prikkel hadden (zelfs een negatieve economische prikkel) om RPOW-tokens te bezitten. Dit betekende dat vrijwel niemand bereid was om ze als betaling te accepteren. Doordat er bijna geen plaatsen waren om ze uit te geven, waren de tokens praktisch nutteloos en daardoor waardeloos, wat betekende dat ze niet echt als geld gebruikt konden worden. Net als eCash en hashcash, leed RPOW onder een kip-en-ei-probleem dat het niet had kunnen overwinnen.
 
-Bitcoin moest zichzelf ook opstarten vanaf nul. Toen Nakamoto zijn code voor het eerst vrijgaf, werd bitcoin natuurlijk nergens als betaalmiddel geaccepteerd en hadden deze munten geen monetaire waarde.
-
-Maar het was net Hal Finney die besefte dat de stimulansen deze keer enigszins anders zaten.
+Bitcoin moest zichzelf ook opstarten vanaf nul. Toen Nakamoto zijn code voor het eerst vrijgaf, werd bitcoin natuurlijk nergens als betaalmiddel geaccepteerd en hadden deze munten geen monetaire waarde. Maar het was net Hal Finney die besefte dat de stimulansen deze keer enigszins anders zaten.
 
 Op 10 januari, twee dagen na de release van Bitcoin, was Finney de eerste persoon op de Cryptography-mailinglijst die reageerde op de aankondigingsmail. Na Nakamoto te feliciteren met de release en te beloven het te proberen, richtte de veteraan in de wereld van elektronisch geld zijn aandacht snel op de vaste geldvoorraad van Bitcoin.
 
@@ -106,7 +94,7 @@ In een vervolgmail suggereerde Nakamoto: '[...] zoals beloningspunten, donatieto
 
 Dit zou de vraag *nog* meer moeten stimuleren. Hierdoor zou bitcoin in feite het klassieke kip-en-ei-probleem, waar eerdere digitale geldprojecten onder te lijden hadden, kunnen overwinnen. Bitcoin zou zelfs een *positieve* feedbacklus kunnen vertonen!
 
-In zekere zin had Finney het regressietheorema van Ludwig von Mises ondersteboven gekeerd: in plaats van de waarde van een valuta te herleiden uit de koopkracht in het *verleden*, stelde de cypherpunk voor dat een valuta waarde in eerste instantie kan worden afgeleid uit de verwachte koopkracht in de *toekomst*.
+In zekere zin had Finney het regressietheorema van Ludwig von Mises ondersteboven gekeerd: in plaats van de waarde van een valuta te herleiden uit de koopkracht in het *verleden*, stelde de Cypherpunk voor dat een valuta waarde in eerste instantie kan worden afgeleid uit de verwachte koopkracht in de *toekomst*.
 
 'Het zou logisch kunnen zijn om er gewoon wat te bemachtigen in het geval dat het aanslaat', stemde Satoshi Nakamoto toe. 'Als genoeg mensen op dezelfde manier denken, wordt dat een *self-fulfilling prophecy*.'[^295]
 
@@ -146,9 +134,7 @@ Desondanks was het zaadje geplant. Met een vastgestelde geldvoorraad, semi-anoni
 
 Eén ding was duidelijk: als Bitcoin gebruikers zou aantrekken, zouden die uit eigen initiatief komen. Bitcoin was een valuta die men gebruikte als en wanneer men ervoor koos om het te gebruiken, niet omdat iemand hen daartoe dwong. Terwijl het gebruik van fiatgeld bij wet verplicht was --- het was het geld dat tenminste voor het betalen van belasting moest worden gebruikt --- zou het verzenden en ontvangen van bitcoin volledig vrijwillig zijn.
 
-Uiteindelijk kwamen er inderdaad gebruikers. Ondanks een zeer traag beginjaar, begon Bitcoin in de loop van 2010 best wat aantrekkingskracht te vertonen. Het transactievolume begon langzaam toe te nemen, nieuwe ontwikkelaars ontdekten het project, en er vormde zich een kleine onlinegemeenschap op een internetforum dat volledig gewijd was aan het project voor elektronisch geld.
-
-Dat is het moment waarop Satoshi Nakamoto het laatste aanzienlijke punt van centralisatie uit het project verwijderde: zichzelf.
+Uiteindelijk kwamen er inderdaad gebruikers. Ondanks een zeer traag beginjaar, begon Bitcoin in de loop van 2010 best wat aantrekkingskracht te vertonen. Het transactievolume begon langzaam toe te nemen, nieuwe ontwikkelaars ontdekten het project, en er vormde zich een kleine onlinegemeenschap op een internetforum dat volledig gewijd was aan het project voor elektronisch geld. Dat is het moment waarop Satoshi Nakamoto het laatste aanzienlijke punt van centralisatie uit het project verwijderde: zichzelf.
 
 De pseudonieme maker van Bitcoin had aanvankelijk een leidende rol in de voortzetting van de softwareontwikkeling en had een grote invloed op de richting van het vrije en open source-project. Maar toen de digitale valuta in populariteit begon te groeien, begon Nakamoto zich langzaam terug te trekken. Uiteindelijk, tegen het einde van 2010, stopte hij volledig met reageren op berichten en verwijderde hij zijn contactgegevens van de bitcoin.org-website.
 
@@ -166,11 +152,11 @@ Vandaag de dag wordt de code van Bitcoin onderhouden en ontwikkeld door een open
 
 Een deel van dit werk bestaat simpelweg uit het updaten van de software. Iedereen met de juiste vaardigheden kan de bestaande code verbeteren, nieuwe code toevoegen, of het werk van anderen controleren. Volgens de Wet van Linus, zou de kwaliteit van de Bitcoinsoftware moeten verbeteren naarmate meer ontwikkelaars hieraan werken: *met genoeg ogen, zijn alle bugs oppervlakkig*.
 
-Daarnaast kunnen aan Bitcoins protocol ook nieuwe functies worden toegevoegd om zo het systeem enkele van de originele beperkingen op domeinen te laten overwinnen, zoals schaalbaarheid en privacy. Bijvoorbeeld kan Script uitgebreid worden om nieuwe uitgavevoorwaarden te bieden, meer soorten slimme contracten mogelijk te maken, en zelfs volledig nieuwe betalingslagen boven op het basisprotocol mogelijk te maken, vergelijkbaar met wat James A. Donald en Hal Finney suggereerden in hun eerste reacties op Nakamotos whitepaper.[^297]
+Daarnaast kunnen aan Bitcoins protocol ook nieuwe functies worden toegevoegd om zo het systeem enkele van de originele beperkingen op domeinen te laten overwinnen, zoals schaalbaarheid en privacy. Bijvoorbeeld kan Script uitgebreid worden om nieuwe uitgavevoorwaarden te bieden, meer soorten slimme contracten mogelijk te maken, en zelfs volledig nieuwe betalingslagen boven op het basisprotocol mogelijk te maken, vergelijkbaar met wat James A. Donald en Hal Finney suggereerden in hun eerste reacties op Nakamotos ontwerptekst.[^297]
 
-Dit betekent niet dat iedereen zomaar elke wijziging kan aanbrengen aan de code van Bitcoin en die naar eigen inzicht over het netwerk kan uitrollen. In een samenwerkingsverband moet de ontwikkelingsgemeenschap over het algemeen akkoord gaan met een wijziging van de originele codebasis (nu *Bitcoin Core* genoemd), en dit is nog meer het geval wanneer de wijzigingen effect hebben op regels van het Bitcoinprotocol. Zonder ruime consensus, zal een verandering meestal niet doorgevoerd worden.
+Dit betekent niet dat iedereen zomaar elke wijziging kan aanbrengen aan de code van Bitcoin en die naar eigen inzicht over het netwerk kan uitrollen. In een samenwerkingsverband moet de ontwikkelingsgemeenschap over het algemeen akkoord gaan met een wijziging van de originele broncode (nu *Bitcoin Core* genoemd), en dit is nog meer het geval wanneer de wijzigingen effect hebben op regels van het Bitcoinprotocol. Zonder ruime consensus, zal een verandering meestal niet doorgevoerd worden.
 
-Dit terzijde, omdat Bitcoin bestaat uit vrije en open source-software, kan elke ontwikkelaar een kopie (*fork*) van deze codebasis maken en wijzigingen aanbrengen in deze nieuwe versie van de software. Ze zijn ook vrij om deze software te gebruiken en te verspreiden onder anderen. Maar geen enkele ontwikkelaar --- of ze nu bijdragen aan Bitcoin Core of aan een kopie --- heeft de macht om hun software aan gebruikers op te dringen.
+Dit terzijde, omdat Bitcoin bestaat uit vrije en open source-software, kan elke ontwikkelaar een kopie (*fork*) van deze broncode maken en wijzigingen aanbrengen in deze nieuwe versie van de software. Ze zijn ook vrij om deze software te gebruiken en te verspreiden onder anderen. Maar geen enkele ontwikkelaar --- of ze nu bijdragen aan Bitcoin Core of aan een kopie --- heeft de macht om hun software aan gebruikers op te dringen.
 
 Inderdaad, het zijn de gebruikers, niet de ontwikkelaars die uiteindelijk beslissen welke code ze willen gebruiken. Ze kunnen altijd besluiten een verandering niet te accepteren door te weigeren om een nieuwe release te downloaden en te installeren, en in plaats daarvan te blijven werken met de Bitcoinsoftware die ze al gebruikten. Het tegenovergestelde is ook waar: gebruikers kunnen een nieuwe versie van de software (of eender welke *fork*) aanvaarden die een verandering bevat. Bij Bitcoin is niemand de baas... en is iedereen de baas.
 
@@ -178,7 +164,7 @@ Het Bitcoin-ecosysteem heeft in de loop der jaren zeker de introductie van versc
 
 Toch heeft dit niet tot chaos geleid. De meeste gebruikers willen geen veranderingen aanbrengen die de waarde van hun munten zouden verminderen, zoals code die inflatie van de valuta introduceert voorbij de limiet van eenentwintig miljoen, of een versie van de software die het niet eens zou kunnen worden met de rest van het netwerk. Integendeel: gebruikers, in hun eigen belang handelend, hebben de neiging alleen waardevolle veranderingen te accepteren: upgrades die het protocol sterker maken, nodes efficiënter, en het netwerk betrouwbaarder.
 
-In de meer dan tien jaar sinds Satoshi Nakamoto vertrok, hebben ontwikkelaars en gebruikers zich op eigen kracht georganiseerd om gezamenlijk tot een zeer betrouwbaar Bitcoinprotocol te komen: nieuwe blokken worden ongeveer elke tien minuten gevonden, splitsingen in de blokketen zijn zeldzaam en kortstondig, en dubbele uitgaven zijn onbestaande. Ondertussen zijn het aantal gebruiksmogelijkheden, het totale transactievolume en de marktwaarde van Bitcoin spectaculair toegenomen.
+In de meer dan tien jaar sinds Satoshi Nakamoto vertrok, hebben ontwikkelaars en gebruikers zich op eigen kracht georganiseerd om gezamenlijk tot een zeer betrouwbaar Bitcoinprotocol te komen: nieuwe blokken worden ongeveer elke tien minuten gevonden, splitsingen in de blokketen zijn zeldzaam en kortstondig, en dubbele uitgaven zijn onbestaand. Ondertussen zijn het aantal gebruiksmogelijkheden, het totale transactievolume en de marktwaarde van Bitcoin spectaculair toegenomen.
 
 In een wereld met van bovenaf, centraal beheerde fiatvaluta en al hun problemen, vertegenwoordigt Bitcoin een krachtig voorbeeld van spontane orde.
 

@@ -1,10 +1,10 @@
 # Spontane orde
 
-Net als zijn vader wilde Friedrich August von Hayek hoogleraar in de biologie worden, maar de Eerste Wereldoorlog veranderde zijn levenspad volledig.[^8] Hij werd geboren in 1899 en groeide op tijdens de laatste jaren van het Oostenrijks-Hongaarse Rijk. Op zijn achtiende verjaardag werd hij opgeroepen om te vechten aan het Italiaanse front. Het laatste deel van de oorlog bracht hij door als waarnemer in vliegtuigen.
+Net als zijn vader wilde Friedrich August von Hayek hoogleraar in de biologie worden, maar de Eerste Wereldoorlog veranderde zijn levenspad volledig.[^8] Hij werd geboren in 1899 en groeide op tijdens de laatste jaren van het Oostenrijks-Hongaarse Rijk. Op zijn achtiende verjaardag werd hij opgeroepen om aan het Italiaanse front te vechten. Het laatste deel van de oorlog bracht hij in vliegtuigen door als waarnemer.
 
 Toen hij in 1918 na het einde van de oorlog thuis kwam, vond Hayek (het aristocratische voorvoegsel *von* werd na de ineenstorting van de dubbele monarchie weggelaten) zijn woonplaats Wenen in totale verwoesting terug. De oorlog was verloren, de economie vernietigd en het rijk was niet meer. Het moreel in de stad was gebroken.
 
-Erger nog, de nieuwe Oostenrijkse regering spendeerde zoveel om de naoorlogse kosten te dekken dat de waarde van hun nationale munteenheid enorm kelderde. Hoewel de kroon tijdens de oorlog al meer dan 90 procent van zijn koopkracht had verloren, liep dit in de naoorlogse jaren pas echt uit de hand. Terwijl een Amerikaanse dollar voor ongeveer negen kronen verkocht werd in 1917, kon diezelfde dollar tegen 1923 meer dan 70.000 van de Oostenrijkse munteenheden opbrengen. Het nationale geld was in feite vernietigd.[^9]
+Erger nog, de nieuwe Oostenrijkse regering spendeerde zoveel om de naoorlogse kosten te dekken dat de waarde van hun nationale munteenheid enorm kelderde. Hoewel de Oostenrijkse munt, de kroon, tijdens de oorlog al meer dan 90 procent van zijn koopkracht had verloren, liep dit in de naoorlogse jaren pas echt uit de hand. Terwijl een Amerikaanse dollar voor ongeveer negen kronen verkocht werd in 1917, kon diezelfde dollar tegen 1923 meer dan 70.000 van de Oostenrijkse munteenheden opbrengen. Het nationale geld was in feite vernietigd.[^9]
 
 Nadat hij van dichtbij geconfronteerd was met de verschrikkingen van de Grote Oorlog, waarin bijna achttien miljoen mannen en vrouwen het leven lieten, besloot Hayek om zijn tijd en energie te besteden aan het proberen te voorkomen van een herhaling van dergelijke dramatische conflicten in de toekomst. Hij was vastberaden om betere manieren te vinden om de maatschappij te organiseren.
 
@@ -12,13 +12,13 @@ Als leergierig persoon uit een hoogopgeleid gezin -- beide grootvaders van hem w
 
 Hij schreef zich niet meteen in voor alle economielessen. Voor de socialistisch-geïnspireerde Hayek leek de economieprofessor aan de universiteit een beetje te hard te denken vanuit vrijemarktprincipes. Pas toen diezelfde economieprofessor Hayek in dienst nam om een tijdelijk overheidskantoor in de stad te bemannen, besloot hij eindelijk zijn lessen een kans te geven.[^10]
 
-De naam van de professor was Ludwig von Mises. Hayek kwam al snel te weten dat Mises een vooraanstaand econoom was binnen een relatief nieuwe school van economisch denken.[^11]
+De naam van de professor was Ludwig von Mises. Hayek ontdekte al snel dat Mises een vooraanstaand econoom was binnen een relatief nieuwe school van economisch denken.[^11]
 
 ## Oostenrijkse economie
 
 De Eerste Wereldoorlog was het gewelddadige hoogtepunt van een tijdperk dat sterk doordrenkt was van nationalisme, de ideologie die stelt dat collectieven van mensen met een gemeenschappelijke herkomst, geschiedenis, cultuur of taal --- *naties* --- zichzelf als staten moesten organiseren en handelen in het belang van deze staten.
 
-Het nationalisme had in de negentiende eeuw ook invloed op de economische wetenschap. Waar de *klassieke economie*, met haar sterke nadruk op vrije markten zoals voorgesteld door baanbrekende economen zoals David Hume, Adam Smith, en David Ricardo, dominant was in de late achttiende eeuw, begonnen Europese universiteiten gedurende de jaren 1800 de methoden van de *historische school van economie* te omarmen. De meest invloedrijke experts pleitten voor staatsinterventies in de economie, zoals arbeidswetten, beschermde heffingen, en progressieve belastingen.[^12]
+Het nationalisme had in de negentiende eeuw ook invloed op de economische wetenschap. Waar de *klassieke economie*, met haar sterke nadruk op vrije markten zoals voorgesteld door baanbrekende economen zoals David Hume, Adam Smith, en David Ricardo, dominant was in de late achttiende eeuw, begonnen Europese universiteiten vanaf de jaren 1800 de methoden van de *historische school van economie* te omarmen. De meest invloedrijke experts pleitten voor staatsinterventies in de economie, zoals arbeidswetten, beschermde heffingen, en progressieve belastingen.[^12]
 
 De methodologie van de historische economische school -- de verzameling methoden die gebruikt worden om de economie te bestuderen -- sloot algemene economische theorieën uit en stelde dat de *regels* waaraan economieën voldoen verschillen per cultuur en tijd. In tegenstelling tot het opstellen van modellen of theorema's, verzamelden historische economen grote hoeveelheden historische data voor empirische analyse.
 
@@ -58,7 +58,7 @@ Laten we een autofabriek nemen om dit argument te illustreren. In een vrije mark
 
 Een autofabriek die verlies draait daarentegen, voegt duidelijk geen waarde toe aan de maatschappij, aangezien mensen de gebruikte middelen meer waarderen dan het eindproduct. Uiteindelijk zal zo'n fabriek de deuren moeten sluiten. De middelen die de fabriek gebruikte, kunnen nu worden gekocht (of in het geval van arbeid, ingehuurd) door winstgevendere bedrijven om beter ingezet te worden (de Oostenrijkse econoom Joseph Schumpeter zou dit later *creatieve destructie* noemen).
 
-In een socialistische samenleving zou een staatsgeleide autofabriek op bevel van een centrale planner auto's produceren. Wanneer de auto's op bevel geproduceerd worden, is er geen terugkoppeling van de maatschappij in de vorm van winst of verlies. De autofabriek kan mogelijk middelen verspillen aan het maken van auto's die mensen niet waarderen, of niet zo hoog waarderen als andere producten die gemaakt hadden kunnen worden met dezelfde middelen.
+In een socialistische samenleving zou een staatsgeleide autofabriek op bevel van een centrale planner auto's produceren. Wanneer de auto's op bevel geproduceerd worden, is er geen terugkoppeling van de maatschappij in de vorm van winst of verlies. De autofabriek kan mogelijk middelen verspillen aan het maken van auto's die mensen niet waarderen, of niet zo hoog waarderen, als andere producten die gemaakt hadden kunnen worden met dezelfde middelen.
 
 Zonder vrije markt is er geen *economische berekening* mogelijk, wat de fundamentele taak van ieder economisch systeem onmogelijk maakt: de efficiënte verdeling van schaarse middelen over de samenleving.[^18]
 
@@ -96,7 +96,7 @@ En belangrijk is dat dit allemaal mogelijk is zonder centrale planning. De vrije
 
 ## Rentetarieven
 
-Waar Mises Hayeks begrip van spontane orde vormde doorheen ruimte -- de toewijzing van middelen van het ene punt in de samenleving naar het andere -- hielpen de werken van von Böhm-Bawerk om Hayeks begrip van spontane orde in de tijd te vormen.
+Terwijl Mises Hayeks begrip van spontane orde vormde *in ruimtelijke zin* — door te laten zien hoe middelen van het ene punt in de samenleving naar het andere worden toegewezen — hielpen de werken van von Böhm-Bawerk hem om het concept van spontane orde door de *tijd* heen te begrijpen.
 
 Von Böhm-Bawerk kwam in de jaren 1890 op de proppen met een nieuw idee in het vakgebied economie, dat van groot belang werd voor de Oostenrijkse School: *tijdsvoorkeur*. Von Böhm-Bawerk stelde dat mensen doorgaans liever vroeger dan later goederen en diensten willen ontvangen. De mate van deze voorkeur verschilt echter van persoon tot persoon. Iedereen heeft zijn eigen subjectieve tijdsvoorkeur.
 
@@ -104,11 +104,9 @@ Deze tijdsvoorkeuren, bepleitte von Böhm-Bawerk, manifesteren zich op de markt 
 
 Stel je voor dat zowel Marie als Joris graag een nieuwe auto willen hebben. Ze hebben beiden liever vandaag dan volgend jaar een nieuwe auto. Maar Marie, wier auto net kapot is gegaan en die elke dag naar haar werk moet rijden, hechtte veel meer waarde aan een nieuwe auto vandaag dan aan een nieuwe auto volgend jaar. Joris daarentegen heeft nog steeds een redelijk goede auto en werkt van thuis uit, dus heeft hij niet zo'n haast om een nieuwe te krijgen. Marie heeft een hogere tijdsvoorkeur dan Joris.
 
-Stel je voor dat een nieuwe auto $ 20.000 kost. Marie heeft helaas geen geld, terwijl Joris $ 20.000 aan spaargeld heeft. Op het eerste zicht zou dit suggereren dat Joris eerder dan Marie een nieuwe auto zal kopen: Joris kan het zich vandaag al veroorloven, terwijl Marie eerst nog geld moet sparen voordat ze een nieuwe auto kan betalen.
+Stel je voor dat een nieuwe auto $ 20.000 kost. Marie heeft helaas geen geld, terwijl Joris $ 20.000 aan spaargeld heeft. Op het eerste zicht zou dit suggereren dat Joris eerst een nieuwe auto zal kopen: Joris kan het zich vandaag al veroorloven, terwijl Marie nog meer moet sparen.
 
-Maar er is een andere optie. Joris zou Marie $ 20.000 kunnen lenen.
-
-Of dit een goede deal is voor hen beiden, kan eenvoudig worden ingeschat met behulp van rentetarieven. Laten we zeggen dat Marie, omdat ze een hoge tijdsvoorkeur heeft, vandaag in principe een auto 10 procent meer zou waarderen dan een auto volgend jaar. Dat wil zeggen dat ze bereid zou zijn om $ 22.000 voor een auto van $ 20.000 te betalen als ze deze vandaag kan hebben in plaats van een jaar vanaf nu. Ze is daarom bereid om 10 procent rente te betalen op een lening van $ 20.000. Joris, die een lage tijdsvoorkeur heeft, zou een nieuwe auto vandaag slechts 1 procent meer waarderen dan een auto volgend jaar, een verschil van slechts $ 200.
+Maar er is ook nog een andere optie. Joris zou Marie $ 20.000 kunnen lenen. Of dit een goede deal is voor hen beiden, kan eenvoudig worden ingeschat met behulp van rentetarieven. Laten we zeggen dat Marie, omdat ze een hoge tijdsvoorkeur heeft, vandaag in principe een auto 10 procent meer zou waarderen dan een auto volgend jaar. Dat wil zeggen dat ze bereid zou zijn om $ 22.000 voor een auto van $ 20.000 te betalen als ze deze vandaag kan hebben in plaats van een jaar vanaf nu. Ze is daarom bereid om 10 procent rente te betalen op een lening van $ 20.000. Joris, die een lage tijdsvoorkeur heeft, zou een nieuwe auto vandaag slechts 1 procent meer waarderen dan een auto volgend jaar, een verschil van slechts $ 200.
 
 Joris zou dus kunnen besluiten om zijn aankoop uit te stellen en in plaats daarvan $ 20.000 te lenen aan Marie. Na een jaar zal hij het geleende bedrag plus een extra $ 2.000 aan rente terugkrijgen. Dit zorgt ervoor dat Marie de auto vandaag al kan kopen, terwijl de extra $ 2.000 voor Joris de *kosten* van het uitstellen van de aankoop van $ 200 ruimschoots goedmaakt. Beide partijen zullen er voordeel uit halen. Rentetarieven stellen hen in staat onderling hun middelen in de tijd te verdelen, zodat ze het beste overeenkomen met hun individuele tijdsvoorkeuren.
 
@@ -120,9 +118,7 @@ Hayek was dus van mening dat rentetarieven producenten informeerden over de prod
 
 Het mooie hiervan, zag Hayek in, is dat de tijdsvoorkeuren van mensen netjes overeenkomen met de productiecapaciteit van de economie. Als tijdsvoorkeuren laag zijn, investeren mensen hun geld (of in de meeste gevallen zouden ze het *sparen* op een bankrekening en de bank investeert het voor hen), en producenten worden gestimuleerd om te investeren in hun langetermijnproductieprocessen. Dus wanneer tijdsvoorkeuren in de toekomst toenemen, kunnen mensen hun geld en de rente die ze verdienen uitgeven aan de vruchten van al deze verhoogde productiviteit.
 
-Rentevoeten, legde Hayek uit, bevorderen spontane orde door de tijd heen!
-
-Dat is natuurlijk zo, *als* rentetarieven in feite de tijdsvoorkeuren nauwkeurig weerspiegelen. Hayek merkte echter op dat het in de praktijk vaak niet toegelaten werd om zo te zijn.
+Rentevoeten, legde Hayek uit, bevorderen spontane orde door de tijd heen! Dat is natuurlijk zo, *als* rentetarieven in feite de tijdsvoorkeuren nauwkeurig weerspiegelen. Hayek merkte echter op dat het in de praktijk vaak niet toegelaten werd om zo te zijn.
 
 ## De Federal Reserve
 
@@ -140,7 +136,7 @@ Maar Hayek, die helemaal uit Oostenrijk was gekomen om de rol van de Fed als kre
 
 Hayek vond dat de garanties van de nieuwe instelling economische prikkels verstoorden. Hij vreesde dat gunstige economische vooruitzichten de commerciële banken konden aansporen om leningen ruimer te verstrekken dan voorheen, waardoor de geldhoeveelheid in wezen toenam. Meer bankleningen betekent meer geld om in de economie uit te geven.[^22] Dit *nieuwe geld* zou de algemene prijzen omhoog drijven -- *inflatie* -- waardoor bedrijfswinsten over de hele lijn hoger uitvallen en op hun beurt de gunstige economische vooruitzichten bevestigen. De mogelijkheid van commerciële banken om in wezen nieuw geld aan te maken door middel van leningen, zou een feedback-loop van buitensporige kredietcreatie kunnen veroorzaken.
 
-Wanneer de kredietcreatie echter onvermijdelijk vertraagt, stopt de muziek. Als de hoeveelheid nieuw geld die in de economie wordt geïnjecteerd afneemt, zullen de prijzen dalen --- deflatie. Bedrijven zullen geconfronteerd worden met hun te optimistische inschattingen van de economische vooruitzichten en kunnen hun producten niet voor de verwachte prijzen verkopen. Sommige bedrijven zullen moeten inkrimpen, wat leidt tot een stijging van de werkloosheid en verdere vertraging van de economie, omdat mensen minder te besteden hebben. Andere bedrijven zullen failliet gaan omdat ze hun leningen niet kunnen terugbetalen, wat commerciële banken in de problemen brengt om aan de depositovereisten te voldoen. Deze banken zullen nieuwe leningen moeten stopzetten, wat de economie nog verder vertraagt, resulterend in meer ontslagen en onbetaalde leningen, en zo verder.
+Wanneer de kredietcreatie echter onvermijdelijk vertraagt, valt het doek. Als de hoeveelheid nieuw geld die in de economie wordt geïnjecteerd afneemt, zullen de prijzen dalen --- deflatie. Bedrijven zullen geconfronteerd worden met hun te optimistische inschattingen van de economische vooruitzichten en kunnen hun producten niet voor de verwachte prijzen verkopen. Sommige bedrijven zullen moeten inkrimpen, wat leidt tot een stijging van de werkloosheid en verdere vertraging van de economie, omdat mensen minder te besteden hebben. Andere bedrijven zullen failliet gaan omdat ze hun leningen niet kunnen terugbetalen, wat commerciële banken in de problemen brengt om aan de depositovereisten te voldoen. Deze banken zullen nieuwe leningen moeten stopzetten, wat de economie nog verder vertraagt, resulterend in meer ontslagen en onbetaalde leningen, en zo verder.
 
 Economen zouden later naar een dergelijke dynamiek verwijzen als een *deflatoire schuldenspiraal*. Deze lagen aan de basis van enkele bankencrises die de oprichting van de Federal Reserve in eerste instantie motiveerden.[^23]
 
@@ -160,19 +156,15 @@ En Hayek geloofde dat dit niet eens de belangrijkste manier was waarop de Federa
 
 ## De Oostenrijkse conjunctuurcyclus
 
-Het lezen van het jaarverslag van 1923 van de Federal Reserve bepaalde de koers van Hayeks carrière als econoom voor de komende decennia.
-
-In het document legde de Amerikaanse centrale bank uit hoe ze haar beheer over de geldhoeveelheid gebruikte om economische activiteit te stabiliseren. Specifiek verklaarde de Amerikaanse monetaire autoriteit hoe ze rentetarieven gebruikte als beleidsinstrument: een zeer nieuw concept op dat moment, geïntroduceerd door wat zelf een zeer nieuwe instelling was.[^26]
+Het jaarverslag van de Federal Reserve uit 1923 bepaalde de richting van Hayeks carrière als econoom voor de komende decennia. In dit document legde de Amerikaanse centrale bank uit hoe zij haar beheer van de geldhoeveelheid gebruikte om de economische activiteit te stabiliseren. In het bijzonder verklaarde de monetaire autoriteit van de VS hoe zij rentetarieven als beleidsinstrument inzette --- een nieuw concept op dat moment, geïntroduceerd door een instelling die zelf nog maar net opgericht was.[^26]
 
 Het idee was vrij eenvoudig. Door valuta in het bankensysteem te injecteren (doorgaans door overheidsobligaties te kopen), kon de Fed commerciële banken voorzien van meer reserves en ze daardoor stimuleren (en in staat stellen) om leningen te verstrekken tegen steeds lagere rentetarieven. Dit zou bedrijven en mensen aanmoedigen om te lenen. Anderzijds, door reserves uit het bankensysteem te halen (door overheidsobligaties te verkopen), konden banken worden ontmoedigd om leningen te verstrekken, waardoor de rentetarieven stijgen en economische activiteit wordt afgeremd.
 
-De Federal Reserve geloofde dat ze de conjunctuurcyclus konden afvlakken door de rentetarieven zorgvuldig te beheren. Als de Fed de rentetarieven tijdens recessies licht kon verlagen, en ze tijdens oplevingen een beetje kon verhogen, konden ze de markt een kleine stimulans bieden als die in een dip zat, en een beetje afremmen als hij op hol sloeg.
-
-Hayek was een grote criticus van dit beleid.
+De Federal Reserve geloofde dat ze de conjunctuurcyclus konden afvlakken door de rentetarieven zorgvuldig te beheren. Als de Fed de rentetarieven tijdens recessies licht kon verlagen, en ze tijdens oplevingen een beetje kon verhogen, konden ze de markt een kleine stimulans bieden als die in een dip zat, en een beetje afremmen als hij op hol sloeg. Hayek was een grote criticus van dit beleid.
 
 De Oostenrijker was van mening dat de Federal Reserve valse signalen naar de markt zond door de rentetarieven kunstmatig laag te houden. Iedereen maakte gebruik van goedkoop geld om te investeren in bedrijven, die dit kapitaal gebruikten om meer middelen toe te wijzen aan hun productieprocessen. Echter, waarschuwde Hayek, er was geen overeenkomstige uitgestelde consumptie om de toekomstige productiegroei op te vangen. De rentetarieven waren niet laag omdat veel mensen een lage tijdsvoorkeur hadden en hun geld spaarden voor toekomstige uitgaven, maar omdat de Fed ze zo laag hield.
 
-Wanneer rentetarieven uiteindelijk zouden stijgen en de creatie van nieuw krediet zou vertragen, zouden bedrijven worden gedwongen om de productie te voltooien, maar zouden ze ontdekken dat er geen echte vraag was om dit te evenaren. Zonder klanten om hun goederen te kopen, of in ieder geval niet tegen de prijzen die ze hadden verwacht, zouden bedrijven gedwongen zijn om werknemers te ontslaan en mogelijk in gebreke te blijven op hun leningen. Zo start een deflatoire schuldenspiraal.
+Wanneer rentetarieven uiteindelijk zouden stijgen en de creatie van nieuw krediet zou vertragen, zouden bedrijven worden gedwongen om de productie te voltooien, maar zouden ze ontdekken dat er geen echte vraag was om dit te evenaren. Zonder klanten om hun goederen te kopen, of in ieder geval niet tegen de prijzen die ze hadden verwacht, zouden bedrijven gedwongen zijn om werknemers te ontslaan en mogelijk in gebreke blijven op hun leningen. Zo start een deflatoire schuldenspiraal.
 
 Toen Hayek in de Verenigde Staten aankwam, floreerde de economie: zowel de consumptie als de hoeveelheid investeringen schoten omhoog. Maar hij kwam tot de conclusie dat dit niet stand kon houden. De manipulatie van rentetarieven verstoorde de opkomst van de spontane economische orde in de tijd. Hayek was bezorgd dat de Federal Reserve in plaats van het afvlakken van de hoogte- en dieptepunten van de economische cyclus, deze eigenlijk versterkte.
 
@@ -192,9 +184,9 @@ In wat de basis zou worden van nog een nieuwe school van economisch denken - het
 
 Door geld te besteden aan openbare infrastructuurwerken, zou de overheid banen creëren. Dat zorgt ervoor dat mensen lonen hebben om uit te geven en geld weer in de economie kan gaan circuleren. Wanneer mensen weer op eigen houtje gaan uitgeven, zou de overheid vervolgens haar uitgaven moeten verminderen. Keynes stelde voor dat beleidsmakers een *anti-cyclische* aanpak van overheidsuitgaven zouden moeten uitvoeren.
 
-Eén specifieke beleidsmaker was volledig klaar voor deze uitdaging. Franklin D. Roosevelt (FDR), die in 1932 de eerste Amerikaanse presidentsverkiezingen sinds de beurscrash won, had zijn campagne gevoerd met de belofte om via zijn presidentieel mandaat actief een einde te maken aan de depressie. Toen hij zijn ambt opnam, vormden Keynes' ideeën het economische kader om zijn beleid te ondersteunen (zij het enigszins *nadat* dit beleid werd aangekondigd[^28]). Via een reeks overheidsprogramma's, die *de New Deal* werden genoemd, begon FDR al snel miljarden dollars uit te geven aan wegen, luchthavens, bruggen, dammen en nog veel meer.
+Eén specifieke beleidsmaker was helemaal klaar voor deze uitdaging. Franklin D. Roosevelt (FDR), die in 1932 de eerste Amerikaanse presidentsverkiezingen na de beurscrash won, had campagne gevoerd met de belofte om via zijn presidentieel mandaat actief een einde te maken aan de depressie. Toen hij zijn ambt opnam, vormden Keynes' ideeën het economische kader om zijn beleid te ondersteunen (zij het pas *nadat* dit beleid werd aangekondigd[^28]). Via een reeks overheidsprogramma's, die *de New Deal* werden genoemd, begon FDR al snel miljarden dollars uit te geven aan wegen, luchthavens, bruggen, dammen en nog veel meer.
 
-Hayek was echter helemaal niet overtuigd van de ideeën van Keynes. Aangezien hij geloofde dat de economische malaise slechts een correctie was van de onhoudbare boom die eraan voorafging, was hij van mening dat overheidsuitgaven de uiteindelijk onhoudbare situatie alleen maar langer lieten voortduren.
+Hayek was echter helemaal niet overtuigd van de ideeën van Keynes. Aangezien hij geloofde dat de economische malaise slechts een correctie was van de onhoudbare hoogconjunctuur die eraan voorafging, was hij van mening dat overheidsuitgaven de uiteindelijk onhoudbare situatie alleen maar langer lieten voortduren.
 
 Daarbovenop was er een wellicht nog belangrijker bezwaar tegen de Keynesiaanse anti-cyclische benadering, die niet eens echt gerelateerd was aan economie. Dit bezwaar was van politieke aard: Hayek geloofde niet dat politici te vertrouwen waren om te beslissen wanneer een economie in een opwaartse of neerwaartse trend zit. In plaats daarvan zouden ze in de verleiding komen om geld te lenen en in de economie uit te geven wanneer daar vraag naar is... wat evengoed continu het geval kan zijn.
 
@@ -206,7 +198,7 @@ Dit leidde tot wat vaak beschouwd wordt als een van de grootste intellectuele co
 
 En er was in belangrijke opzichten een scherp contrast. Terwijl Keynes geloofde dat de economie onder andere regels werkt wanneer deze op nationale schaal wordt geanalyseerd (het macro-niveau), hield Hayek vol dat alles uiteindelijk voortkomt uit individuen en hun subjectieve keuzes (het micro-niveau). Waar Keynes graag focuste op prijsgemiddelden en totalen, was Hayek meer geïnteresseerd in prijsverschillen. En terwijl Keynes betoogde dat overheden een actieve rol moesten spelen in het beheren van de economie, hield Hayek vol dat de vrije markt het beste aan zichzelf kon worden overgelaten.
 
-Als Hayek het boegbeeld was van spontane orde van onderaf, dan had hij in Keynes en zijn interventiebeleid van bovenaf zijn hedendaagse, intellectuele rivaal gevonden.
+Als Hayek het boegbeeld was van spontane orde van onderaf, dan had hij in Keynes en zijn interventiebeleid van bovenaf, zijn hedendaagse, intellectuele rivaal gevonden.
 
 {{< include ../buy-button.qmd >}}
 

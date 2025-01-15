@@ -10,13 +10,9 @@ Ondertussen raakte de jonge Szabo geïnteresseerd in computers, een nieuwe techn
 
 Tijdens zijn studie, deed Szabo een jaar stage bij het *Jet Propulsion Laboratory* (JPL), een onderzoekscentrum van NASA, voordat hij in 1989 zijn diploma in de informatica behaalde. Nu midden in zijn twintiger jaren, besloot hij zo'n 1300 kilometer naar het zuiden te verhuizen, naar de San Francisco Bay Area, waar zijn vaardigheden bijzonder gewild waren. Hij vond een programmeerbaan bij IBM, dat gedurende de jaren '80 met zijn relatief goedkope microcomputers de standaard had gezet voor thuiscomputers.
 
-Szabo's persoonlijke interesses waren echter altijd breder dan alleen informatica. Als een echte veelweter, genoot hij ervan om in zijn vrije tijd een scala aan onderwerpen te bestuderen: van politiek tot biologie en van geschiedenis tot economie, met een speciale focus op vrijemarkteconomie. Net als Hayek, die vooral in deze latere fase van zijn carrière economische concepten gebruikte om hardnekkige politieke realiteiten uit te leggen, waardeerde Szabo hoe het combineren van multi-disciplinaire kennis hem kon helpen nieuwe inzichten op te doen. Hij hield ervan deze inzichten te benutten om te speculeren over de toekomst van technologie, samenleving en mensheid.
+Szabo's persoonlijke interesses waren echter altijd breder dan alleen informatica. Als een echte veelweter, genoot hij ervan om in zijn vrije tijd een scala aan onderwerpen te bestuderen: van politiek tot biologie en van geschiedenis tot economie, met een speciale focus op vrijemarkteconomie. Net als Hayek, die vooral in deze latere fase van zijn carrière economische concepten gebruikte om hardnekkige politieke realiteiten uit te leggen, waardeerde Szabo hoe het combineren van multi-disciplinaire kennis hem kon helpen nieuwe inzichten op te doen. Hij hield ervan deze inzichten te benutten om te speculeren over de toekomst van technologie, samenleving en mensheid, waardoor hij perfect bij de Extropianen paste.
 
-Dit maakte hem perfect passen bij de Extropianen.
-
-De techno-utopische, futuristische beweging kreeg tijdens zijn eerste jaren in de Bay Area steeds meer aanhangers, met name in en rond Silicon Valley, en Szabo zou zichzelf profileren als een vooraanstaand lid van de gemeenschap. De informaticus publiceerde essays en brieven in het *Extropy* magazine over onderwerpen als ruimtekolonisatie (geïnspireerd door zijn ervaring bij JPL), kunstmatige intelligentie, nanotechnologie en meer.
-
-Het was ook via de Extropiaanse gemeenschap dat Szabo kennis maakte met Tim May.
+De techno-utopische, futuristische beweging kreeg tijdens zijn eerste jaren in de Bay Area steeds meer aanhangers, met name in en rond Silicon Valley, en Szabo zou zichzelf profileren als een vooraanstaand lid van de gemeenschap. De informaticus publiceerde essays en brieven in het *Extropy* magazine over onderwerpen als ruimtekolonisatie (geïnspireerd door zijn ervaring bij JPL), kunstmatige intelligentie, nanotechnologie en meer. Via de Extropiaanse gemeenschap maakte Szabo ook kennis met Tim May.
 
 ## De Crypto-anarchist
 
@@ -28,7 +24,7 @@ Gedurende de volgende paar jaar hielp Szabo, waar hij kon, aan de zaak van de Cy
 
 Maar Szabo's interesse in digitale privacy was uiteindelijk slechts een deel van een veel groter geheel. Hij omarmde het idee van een *Galt's Gulch in cyberspace*. Zoals uitvoerig beschreven in de vele posts op de mailinglijst door zijn vriend Tim May, had Szabo zich gerealiseerd dat de benodigde instrumenten om individuen te beschermen tegen staatsmacht niet langer alleen voorbehouden waren aan fictieliteratuur. De computerwetenschapper met Hongaarse roots was het eens met het feit dat cryptografie het ideaal van echte vrije markten, ongevoelig voor het gebruik van fysieke macht of staatsdwang, dichter bij kon brengen.
 
-'Als we een stap terug nemen en kijken naar wat veel cypherpunks proberen te bereiken, dan is er een hoofdthema van een Ghandiaanse cyberspace waar geweld slechts een illusie kan zijn, of het nu in Mortal [Kombat] of *flame wars* is', schreef hij in de Cypherpunk-mailinglijst. 'Cypherpunks willen dat onze telefoonnetwerken, internetbedrijven, etc., zowel beschermd zijn tegen geweld en niet afhankelijk zijn van geweld voor hun bestaan. Onze informatiesystemen uit de 20e eeuw, van uitgeverijen tot kredietkaarten, zijn vaak sterk afhankelijk geweest van de dreiging van geweld, meestal via wetshandhaving, om intellectuele eigendomsrechten te beschermen, fraude te voorkomen, schulden in te vorderen, enzovoort.'
+'Als we een stap terug nemen en kijken naar wat veel Cypherpunks proberen te bereiken, dan is er een hoofdthema van een Ghandiaanse cyberspace waar geweld slechts een illusie kan zijn, of het nu in Mortal [Kombat] of *flame wars* is', schreef hij in de Cypherpunk-mailinglijst. 'Cypherpunks willen dat onze telefoonnetwerken, internetbedrijven, etc., zowel beschermd zijn tegen geweld als onafhankelijk zijn van geweld voor hun bestaan. Onze informatiesystemen uit de 20e eeuw, van uitgeverijen tot kredietkaarten, zijn vaak sterk afhankelijk geweest van de dreiging van geweld, meestal via wetshandhaving, om intellectuele eigendomsrechten te beschermen, fraude te voorkomen, schulden in te vorderen, enzovoort.'
 
 Zijn voorstel was:
 
@@ -66,9 +62,7 @@ Als algemeen vertrekpunt vermoedde Szabo dat de beste oplossing te vinden was in
 
 'De modaliteiten van contractuele relaties kunnen vaak worden geformaliseerd en gestandaardiseerd, en vervolgens worden uitgevoerd via netwerkgebaseerde protocollen', legde Szabo uit op de Cypherpunk-mailinglijst. 'Deze protocollen, samen met economische prikkels, beschermen de uitvoering van het contract tegen zowel fraude door de hoofdpartijen als aanvallen van derden.' [^203]
 
-Dat gezegd zijnde, zouden de meeste slimme contracten vermoedelijk ook een vorm van geld nodig hebben: meestal moet minstens een van de partijen een betaling doen als onderdeel van de deal. Bovendien moest dit een soort valuta zijn die over het internet kon worden overgedragen, en die autonoom door een computerprogramma kon worden verstuurd... bij voorkeur anoniem.
-
-Voor slimme contracten is elektronisch geld noodzakelijk.
+Dat gezegd zijnde, zouden de meeste slimme contracten vermoedelijk ook een vorm van geld nodig hebben: meestal moet minstens een van de partijen een betaling doen als onderdeel van de deal. Bovendien moest dit een soort valuta zijn die over het internet kon worden overgedragen, en die autonoom door een computerprogramma kon worden verstuurd... bij voorkeur anoniem. Voor slimme contracten is elektronisch geld noodzakelijk.
 
 ## Vertrouwde derde partijen
 
@@ -120,9 +114,7 @@ Voordat vrij bankieren een haalbaar alternatief kon zijn, concludeerde Szabo, mo
 
 ## De oorsprong van geld
 
-Om geld te kunnen creëren, moest Szabo het eerst begrijpen.
-
-De Cypherpunk was natuurlijk niet de eerste die de natuur van geld bestudeerde, en hij dacht ook niet dat hij dat was. Hij was goed op de hoogte van de theorieën van Carl Menger en Ludwig von Mises over de oorsprong van geld, en deelde grotendeels hun inschatting dat geld voortkwam uit ruilhandel. Maar waar Menger en Mises hun stelling hadden ontwikkeld door logica en redeneren, ging Szabo op zoek naar daadwerkelijke historische documenten, en zelfs archeologische resten.
+Om geld te kunnen creëren, moest Szabo het eerst begrijpen. De Cypherpunk was natuurlijk niet de eerste die de natuur van geld bestudeerde, en hij dacht ook niet dat hij dat was. Hij was goed op de hoogte van de theorieën van Carl Menger en Ludwig von Mises over de oorsprong van geld, en deelde grotendeels hun inschatting dat geld voortkwam uit ruilhandel. Maar waar Menger en Mises hun stelling hadden ontwikkeld door logica en redeneren, ging Szabo op zoek naar daadwerkelijke historische documenten, en zelfs archeologische resten.
 
 In zijn zoektocht onderzocht Szabo de prehistorie van de mensheid en bestudeerde hij pre-industriële samenlevingen, zoals die van de Native Americans. Hij ontdekte dat geld zelfs ouder was dan tekst; vroege vormen van geld werden al gebruikt door jager-verzamelaarstammen. Dit leidde tot zijn hypothese dat geld letterlijk zo oud kan zijn als de mensheid zelf. Zoals eerder gesuggereerd door evolutiebioloog Richard Dawkins in zijn baanbrekende werk *The Selfish Gene*[^208], kan het vermogen om geld te gebruiken diep geworteld zijn in ons DNA en kan het de overleving van de soort bevorderd hebben.
 
@@ -138,11 +130,7 @@ Om misbruik te voorkomen, kan het zelfs rationeel worden voor elk individu om te
 
 Maar Szabo legde uit dat genen strategieën kunnen coderen om oplossingen te vinden voor uitdagingen in de speltheroie van de echte wereld. Gedurende lange perioden en via natuurlijke selectie zouden de beste eigenschappen, die de overleving van een soort bevorderen, dominant worden.
 
-Het gebruik van geld werd door de Cypherpunk als zo'n eigenschap beschouwd.
-
-Voor het grootste deel van de menselijke geschiedenis was dit echter een heel ander soort geld dan wat moderne samenlevingen gebruiken.
-
-Doorheen de eeuwen en over verschillende culturen heen, droegen mensen juwelen, zoals kettingen, iets wat geen enkel ander dier doet. De oppervlakkige uitleg hiervoor is dat mensen simpelweg plezier beleven aan het dragen van dergelijke sieraden. Maar Szabo begreep dat er een fundamenteelere vraag schuilging achter deze simpele verklaring, het soort vraag dat een evolutionair bioloog zou stellen. *Waarom* hebben mensen zich zo ontwikkeld dat ze plezier beleven aan het dragen van sieraden?
+Het gebruik van geld werd door de Cypherpunk als zo'n eigenschap beschouwd. Voor het grootste deel van de menselijke geschiedenis was dit echter een heel ander soort geld dan wat moderne samenlevingen gebruiken. Doorheen de eeuwen en over verschillende culturen heen, droegen mensen juwelen, zoals kettingen, iets wat geen enkel ander dier doet. De oppervlakkige uitleg hiervoor is dat mensen simpelweg plezier beleven aan het dragen van dergelijke sieraden. Maar Szabo begreep dat er een fundamenteelere vraag schuilging achter deze simpele verklaring, het soort vraag dat een evolutionair bioloog zou stellen. *Waarom* hebben mensen zich zo ontwikkeld dat ze plezier beleven aan het dragen van sieraden?
 
 Net als Dawkins vermoedde Szabo dat mensen in de loop van de eeuwen een voorliefde voor ornamenten hadden ontwikkeld omdat dit een evolutionair voordeel bood: het stelde hen in staat om te coöpereren en middelen te *delen* op een grotere schaal dan alleen binnen hun eigen stam.
 
@@ -152,9 +140,7 @@ Het stelde stammen in staat een mate van samenwerking en specialisatie tussen he
 
 ## Proto-geld
 
-Niet zomaar elk sieraad voldeed echter.
-
-Toen hij de resten van pre-civiele samenlevingen analyseerde, ontdekte Szabo dat mensen uit alle culturen de neiging hadden om zich te richten op verzamelobjecten met enkele zeer specifieke eigenschappen. Hoewel archeologen voorbeelden van proto-geld hadden gevonden die zo uiteenlopend waren als schelpen van een zeldzaam type slak, tot struisvogelei-scherven, tot mammoet-tanden, deelden ze allemaal drie algemene kenmerken.
+Niet zomaar elk sieraad voldeed echter. Toen hij de resten van pre-civiele samenlevingen analyseerde, ontdekte Szabo dat mensen uit alle culturen de neiging hadden om zich te richten op verzamelobjecten met enkele zeer specifieke eigenschappen. Hoewel archeologen voorbeelden van proto-geld hadden gevonden die zo uiteenlopend waren als schelpen van een zeldzaam type slak, tot struisvogelei-scherven, tot mammoet-tanden, deelden ze allemaal drie algemene kenmerken.
 
 Allereerst waren de verzamelobjecten relatief makkelijk te beschermen tegen onopzettelijk verlies en diefstal. Kettingen zijn waarschijnlijk het beste voorbeeld in dit opzicht: ze zijn bijna onmogelijk te verliezen als ze om de nek worden gedragen. Alternatief gezien, waren ornamenten die niet op iemands lichaam gedragen konden worden, doorgaans minstens makkelijk te verbergen.
 

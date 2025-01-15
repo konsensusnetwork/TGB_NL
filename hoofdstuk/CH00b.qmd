@@ -48,17 +48,15 @@ Vroeg in de jaren 2000 groeide e-gold snel, en Jackson werkte onvermoeid om zijn
 
 Maar Jackson was iets vergeten: hij had zijn bedrijf niet als betaaldienst geregistreerd. Daardoor voerde hij ook niet alle vereiste types van *Know-Your-Customer* (KYC) en *Anti-Money Laundering* (AML) controles uit. Hij was zich er niet van bewust dat hij dat moest doen.
 
-Het was niet zo dat hij nonchalant was. Het werd pas een federale misdaad om zonder licentie als betaaldienst te opereren (voor elke staat die er een vereist) na de invoering van de *Patriot Act*, die in het leven werd geroepen als reactie op de terroristische aanslagen van 11 september 2001, enkele jaren na de lancering van e-gold. Nog belangrijker: het was niet duidelijk dat Jacksons onderneming überhaupt als een betaaldienst beschouwd zou worden. Het e-goldsysteem verstuurde geen dollars of andere nationale valuta, waarvoor zulke regels doorgaans van toepassing waren.
+Het was niet zo dat hij nonchalant was. Het werd pas een federale misdaad om zonder licentie als betaaldienst te opereren na de invoering van de *Patriot Act*, die in het leven werd geroepen als reactie op de terroristische aanslagen van 11 september 2001, enkele jaren na de lancering van e-gold. Nog belangrijker: het was niet duidelijk dat Jacksons onderneming überhaupt als een betaaldienst beschouwd zou worden. Het e-goldsysteem verstuurde geen dollars of andere nationale valuta, waarvoor zulke regels doorgaans van toepassing waren.
 
 Desondanks had Jackson geprobeerd meer duidelijkheid te krijgen over de kwestie. *Gold & Silver Reserve Inc.* had aan de relevante overheidsinstanties zelf voorgesteld dat e-gold voor reguleringsdoeleinden gecategoriseerd kon worden als valuta, waardoor het bedrijf zich ook als een valutawisseldienst kon registreren. Maar als reactie hierop had het Amerikaanse ministerie van Financiën opnieuw bevestigd dat de definities van valuta niet op e-gold van toepassingen waren.
 
-Bovendien had Jackson vrijwillig een conformiteitsonderzoek op de Bankgeheimwet gestart bij een agentschap van het ministerie van Financiën, puur om erachter te komen hoe zij dachten dat zijn bedrijf gereguleerd moest worden.[^5]
-
-Toen de invallen plaatsvonden, wachtte hij nog op een antwoord.
+Bovendien had Jackson bij een agentschap van het ministerie van Financiën vrijwillig een conformiteitsonderzoek op de Bankgeheimwet gestart, puur om erachter te komen hoe zij dachten dat zijn bedrijf gereguleerd moest worden.[^5] Toen de invallen plaatsvonden, wachtte hij nog op een antwoord.
 
 De daaropvolgende juridische procedures brachten ernstige schade toe aan de e-goldonderneming. Bankrekeningen werden bevroren en bedrijfsgelden in beslag genomen. De juridische strijd die zich tussen Jackson en de Amerikaanse regering ontvouwde, duurde twee jaar en putte zijn middelen uit: de juridische kosten zouden uiteindelijk oplopen tot in de miljoenen. En voor zover het bedrijf van Jackson nog kon functioneren, moest dat nu onder een zweem van verdenking gebeuren.
 
-Intussen had de Amerikaanse overheid beslagleggingsbevelen uitgevaardigd om achtenvijftig grote e-goldaccounts op verdenking van witwassen te sluiten. De doelwitten van de actie waren onafhankelijke e-goldbeurzen, waarvan sommige in het buitenland gevestigd waren. Door gebruik te maken van de *Racketeering Act* uit 1961 (een instrument voor handhaving van de wet, oorspronkelijk opgesteld om georganiseerde misdaad te bestrijden) werd 1.000 kilogram goud die deze accounts ondersteunde (ongeveer een kwart van de totale voorraad van e-gold) in beslag genomen en geliquideerd.
+Intussen had de Amerikaanse overheid beslagleggingsbevelen uitgevaardigd om achtenvijftig grote e-goldaccounts te sluiten op verdenking van witwassen. De doelwitten van de actie waren onafhankelijke e-goldbeurzen, waarvan sommige in het buitenland gevestigd waren. Op basis van de *Racketeering Act* uit 1961 (oorspronkelijk opgesteld om georganiseerde misdaad te bestrijden) werd 1.000 kilogram goud (ongeveer een kwart van de totale voorraad van e-gold) in beslag genomen en geliquideerd.
 
 Toen er in 2008 eindelijk een voorlopig vonnis kwam, bepaalde de rechter dat e-gold inderdaad een betaaldienst was, en verwierp daarmee Jacksons verzoek om de zaak te seponeren. Aangezien hij nu geconfronteerd werd met de mogelijkheid op een aanzienlijke gevangenisstraf en enorme boetes, besloot Jackson een schikking te treffen.[^6]
 
@@ -78,9 +76,7 @@ Maar dit hield een onbekend persoon of groep, alleen bekend als 'Satoshi Nakamot
 
 Het ontwerp van Nakamoto's digitale geldsysteem was echter zeer verschillend van e-gold. Hoewel er niet veel bekend is over de achtergrond of beweegredenen van Satoshi Nakamoto, is het duidelijk dat deze mysterieuze entiteit (de naam is vrijwel zeker een pseudoniem) zijn eigen systeem bewust zodanig ontwierp om een soortgelijk lot als e-gold te vermijden.
 
-Dit ontwerp was waarschijnlijk ook niet het resultaat van een spontane ingeving. Al jaren, zelfs ruim voor Jackson e-gold lanceerde, probeerde een kleine maar toegewijde groep technici een digitale vorm van contant geld te creëren: ze wisselden ideeën uit, ontwikkelden technieken, en ontworpen diverse voorstellen. Dit alles in de hoop dichter bij een werkende oplossing te komen. Maar het succes bleef uit.
-
-Totdat Nakamoto eindelijk de puzzelstukjes op hun plek wist te krijgen.
+Dit ontwerp was waarschijnlijk ook niet het resultaat van een spontane ingeving. Al jaren, zelfs ruim voor Jackson e-gold lanceerde, probeerde een kleine maar toegewijde groep technici een digitale vorm van contant geld te creëren: ze wisselden ideeën uit, ontwikkelden technieken, en werkten diverse voorstellen uit, in de hoop dichter bij een werkende oplossing te komen. Maar het succes bleef uit. Totdat Nakamoto de puzzelstukjes eindelijk op hun plek wist te krijgen.
 
 In dit boek gaan we terug naar de ideeën en technologieën die Satoshi Nakamoto (waarschijnlijk) hebben geïnspireerd in het ontwikkelen van dit elektronische geldsysteem.
 
@@ -90,7 +86,7 @@ Deel II vertelt het verhaal van de Cypherpunks: een verzameling cryptografen, ha
 
 Tot slot beschrijft Deel III van het boek hoe Satoshi Nakamoto zijn elektronische geldsysteem ontwierp en ontwikkelde, wat de inspiratiebron was voor dit ontwerp, en hoe het zich verhoudt tot andere vormen van (digitaal) geld.
 
-Samen vormen zij het verhaal van de monetaire hervormers, computerwetenschappers, privacyactivisten, futurologen, ondernemers en andere pioniers die, elk op hun eigen manier, bijdroegen aan de opkomst van het eerste succesvolle peer-to-peer elektronische geldsysteem ter wereld: Bitcoin.
+Samen vormen zij het verhaal van de monetaire hervormers, computerwetenschappers, privacyactivisten, futurologen, ondernemers en andere pioniers die, elk op hun eigen manier, bijdroegen aan de opkomst van het eerste succesvolle peer-to-peer, elektronische geldsysteem ter wereld: Bitcoin.
 
 [^1]: ​Lawrence H. White, *The Troubling Suppression of Competition from Alternative Monies: The Cases of the Liberty Dollar and e-gold*, Cato Journal, 34, No. 2: 281--301.
 

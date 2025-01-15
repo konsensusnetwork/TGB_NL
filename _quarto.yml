@@ -7,7 +7,7 @@ project:
 book:
   title: "Het Genesisboek"
   output-file: main
-  subtitle: "Het verhaal van de mensen en projecten die Bitcoin inspireerden"
+  subtitle: "Het verhaal van de mensen en projecten die aan de basis stonden van Bitcoin"
   author: "Aaron van Wirdum"
   translator: Theo Hague
   date: "2024-10-31"

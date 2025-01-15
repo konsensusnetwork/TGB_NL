@@ -434,22 +434,104 @@ stonden van Bitcoin}
 
 \renewcommand*\contentsname{Inhoudsopgave}
 {
-\pagestyle{empty}
 \setcounter{tocdepth}{0}
-\tableofcontents*
+\tableofcontents
 }
-\pagestyle{mystyle}
 
+\mainmatter
+\bookmarksetup{startatroot}
+
+\chapter*{Over dit boek}\label{over-dit-boek}
+\addcontentsline{toc}{chapter}{Over dit boek}
+
+\markboth{Over dit boek}{Over dit boek}
+
+Bitcoin is niet zomaar uit het niets ontstaan. Al decennia vóór de
+uitvinding van Satoshi Nakamoto probeerden groepen
+computerwetenschappers, privacyactivisten en alternatieve economen een
+digitale vorm van geld te ontwikkelen die onafhankelijk van de overheid
+kon bestaan. Het Genesisboek vertelt het verhaal van de mensen en
+projecten die de weg vrijmaakten voor 's werelds eerste succesvolle
+peer-to-peer elektronisch betaalsysteem.
 
 \bookmarksetup{startatroot}
 
-%\chapter*{Openingscitaat}\label{openingscitaat}
-%\addcontentsline{toc}{chapter}{Openingscitaat}
-\newpage
-\pagestyle{empty}
+\chapter*{Reviews}\label{reviews}
+\addcontentsline{toc}{chapter}{Reviews}
+
+\markboth{Reviews}{Reviews}
+
+\begin{quote}
+'Ik had al enige tijd het vermoeden dat Van Wirdum de beste historicus
+van Bitcoin is, en dit boek bevestigt dat.
+
+Het is een indrukwekkend werk. Het Genesisboek biedt een toegankelijk en
+essentieel overzicht van de geschiedenis, en onthult de vele verbanden
+tussen het Weense klassiek-liberalisme, de Anglo-Saksische
+Cypherpunkbeweging en de opkomst van Bitcoin.
+
+Waar andere boeken in de branche vaak de nadruk leggen op veelgeprezen
+ondernemers, heeft Van Wirdum de technische kennis om belangrijke
+figuren te belichten die de fundamenten legden waarop het Bitcoin-gebouw
+later is opgericht.
+
+In zestien informatieve hoofdstukken biedt Het Genesisboek een
+combinatie van diepgaand onderzoek en filosofische inzichten die je
+alleen verwacht van een veteraan in de sector (Van Wirdum was een van de
+eerste schrijvers die in de Bitcoin-industrie aan de slag ging), met de
+aantrekkelijke schrijfstijl die je zoekt in een gerespecteerd
+tijdschrift.
+
+Je kunt Bitcoin niet begrijpen zonder kennis te maken met zijn
+bijzondere oorsprong, en ik ben blij dat dit boek bestaat om die kennis
+voor een breed publiek toegankelijk te maken.'
+
+\textbf{--- Tuur Demeester}
+\end{quote}
+
+\begin{quote}
+`Het Genesisboek neemt je mee op een eeuwenlange reis door minder
+bekende verhalen van visionairs, wiens inzichten en innovaties de basis
+vormden voor de revolutionaire creatie van Bitcoin. Van economen die de
+gevestigde orde uitdaagden tot Cypherpunks die nieuwe wegen op het
+gebied van privacy verkenden, weeft Aaron van Wirdum zorgvuldig een
+verhaal over technologische overwinningen, tegenslagen en bijzondere
+doorbraken. De anekdotes over mensen die buiten de gebaande paden
+durfden te dromen en grenzen verlegden om de financiële wereld te
+veranderen, zullen je zeker fascineren.'
+
+\textbf{--- Jameson Lopp}
+\end{quote}
+
+\begin{quote}
+`Waarom verschilt Bitcoin zo van eerdere versies? Dit boek werpt licht
+op de \emph{problemen} die slimme en hardwerkende mensen in de tijd vóór
+Bitcoin bezig hielden. Dit is de juiste manier om het verhaal van een
+technologie te vertellen. Alle belangrijke kwesties worden behandeld en
+zijn in een logische volgorde gepresenteerd. Dit is het beste boek dat
+ooit over Bitcoin geschreven is.'
+
+\textbf{--- Paul Sztorc}
+\end{quote}
+
+\begin{quote}
+`Tot nu toe waren er veel boeken over Bitcoin, maar geen enkel boek
+pakte de veelzijdige culturele achtergrond zo compleet, gestructureerd
+en elegant aan. Aaron van Wirdum, bekend om zijn talent om technische
+materie helder naar een breder publiek over te brengen, heeft dat nu
+gedaan. Dit is een \emph{must-read} als je wilt begrijpen waar Bitcoin
+vandaan komt.'
+
+\textbf{--- Giacomo Zucco}
+\end{quote}
+
+\bookmarksetup{startatroot}
+
+\chapter*{Openingscitaat}\label{openingscitaat}
+\addcontentsline{toc}{chapter}{Openingscitaat}
+
 \markboth{Openingscitaat}{Openingscitaat}
 
-\vspace*{\fill}
 \begin{quote}
 Ik geloof niet dat we ooit weer een goede munteenheid zullen hebben
 voordat we het uit de handen van de overheid nemen. Aangezien we ze niet
@@ -457,9 +539,6 @@ gewelddadig uit de handen van de overheid kunnen nemen, kunnen we alleen
 maar op een sluwe, indirecte manier, iets introduceren wat ze niet
 kunnen stoppen. - Friedrich Hayek (1984)
 \end{quote}
-\vspace*{\fill}
-\newpage
-\pagestyle{mystyle}
 
 \bookmarksetup{startatroot}
 
@@ -505,8 +584,6 @@ het runnen van een niet-gelicentieerde betaaldienst.\footnote{\hspace{0pt}Lawren
   Alternative Monies: The Cases of the Liberty Dollar and e-gold}, Cato
   Journal, 34, No.~2: 281--301.}
 
-\vspace{-1em}
-
 \section*{Digitaal goud}\label{digitaal-goud}
 \addcontentsline{toc}{section}{Digitaal goud}
 
@@ -530,8 +607,9 @@ de economie. Hij ontdekte dat moderne valuta -- dollars, ponden, yen --
 niet langer gedekt waren, waardoor ze in feite, uit het niets, met een
 druk op de knop gecreëerd konden worden. Toen hij zich verder in het
 onderwerp verdiepte, raakte hij ervan overtuigd dat dit de economie op
-zeer schadelijke manieren beïnvloedde. Jackson was dus van plan om een
-alternatief aan te bieden.
+zeer schadelijke manieren beïnvloedde.
+
+Jackson was dus van plan om een alternatief aan te bieden.
 
 Tijdens zijn onderzoek naar valuta, ontwikkelde Jackson een hernieuwde
 waardering voor het \emph{klassieke geld} -- goud. Hij ontdekte dat
@@ -544,8 +622,9 @@ moest toegeven dat het kostbare metaal voor dagelijkse transacties niet
 echt praktisch was. Nu het nieuwe millennium naderde, besefte Jackson
 dat mensen niet gingen terugkeren naar de tijd waarin ze betaalden met
 gouden munten. Sterker nog, zelfs koperen munten en papiergeld zouden
-waarschijnlijk binnenkort ouderwets lijken. Nee, de toekomst van geld
-moest digitaal zijn.
+waarschijnlijk binnenkort ouderwets lijken.
+
+Nee, de toekomst van geld moest digitaal zijn.
 
 Met dat toekomstbeeld zag Jackson (heel letterlijk) een gouden kans. Hij
 bundelde de krachten met advocaat Barry Downey en richtte in 1996, onder
@@ -587,7 +666,9 @@ betalingen accepteren van iemand in een derdewereldland die misschien
 geen toegang heeft tot een creditcard of bankrekening.'\footnote{Huis
   van Afgevaardigden, \emph{Deleting Commercial Pornography Sites From
   the Internet: The U.S. Financial Industry's Efforts to Combat This
-  Problem}, 21 september
+  Problem}, Hearing Before the Subcommittee on Oversight and
+  Investigations of the Committee on Energy and Commerce, One Hundred
+  Ninth Congress, Second Session, 21 september
   2006,~\href{https://www.govinfo.gov/content/pkg/CHRG-109hhrg31467/html/CHRG-109hhrg31467.htm}{online}}
 \end{quote}
 
@@ -615,7 +696,6 @@ oplossen.'\footnote{\hspace{0pt}White, \emph{Troubling Suppression},
   289.}
 \end{quote}
 
-\vspace{-3em}
 \section*{Juridische kwesties}\label{juridische-kwesties}
 \addcontentsline{toc}{section}{Juridische kwesties}
 
@@ -669,7 +749,7 @@ in beslag genomen. De juridische strijd die zich tussen Jackson en de
 Amerikaanse regering ontvouwde, duurde twee jaar en putte zijn middelen
 uit: de juridische kosten zouden uiteindelijk oplopen tot in de
 miljoenen. En voor zover het bedrijf van Jackson nog kon functioneren,
-gebeurde dat nu onder een zweem van verdenking.
+moest dat nu onder een zweem van verdenking gebeuren.
 
 Intussen had de Amerikaanse overheid beslagleggingsbevelen uitgevaardigd
 om achtenvijftig grote e-goldaccounts te sluiten op verdenking van
@@ -711,7 +791,9 @@ Jackson niet langer in aanmerking voor zo'n licentie, iets wat hij niet
 onmiddellijk had beseft toen hij met de schikking instemde. Net toen hij
 dacht dat hij eindelijk de juridische strijd voor altijd kon achterlaten
 en zijn bedrijven op welke manier dan ook kon proberen te redden,
-ontdekte Jackson dat dit niet onder zijn leiding kon gebeuren. Uiteindelijk heeft e-gold nooit opnieuw de deuren geopend.
+ontdekte Jackson dat dit niet onder zijn leiding kon gebeuren.
+
+Uiteindelijk heeft e-gold nooit opnieuw de deuren geopend.
 
 Jackson had e-gold opgericht om het materiële welzijn van mensen te
 verbeteren door een alternatief te bieden voor conventionele, ongedekte
@@ -719,8 +801,6 @@ valuta zoals de Amerikaanse dollar. Opgesloten in zijn eigen huis, met
 meer dan een miljoen dollar aan juridische kosten op zijn naam, en zijn
 bedrijf noodgedwongen gesloten, had hij de pijnlijke les geleerd dat het
 aanbieden van een dergelijk alternatief niet zonder slag of stoot ging.
-
-\vspace{-2em}
 
 \section*{Satoshi Nakamoto}\label{satoshi-nakamoto}
 \addcontentsline{toc}{section}{Satoshi Nakamoto}
@@ -1177,7 +1257,9 @@ in het vakgebied economie, dat van groot belang werd voor de
 Oostenrijkse School: \emph{tijdsvoorkeur}. Von Böhm-Bawerk stelde dat
 mensen doorgaans liever vroeger dan later goederen en diensten willen
 ontvangen. De mate van deze voorkeur verschilt echter van persoon tot
-persoon. Iedereen heeft zijn eigen subjectieve tijdsvoorkeur. Deze tijdsvoorkeuren, bepleitte von Böhm-Bawerk, manifesteren zich op de
+persoon. Iedereen heeft zijn eigen subjectieve tijdsvoorkeur.
+
+Deze tijdsvoorkeuren, bepleitte von Böhm-Bawerk, manifesteren zich op de
 markt bijvoorbeeld in de vorm van rentetarieven.
 
 Stel je voor dat zowel Marie als Joris graag een nieuwe auto willen
@@ -1470,8 +1552,6 @@ de Grote Depressie, was de voorgestelde oplossing van Hayek echter niet
 erg geliefd. De meeste mensen waren van mening dat er \emph{iets moest
 gedaan worden}.
 
-\vspace{-1em}
-
 \section{De rivaliteit}\label{de-rivaliteit}
 
 En er kon iets gedaan worden, zo stelde een academicus uit Cambridge
@@ -1544,7 +1624,9 @@ ontvangen', schreef Hayek. `Kan onder deze omstandigheden een rationeel
 anti-cyclisch beleid ontwikkeld worden als het in handen van politieke
 organen wordt gegeven?'\footnote{\hspace{0pt}Friedrich A. Hayek,
   \emph{The Gold Problem}, in \emph{The Collected Works of F.A. Hayek,
-  Good Money: part I}, ed.~Stephen Kresge, 184.} Voor Hayek was het antwoord een overduidelijke \emph{nee}.
+  Good Money: part I}, ed.~Stephen Kresge, 184.}
+
+Voor Hayek was het antwoord een overduidelijke \emph{nee}.
 
 Dit leidde tot wat vaak beschouwd wordt als een van de grootste
 intellectuele confrontaties van de twintigste eeuw. Gedurende de jaren
@@ -1566,7 +1648,7 @@ het beheren van de economie, hield Hayek vol dat de vrije markt het
 beste aan zichzelf kon worden overgelaten.
 
 Als Hayek het boegbeeld was van spontane orde van onderaf, dan had hij
-in Keynes en zijn interventiebeleid van bovenaf, zijn 
+in Keynes en zijn interventiebeleid van bovenaf, zijn hedendaagse,
 intellectuele rivaal gevonden.
 
 \chapter{Vrije en open source
@@ -2236,7 +2318,9 @@ tegenstrijdigheid onopgelost: wanneer begonnen mensen \emph{voor het
 eerst} geld te accepteren en, vooral, waarom? Als we ver genoeg terug in
 de tijd gaan -- regressie -- moet er ooit iemand de eerste zijn geweest
 die geld begon te accepteren, zonder enige vorige ervaring om op te
-vertrouwen bij het inschatten van toekomstige koopkrachtverwachtingen. Mises loste dit vraagstuk op door de theorie van Carl Menger over te
+vertrouwen bij het inschatten van toekomstige koopkrachtverwachtingen.
+
+Mises loste dit vraagstuk op door de theorie van Carl Menger over te
 nemen, die stelde dat geld oorspronkelijk is ontstaan uit ruilhandel.
 
 \section{Van ruilhandel naar geld}\label{van-ruilhandel-naar-geld}
@@ -3334,7 +3418,9 @@ beperkte Merkle zijn zoektocht naar een oplossing tot zijn eigen
 creatieve geest. En uiteindelijk bedacht hij een plan dat, althans tot
 op zekere hoogte, het probleem zou kunnen oplossen.
 
-Zo zou het werken: Eerst maakt Alice een groot aantal cryptografische puzzels, misschien
+Zo zou het werken:
+
+Eerst maakt Alice een groot aantal cryptografische puzzels, misschien
 wel miljoenen of zelfs meer. De oplossing voor elke puzzel bestaat uit
 een uniek getal en een even unieke geheime sleutel. Alice zelf kent de
 oplossing voor elke puzzel al: ze weet welke getallen bij welke geheime
@@ -3417,13 +3503,16 @@ student uit Berkeley bijstond in het herschrijven van zijn paper tot een
 versie die uiteindelijk geaccepteerd werd door het ACM-blad. En door te
 bewijzen dat hij een creatieve en scherpzinnige denker was, werd Merkle
 bovendien ook betrokken bij verdere discussies rondom
-publieke-sleutelcryptografie. Toen waren er drie indviduen bezig met het probleem.
+publieke-sleutelcryptografie.
 
-\vspace{-1em}
+Toen waren er drie indviduen bezig met het probleem.
+
 \section{De doorbraak}\label{de-doorbraak}
 
 Uiteindelijk was het Hellman die de puzzelstukjes op hun plek liet
-vallen. Hoewel zijn oplossing niet aan alle vereisten voldeed waar hij en Diffie
+vallen.
+
+Hoewel zijn oplossing niet aan alle vereisten voldeed waar hij en Diffie
 op mikten (want er was geen digitale authenticatie), bedacht Hellman wel
 een protocol dat twee partijen privé liet communiceren, zonder de
 noodzaak om persoonlijk op voorhand een coderingssleutel te delen.
@@ -3500,8 +3589,6 @@ hadden veroorzaakt. Een nieuwe generatie cryptografen stond op het punt
 om een waterval aan innovatie in de wereld van de cryptografie te
 introduceren.
 
-\vspace{-1em}
-
 \section{RSA}\label{rsa}
 
 Onder de eersten die geïnspireerd raakten door het paper van Diffie en
@@ -3511,7 +3598,9 @@ lossen. Ron Rivest, een assistent-professor aan de universiteit, Adi
 Shamir, een gastprofessor, en Leonard Adleman, een computerspecialist
 aan hetzelfde instituut, begonnen samen aan het ontwerp van een
 eenrichtingsfunctie die specifiek voor publieke-sleutelcryptografie
-moest dienen. Enkele maanden later, in 1977, was het ze gelukt.
+moest dienen.
+
+Enkele maanden later, in 1977, was het ze gelukt.
 
 RSA, zoals hun algoritme werd genoemd (elke letter vertegenwoordigt een
 van de uitvinders), benutte eeuwenoude wiskundige inzichten in
@@ -3564,13 +3653,17 @@ protocol werden gebruikt, zou het veel moeilijker maken om later te
 ontdekken welke priemgetallen werden gebruikt, en daarmee ook veel
 moeilijker om de encryptie te breken. Met publieke sleutels die zo klein
 zijn dat zelfs informele computergebruikers ze gemakkelijk konden delen,
-was beveiliging voor miljoenen jaren wiskundig gegarandeerd. Met RSA was Diffies visie voor publieke-sleutelcryptografie echt
+was beveiliging voor miljoenen jaren wiskundig gegarandeerd.
+
+Met RSA was Diffies visie voor publieke-sleutelcryptografie echt
 werkelijkheid geworden.
 
 \section{David Chaum}\label{david-chaum}
 
 Een andere jonge cryptograaf die geïnspireerd werd door de doorbraak van
-Diffie en Hellman was David Chaum. Chaum groeide op in de buitenwijken van Los Angeles in de jaren 60 en
+Diffie en Hellman was David Chaum.
+
+Chaum groeide op in de buitenwijken van Los Angeles in de jaren 60 en
 begin jaren 70, waar hij al op jonge leeftijd een natuurlijke interesse
 voor beveiligingstechnologie ontwikkelde. Aanvankelijk ging zijn
 belangstelling uit naar hardware, zoals deursloten, inbraakalarmen en
@@ -3703,7 +3796,9 @@ publieke-sleutelcryptografie.\footnote{David Chaum, \emph{Untraceable
   Electronic Mail, Return Addresses, and Digital Pseudonyms},
   Communications of the ACM 24, 2: 84--90.}
 
-Dit is hoe het werkt. Als Alice een bericht aan Bob wil sturen, moet ze eerst zijn publieke
+Dit is hoe het werkt.
+
+Als Alice een bericht aan Bob wil sturen, moet ze eerst zijn publieke
 sleutel nemen en het bericht daarmee versleutelen. Op deze manier kan
 alleen Bob het bericht ontcijferen.
 
@@ -3757,7 +3852,9 @@ verblijven, kunnen zelfs handhavingsautoriteiten uit een bepaald land
 het moeilijk hebben om de oorsprong van een bericht na te gaan).
 
 Zo had Chaum het cruciale conceptuele fundament gelegd voor wat later
-bekend zou worden als \emph{remailers}. En zijn bijdragen aan de cryptografie zouden daar niet ophouden\ldots{}
+bekend zou worden als \emph{remailers}.
+
+En zijn bijdragen aan de cryptografie zouden daar niet ophouden\ldots{}
 
 \chapter{Denationalisatie van geld}\label{denationalisatie-van-geld}
 
@@ -5515,7 +5612,9 @@ De sleutel tot hun succes, was de verdeling van vertrouwen.
 Friedrich Hayek wilde geld denationaliseren en David Chaum wilde het
 anoniem maken. Hoewel zowel de econoom als de cryptograaf een
 revolutionair idee hadden, hadden ze niet helemaal hetzelfde doel voor
-ogen. Ze inspireerden echter wel dezelfde man.
+ogen.
+
+Ze inspireerden echter wel dezelfde man.
 
 Max O'Connor is opgegroeid in het bescheiden Britse stadje Bristol
 tijdens de jaren '60 en '70. Al op jonge leeftijd werd zijn fantasie
@@ -5535,7 +5634,7 @@ onderzoeken, richtte hij de club voor Psychische Ontwikkeling en
 Onderzoek op bij zijn school, waar hij en zijn mede-junior-occultisten
 het bovennatuurlijke bestudeerden.
 
-Maar O'Connor, die toen bijzonder geïnteresseerd raakte in
+Maar O'Connor, die rond deze tijd bijzonder geïnteresseerd raakte in
 levensverlenging, vond niet precies wat hij zocht. Hij kwam tot het
 besef dat er consequent overtuigend bewijs ontbrak dat enige van de
 mystieke praktijken daadwerkelijk werkten.
@@ -9371,7 +9470,8 @@ vertrouwen op een derde partij.
 
 \section{Het beheersen van inflatie}\label{het-beheersen-van-inflatie}
 
-Het laatste probleem dat Szabo moest oplossen was inflatie. 
+Het laatste probleem dat Szabo moest oplossen was inflatie.
+
 Naast de onmogelijkheid om eigendom van het proof-of-work over te
 dragen, had het \emph{hashcash}-systeem van Adam Back nog een groot
 probleem. Het genereren van geldige hashes zou na verloop van tijd
@@ -9511,10 +9611,12 @@ midden van de jaren '90 betrok Dai zichzelf bij discussies over allerlei
 onderwerpen, variërend van de economie van digitale reputatiesystemen
 tot de toepassing van speltheorie op het gebied van cryptografie,
 voorstellen om traceerbare betalingssystemen om te zetten in anonieme,
-en nog veel meer. Gedurende die tijd nam Dai de filosofie en missie van de Cypherpunks als
+en nog veel meer.
+
+Gedurende die tijd nam Dai de filosofie en missie van de Cypherpunks als
 zijn eigen aan.
 
-`Er bestond nooit een regering die niet vroeg of laat probeerde de
+`Er heeft nooit een regering bestaan die niet vroeg of laat probeerde de
 vrijheid van haar onderdanen te verminderen en meer controle over hen te
 verkrijgen, en waarschijnlijk zal er nooit een dergelijke regering zijn'
 vat Dai op een bepaald moment samen wat hij beschouwt als de bindende
@@ -10387,7 +10489,9 @@ vernieuwingen zoals nanotechnologie, kunstmatige intelligentie en
 \emph{mind uploading} maakte hem enthousiast. En als een overtuigd
 atheïst die niet in het hiernamaals geloofde, was Finney al erg
 geïnteresseerd in het potentieel van cryonics sinds hij over het concept
-las tijdens zijn eerste jaar op de universiteit. Zoals Fran het later zei: `Hij geloofde niet in God. Hij geloofde in de
+las tijdens zijn eerste jaar op de universiteit.
+
+Zoals Fran het later zei: `Hij geloofde niet in God. Hij geloofde in de
 toekomst.'\footnote{Nicole Weinstock, \emph{Member Profile: Hal Finney},
   \emph{Cryonics 40}, issue 2: 9.}
 
@@ -10813,10 +10917,10 @@ iemand om ze in eerste instantie te accepteren als betaling\ldots{}
 gebruiken', concludeerde Maxwell ook, die jaren later terugkeek op het
 RPOW-project, `wat het moeilijk maakte om de aandacht erop gericht te
 houden.'\footnote{Gregory Maxwell, IRC message to author, 13 augustus
-  2020.} Net als eCash en hashcash voorheen, leed ook RPOW aan een
-kip-en-ei-probleem.
+  2020.}
 
-\vspace{-1em}
+Net als eCash en hashcash voorheen, leed ook RPOW aan een
+kip-en-ei-probleem.
 
 \section{E-gold}\label{e-gold}
 
@@ -10850,7 +10954,9 @@ duidelijk: \emph{vertrouwde derde partijen zijn veiligheidslekken}.
 
 Na meer dan twintig jaar van niet-gerealiseerde voorstellen, verlaten
 projecten en mislukte start-ups, bestond er nog steeds geen elektronisch
-geld. Intussen werd de noodzaak om een alternatief voor fiatgeld te vinden
+geld.
+
+Intussen werd de noodzaak om een alternatief voor fiatgeld te vinden
 steeds groter\ldots{}
 
 \part{Bitcoin}
@@ -12698,7 +12804,9 @@ lange termijn zou Nakamotos invloed een risico kunnen vormen: als
 projectleider kon hij het doelwit worden van toezichthouders, afpersers
 of verschillende vormen van corruptie. Of hij zou zijn verstand kunnen
 verliezen en Bitcoin in gevaar brengen door enkel zijn eigen
-gemoedstoestand. Zonder Nakamoto had niemand een vergelijkbaar natuurlijk gezag over het
+gemoedstoestand.
+
+Zonder Nakamoto had niemand een vergelijkbaar natuurlijk gezag over het
 project. Aan het eind van 2010 werd Bitcoin echt gedecentraliseerd.
 
 \section{Het Bitcoin-project}\label{het-bitcoin-project}
@@ -12789,7 +12897,7 @@ problemen, vertegenwoordigt Bitcoin een krachtig voorbeeld van spontane
 orde.
 
 \bookmarksetup{startatroot}
-\addtocontents{toc}{\protect\vspace{10pt}} % adjust the value as needed
+
 \chapter*{Erkenningen}\label{erkenningen}
 \addcontentsline{toc}{chapter}{Erkenningen}
 
@@ -12880,10 +12988,6 @@ hoofdredacteur van de gedrukte editie.
 
 \chapter*{Bibliografie}\label{bibliografie}
 \addcontentsline{toc}{chapter}{Bibliografie}
-
-% Set up for bibliography formatting
-\setlength{\parindent}{0pt} % No indentation
-\setlength{\parskip}{0.8em}   % Space between entries
 
 \markboth{Bibliografie}{Bibliografie}
 
@@ -14054,94 +14158,8 @@ Cypherpunks mailing list archieven, 1992--2000. Beschikbaar op
 Cryptography mailing list archieven, October 2008--January 2009.
 Beschikbaar op~\url{https://www.metzdowd.com/pipermail/cryptography/}
 
-}
 
-\bookmarksetup{startatroot}
+\backmatter
 
-\chapter*{Over dit boek}\label{over-dit-boek}
-%\addcontentsline{toc}{chapter}{Over dit boek}
-
-\markboth{Over dit boek}{Over dit boek}
-
-Bitcoin is niet zomaar uit het niets ontstaan. Al decennia vóór de
-uitvinding van Satoshi Nakamoto probeerden groepen
-computerwetenschappers, privacyactivisten en alternatieve economen een
-digitale vorm van geld te ontwikkelen die onafhankelijk van de overheid
-kon bestaan. Het Genesisboek vertelt het verhaal van de mensen en
-projecten die de weg vrijmaakten voor 's werelds eerste succesvolle
-peer-to-peer elektronisch betaalsysteem.
-
-\bookmarksetup{startatroot}
-
-\chapter*{Reviews}\label{reviews}
-%\addcontentsline{toc}{chapter}{Reviews}
-
-\markboth{Reviews}{Reviews}
-
-\begin{quote}
-'Ik had al enige tijd het vermoeden dat Van Wirdum de beste historicus
-van Bitcoin is, en dit boek bevestigt dat.
-
-Het is een indrukwekkend werk. Het Genesisboek biedt een toegankelijk en
-essentieel overzicht van de geschiedenis, en onthult de vele verbanden
-tussen het Weense klassiek-liberalisme, de Anglo-Saksische
-Cypherpunkbeweging en de opkomst van Bitcoin.
-
-Waar andere boeken in de branche vaak de nadruk leggen op veelgeprezen
-ondernemers, heeft Van Wirdum de technische kennis om belangrijke
-figuren te belichten die de fundamenten legden waarop het Bitcoin-gebouw
-later is opgericht.
-
-In zestien informatieve hoofdstukken biedt Het Genesisboek een
-combinatie van diepgaand onderzoek en filosofische inzichten die je
-alleen verwacht van een veteraan in de sector (Van Wirdum was een van de
-eerste schrijvers die in de Bitcoin-industrie aan de slag ging), met de
-aantrekkelijke schrijfstijl die je zoekt in een gerespecteerd
-tijdschrift.
-
-Je kunt Bitcoin niet begrijpen zonder kennis te maken met zijn
-bijzondere oorsprong, en ik ben blij dat dit boek bestaat om die kennis
-voor een breed publiek toegankelijk te maken.'
-
-\textbf{--- Tuur Demeester}
-\end{quote}
-
-\newpage
-
-\begin{quote}
-`Het Genesisboek neemt je mee op een eeuwenlange reis door minder
-bekende verhalen van visionairs, wiens inzichten en innovaties de basis
-vormden voor de revolutionaire creatie van Bitcoin. Van economen die de
-gevestigde orde uitdaagden tot Cypherpunks die nieuwe wegen op het
-gebied van privacy verkenden, weeft Aaron van Wirdum zorgvuldig een
-verhaal over technologische overwinningen, tegenslagen en bijzondere
-doorbraken. De anekdotes over mensen die buiten de gebaande paden
-durfden te dromen en grenzen verlegden om de financiële wereld te
-veranderen, zullen je zeker fascineren.'
-
-\textbf{--- Jameson Lopp}
-\end{quote}
-
-\begin{quote}
-`Waarom verschilt Bitcoin zo van eerdere versies? Dit boek werpt licht
-op de \emph{problemen} die slimme en hardwerkende mensen in de tijd vóór
-Bitcoin bezig hielden. Dit is de juiste manier om het verhaal van een
-technologie te vertellen. Alle belangrijke kwesties worden behandeld en
-zijn in een logische volgorde gepresenteerd. Dit is het beste boek dat
-ooit over Bitcoin geschreven is.'
-
-\textbf{--- Paul Sztorc}
-\end{quote}
-
-\begin{quote}
-`Tot nu toe waren er veel boeken over Bitcoin, maar geen enkel boek
-pakte de veelzijdige culturele achtergrond zo compleet, gestructureerd
-en elegant aan. Aaron van Wirdum, bekend om zijn talent om technische
-materie helder naar een breder publiek over te brengen, heeft dat nu
-gedaan. Dit is een \emph{must-read} als je wilt begrijpen waar Bitcoin
-vandaan komt.'
-
-\textbf{--- Giacomo Zucco}
-\end{quote}
 
 \end{document}

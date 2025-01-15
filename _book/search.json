@@ -1652,11 +1652,11 @@
     ]
   },
   {
-    "objectID": "hoofdstuk/CH16.html#de-codebasis",
-    "href": "hoofdstuk/CH16.html#de-codebasis",
+    "objectID": "hoofdstuk/CH16.html#de-broncode",
+    "href": "hoofdstuk/CH16.html#de-broncode",
     "title": "16  De release",
     "section": "",
-    "text": "‘Hierbij kondig ik de eerste release van Bitcoin aan, een nieuw elektronisch geldsysteem dat een peer-to-peer netwerk gebruikt om dubbele uitgaven te voorkomen. Het is volledig gedecentraliseerd zonder server of centrale autoriteit.’\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Times 03/Jan/2009 Chancellor on brink of second bailout for banks",
+    "text": "‘Hierbij kondig ik de eerste release van Bitcoin aan, een nieuw elektronisch geldsysteem dat een peer-to-peer netwerk gebruikt om dubbele uitgaven te voorkomen. Het is volledig gedecentraliseerd zonder server of centrale autoriteit.’\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Times 03/Jan/2009 Chancellor on brink of second bailout for banks",
     "crumbs": [
       "Bitcoin",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>De release</span>"
@@ -1773,16 +1773,5 @@
     "title": "Het Genesisboek",
     "section": "",
     "text": "This work is licensed under CC BY-NC-ND 4.0"
-  },
-  {
-    "objectID": "hoofdstuk/CH16.html#de-broncode",
-    "href": "hoofdstuk/CH16.html#de-broncode",
-    "title": "16  De release",
-    "section": "",
-    "text": "‘Hierbij kondig ik de eerste release van Bitcoin aan, een nieuw elektronisch geldsysteem dat een peer-to-peer netwerk gebruikt om dubbele uitgaven te voorkomen. Het is volledig gedecentraliseerd zonder server of centrale autoriteit.’\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Times 03/Jan/2009 Chancellor on brink of second bailout for banks",
-    "crumbs": [
-      "Bitcoin",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>De release</span>"
-    ]
   }
 ]
